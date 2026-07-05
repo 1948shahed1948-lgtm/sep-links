@@ -4,60 +4,6 @@
   "count": 23,
   "questions": [
     {
-      "question_ar": "ما هو الهدف الرئيسي من قراءة النصوص؟",
-      "explanation_en": "The main goal is to understand the information conveyed in the texts.",
-      "options_en": [
-        "Analyze data",
-        "Understand information",
-        "Take notes",
-        "Improve writing"
-      ],
-      "topic_index": 0,
-      "grade": 9,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "What is the main goal of reading texts?",
-      "explanation_ar": "الهدف الرئيسي هو فهم المعلومات التي تحملها النصوص.",
-      "options_ar": [
-        "تحليل البيانات",
-        "فهم المعلومات",
-        "تدوين الملاحظات",
-        "تحسين الكتابة"
-      ],
-      "id": "6a4989b7beedb57fe98eb3d1",
-      "created_date": "2026-07-04T22:31:19.482000",
-      "updated_date": "2026-07-04T22:31:19.482000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أي من العوامل التالية يساعد على تحسين قدرة الفهم القرائي؟",
-      "explanation_en": "Diversifying reading types helps develop reading comprehension skills.",
-      "options_en": [
-        "Choosing only difficult texts",
-        "Diversifying reading types",
-        "Avoiding exercises and practical applications",
-        "Reading quickly without understanding"
-      ],
-      "topic_index": 0,
-      "grade": 9,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "Which of the following factors helps improve reading comprehension skills?",
-      "explanation_ar": "تنويع أنواع القراءة يساعد على تنمية مهارات الفهم القرائي.",
-      "options_ar": [
-        "اختيار النصوص الصعبة فقط",
-        "تنويع أنواع القراءة",
-        "تجنب التمارين والتطبيقات العملية",
-        "القراءة بسرعة دون فهم"
-      ],
-      "id": "6a4989b7beedb57fe98eb3d2",
-      "created_date": "2026-07-04T22:31:19.482000",
-      "updated_date": "2026-07-04T22:31:19.482000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
       "question_ar": "ما هي الطريقة الأفضل لزيادة الاستيعاب عند قراءة نص طويل؟",
       "explanation_en": "Taking notes of key ideas enhances understanding and makes it easier to refer back to the text.",
       "options_en": [
@@ -79,6 +25,168 @@
         "عدم المراجعة"
       ],
       "id": "6a4989b7beedb57fe98eb3d3",
+      "created_date": "2026-07-04T22:31:19.482000",
+      "updated_date": "2026-07-04T22:31:19.482000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أي من النصوص التالية هو نص وصفي؟",
+      "explanation_en": "A descriptive text focuses on providing vivid details about something, such as a description of a city.",
+      "options_en": [
+        "Adventure story",
+        "Scientific article",
+        "Description of a city",
+        "Testimony of experience"
+      ],
+      "topic_index": 0,
+      "grade": 9,
+      "correct_answer": "2",
+      "section": "verbal",
+      "question_en": "Which of the following is a descriptive text?",
+      "explanation_ar": "النص الوصفي يركز على تقديم تفاصيل حيوية عن شيء ما، مثل وصف المدينة.",
+      "options_ar": [
+        "قصة مغامرة",
+        "مقال علمي",
+        "وصف مدينة",
+        "شهادة تجربة"
+      ],
+      "id": "6a4989b7beedb57fe98eb3e0",
+      "created_date": "2026-07-04T22:31:19.482000",
+      "updated_date": "2026-07-04T22:31:19.482000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "كيف يمكن تمييز المعلومات المهمة في نص؟",
+      "explanation_en": "Headings help identify important information and highlight the key elements of the text.",
+      "options_en": [
+        "Through headings",
+        "Through random details",
+        "Through small letters",
+        "Through colors used"
+      ],
+      "topic_index": 0,
+      "grade": 9,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "How can important information be distinguished in a text?",
+      "explanation_ar": "العناوين تساعد في تحديد المعلومات المهمة وإبراز عناصر النص الأساسية.",
+      "options_ar": [
+        "من خلال العناوين",
+        "من خلال تفاصيل عشوائية",
+        "من خلال الحروف الصغيرة",
+        "من خلال الألوان المستخدمة"
+      ],
+      "id": "6a4989b7beedb57fe98eb3e4",
+      "created_date": "2026-07-04T22:31:19.482000",
+      "updated_date": "2026-07-04T22:31:19.482000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما الذي يجعل القصة مشوقة؟",
+      "explanation_en": "Sequentially organizing events makes the story more exciting and attractive.",
+      "options_en": [
+        "Loss of characters",
+        "Putting mysterious reasons",
+        "Sequence of events",
+        "Gentle phrases"
+      ],
+      "topic_index": 0,
+      "grade": 9,
+      "correct_answer": "2",
+      "section": "verbal",
+      "question_en": "What makes a story exciting?",
+      "explanation_ar": "تسلسل الأحداث بشكل منظم يجعل القصة أكثر تشويقًا وجاذبية.",
+      "options_ar": [
+        "فقدان الشخصيات",
+        "وضع الأسباب الغامضة",
+        "تسلسل الأحداث",
+        "عبارات رقيقة"
+      ],
+      "id": "6a4989b7beedb57fe98eb3e6",
+      "created_date": "2026-07-04T22:31:19.482000",
+      "updated_date": "2026-07-04T22:31:19.482000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما الذي يحدد فعالية القراءة؟",
+      "explanation_en": "Understanding meanings defines the effectiveness of reading more than the number of pages or speed.",
+      "options_en": [
+        "Number of pages read",
+        "Duration of reading",
+        "Understanding meanings",
+        "Reading speed"
+      ],
+      "topic_index": 0,
+      "grade": 9,
+      "correct_answer": "2",
+      "section": "verbal",
+      "question_en": "What defines the effectiveness of reading?",
+      "explanation_ar": "فهم المعاني هو ما يحدد فعالية القراءة أكثر من عدد الصفحات أو السرعة.",
+      "options_ar": [
+        "عدد الصفحات المقروءة",
+        "مدة القراءة",
+        "فهم المعاني",
+        "سرعة القراءة"
+      ],
+      "id": "6a4989b7beedb57fe98eb3d8",
+      "created_date": "2026-07-04T22:31:19.482000",
+      "updated_date": "2026-07-04T22:31:19.482000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "كيف يمكن تلخيص نص بشكل فعال؟",
+      "explanation_en": "Summarizing main ideas contributes to providing an effective summary.",
+      "options_en": [
+        "Repeating words",
+        "Summarizing main ideas",
+        "Writing unimportant details",
+        "Adding personal opinions"
+      ],
+      "topic_index": 0,
+      "grade": 9,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "How can a text be effectively summarized?",
+      "explanation_ar": "اختصار الأفكار الرئيسية يساهم في تقديم ملخص فعال.",
+      "options_ar": [
+        "تكرار الكلمات",
+        "اختصار الأفكار الرئيسية",
+        "كتابة تفاصيل غير مهمة",
+        "إضافة آراء الشخصية"
+      ],
+      "id": "6a4989b7beedb57fe98eb3da",
+      "created_date": "2026-07-04T22:31:19.482000",
+      "updated_date": "2026-07-04T22:31:19.482000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هي عواقب القراءة دون فهم؟",
+      "explanation_en": "Reading without understanding leads to losing meanings and knowledge from the text.",
+      "options_en": [
+        "Improving skills",
+        "Achieving goals",
+        "Losing meanings",
+        "Developing understanding"
+      ],
+      "topic_index": 0,
+      "grade": 9,
+      "correct_answer": "2",
+      "section": "verbal",
+      "question_en": "What are the consequences of reading without understanding?",
+      "explanation_ar": "القراءة دون فهم تؤدي إلى فقدان المعاني والمعرفة من النص.",
+      "options_ar": [
+        "تحسين المهارات",
+        "تحقيق الأهداف",
+        "فقدان المعاني",
+        "تطوير الفهم"
+      ],
+      "id": "6a4989b7beedb57fe98eb3de",
       "created_date": "2026-07-04T22:31:19.482000",
       "updated_date": "2026-07-04T22:31:19.482000",
       "created_by_id": "6a459ddfe6fb4264c098136e",
@@ -112,27 +220,108 @@
       "is_sample": false
     },
     {
-      "question_ar": "ماذا يعني مصطلح \"الفكرة الرئيسية\"؟",
-      "explanation_en": "The main idea is the core concept on which the entire text is based.",
+      "question_ar": "ما هو النص التفسيري؟",
+      "explanation_en": "An explanatory text aims to provide clear information about a specific subject.",
       "options_en": [
-        "Secondary information",
-        "Unimportant idea",
-        "The core concept around which the text revolves",
-        "Specific details"
+        "A text that tells a story",
+        "A text that discusses a specific topic",
+        "A text that describes a feeling",
+        "A text that provides information"
       ],
       "topic_index": 0,
       "grade": 9,
-      "correct_answer": "2",
+      "correct_answer": "3",
       "section": "verbal",
-      "question_en": "What does the term \"main idea\" mean?",
-      "explanation_ar": "الفكرة الرئيسية هي الجوهر الذي يستند إليه النص بأكمله.",
+      "question_en": "What is an explanatory text?",
+      "explanation_ar": "النص التفسيري هو نص يهدف إلى تقديم معلومات واضحة حول موضوع معين.",
       "options_ar": [
-        "معلومات ثانوية",
-        "فكرة غير مهمة",
-        "الجوهر الذي يدور حوله النص",
-        "تفاصيل محددة"
+        "نص يروي قصة",
+        "نص يناقش موضوعًا معينًا",
+        "نص يصف شعورًا",
+        "نص يقدم معلومات"
       ],
-      "id": "6a4989b7beedb57fe98eb3d5",
+      "id": "6a4989b7beedb57fe98eb3e5",
+      "created_date": "2026-07-04T22:31:19.482000",
+      "updated_date": "2026-07-04T22:31:19.482000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أي من العوامل التالية يساعد على تحسين قدرة الفهم القرائي؟",
+      "explanation_en": "Diversifying reading types helps develop reading comprehension skills.",
+      "options_en": [
+        "Choosing only difficult texts",
+        "Diversifying reading types",
+        "Avoiding exercises and practical applications",
+        "Reading quickly without understanding"
+      ],
+      "topic_index": 0,
+      "grade": 9,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "Which of the following factors helps improve reading comprehension skills?",
+      "explanation_ar": "تنويع أنواع القراءة يساعد على تنمية مهارات الفهم القرائي.",
+      "options_ar": [
+        "اختيار النصوص الصعبة فقط",
+        "تنويع أنواع القراءة",
+        "تجنب التمارين والتطبيقات العملية",
+        "القراءة بسرعة دون فهم"
+      ],
+      "id": "6a4989b7beedb57fe98eb3d2",
+      "created_date": "2026-07-04T22:31:19.482000",
+      "updated_date": "2026-07-04T22:31:19.482000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما الذي يجعل المعلومات في النص موثوقة؟",
+      "explanation_en": "Credibility of the source is one of the key factors that determine the reliability of information in a text.",
+      "options_en": [
+        "Credibility of the source",
+        "Number of words",
+        "Writing style",
+        "Type of paper used"
+      ],
+      "topic_index": 0,
+      "grade": 9,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "What makes information in a text reliable?",
+      "explanation_ar": "مصداقية المصدر تعتبر من أهم العوامل التي تحدد موثوقية المعلومات في النص.",
+      "options_ar": [
+        "مصداقية المصدر",
+        "عدد الكلمات",
+        "أسلوب الكتابة",
+        "نوع الورق المستخدم"
+      ],
+      "id": "6a4989b7beedb57fe98eb3e2",
+      "created_date": "2026-07-04T22:31:19.482000",
+      "updated_date": "2026-07-04T22:31:19.482000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "لماذا يعتبر الحوار جزءًا مهمًا في القصص؟",
+      "explanation_en": "Dialogue helps showcase characters and aids in plot development.",
+      "options_en": [
+        "To increase the number of pages",
+        "To showcase characters",
+        "To reduce understanding",
+        "To make the story boring"
+      ],
+      "topic_index": 0,
+      "grade": 9,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "Why is dialogue a crucial part of stories?",
+      "explanation_ar": "الحوار يساعد في إظهار الشخصيات ويساعد في تطوير الحبكة.",
+      "options_ar": [
+        "لزيادة عدد الصفحات",
+        "لإظهار الشخصيات",
+        "لتقليل الفهم",
+        "لجعل القصة مملة"
+      ],
+      "id": "6a4989b7beedb57fe98eb3df",
       "created_date": "2026-07-04T22:31:19.482000",
       "updated_date": "2026-07-04T22:31:19.482000",
       "created_by_id": "6a459ddfe6fb4264c098136e",
@@ -193,114 +382,6 @@
       "is_sample": false
     },
     {
-      "question_ar": "ما الذي يحدد فعالية القراءة؟",
-      "explanation_en": "Understanding meanings defines the effectiveness of reading more than the number of pages or speed.",
-      "options_en": [
-        "Number of pages read",
-        "Duration of reading",
-        "Understanding meanings",
-        "Reading speed"
-      ],
-      "topic_index": 0,
-      "grade": 9,
-      "correct_answer": "2",
-      "section": "verbal",
-      "question_en": "What defines the effectiveness of reading?",
-      "explanation_ar": "فهم المعاني هو ما يحدد فعالية القراءة أكثر من عدد الصفحات أو السرعة.",
-      "options_ar": [
-        "عدد الصفحات المقروءة",
-        "مدة القراءة",
-        "فهم المعاني",
-        "سرعة القراءة"
-      ],
-      "id": "6a4989b7beedb57fe98eb3d8",
-      "created_date": "2026-07-04T22:31:19.482000",
-      "updated_date": "2026-07-04T22:31:19.482000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أي مما يلي هو نوع من أنواع النصوص؟",
-      "explanation_en": "Reports are a type of text that contains specific information.",
-      "options_en": [
-        "Reports",
-        "Sports machines",
-        "Computers",
-        "Food"
-      ],
-      "topic_index": 0,
-      "grade": 9,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Which of the following is a type of text?",
-      "explanation_ar": "التقارير هي نوع من النصوص تحتوي على معلومات معينة.",
-      "options_ar": [
-        "التقارير",
-        "آلات الرياضة",
-        "أجهزة الكمبيوتر",
-        "الطعام"
-      ],
-      "id": "6a4989b7beedb57fe98eb3d9",
-      "created_date": "2026-07-04T22:31:19.482000",
-      "updated_date": "2026-07-04T22:31:19.482000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
-      "question_ar": "كيف يمكن تلخيص نص بشكل فعال؟",
-      "explanation_en": "Summarizing main ideas contributes to providing an effective summary.",
-      "options_en": [
-        "Repeating words",
-        "Summarizing main ideas",
-        "Writing unimportant details",
-        "Adding personal opinions"
-      ],
-      "topic_index": 0,
-      "grade": 9,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "How can a text be effectively summarized?",
-      "explanation_ar": "اختصار الأفكار الرئيسية يساهم في تقديم ملخص فعال.",
-      "options_ar": [
-        "تكرار الكلمات",
-        "اختصار الأفكار الرئيسية",
-        "كتابة تفاصيل غير مهمة",
-        "إضافة آراء الشخصية"
-      ],
-      "id": "6a4989b7beedb57fe98eb3da",
-      "created_date": "2026-07-04T22:31:19.482000",
-      "updated_date": "2026-07-04T22:31:19.482000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما هي أهمية القراءة للمعلومات الجديدة؟",
-      "explanation_en": "Reading for new information helps develop cognitive and intellectual skills.",
-      "options_en": [
-        "Developing cognitive skills",
-        "Wasting time",
-        "Not adding value",
-        "Creating chaos"
-      ],
-      "topic_index": 0,
-      "grade": 9,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "What is the importance of reading for new information?",
-      "explanation_ar": "القراءة للمعلومات الجديدة تساعد في تطوير المهارات الفكرية والمعرفية.",
-      "options_ar": [
-        "تطوير المهارات الفكرية",
-        "تضيع الوقت",
-        "عدم إضافة قيمة",
-        "إنشاء الفوضى"
-      ],
-      "id": "6a4989b7beedb57fe98eb3db",
-      "created_date": "2026-07-04T22:31:19.482000",
-      "updated_date": "2026-07-04T22:31:19.482000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
       "question_ar": "كيف يمكن تحديد نبرة النص؟",
       "explanation_en": "The tone of the text is determined by the language used and the emotions it conveys.",
       "options_en": [
@@ -322,114 +403,6 @@
         "من أنواع الفقرات"
       ],
       "id": "6a4989b7beedb57fe98eb3dc",
-      "created_date": "2026-07-04T22:31:19.482000",
-      "updated_date": "2026-07-04T22:31:19.482000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
-      "question_ar": "من المهم فهم السياق عند قراءة النص، لماذا؟",
-      "explanation_en": "Understanding context enhances the overall comprehension of the text and allows the reader to grasp the content better.",
-      "options_en": [
-        "To analyze words without meaning",
-        "To avoid finding the solution",
-        "For a comprehensive understanding of the text",
-        "To increase difficulty in reading"
-      ],
-      "topic_index": 0,
-      "grade": 9,
-      "correct_answer": "2",
-      "section": "verbal",
-      "question_en": "Why is it important to understand context when reading a text?",
-      "explanation_ar": "فهم السياق يعزز الإدراك الشامل للنص ويمكن القارئ من فهم المحتوى بشكل أفضل.",
-      "options_ar": [
-        "لتحليل الكلمات بدون معنى",
-        "لتجنب العثور على الحل",
-        "للإدراك الشامل للنص",
-        "لزيادة الصعوبة في القراءة"
-      ],
-      "id": "6a4989b7beedb57fe98eb3dd",
-      "created_date": "2026-07-04T22:31:19.482000",
-      "updated_date": "2026-07-04T22:31:19.482000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما هي عواقب القراءة دون فهم؟",
-      "explanation_en": "Reading without understanding leads to losing meanings and knowledge from the text.",
-      "options_en": [
-        "Improving skills",
-        "Achieving goals",
-        "Losing meanings",
-        "Developing understanding"
-      ],
-      "topic_index": 0,
-      "grade": 9,
-      "correct_answer": "2",
-      "section": "verbal",
-      "question_en": "What are the consequences of reading without understanding?",
-      "explanation_ar": "القراءة دون فهم تؤدي إلى فقدان المعاني والمعرفة من النص.",
-      "options_ar": [
-        "تحسين المهارات",
-        "تحقيق الأهداف",
-        "فقدان المعاني",
-        "تطوير الفهم"
-      ],
-      "id": "6a4989b7beedb57fe98eb3de",
-      "created_date": "2026-07-04T22:31:19.482000",
-      "updated_date": "2026-07-04T22:31:19.482000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
-      "question_ar": "لماذا يعتبر الحوار جزءًا مهمًا في القصص؟",
-      "explanation_en": "Dialogue helps showcase characters and aids in plot development.",
-      "options_en": [
-        "To increase the number of pages",
-        "To showcase characters",
-        "To reduce understanding",
-        "To make the story boring"
-      ],
-      "topic_index": 0,
-      "grade": 9,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "Why is dialogue a crucial part of stories?",
-      "explanation_ar": "الحوار يساعد في إظهار الشخصيات ويساعد في تطوير الحبكة.",
-      "options_ar": [
-        "لزيادة عدد الصفحات",
-        "لإظهار الشخصيات",
-        "لتقليل الفهم",
-        "لجعل القصة مملة"
-      ],
-      "id": "6a4989b7beedb57fe98eb3df",
-      "created_date": "2026-07-04T22:31:19.482000",
-      "updated_date": "2026-07-04T22:31:19.482000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أي من النصوص التالية هو نص وصفي؟",
-      "explanation_en": "A descriptive text focuses on providing vivid details about something, such as a description of a city.",
-      "options_en": [
-        "Adventure story",
-        "Scientific article",
-        "Description of a city",
-        "Testimony of experience"
-      ],
-      "topic_index": 0,
-      "grade": 9,
-      "correct_answer": "2",
-      "section": "verbal",
-      "question_en": "Which of the following is a descriptive text?",
-      "explanation_ar": "النص الوصفي يركز على تقديم تفاصيل حيوية عن شيء ما، مثل وصف المدينة.",
-      "options_ar": [
-        "قصة مغامرة",
-        "مقال علمي",
-        "وصف مدينة",
-        "شهادة تجربة"
-      ],
-      "id": "6a4989b7beedb57fe98eb3e0",
       "created_date": "2026-07-04T22:31:19.482000",
       "updated_date": "2026-07-04T22:31:19.482000",
       "created_by_id": "6a459ddfe6fb4264c098136e",
@@ -463,33 +436,6 @@
       "is_sample": false
     },
     {
-      "question_ar": "ما الذي يجعل المعلومات في النص موثوقة؟",
-      "explanation_en": "Credibility of the source is one of the key factors that determine the reliability of information in a text.",
-      "options_en": [
-        "Credibility of the source",
-        "Number of words",
-        "Writing style",
-        "Type of paper used"
-      ],
-      "topic_index": 0,
-      "grade": 9,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "What makes information in a text reliable?",
-      "explanation_ar": "مصداقية المصدر تعتبر من أهم العوامل التي تحدد موثوقية المعلومات في النص.",
-      "options_ar": [
-        "مصداقية المصدر",
-        "عدد الكلمات",
-        "أسلوب الكتابة",
-        "نوع الورق المستخدم"
-      ],
-      "id": "6a4989b7beedb57fe98eb3e2",
-      "created_date": "2026-07-04T22:31:19.482000",
-      "updated_date": "2026-07-04T22:31:19.482000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
       "question_ar": "أي من الكلمات التالية يمكن أن تعبر عن عواطف شخصية؟",
       "explanation_en": "The word \"love\" expresses personal emotions more than the other words.",
       "options_en": [
@@ -517,81 +463,27 @@
       "is_sample": false
     },
     {
-      "question_ar": "كيف يمكن تمييز المعلومات المهمة في نص؟",
-      "explanation_en": "Headings help identify important information and highlight the key elements of the text.",
+      "question_ar": "ما هو الهدف الرئيسي من قراءة النصوص؟",
+      "explanation_en": "The main goal is to understand the information conveyed in the texts.",
       "options_en": [
-        "Through headings",
-        "Through random details",
-        "Through small letters",
-        "Through colors used"
+        "Analyze data",
+        "Understand information",
+        "Take notes",
+        "Improve writing"
       ],
       "topic_index": 0,
       "grade": 9,
-      "correct_answer": "0",
+      "correct_answer": "1",
       "section": "verbal",
-      "question_en": "How can important information be distinguished in a text?",
-      "explanation_ar": "العناوين تساعد في تحديد المعلومات المهمة وإبراز عناصر النص الأساسية.",
+      "question_en": "What is the main goal of reading texts?",
+      "explanation_ar": "الهدف الرئيسي هو فهم المعلومات التي تحملها النصوص.",
       "options_ar": [
-        "من خلال العناوين",
-        "من خلال تفاصيل عشوائية",
-        "من خلال الحروف الصغيرة",
-        "من خلال الألوان المستخدمة"
+        "تحليل البيانات",
+        "فهم المعلومات",
+        "تدوين الملاحظات",
+        "تحسين الكتابة"
       ],
-      "id": "6a4989b7beedb57fe98eb3e4",
-      "created_date": "2026-07-04T22:31:19.482000",
-      "updated_date": "2026-07-04T22:31:19.482000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما هو النص التفسيري؟",
-      "explanation_en": "An explanatory text aims to provide clear information about a specific subject.",
-      "options_en": [
-        "A text that tells a story",
-        "A text that discusses a specific topic",
-        "A text that describes a feeling",
-        "A text that provides information"
-      ],
-      "topic_index": 0,
-      "grade": 9,
-      "correct_answer": "3",
-      "section": "verbal",
-      "question_en": "What is an explanatory text?",
-      "explanation_ar": "النص التفسيري هو نص يهدف إلى تقديم معلومات واضحة حول موضوع معين.",
-      "options_ar": [
-        "نص يروي قصة",
-        "نص يناقش موضوعًا معينًا",
-        "نص يصف شعورًا",
-        "نص يقدم معلومات"
-      ],
-      "id": "6a4989b7beedb57fe98eb3e5",
-      "created_date": "2026-07-04T22:31:19.482000",
-      "updated_date": "2026-07-04T22:31:19.482000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما الذي يجعل القصة مشوقة؟",
-      "explanation_en": "Sequentially organizing events makes the story more exciting and attractive.",
-      "options_en": [
-        "Loss of characters",
-        "Putting mysterious reasons",
-        "Sequence of events",
-        "Gentle phrases"
-      ],
-      "topic_index": 0,
-      "grade": 9,
-      "correct_answer": "2",
-      "section": "verbal",
-      "question_en": "What makes a story exciting?",
-      "explanation_ar": "تسلسل الأحداث بشكل منظم يجعل القصة أكثر تشويقًا وجاذبية.",
-      "options_ar": [
-        "فقدان الشخصيات",
-        "وضع الأسباب الغامضة",
-        "تسلسل الأحداث",
-        "عبارات رقيقة"
-      ],
-      "id": "6a4989b7beedb57fe98eb3e6",
+      "id": "6a4989b7beedb57fe98eb3d1",
       "created_date": "2026-07-04T22:31:19.482000",
       "updated_date": "2026-07-04T22:31:19.482000",
       "created_by_id": "6a459ddfe6fb4264c098136e",
@@ -619,6 +511,114 @@
         "تجاهل الفقرات"
       ],
       "id": "6a4989b7beedb57fe98eb3e7",
+      "created_date": "2026-07-04T22:31:19.482000",
+      "updated_date": "2026-07-04T22:31:19.482000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "من المهم فهم السياق عند قراءة النص، لماذا؟",
+      "explanation_en": "Understanding context enhances the overall comprehension of the text and allows the reader to grasp the content better.",
+      "options_en": [
+        "To analyze words without meaning",
+        "To avoid finding the solution",
+        "For a comprehensive understanding of the text",
+        "To increase difficulty in reading"
+      ],
+      "topic_index": 0,
+      "grade": 9,
+      "correct_answer": "2",
+      "section": "verbal",
+      "question_en": "Why is it important to understand context when reading a text?",
+      "explanation_ar": "فهم السياق يعزز الإدراك الشامل للنص ويمكن القارئ من فهم المحتوى بشكل أفضل.",
+      "options_ar": [
+        "لتحليل الكلمات بدون معنى",
+        "لتجنب العثور على الحل",
+        "للإدراك الشامل للنص",
+        "لزيادة الصعوبة في القراءة"
+      ],
+      "id": "6a4989b7beedb57fe98eb3dd",
+      "created_date": "2026-07-04T22:31:19.482000",
+      "updated_date": "2026-07-04T22:31:19.482000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ماذا يعني مصطلح \"الفكرة الرئيسية\"؟",
+      "explanation_en": "The main idea is the core concept on which the entire text is based.",
+      "options_en": [
+        "Secondary information",
+        "Unimportant idea",
+        "The core concept around which the text revolves",
+        "Specific details"
+      ],
+      "topic_index": 0,
+      "grade": 9,
+      "correct_answer": "2",
+      "section": "verbal",
+      "question_en": "What does the term \"main idea\" mean?",
+      "explanation_ar": "الفكرة الرئيسية هي الجوهر الذي يستند إليه النص بأكمله.",
+      "options_ar": [
+        "معلومات ثانوية",
+        "فكرة غير مهمة",
+        "الجوهر الذي يدور حوله النص",
+        "تفاصيل محددة"
+      ],
+      "id": "6a4989b7beedb57fe98eb3d5",
+      "created_date": "2026-07-04T22:31:19.482000",
+      "updated_date": "2026-07-04T22:31:19.482000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أي مما يلي هو نوع من أنواع النصوص؟",
+      "explanation_en": "Reports are a type of text that contains specific information.",
+      "options_en": [
+        "Reports",
+        "Sports machines",
+        "Computers",
+        "Food"
+      ],
+      "topic_index": 0,
+      "grade": 9,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Which of the following is a type of text?",
+      "explanation_ar": "التقارير هي نوع من النصوص تحتوي على معلومات معينة.",
+      "options_ar": [
+        "التقارير",
+        "آلات الرياضة",
+        "أجهزة الكمبيوتر",
+        "الطعام"
+      ],
+      "id": "6a4989b7beedb57fe98eb3d9",
+      "created_date": "2026-07-04T22:31:19.482000",
+      "updated_date": "2026-07-04T22:31:19.482000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هي أهمية القراءة للمعلومات الجديدة؟",
+      "explanation_en": "Reading for new information helps develop cognitive and intellectual skills.",
+      "options_en": [
+        "Developing cognitive skills",
+        "Wasting time",
+        "Not adding value",
+        "Creating chaos"
+      ],
+      "topic_index": 0,
+      "grade": 9,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "What is the importance of reading for new information?",
+      "explanation_ar": "القراءة للمعلومات الجديدة تساعد في تطوير المهارات الفكرية والمعرفية.",
+      "options_ar": [
+        "تطوير المهارات الفكرية",
+        "تضيع الوقت",
+        "عدم إضافة قيمة",
+        "إنشاء الفوضى"
+      ],
+      "id": "6a4989b7beedb57fe98eb3db",
       "created_date": "2026-07-04T22:31:19.482000",
       "updated_date": "2026-07-04T22:31:19.482000",
       "created_by_id": "6a459ddfe6fb4264c098136e",
