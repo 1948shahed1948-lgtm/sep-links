@@ -5,44 +5,6 @@
   "questions": [
     {
       "ordering_items_ar": [
-        "9 × 5",
-        "40 ÷ 1",
-        "4 × 8",
-        "50 ÷ 5"
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "9 × 5",
-        "40 ÷ 1",
-        "4 × 8",
-        "50 ÷ 5"
-      ],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "النواتج هي: 45، 40، 32، 10 بالترتيب من الأكبر للأصغر.",
-      "test_type": "diagnostic",
-      "difficulty": "medium",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "رتب نواتج العمليات التالية من الأكبر إلى الأصغر:",
-      "explanation_en": "The results are: 45, 40, 32, 10 in order from largest to smallest.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 6,
-      "matching_pairs_ar": [],
-      "question_en": "Order the results of the following operations from largest to smallest:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b88a4ffeb1904c61991",
-      "created_date": "2026-07-04T23:47:20.555000",
-      "updated_date": "2026-07-04T23:47:20.555000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
         "خمسة ريالات",
         "عشرة ريالات",
         "خمسون ريالاً",
@@ -150,6 +112,44 @@
       "is_sample": false
     },
     {
+      "ordering_items_ar": [
+        "9 × 5",
+        "40 ÷ 1",
+        "4 × 8",
+        "50 ÷ 5"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "9 × 5",
+        "40 ÷ 1",
+        "4 × 8",
+        "50 ÷ 5"
+      ],
+      "topic_en": "Multiplication and Division",
+      "explanation_ar": "النواتج هي: 45، 40، 32، 10 بالترتيب من الأكبر للأصغر.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الضرب والقسمة",
+      "matching_pairs_en": [],
+      "question_ar": "رتب نواتج العمليات التالية من الأكبر إلى الأصغر:",
+      "explanation_en": "The results are: 45, 40, 32, 10 in order from largest to smallest.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Order the results of the following operations from largest to smallest:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b88a4ffeb1904c61991",
+      "created_date": "2026-07-04T23:47:20.555000",
+      "updated_date": "2026-07-04T23:47:20.555000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
       "ordering_items_ar": [],
       "question_type": "classify",
       "options_en": [],
@@ -212,74 +212,6 @@
       ],
       "options_ar": [],
       "id": "6a499b88a4ffeb1904c61994",
-      "created_date": "2026-07-04T23:47:20.555000",
-      "updated_date": "2026-07-04T23:47:20.555000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "classify",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Reading and Comprehension",
-      "explanation_ar": "الاسم يدل على شيء ثابت (المدرسة، كتاب)، والفعل يدل على حدث مرتبط بزمن (يذاكر، انطلق).",
-      "test_type": "diagnostic",
-      "difficulty": "hard",
-      "topic_ar": "قراءة وفهم",
-      "matching_pairs_en": [],
-      "question_ar": "صنف الكلمات التالية حسب نوعها في قواعد اللغة العربية (اسم أو فعل):",
-      "explanation_en": "A noun refers to a fixed entity (School, Book), while a verb refers to an action linked to time (Studies, Launched).",
-      "classify_categories_ar": [
-        "أسماء",
-        "أفعال"
-      ],
-      "classify_items_en": [
-        {
-          "correct_category": 0,
-          "item": "School"
-        },
-        {
-          "correct_category": 1,
-          "item": "Studies"
-        },
-        {
-          "correct_category": 0,
-          "item": "Book"
-        },
-        {
-          "correct_category": 1,
-          "item": "Launched"
-        }
-      ],
-      "grade": 6,
-      "matching_pairs_ar": [],
-      "question_en": "Classify the following words according to their type in Arabic grammar (Noun or Verb):",
-      "classify_categories_en": [
-        "Nouns",
-        "Verbs"
-      ],
-      "classify_items_ar": [
-        {
-          "correct_category": 0,
-          "item": "المدرسة"
-        },
-        {
-          "correct_category": 1,
-          "item": "يذاكر"
-        },
-        {
-          "correct_category": 0,
-          "item": "كتاب"
-        },
-        {
-          "correct_category": 1,
-          "item": "انطلق"
-        }
-      ],
-      "options_ar": [],
-      "id": "6a499b88a4ffeb1904c61995",
       "created_date": "2026-07-04T23:47:20.555000",
       "updated_date": "2026-07-04T23:47:20.555000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -357,109 +289,69 @@
     },
     {
       "ordering_items_ar": [],
-      "question_type": "matching",
+      "question_type": "classify",
       "options_en": [],
       "correct_answer": null,
       "ordering_items_en": [],
-      "topic_en": "Units and Measurement",
-      "explanation_ar": "المتر يستخدم لقياس الطول، الجرام للكتلة، واللتر للسعة السائلة.",
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "الاسم يدل على شيء ثابت (المدرسة، كتاب)، والفعل يدل على حدث مرتبط بزمن (يذاكر، انطلق).",
       "test_type": "diagnostic",
-      "difficulty": "easy",
-      "topic_ar": "الوحدات والقياس",
-      "matching_pairs_en": [
+      "difficulty": "hard",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الكلمات التالية حسب نوعها في قواعد اللغة العربية (اسم أو فعل):",
+      "explanation_en": "A noun refers to a fixed entity (School, Book), while a verb refers to an action linked to time (Studies, Launched).",
+      "classify_categories_ar": [
+        "أسماء",
+        "أفعال"
+      ],
+      "classify_items_en": [
         {
-          "left": "Meter",
-          "right": "Length"
+          "correct_category": 0,
+          "item": "School"
         },
         {
-          "left": "Gram",
-          "right": "Mass"
+          "correct_category": 1,
+          "item": "Studies"
         },
         {
-          "left": "Liter",
-          "right": "Capacity"
+          "correct_category": 0,
+          "item": "Book"
+        },
+        {
+          "correct_category": 1,
+          "item": "Launched"
         }
       ],
-      "question_ar": "صل كل وحدة قياس بالكمية الفيزيائية التي تعبر عنها:",
-      "explanation_en": "Meter is used for length, Gram for mass, and Liter for liquid capacity.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
       "grade": 6,
-      "matching_pairs_ar": [
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following words according to their type in Arabic grammar (Noun or Verb):",
+      "classify_categories_en": [
+        "Nouns",
+        "Verbs"
+      ],
+      "classify_items_ar": [
         {
-          "left": "المتر",
-          "right": "الطول"
+          "correct_category": 0,
+          "item": "المدرسة"
         },
         {
-          "left": "الجرام",
-          "right": "الكتلة"
+          "correct_category": 1,
+          "item": "يذاكر"
         },
         {
-          "left": "اللتر",
-          "right": "السعة"
+          "correct_category": 0,
+          "item": "كتاب"
+        },
+        {
+          "correct_category": 1,
+          "item": "انطلق"
         }
       ],
-      "question_en": "Match each measurement unit with the physical quantity it represents:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499b88a4ffeb1904c6198b",
-      "created_date": "2026-07-04T23:47:20.554000",
-      "updated_date": "2026-07-04T23:47:20.554000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "matching",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Geometry",
-      "explanation_ar": "يتميز كل مضلع بعدد أضلاع محدد؛ فالمثلث له 3 والمربع 4 والسداسي 6.",
-      "test_type": "diagnostic",
-      "difficulty": "medium",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [
-        {
-          "left": "Triangle",
-          "right": "3 sides"
-        },
-        {
-          "left": "Square",
-          "right": "4 sides"
-        },
-        {
-          "left": "Hexagon",
-          "right": "6 sides"
-        }
-      ],
-      "question_ar": "صل كل شكل هندسي بعدد أضلاعه الصحيح:",
-      "explanation_en": "Each polygon is defined by its number of sides; triangles have 3, squares have 4, and hexagons have 6.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 6,
-      "matching_pairs_ar": [
-        {
-          "left": "المثلث",
-          "right": "3 أضلاع"
-        },
-        {
-          "left": "المربع",
-          "right": "4 أضلاع"
-        },
-        {
-          "left": "الشكل السداسي",
-          "right": "6 أضلاع"
-        }
-      ],
-      "question_en": "Match each geometric shape with its correct number of sides:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b88a4ffeb1904c6198c",
-      "created_date": "2026-07-04T23:47:20.554000",
-      "updated_date": "2026-07-04T23:47:20.554000",
+      "id": "6a499b88a4ffeb1904c61995",
+      "created_date": "2026-07-04T23:47:20.555000",
+      "updated_date": "2026-07-04T23:47:20.555000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
@@ -566,6 +458,114 @@
       "classify_items_ar": [],
       "options_ar": [],
       "id": "6a499b88a4ffeb1904c6198e",
+      "created_date": "2026-07-04T23:47:20.554000",
+      "updated_date": "2026-07-04T23:47:20.554000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "المتر يستخدم لقياس الطول، الجرام للكتلة، واللتر للسعة السائلة.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "الوحدات والقياس",
+      "matching_pairs_en": [
+        {
+          "left": "Meter",
+          "right": "Length"
+        },
+        {
+          "left": "Gram",
+          "right": "Mass"
+        },
+        {
+          "left": "Liter",
+          "right": "Capacity"
+        }
+      ],
+      "question_ar": "صل كل وحدة قياس بالكمية الفيزيائية التي تعبر عنها:",
+      "explanation_en": "Meter is used for length, Gram for mass, and Liter for liquid capacity.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [
+        {
+          "left": "المتر",
+          "right": "الطول"
+        },
+        {
+          "left": "الجرام",
+          "right": "الكتلة"
+        },
+        {
+          "left": "اللتر",
+          "right": "السعة"
+        }
+      ],
+      "question_en": "Match each measurement unit with the physical quantity it represents:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b88a4ffeb1904c6198b",
+      "created_date": "2026-07-04T23:47:20.554000",
+      "updated_date": "2026-07-04T23:47:20.554000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Geometry",
+      "explanation_ar": "يتميز كل مضلع بعدد أضلاع محدد؛ فالمثلث له 3 والمربع 4 والسداسي 6.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [
+        {
+          "left": "Triangle",
+          "right": "3 sides"
+        },
+        {
+          "left": "Square",
+          "right": "4 sides"
+        },
+        {
+          "left": "Hexagon",
+          "right": "6 sides"
+        }
+      ],
+      "question_ar": "صل كل شكل هندسي بعدد أضلاعه الصحيح:",
+      "explanation_en": "Each polygon is defined by its number of sides; triangles have 3, squares have 4, and hexagons have 6.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [
+        {
+          "left": "المثلث",
+          "right": "3 أضلاع"
+        },
+        {
+          "left": "المربع",
+          "right": "4 أضلاع"
+        },
+        {
+          "left": "الشكل السداسي",
+          "right": "6 أضلاع"
+        }
+      ],
+      "question_en": "Match each geometric shape with its correct number of sides:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b88a4ffeb1904c6198c",
       "created_date": "2026-07-04T23:47:20.554000",
       "updated_date": "2026-07-04T23:47:20.554000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
