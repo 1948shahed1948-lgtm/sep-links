@@ -1,0 +1,681 @@
+{
+  "test_type": "criterion",
+  "grade": 3,
+  "count": 12,
+  "questions": [
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Addition and Subtraction",
+      "explanation_ar": "يتم إيجاد الناتج بجمع أو طرح الآحاد أولاً ثم العشرات.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الجمع والطرح",
+      "matching_pairs_en": [
+        {
+          "left": "50 + 20",
+          "right": "70"
+        },
+        {
+          "left": "100 - 30",
+          "right": "70"
+        },
+        {
+          "left": "25 + 25",
+          "right": "50"
+        },
+        {
+          "left": "80 - 40",
+          "right": "40"
+        }
+      ],
+      "question_ar": "صل كل عملية حسابية بنتيجتها الصحيحة:",
+      "explanation_en": "The result is found by adding or subtracting units first, then tens.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 3,
+      "matching_pairs_ar": [
+        {
+          "left": "50 + 20",
+          "right": "70"
+        },
+        {
+          "left": "100 - 30",
+          "right": "70"
+        },
+        {
+          "left": "25 + 25",
+          "right": "50"
+        },
+        {
+          "left": "80 - 40",
+          "right": "40"
+        }
+      ],
+      "question_en": "Match each arithmetic operation with its correct result:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c39f2b5d3c0fbef72b",
+      "created_date": "2026-07-04T23:09:55.791000",
+      "updated_date": "2026-07-04T23:09:55.791000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Multiplication and Division",
+      "explanation_ar": "الضرب هو جمع متكرر، والقسمة هي توزيع بالتساوي.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الضرب والقسمة",
+      "matching_pairs_en": [
+        {
+          "left": "3 × 4",
+          "right": "12"
+        },
+        {
+          "left": "5 × 2",
+          "right": "10"
+        },
+        {
+          "left": "15 ÷ 3",
+          "right": "5"
+        },
+        {
+          "left": "20 ÷ 4",
+          "right": "5"
+        }
+      ],
+      "question_ar": "صل جملة الضرب أو القسمة بالناتج الصحيح:",
+      "explanation_en": "Multiplication is repeated addition, and division is equal sharing.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 3,
+      "matching_pairs_ar": [
+        {
+          "left": "3 × 4",
+          "right": "12"
+        },
+        {
+          "left": "5 × 2",
+          "right": "10"
+        },
+        {
+          "left": "15 ÷ 3",
+          "right": "5"
+        },
+        {
+          "left": "20 ÷ 4",
+          "right": "5"
+        }
+      ],
+      "question_en": "Match the multiplication or division sentence with the correct result:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c39f2b5d3c0fbef72c",
+      "created_date": "2026-07-04T23:09:55.791000",
+      "updated_date": "2026-07-04T23:09:55.791000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Words and Synonyms",
+      "explanation_ar": "تساعد معرفة المرادفات على إثراء الحصيلة اللغوية وفهم النصوص.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الكلمات والمرادفات",
+      "matching_pairs_en": [
+        {
+          "left": "Thirst (Al-Zama')",
+          "right": "Thirst (Al-Atash)"
+        },
+        {
+          "left": "Joy (Al-Jathal)",
+          "right": "Joy (Al-Farah)"
+        },
+        {
+          "left": "Creatures (Al-Anam)",
+          "right": "Creation (Al-Khalq)"
+        },
+        {
+          "left": "Panicked (Fazi'a)",
+          "right": "Got scared (Khafa)"
+        }
+      ],
+      "question_ar": "صل الكلمة بمعناها الصحيح (من دروس لغتي):",
+      "explanation_en": "Knowing synonyms helps enrich vocabulary and understand texts.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 3,
+      "matching_pairs_ar": [
+        {
+          "left": "الظمأ",
+          "right": "العطش"
+        },
+        {
+          "left": "الجذل",
+          "right": "الفرح"
+        },
+        {
+          "left": "الأنام",
+          "right": "الخلق"
+        },
+        {
+          "left": "فزع",
+          "right": "خاف"
+        }
+      ],
+      "question_en": "Match the word with its correct meaning (from Lughati lessons):",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c39f2b5d3c0fbef72d",
+      "created_date": "2026-07-04T23:09:55.791000",
+      "updated_date": "2026-07-04T23:09:55.791000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "تظهر صفات الشخصيات من خلال تصرفاتهم في القصة.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [
+        {
+          "left": "Adel",
+          "right": "Organized"
+        },
+        {
+          "left": "Fawaz",
+          "right": "Curious"
+        },
+        {
+          "left": "Noura",
+          "right": "Smart and Cooperative"
+        },
+        {
+          "left": "The Father",
+          "right": "Wise and Guiding"
+        }
+      ],
+      "question_ar": "صل كل شخصية من دروس المنهج بصفتها المميزة:",
+      "explanation_en": "Character traits appear through their actions in the story.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 3,
+      "matching_pairs_ar": [
+        {
+          "left": "عادل",
+          "right": "منظم"
+        },
+        {
+          "left": "فواز",
+          "right": "محب للاستطلاع"
+        },
+        {
+          "left": "نورة",
+          "right": "ذكية ومتعاونة"
+        },
+        {
+          "left": "الأب",
+          "right": "حكيم ومرشد"
+        }
+      ],
+      "question_en": "Match each character from the curriculum lessons with their trait:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c39f2b5d3c0fbef72e",
+      "created_date": "2026-07-04T23:09:55.791000",
+      "updated_date": "2026-07-04T23:09:55.791000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "ملم (مليمتر)",
+        "سم (سنتمتر)",
+        "م (متر)",
+        "كم (كيلومتر)"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "mm (Millimeter)",
+        "cm (Centimeter)",
+        "m (Meter)",
+        "km (Kilometer)"
+      ],
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "الملم هو أصغر وحدة لقياس الأشياء الصغيرة جداً، بينما الكم هو الأكبر لقياس المسافات بين المدن.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الوحدات والقياس",
+      "matching_pairs_en": [],
+      "question_ar": "رتب وحدات الطول التالية من الأصغر إلى الأكبر:",
+      "explanation_en": "The mm is the smallest unit for measuring tiny things, while the km is the largest for measuring distances between cities.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 3,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following length units from smallest to largest:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c39f2b5d3c0fbef72f",
+      "created_date": "2026-07-04T23:09:55.791000",
+      "updated_date": "2026-07-04T23:09:55.791000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "1/10 (عشر)",
+        "1/4 (ربع)",
+        "1/2 (نصف)",
+        "1 (واحد صحيح)"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "1/10 (one tenth)",
+        "1/4 (one quarter)",
+        "1/2 (one half)",
+        "1 (whole one)"
+      ],
+      "topic_en": "Fractions",
+      "explanation_ar": "في الكسور التي بسطها 1، كلما كبر المقام صغرت قيمة الكسر.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الكسور",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الكسور التالية من الأصغر قيمة إلى الأكبر قيمة:",
+      "explanation_en": "In fractions with a numerator of 1, the larger the denominator, the smaller the value of the fraction.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 3,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following fractions from smallest value to largest value:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c39f2b5d3c0fbef730",
+      "created_date": "2026-07-04T23:09:55.791000",
+      "updated_date": "2026-07-04T23:09:55.791000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "5",
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "5",
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "topic_en": "Patterns and Sequences",
+      "explanation_ar": "النمط هو زيادة العدد بمقدار 5 في كل خطوة.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأعداد التالية لتكمل النمط الحسابي (+5):",
+      "explanation_en": "The pattern is increasing the number by 5 in each step.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 3,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following numbers to complete the arithmetic pattern (+5):",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c39f2b5d3c0fbef731",
+      "created_date": "2026-07-04T23:09:55.791000",
+      "updated_date": "2026-07-04T23:09:55.791000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "المثلث (3 أضلاع)",
+        "المربع (4 أضلاع)",
+        "الشكل الخماسي (5 أضلاع)",
+        "الشكل السداسي (6 أضلاع)"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Triangle (3 sides)",
+        "Square (4 sides)",
+        "Pentagon (5 sides)",
+        "Hexagon (6 sides)"
+      ],
+      "topic_en": "Geometric Shapes",
+      "explanation_ar": "يحدد عدد الأضلاع اسم المضلع الهندسي.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأشكال التالية حسب عدد أضلاعها (من الأقل إلى الأكثر):",
+      "explanation_en": "The number of sides determines the name of the geometric polygon.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 3,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following shapes according to their number of sides (from fewest to most):",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c39f2b5d3c0fbef732",
+      "created_date": "2026-07-04T23:09:55.791000",
+      "updated_date": "2026-07-04T23:09:55.791000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Even and Odd Numbers",
+      "explanation_ar": "الأعداد الزوجية آحادها (0، 2، 4، 6، 8)، والأعداد الفردية آحادها (1، 3، 5، 7، 9).",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأعداد الزوجية والفردية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأعداد التالية إلى زوجية أو فردية:",
+      "explanation_en": "Even numbers end in (0, 2, 4, 6, 8), and odd numbers end in (1, 3, 5, 7, 9).",
+      "classify_categories_ar": [
+        "أعداد زوجية",
+        "أعداد فردية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "4"
+        },
+        {
+          "correct_category": 1,
+          "item": "9"
+        },
+        {
+          "correct_category": 0,
+          "item": "22"
+        },
+        {
+          "correct_category": 1,
+          "item": "31"
+        }
+      ],
+      "grade": 3,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following numbers into even or odd:",
+      "classify_categories_en": [
+        "Even Numbers",
+        "Odd Numbers"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "4"
+        },
+        {
+          "correct_category": 1,
+          "item": "9"
+        },
+        {
+          "correct_category": 0,
+          "item": "22"
+        },
+        {
+          "correct_category": 1,
+          "item": "31"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4992c39f2b5d3c0fbef733",
+      "created_date": "2026-07-04T23:09:55.791000",
+      "updated_date": "2026-07-04T23:09:55.791000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Currencies and Money",
+      "explanation_ar": "الريالات تكون ورقية (أو بلاستيكية حديثاً) بينما الهللات تكون معدنية.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "العملات والنقود",
+      "matching_pairs_en": [],
+      "question_ar": "صنف العملات السعودية التالية حسب نوعها:",
+      "explanation_en": "Riyals are paper (or modern plastic), while Halalas are coins.",
+      "classify_categories_ar": [
+        "عملات ورقية",
+        "عملات معدنية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Five Riyals"
+        },
+        {
+          "correct_category": 1,
+          "item": "Fifty Halalas"
+        },
+        {
+          "correct_category": 0,
+          "item": "Ten Riyals"
+        },
+        {
+          "correct_category": 1,
+          "item": "Twenty-five Halalas"
+        }
+      ],
+      "grade": 3,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following Saudi currencies according to their type:",
+      "classify_categories_en": [
+        "Banknotes",
+        "Coins"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "خمسة ريالات"
+        },
+        {
+          "correct_category": 1,
+          "item": "خمسون هللة"
+        },
+        {
+          "correct_category": 0,
+          "item": "عشرة ريالات"
+        },
+        {
+          "correct_category": 1,
+          "item": "خمس وعشرون هللة"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4992c39f2b5d3c0fbef734",
+      "created_date": "2026-07-04T23:09:55.791000",
+      "updated_date": "2026-07-04T23:09:55.791000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Geometric Shapes",
+      "explanation_ar": "الأشكال المستوية لها بعدان فقط، أما المجسمات فلها ثلاثة أبعاد.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأشكال التالية إلى أشكال مستوية أو مجسمات:",
+      "explanation_en": "Plane shapes have only two dimensions, while solids have three dimensions.",
+      "classify_categories_ar": [
+        "أشكال مستوية",
+        "مجسمات"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Square"
+        },
+        {
+          "correct_category": 1,
+          "item": "Cube"
+        },
+        {
+          "correct_category": 0,
+          "item": "Circle"
+        },
+        {
+          "correct_category": 1,
+          "item": "Sphere"
+        }
+      ],
+      "grade": 3,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following shapes into plane shapes or solids:",
+      "classify_categories_en": [
+        "Plane Shapes",
+        "Solids"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "المربع"
+        },
+        {
+          "correct_category": 1,
+          "item": "المكعب"
+        },
+        {
+          "correct_category": 0,
+          "item": "الدائرة"
+        },
+        {
+          "correct_category": 1,
+          "item": "الكرة"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4992c39f2b5d3c0fbef735",
+      "created_date": "2026-07-04T23:09:55.791000",
+      "updated_date": "2026-07-04T23:09:55.791000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Words and Synonyms",
+      "explanation_ar": "اللام الشمسية تُكتب ولا تُنطق، واللام القمرية تُكتب وتُنطق.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الكلمات والمرادفات",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الكلمات التالية حسب نوع (ال) التعريف:",
+      "explanation_en": "Solar 'L' is written but not pronounced, while Lunar 'L' is both written and pronounced.",
+      "classify_categories_ar": [
+        "ال الشمسية",
+        "ال القمرية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Ash-Shams (Sun)"
+        },
+        {
+          "correct_category": 1,
+          "item": "Al-Qamar (Moon)"
+        },
+        {
+          "correct_category": 0,
+          "item": "As-Sidq (Truth)"
+        },
+        {
+          "correct_category": 1,
+          "item": "Al-Kitab (Book)"
+        }
+      ],
+      "grade": 3,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following words according to the type of 'Al' prefix:",
+      "classify_categories_en": [
+        "Solar 'Al'",
+        "Lunar 'Al'"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "الشمس"
+        },
+        {
+          "correct_category": 1,
+          "item": "القمر"
+        },
+        {
+          "correct_category": 0,
+          "item": "الصدق"
+        },
+        {
+          "correct_category": 1,
+          "item": "الكتاب"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4992c39f2b5d3c0fbef736",
+      "created_date": "2026-07-04T23:09:55.791000",
+      "updated_date": "2026-07-04T23:09:55.791000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    }
+  ]
+}
