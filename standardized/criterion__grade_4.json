@@ -1,0 +1,705 @@
+{
+  "test_type": "criterion",
+  "grade": 4,
+  "count": 12,
+  "questions": [
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Words and Synonyms",
+      "explanation_ar": "الترادف هو تشابه الكلمات في المعنى، وهو جزء أساسي من دروس لغتي الجميلة للصف الرابع.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الكلمات والمرادفات",
+      "matching_pairs_en": [
+        {
+          "left": "Ailment",
+          "right": "Sick"
+        },
+        {
+          "left": "Joy",
+          "right": "Happiness"
+        },
+        {
+          "left": "Precious",
+          "right": "Expensive"
+        },
+        {
+          "left": "Brave",
+          "right": "Valiant"
+        }
+      ],
+      "question_ar": "صل كل كلمة بمرادفها الصحيح من العمود المقابل:",
+      "explanation_en": "Synonyms are words with similar meanings, a key part of the Grade 4 Arabic curriculum.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [
+        {
+          "left": "عليل",
+          "right": "مريض"
+        },
+        {
+          "left": "بهجة",
+          "right": "سرور"
+        },
+        {
+          "left": "ثمين",
+          "right": "غالٍ"
+        },
+        {
+          "left": "شجاع",
+          "right": "باسل"
+        }
+      ],
+      "question_en": "Match each word with its correct synonym from the opposite column:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992bf5ad0a1ac7603611e",
+      "created_date": "2026-07-04T23:09:51.997000",
+      "updated_date": "2026-07-04T23:09:51.997000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Multiplication and Division",
+      "explanation_ar": "الضرب هو عملية جمع متكرر، وحفظ جداول الضرب ضروري في الصف الرابع.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الضرب والقسمة",
+      "matching_pairs_en": [
+        {
+          "left": "5 × 4",
+          "right": "20"
+        },
+        {
+          "left": "6 × 3",
+          "right": "18"
+        },
+        {
+          "left": "7 × 8",
+          "right": "56"
+        },
+        {
+          "left": "9 × 4",
+          "right": "36"
+        }
+      ],
+      "question_ar": "صل عملية الضرب بناتجها الصحيح:",
+      "explanation_en": "Multiplication is repeated addition, and memorizing multiplication tables is essential in Grade 4.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [
+        {
+          "left": "5 × 4",
+          "right": "20"
+        },
+        {
+          "left": "6 × 3",
+          "right": "18"
+        },
+        {
+          "left": "7 × 8",
+          "right": "56"
+        },
+        {
+          "left": "9 × 4",
+          "right": "36"
+        }
+      ],
+      "question_en": "Match the multiplication operation with its correct product:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992bf5ad0a1ac7603611f",
+      "created_date": "2026-07-04T23:09:51.997000",
+      "updated_date": "2026-07-04T23:09:51.997000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "تستخدم السنتيمترات للأطوال الصغيرة والكيلومترات للمسافات الطويلة، بينما الجرام للكتلة والمللتر للسعة.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الوحدات والقياس",
+      "matching_pairs_en": [
+        {
+          "left": "Length of a pen",
+          "right": "Centimeter"
+        },
+        {
+          "left": "Mass of an apple",
+          "right": "Gram"
+        },
+        {
+          "left": "Capacity of a juice box",
+          "right": "Milliliter"
+        },
+        {
+          "left": "Distance between cities",
+          "right": "Kilometer"
+        }
+      ],
+      "question_ar": "صل الكمية بوحدة القياس المناسبة لها:",
+      "explanation_en": "Centimeters are used for small lengths and kilometers for long distances, while grams measure mass and milliliters measure capacity.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [
+        {
+          "left": "طول القلم",
+          "right": "سنتيمتر"
+        },
+        {
+          "left": "كتلة التفاحة",
+          "right": "جرام"
+        },
+        {
+          "left": "سعة علبة عصير",
+          "right": "مللتر"
+        },
+        {
+          "left": "المسافة بين مدينتين",
+          "right": "كيلومتر"
+        }
+      ],
+      "question_en": "Match the quantity with its appropriate unit of measurement:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992bf5ad0a1ac76036120",
+      "created_date": "2026-07-04T23:09:51.997000",
+      "updated_date": "2026-07-04T23:09:51.997000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Currency and Money",
+      "explanation_ar": "حساب المبالغ النقدية يعتمد على ضرب عدد الأوراق في قيمة الورقة الواحدة.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "العملات والنقود",
+      "matching_pairs_en": [
+        {
+          "left": "Five 10-Riyal notes",
+          "right": "50 Riyals"
+        },
+        {
+          "left": "Two 50-Riyal notes",
+          "right": "100 Riyals"
+        },
+        {
+          "left": "Ten 1-Riyal notes",
+          "right": "10 Riyals"
+        },
+        {
+          "left": "Four 500-Riyal notes",
+          "right": "2000 Riyals"
+        }
+      ],
+      "question_ar": "صل مجموعات الفئات النقدية السعودية بقيمتها الإجمالية:",
+      "explanation_en": "Calculating cash amounts depends on multiplying the number of notes by the value of a single note.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [
+        {
+          "left": "خمس ورقات من فئة 10 ريال",
+          "right": "50 ريال"
+        },
+        {
+          "left": "ورقتان من فئة 50 ريال",
+          "right": "100 ريال"
+        },
+        {
+          "left": "عشر ورقات من فئة ريال",
+          "right": "10 ريال"
+        },
+        {
+          "left": "أربع ورقات من فئة 500 ريال",
+          "right": "2000 ريال"
+        }
+      ],
+      "question_en": "Match the sets of Saudi bank notes with their total value:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992bf5ad0a1ac76036121",
+      "created_date": "2026-07-04T23:09:51.997000",
+      "updated_date": "2026-07-04T23:09:51.997000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "5",
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "5",
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "topic_en": "Patterns and Sequences",
+      "explanation_ar": "النمط هو تتابع من الأعداد يتبع قاعدة محددة، وفي هذا السؤال القاعدة هي إضافة 5 في كل مرة.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأعداد التالية لتكون نمطاً صحيحاً (بزيادة مقدارها 5):",
+      "explanation_en": "A pattern is a sequence of numbers following a specific rule; in this question, the rule is adding 5 each time.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Arrange the following numbers to form a correct pattern (increasing by 5):",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992bf5ad0a1ac76036122",
+      "created_date": "2026-07-04T23:09:51.997000",
+      "updated_date": "2026-07-04T23:09:51.997000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "1/8 (ثمن)",
+        "1/4 (ربع)",
+        "1/2 (نصف)",
+        "3/4 (ثلاثة أرباع)"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "1/8 (One-eighth)",
+        "1/4 (One-fourth)",
+        "1/2 (One-half)",
+        "3/4 (Three-fourths)"
+      ],
+      "topic_en": "Fractions",
+      "explanation_ar": "عندما يتساوى البسط، كلما كبر المقام صغرت قيمة الكسر.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الكسور",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الكسور التالية من الأصغر قيمة إلى الأكبر قيمة:",
+      "explanation_en": "When the numerators are the same, the larger the denominator, the smaller the fraction's value.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following fractions from smallest value to largest value:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992bf5ad0a1ac76036123",
+      "created_date": "2026-07-04T23:09:51.997000",
+      "updated_date": "2026-07-04T23:09:51.997000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "بيضة",
+        "يرقة",
+        "شرنقة",
+        "فراشة مكتملة"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Egg",
+        "Larva",
+        "Pupa",
+        "Adult Butterfly"
+      ],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "تمر الفراشة بأربع مراحل للنمو، تبدأ بالبيضة وتنتهي بالحشرة الكاملة.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "رتب خطوات دورة حياة الفراشة بالترتيب الصحيح:",
+      "explanation_en": "A butterfly goes through four growth stages, starting with the egg and ending with the adult insect.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Arrange the stages of a butterfly's life cycle in the correct order:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992bf5ad0a1ac76036124",
+      "created_date": "2026-07-04T23:09:51.997000",
+      "updated_date": "2026-07-04T23:09:51.997000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "1,050",
+        "1,500",
+        "10,500",
+        "15,000"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "1,050",
+        "1,500",
+        "10,500",
+        "15,000"
+      ],
+      "topic_en": "Addition and Subtraction",
+      "explanation_ar": "تتم مقارنة الأعداد بدءاً من المنزلة الكبرى (اليسار) إلى المنزلة الصغرى.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الجمع والطرح",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأعداد التالية من الأصغر إلى الأكبر حسب قيمتها المنزلية:",
+      "explanation_en": "Numbers are compared starting from the largest place value (left) to the smallest.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following numbers from smallest to largest based on place value:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992bf5ad0a1ac76036125",
+      "created_date": "2026-07-04T23:09:51.997000",
+      "updated_date": "2026-07-04T23:09:51.997000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Even and Odd Numbers",
+      "explanation_ar": "الأعداد الزوجية تنتهي بـ (0، 2، 4، 6، 8)، والأعداد الفردية تنتهي بـ (1، 3، 5، 7، 9).",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأعداد الزوجية والفردية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأعداد التالية إلى زوجية أو فردية:",
+      "explanation_en": "Even numbers end in (0, 2, 4, 6, 8), and odd numbers end in (1, 3, 5, 7, 9).",
+      "classify_categories_ar": [
+        "أعداد زوجية",
+        "أعداد فردية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "24"
+        },
+        {
+          "correct_category": 1,
+          "item": "37"
+        },
+        {
+          "correct_category": 0,
+          "item": "50"
+        },
+        {
+          "correct_category": 1,
+          "item": "13"
+        },
+        {
+          "correct_category": 0,
+          "item": "8"
+        }
+      ],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following numbers into Even or Odd:",
+      "classify_categories_en": [
+        "Even Numbers",
+        "Odd Numbers"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "24"
+        },
+        {
+          "correct_category": 1,
+          "item": "37"
+        },
+        {
+          "correct_category": 0,
+          "item": "50"
+        },
+        {
+          "correct_category": 1,
+          "item": "13"
+        },
+        {
+          "correct_category": 0,
+          "item": "8"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4992bf5ad0a1ac76036126",
+      "created_date": "2026-07-04T23:09:51.997000",
+      "updated_date": "2026-07-04T23:09:51.997000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Geometric Shapes",
+      "explanation_ar": "الأشكال المستوية لها طول وعرض فقط، بينما المجسمات لها طول وعرض وارتفاع.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأشكال التالية حسب أبعادها:",
+      "explanation_en": "Plane shapes have only length and width, while solids have length, width, and height.",
+      "classify_categories_ar": [
+        "أشكال ثنائية الأبعاد (مستوية)",
+        "أشكال ثلاثية الأبعاد (مجسمات)"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Square"
+        },
+        {
+          "correct_category": 1,
+          "item": "Cube"
+        },
+        {
+          "correct_category": 0,
+          "item": "Triangle"
+        },
+        {
+          "correct_category": 1,
+          "item": "Sphere"
+        },
+        {
+          "correct_category": 0,
+          "item": "Rectangle"
+        }
+      ],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following shapes according to their dimensions:",
+      "classify_categories_en": [
+        "2D Shapes (Plane)",
+        "3D Shapes (Solids)"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "مربع"
+        },
+        {
+          "correct_category": 1,
+          "item": "مكعب"
+        },
+        {
+          "correct_category": 0,
+          "item": "مثلث"
+        },
+        {
+          "correct_category": 1,
+          "item": "كرة"
+        },
+        {
+          "correct_category": 0,
+          "item": "مستطيل"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4992bf5ad0a1ac76036127",
+      "created_date": "2026-07-04T23:09:51.997000",
+      "updated_date": "2026-07-04T23:09:51.997000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Addition and Subtraction",
+      "explanation_ar": "تقدير نواتج الجمع والطرح يساعدنا في التأكد من معقولية الإجابة.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الجمع والطرح",
+      "matching_pairs_en": [],
+      "question_ar": "صنف نواتج العمليات التالية حسب تقديرها:",
+      "explanation_en": "Estimating the results of addition and subtraction helps us check the reasonableness of the answer.",
+      "classify_categories_ar": [
+        "أكبر من 100",
+        "أصغر من 100"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "50 + 60"
+        },
+        {
+          "correct_category": 1,
+          "item": "120 - 30"
+        },
+        {
+          "correct_category": 0,
+          "item": "80 + 30"
+        },
+        {
+          "correct_category": 1,
+          "item": "95 - 10"
+        }
+      ],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the results of the following operations based on their estimation:",
+      "classify_categories_en": [
+        "Greater than 100",
+        "Less than 100"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "50 + 60"
+        },
+        {
+          "correct_category": 1,
+          "item": "120 - 30"
+        },
+        {
+          "correct_category": 0,
+          "item": "80 + 30"
+        },
+        {
+          "correct_category": 1,
+          "item": "95 - 10"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4992bf5ad0a1ac76036128",
+      "created_date": "2026-07-04T23:09:51.997000",
+      "updated_date": "2026-07-04T23:09:51.997000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "الاسم يدل على إنسان أو جماد أو مكان، والفعل يدل على حدث مرتبط بزمن.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الكلمات التالية حسب نوعها في الجملة:",
+      "explanation_en": "A noun refers to a person, object, or place, while a verb refers to an action linked to time.",
+      "classify_categories_ar": [
+        "اسم",
+        "فعل"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Book"
+        },
+        {
+          "correct_category": 1,
+          "item": "Read"
+        },
+        {
+          "correct_category": 0,
+          "item": "Ahmed"
+        },
+        {
+          "correct_category": 1,
+          "item": "Travelled"
+        },
+        {
+          "correct_category": 0,
+          "item": "School"
+        }
+      ],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following words according to their type in the sentence:",
+      "classify_categories_en": [
+        "Noun",
+        "Verb"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "كتاب"
+        },
+        {
+          "correct_category": 1,
+          "item": "يقرأ"
+        },
+        {
+          "correct_category": 0,
+          "item": "أحمد"
+        },
+        {
+          "correct_category": 1,
+          "item": "سافر"
+        },
+        {
+          "correct_category": 0,
+          "item": "مدرسة"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4992bf5ad0a1ac76036129",
+      "created_date": "2026-07-04T23:09:51.997000",
+      "updated_date": "2026-07-04T23:09:51.997000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    }
+  ]
+}
