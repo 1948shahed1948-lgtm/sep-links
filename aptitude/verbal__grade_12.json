@@ -4,60 +4,6 @@
   "count": 100,
   "questions": [
     {
-      "question_ar": "علي يحب ممارسة الرياضة في ناديه، ويذهب كل يوم في الصباح إلى __________.",
-      "explanation_en": "The correct answer is \"the park\" because Ali practices sports, and the park is an appropriate place for that. The other options are unsuitable as \"the school\" and \"the library\" are not used for practicing sports, and \"his building\" refers to his residence, which doesn’t fit the context of sports.",
-      "options_en": [
-        "the park",
-        "the school",
-        "the library",
-        "his building"
-      ],
-      "topic_index": 3,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Ali loves practicing sports at his club and goes every day in the morning to __________.",
-      "explanation_ar": "الجواب الصحيح هو \"الحديقة\" لأن علي يمارس الرياضة، والحديقة مكان مناسب لذلك. الخيارات الأخرى غير ملائمة لأن المدرسة ومكتبة لا تُستخدم لممارسة الرياضة، وبنايته تشير إلى مكان سكنه ولا تتناسب مع سياق الرياضة.",
-      "options_ar": [
-        "الحديقة",
-        "المدرسة",
-        "مكتبة",
-        "بنايته"
-      ],
-      "id": "6a49890c8ffe87196687d6df",
-      "created_date": "2026-07-04T22:28:28.570000",
-      "updated_date": "2026-07-04T22:28:28.570000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "يعتبر مشروع __________ من المشاريع الناجحة في المدينة لأنه يوفر الكثير من فرص العمل.",
-      "explanation_en": "The correct answer is \"tourism\". Tourism projects often provide many job opportunities. While \"education\", \"health\", and \"marketing\" are significant fields, they do not always have the same impact on job opportunities as tourism projects.",
-      "options_en": [
-        "education",
-        "tourism",
-        "health",
-        "marketing"
-      ],
-      "topic_index": 3,
-      "grade": 12,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "The __________ project is one of the successful projects in the city because it provides many job opportunities.",
-      "explanation_ar": "الجواب الصحيح هو \"السياحة\". المشاريع السياحية توفر غالبًا فرص عمل عديدة. بينما \"التعليم\" و\"الصحة\" و\"التسويق\" قد تكون مجالات مهمة، إلا أنها ليست دائمًا بنفس تأثير المشاريع السياحية من حيث فرص العمل.",
-      "options_ar": [
-        "التعليم",
-        "السياحة",
-        "الصحة",
-        "التسويق"
-      ],
-      "id": "6a49890c8ffe87196687d6e0",
-      "created_date": "2026-07-04T22:28:28.570000",
-      "updated_date": "2026-07-04T22:28:28.570000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
       "question_ar": "تعتبر القراءة __________ لأنها توسع آفاق الفكر وتعزز من الثقافة.",
       "explanation_en": "The correct answer is \"beneficial\" because reading enhances knowledge and culture. The other options are incorrect as \"boring\" implies lack of usefulness, \"difficult\" is not always true, and \"occasional\" does not accurately describe reading.",
       "options_en": [
@@ -79,60 +25,6 @@
         "عارضة"
       ],
       "id": "6a49890c8ffe87196687d6e1",
-      "created_date": "2026-07-04T22:28:28.570000",
-      "updated_date": "2026-07-04T22:28:28.570000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "تقوم المدرسه __________ بتحفيز الطلاب على الإبداع وتنمية مهاراتهم.",
-      "explanation_en": "The correct answer is \"distinguished\" because distinguished schools are known for encouraging creativity. The other options are incorrect as \"regular\" may not provide that, \"failed\" implies failure, and \"other\" does not give a clear idea.",
-      "options_en": [
-        "regular",
-        "failed",
-        "distinguished",
-        "other"
-      ],
-      "topic_index": 3,
-      "grade": 12,
-      "correct_answer": "2",
-      "section": "verbal",
-      "question_en": "The __________ school encourages students to be creative and develop their skills.",
-      "explanation_ar": "الجواب الصحيح هو \"المتميزة\" لأن المدارس المتميزة تعرف بتحفيز الإبداع. الخيارات الأخرى غير صحيحة لأن \"العادية\" قد لا توفر ذلك و\"الفاشلة\" تُشير إلى الفشل، و\"الأخرى\" لا تعطي فكرة واضحة.",
-      "options_ar": [
-        "العادية",
-        "الفاشلة",
-        "المتميزة",
-        "الأخرى"
-      ],
-      "id": "6a49890c8ffe87196687d6e2",
-      "created_date": "2026-07-04T22:28:28.570000",
-      "updated_date": "2026-07-04T22:28:28.570000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "يستخدم المهندسون __________ لإجراء حساباتهم وتحليل تصاميمهم.",
-      "explanation_en": "The correct answer is \"the computer\" because engineers rely on it for calculations. The option \"the camera\" is illogical, and while \"the paper\" and \"the books\" may be used, they are not as efficient.",
-      "options_en": [
-        "the camera",
-        "the computer",
-        "the paper",
-        "the books"
-      ],
-      "topic_index": 3,
-      "grade": 12,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "Engineers use __________ to perform their calculations and analyze their designs.",
-      "explanation_ar": "الجواب الصحيح هو \"الحاسوب\" لأن المهندسين يعتمدون عليه في الحسابات. الخيار \"الكاميرا\" غير منطقي، و\"الورقة\" و\"الكتب\" قد تستخدم لكن ليس بنفس الكفاءة.",
-      "options_ar": [
-        "الكاميرا",
-        "الحاسوب",
-        "الورقة",
-        "الكتب"
-      ],
-      "id": "6a49890c8ffe87196687d6e3",
       "created_date": "2026-07-04T22:28:28.570000",
       "updated_date": "2026-07-04T22:28:28.570000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -166,6 +58,222 @@
       "is_sample": false
     },
     {
+      "question_ar": "ما هو الخيار الغير منطقي في الجملة التالية؟",
+      "explanation_en": "The sentence 'I ate the clock because I was hungry' is illogical, as a clock is not food.",
+      "options_en": [
+        "I passed the math test.",
+        "I ate the clock because I was hungry.",
+        "I walked in the quiet garden.",
+        "I wrote a letter to my friend."
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "Which option is illogical in the following sentence?",
+      "explanation_ar": "العبارة 'أكلت الساعة لأنني كنت جائعاً' غير منطقية، لأن الساعة ليست طعاماً.",
+      "options_ar": [
+        "نجحت في اختبار الرياضيات.",
+        "أكلت الساعة لأنني كنت جائعاً.",
+        "مشيت في الحديقة الهادئة.",
+        "كتبت رسالة لصديقي."
+      ],
+      "id": "6a49890c8ffe87196687d6e9",
+      "created_date": "2026-07-04T22:28:28.570000",
+      "updated_date": "2026-07-04T22:28:28.570000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "كان اليوم مشمساً ومشرقاً، لذا قررنا الذهاب إلى __________.",
+      "explanation_en": "The correct answer is 'the garden' as sunny and bright weather encourages outdoor activities. The other options 'school', 'home', and 'the library' do not fit the idea of enjoying a beautiful day outside.",
+      "options_en": [
+        "school",
+        "the garden",
+        "home",
+        "the library"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "It was a sunny and bright day, so we decided to go to __________.",
+      "explanation_ar": "الإجابة الصحيحة هي \"الحديقة\" حيث أن الطقس المشمس والمشرق يشجع على الخروج إلى الأماكن المفتوحة. الخيارات الأخرى \"المدرسة\" و\"البيت\" و\"المكتبة\" لا تتناسب مع النشاطات الخارجية في يوم جميل.",
+      "options_ar": [
+        "المدرسة",
+        "الحديقة",
+        "البيت",
+        "المكتبة"
+      ],
+      "id": "6a49890c8ffe87196687d6f0",
+      "created_date": "2026-07-04T22:28:28.570000",
+      "updated_date": "2026-07-04T22:28:28.570000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أي من الخيارات التالية يعبر عن فكرة غير صحيحة؟",
+      "explanation_en": "The sentence 'The song was amazing' expresses a correct idea, but individual feelings about rain may vary.",
+      "options_en": [
+        "The song was amazing.",
+        "I hate rain.",
+        "The lion is the king of the jungle.",
+        "The bee flies in the sky."
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "Which of the following options expresses an incorrect idea?",
+      "explanation_ar": "العبارة 'الأغنية كانت رائعة' تعبر عن فكرة صحيحة، لكن الانطباع الشخصي للكره للمطر قد يختلف.",
+      "options_ar": [
+        "الأغنية كانت رائعة.",
+        "أنا أكره المطر.",
+        "الأسد ملك الغابة.",
+        "النحلة تحلق في السماء."
+      ],
+      "id": "6a49890c8ffe87196687d6eb",
+      "created_date": "2026-07-04T22:28:28.570000",
+      "updated_date": "2026-07-04T22:28:28.570000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هي العبارة الغير صحيحة من الناحية اللغوية؟",
+      "explanation_en": "The sentence 'The sun rises from the west' is incorrect, as the sun rises from the east.",
+      "options_en": [
+        "I study at the university.",
+        "My hobby is drawing with friends.",
+        "He talks a lot on the phone.",
+        "The sun rises from the west."
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "3",
+      "section": "verbal",
+      "question_en": "Which statement is linguistically incorrect?",
+      "explanation_ar": "العبارة 'الشمس يشرق من الغرب' غير صحيحة، لأن الشمس تشرق من الشرق.",
+      "options_ar": [
+        "أنا أدرس في الجامعة.",
+        "هوايتي الرسم مع الأصدقاء.",
+        "هو يتحدث كثيراً في الهاتف.",
+        "الشمس يشرق من الغرب."
+      ],
+      "id": "6a49890c8ffe87196687d6ea",
+      "created_date": "2026-07-04T22:28:28.570000",
+      "updated_date": "2026-07-04T22:28:28.570000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "تقوم المدرسه __________ بتحفيز الطلاب على الإبداع وتنمية مهاراتهم.",
+      "explanation_en": "The correct answer is \"distinguished\" because distinguished schools are known for encouraging creativity. The other options are incorrect as \"regular\" may not provide that, \"failed\" implies failure, and \"other\" does not give a clear idea.",
+      "options_en": [
+        "regular",
+        "failed",
+        "distinguished",
+        "other"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "verbal",
+      "question_en": "The __________ school encourages students to be creative and develop their skills.",
+      "explanation_ar": "الجواب الصحيح هو \"المتميزة\" لأن المدارس المتميزة تعرف بتحفيز الإبداع. الخيارات الأخرى غير صحيحة لأن \"العادية\" قد لا توفر ذلك و\"الفاشلة\" تُشير إلى الفشل، و\"الأخرى\" لا تعطي فكرة واضحة.",
+      "options_ar": [
+        "العادية",
+        "الفاشلة",
+        "المتميزة",
+        "الأخرى"
+      ],
+      "id": "6a49890c8ffe87196687d6e2",
+      "created_date": "2026-07-04T22:28:28.570000",
+      "updated_date": "2026-07-04T22:28:28.570000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أي الخيارين يُحدث تناقضاً في المعنى؟",
+      "explanation_en": "The sentence 'The sky rains in summer' may create a contradiction as summer typically is not associated with rain.",
+      "options_en": [
+        "The sunset remains beautiful.",
+        "The moons shine in the night.",
+        "The sky rains in summer.",
+        "The winds blow gently."
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "verbal",
+      "question_en": "Which of the following options creates a contradiction in meaning?",
+      "explanation_ar": "العبارة 'السماء تمطر في الصيف' قد تحتوي على تناقض حيث أن الصيف عادةً لا يرتبط بالأمطار.",
+      "options_ar": [
+        "الغروب يظل جميلاً.",
+        "الأقمار المضيئة في الليل.",
+        "السماء تمطر في الصيف.",
+        "الرياح تهب بهدوء."
+      ],
+      "id": "6a49890c8ffe87196687d6ec",
+      "created_date": "2026-07-04T22:28:28.570000",
+      "updated_date": "2026-07-04T22:28:28.570000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان المدرس قد أعطى الطلاب مئة كتاب، فإن الطلاب __________ في قراءة تلك الكتب.",
+      "explanation_en": "The correct answer is 'were excited' as it reflects a positive reaction to receiving a large number of books. The other options 'prepared', 'surrendered', and 'ignored' do not fit the expected positive context of students receiving books.",
+      "options_en": [
+        "prepared",
+        "surrendered",
+        "were excited",
+        "ignored"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "verbal",
+      "question_en": "If the teacher gave the students one hundred books, the students __________ in reading those books.",
+      "explanation_ar": "الإجابة الصحيحة هي \"تحمسوا\" لأنها تعبر عن رد فعل إيجابي تجاه تلقي عدد كبير من الكتب. الخيارات الأخرى \"استعدوا\" و\"استسلموا\" و\"تجاهلوا\" لا تتناسب مع السياق الإيجابي المتوقع من الطلاب عند تلقي الكتب.",
+      "options_ar": [
+        "استعدوا",
+        "استسلموا",
+        "تحمسوا",
+        "تجاهلوا"
+      ],
+      "id": "6a49890c8ffe87196687d6ef",
+      "created_date": "2026-07-04T22:28:28.570000",
+      "updated_date": "2026-07-04T22:28:28.570000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أي من الجمل التالية تحتوي على خطأ في المعنى؟",
+      "explanation_en": "The sentence 'I love reading underwater' contains a meaning error because reading underwater is practically impossible.",
+      "options_en": [
+        "I love oranges because they are delicious.",
+        "Life without music is boring.",
+        "The moon is lit by stars.",
+        "I love reading underwater."
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "3",
+      "section": "verbal",
+      "question_en": "Which of the following sentences contains a meaning error?",
+      "explanation_ar": "العبارة 'أحب القراءة تحت الماء' تحتوي على خطأ في المعنى لأن القراءة تحت الماء غير ممكنة عملياً.",
+      "options_ar": [
+        "أحب البرتقال لأنه لذيذ.",
+        "الحياة بدون الموسيقى مملة.",
+        "القمر مضاء بالنجوم.",
+        "أحب القراءة تحت الماء."
+      ],
+      "id": "6a49890c8ffe87196687d6e8",
+      "created_date": "2026-07-04T22:28:28.570000",
+      "updated_date": "2026-07-04T22:28:28.570000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
       "question_ar": "تُعتبر الفنون __________ في التعبير عن المشاعر والأفكار بطريقة فريدة.",
       "explanation_en": "The correct answer is \"important\" because the arts play a vital role in expression. The other options may not reflect the true importance of the arts.",
       "options_en": [
@@ -187,6 +295,60 @@
         "فوضوية"
       ],
       "id": "6a49890c8ffe87196687d6e5",
+      "created_date": "2026-07-04T22:28:28.570000",
+      "updated_date": "2026-07-04T22:28:28.570000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "يستخدم المهندسون __________ لإجراء حساباتهم وتحليل تصاميمهم.",
+      "explanation_en": "The correct answer is \"the computer\" because engineers rely on it for calculations. The option \"the camera\" is illogical, and while \"the paper\" and \"the books\" may be used, they are not as efficient.",
+      "options_en": [
+        "the camera",
+        "the computer",
+        "the paper",
+        "the books"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "Engineers use __________ to perform their calculations and analyze their designs.",
+      "explanation_ar": "الجواب الصحيح هو \"الحاسوب\" لأن المهندسين يعتمدون عليه في الحسابات. الخيار \"الكاميرا\" غير منطقي، و\"الورقة\" و\"الكتب\" قد تستخدم لكن ليس بنفس الكفاءة.",
+      "options_ar": [
+        "الكاميرا",
+        "الحاسوب",
+        "الورقة",
+        "الكتب"
+      ],
+      "id": "6a49890c8ffe87196687d6e3",
+      "created_date": "2026-07-04T22:28:28.570000",
+      "updated_date": "2026-07-04T22:28:28.570000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "يعتبر مشروع __________ من المشاريع الناجحة في المدينة لأنه يوفر الكثير من فرص العمل.",
+      "explanation_en": "The correct answer is \"tourism\". Tourism projects often provide many job opportunities. While \"education\", \"health\", and \"marketing\" are significant fields, they do not always have the same impact on job opportunities as tourism projects.",
+      "options_en": [
+        "education",
+        "tourism",
+        "health",
+        "marketing"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "The __________ project is one of the successful projects in the city because it provides many job opportunities.",
+      "explanation_ar": "الجواب الصحيح هو \"السياحة\". المشاريع السياحية توفر غالبًا فرص عمل عديدة. بينما \"التعليم\" و\"الصحة\" و\"التسويق\" قد تكون مجالات مهمة، إلا أنها ليست دائمًا بنفس تأثير المشاريع السياحية من حيث فرص العمل.",
+      "options_ar": [
+        "التعليم",
+        "السياحة",
+        "الصحة",
+        "التسويق"
+      ],
+      "id": "6a49890c8ffe87196687d6e0",
       "created_date": "2026-07-04T22:28:28.570000",
       "updated_date": "2026-07-04T22:28:28.570000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -247,141 +409,6 @@
       "is_sample": false
     },
     {
-      "question_ar": "أي من الجمل التالية تحتوي على خطأ في المعنى؟",
-      "explanation_en": "The sentence 'I love reading underwater' contains a meaning error because reading underwater is practically impossible.",
-      "options_en": [
-        "I love oranges because they are delicious.",
-        "Life without music is boring.",
-        "The moon is lit by stars.",
-        "I love reading underwater."
-      ],
-      "topic_index": 3,
-      "grade": 12,
-      "correct_answer": "3",
-      "section": "verbal",
-      "question_en": "Which of the following sentences contains a meaning error?",
-      "explanation_ar": "العبارة 'أحب القراءة تحت الماء' تحتوي على خطأ في المعنى لأن القراءة تحت الماء غير ممكنة عملياً.",
-      "options_ar": [
-        "أحب البرتقال لأنه لذيذ.",
-        "الحياة بدون الموسيقى مملة.",
-        "القمر مضاء بالنجوم.",
-        "أحب القراءة تحت الماء."
-      ],
-      "id": "6a49890c8ffe87196687d6e8",
-      "created_date": "2026-07-04T22:28:28.570000",
-      "updated_date": "2026-07-04T22:28:28.570000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما هو الخيار الغير منطقي في الجملة التالية؟",
-      "explanation_en": "The sentence 'I ate the clock because I was hungry' is illogical, as a clock is not food.",
-      "options_en": [
-        "I passed the math test.",
-        "I ate the clock because I was hungry.",
-        "I walked in the quiet garden.",
-        "I wrote a letter to my friend."
-      ],
-      "topic_index": 3,
-      "grade": 12,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "Which option is illogical in the following sentence?",
-      "explanation_ar": "العبارة 'أكلت الساعة لأنني كنت جائعاً' غير منطقية، لأن الساعة ليست طعاماً.",
-      "options_ar": [
-        "نجحت في اختبار الرياضيات.",
-        "أكلت الساعة لأنني كنت جائعاً.",
-        "مشيت في الحديقة الهادئة.",
-        "كتبت رسالة لصديقي."
-      ],
-      "id": "6a49890c8ffe87196687d6e9",
-      "created_date": "2026-07-04T22:28:28.570000",
-      "updated_date": "2026-07-04T22:28:28.570000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما هي العبارة الغير صحيحة من الناحية اللغوية؟",
-      "explanation_en": "The sentence 'The sun rises from the west' is incorrect, as the sun rises from the east.",
-      "options_en": [
-        "I study at the university.",
-        "My hobby is drawing with friends.",
-        "He talks a lot on the phone.",
-        "The sun rises from the west."
-      ],
-      "topic_index": 3,
-      "grade": 12,
-      "correct_answer": "3",
-      "section": "verbal",
-      "question_en": "Which statement is linguistically incorrect?",
-      "explanation_ar": "العبارة 'الشمس يشرق من الغرب' غير صحيحة، لأن الشمس تشرق من الشرق.",
-      "options_ar": [
-        "أنا أدرس في الجامعة.",
-        "هوايتي الرسم مع الأصدقاء.",
-        "هو يتحدث كثيراً في الهاتف.",
-        "الشمس يشرق من الغرب."
-      ],
-      "id": "6a49890c8ffe87196687d6ea",
-      "created_date": "2026-07-04T22:28:28.570000",
-      "updated_date": "2026-07-04T22:28:28.570000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أي من الخيارات التالية يعبر عن فكرة غير صحيحة؟",
-      "explanation_en": "The sentence 'The song was amazing' expresses a correct idea, but individual feelings about rain may vary.",
-      "options_en": [
-        "The song was amazing.",
-        "I hate rain.",
-        "The lion is the king of the jungle.",
-        "The bee flies in the sky."
-      ],
-      "topic_index": 3,
-      "grade": 12,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "Which of the following options expresses an incorrect idea?",
-      "explanation_ar": "العبارة 'الأغنية كانت رائعة' تعبر عن فكرة صحيحة، لكن الانطباع الشخصي للكره للمطر قد يختلف.",
-      "options_ar": [
-        "الأغنية كانت رائعة.",
-        "أنا أكره المطر.",
-        "الأسد ملك الغابة.",
-        "النحلة تحلق في السماء."
-      ],
-      "id": "6a49890c8ffe87196687d6eb",
-      "created_date": "2026-07-04T22:28:28.570000",
-      "updated_date": "2026-07-04T22:28:28.570000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أي الخيارين يُحدث تناقضاً في المعنى؟",
-      "explanation_en": "The sentence 'The sky rains in summer' may create a contradiction as summer typically is not associated with rain.",
-      "options_en": [
-        "The sunset remains beautiful.",
-        "The moons shine in the night.",
-        "The sky rains in summer.",
-        "The winds blow gently."
-      ],
-      "topic_index": 3,
-      "grade": 12,
-      "correct_answer": "2",
-      "section": "verbal",
-      "question_en": "Which of the following options creates a contradiction in meaning?",
-      "explanation_ar": "العبارة 'السماء تمطر في الصيف' قد تحتوي على تناقض حيث أن الصيف عادةً لا يرتبط بالأمطار.",
-      "options_ar": [
-        "الغروب يظل جميلاً.",
-        "الأقمار المضيئة في الليل.",
-        "السماء تمطر في الصيف.",
-        "الرياح تهب بهدوء."
-      ],
-      "id": "6a49890c8ffe87196687d6ec",
-      "created_date": "2026-07-04T22:28:28.570000",
-      "updated_date": "2026-07-04T22:28:28.570000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
       "question_ar": "أي من الجمل التالية مفهومها خاطئ؟",
       "explanation_en": "The sentence 'The cold makes trees green' is incorrect because warmth is what encourages trees to grow and become green.",
       "options_en": [
@@ -403,87 +430,6 @@
         "السماء زرقاء في النهار."
       ],
       "id": "6a49890c8ffe87196687d6ed",
-      "created_date": "2026-07-04T22:28:28.570000",
-      "updated_date": "2026-07-04T22:28:28.570000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما هو الخيار الخاطئ في الجملة التالية؟",
-      "explanation_en": "The sentence 'The house plays outside' is incorrect because a house is an inanimate object and cannot play.",
-      "options_en": [
-        "Time is like a sword; if you don't cut it, it will cut you.",
-        "The star shines in the sky.",
-        "The book is beautiful.",
-        "The house plays outside."
-      ],
-      "topic_index": 3,
-      "grade": 12,
-      "correct_answer": "3",
-      "section": "verbal",
-      "question_en": "What is the incorrect option in the following sentence?",
-      "explanation_ar": "العبارة 'البيت يلعب في الخارج' خاطئة لأن البيت كائن غير حي ولا يمكنه اللعب.",
-      "options_ar": [
-        "الوقت كالسيف إن لم تقطعه قطعك.",
-        "النجم يلمع في السماء.",
-        "الكتاب جميل             .",
-        "البيت يلعب في الخارج."
-      ],
-      "id": "6a49890c8ffe87196687d6ee",
-      "created_date": "2026-07-04T22:28:28.570000",
-      "updated_date": "2026-07-04T22:28:28.570000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "إذا كان المدرس قد أعطى الطلاب مئة كتاب، فإن الطلاب __________ في قراءة تلك الكتب.",
-      "explanation_en": "The correct answer is 'were excited' as it reflects a positive reaction to receiving a large number of books. The other options 'prepared', 'surrendered', and 'ignored' do not fit the expected positive context of students receiving books.",
-      "options_en": [
-        "prepared",
-        "surrendered",
-        "were excited",
-        "ignored"
-      ],
-      "topic_index": 3,
-      "grade": 12,
-      "correct_answer": "2",
-      "section": "verbal",
-      "question_en": "If the teacher gave the students one hundred books, the students __________ in reading those books.",
-      "explanation_ar": "الإجابة الصحيحة هي \"تحمسوا\" لأنها تعبر عن رد فعل إيجابي تجاه تلقي عدد كبير من الكتب. الخيارات الأخرى \"استعدوا\" و\"استسلموا\" و\"تجاهلوا\" لا تتناسب مع السياق الإيجابي المتوقع من الطلاب عند تلقي الكتب.",
-      "options_ar": [
-        "استعدوا",
-        "استسلموا",
-        "تحمسوا",
-        "تجاهلوا"
-      ],
-      "id": "6a49890c8ffe87196687d6ef",
-      "created_date": "2026-07-04T22:28:28.570000",
-      "updated_date": "2026-07-04T22:28:28.570000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "كان اليوم مشمساً ومشرقاً، لذا قررنا الذهاب إلى __________.",
-      "explanation_en": "The correct answer is 'the garden' as sunny and bright weather encourages outdoor activities. The other options 'school', 'home', and 'the library' do not fit the idea of enjoying a beautiful day outside.",
-      "options_en": [
-        "school",
-        "the garden",
-        "home",
-        "the library"
-      ],
-      "topic_index": 3,
-      "grade": 12,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "It was a sunny and bright day, so we decided to go to __________.",
-      "explanation_ar": "الإجابة الصحيحة هي \"الحديقة\" حيث أن الطقس المشمس والمشرق يشجع على الخروج إلى الأماكن المفتوحة. الخيارات الأخرى \"المدرسة\" و\"البيت\" و\"المكتبة\" لا تتناسب مع النشاطات الخارجية في يوم جميل.",
-      "options_ar": [
-        "المدرسة",
-        "الحديقة",
-        "البيت",
-        "المكتبة"
-      ],
-      "id": "6a49890c8ffe87196687d6f0",
       "created_date": "2026-07-04T22:28:28.570000",
       "updated_date": "2026-07-04T22:28:28.570000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -544,407 +490,56 @@
       "is_sample": false
     },
     {
-      "question_ar": "أكمل الجملة: إن الثقافة تعد __________ في بناء الهوية الوطنية.",
-      "explanation_en": "The correct answer is \"a fundamental element\" because culture plays a crucial role in shaping national identities, while the other options do not accurately reflect this meaning.",
+      "question_ar": "علي يحب ممارسة الرياضة في ناديه، ويذهب كل يوم في الصباح إلى __________.",
+      "explanation_en": "The correct answer is \"the park\" because Ali practices sports, and the park is an appropriate place for that. The other options are unsuitable as \"the school\" and \"the library\" are not used for practicing sports, and \"his building\" refers to his residence, which doesn’t fit the context of sports.",
       "options_en": [
-        "a fundamental element",
-        "just a tradition",
-        "a tool for entertainment",
-        "a passing phenomenon"
+        "the park",
+        "the school",
+        "the library",
+        "his building"
       ],
-      "topic_index": 1,
+      "topic_index": 3,
       "grade": 12,
       "correct_answer": "0",
       "section": "verbal",
-      "question_en": "Complete the sentence: Culture is considered __________ in building national identity.",
-      "explanation_ar": "الإجابة الصحيحة هي \"عنصراً أساسياً\" لأن الثقافة تلعب دوراً جوهرياً في تشكيل الهويات الوطنية، بينما الخيارات الأخرى لا تعكس ذلك المعنى بشكل صحيح.",
+      "question_en": "Ali loves practicing sports at his club and goes every day in the morning to __________.",
+      "explanation_ar": "الجواب الصحيح هو \"الحديقة\" لأن علي يمارس الرياضة، والحديقة مكان مناسب لذلك. الخيارات الأخرى غير ملائمة لأن المدرسة ومكتبة لا تُستخدم لممارسة الرياضة، وبنايته تشير إلى مكان سكنه ولا تتناسب مع سياق الرياضة.",
       "options_ar": [
-        "عنصراً أساسياً",
-        "مجرد تقليد",
-        "أداة للترفيه",
-        "ظاهرة عابرة"
+        "الحديقة",
+        "المدرسة",
+        "مكتبة",
+        "بنايته"
       ],
-      "id": "6a49890b19e619b208f4461e",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
+      "id": "6a49890c8ffe87196687d6df",
+      "created_date": "2026-07-04T22:28:28.570000",
+      "updated_date": "2026-07-04T22:28:28.570000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
-      "question_ar": "الجملة التالية تحتاج إلى إكمال: __________ بالأداء الجيد يعكس التزام الفرد.",
-      "explanation_en": "The correct answer is \"Exhibiting\", because exhibiting good performance is what demonstrates commitment. The other options do not fit the meaning of the sentence.",
+      "question_ar": "ما هو الخيار الخاطئ في الجملة التالية؟",
+      "explanation_en": "The sentence 'The house plays outside' is incorrect because a house is an inanimate object and cannot play.",
       "options_en": [
-        "Exhibiting",
-        "Skills",
-        "Learning",
-        "Adapting"
+        "Time is like a sword; if you don't cut it, it will cut you.",
+        "The star shines in the sky.",
+        "The book is beautiful.",
+        "The house plays outside."
       ],
-      "topic_index": 1,
+      "topic_index": 3,
       "grade": 12,
-      "correct_answer": "0",
+      "correct_answer": "3",
       "section": "verbal",
-      "question_en": "The following sentence needs to be completed: __________ with good performance reflects the individual's commitment.",
-      "explanation_ar": "الإجابة الصحيحة هي \"التحلي\"، لأن التحلي بالأداء الجيد هو ما يظهر الالتزام. بينما الخيارات الأخرى لا تتناسب مع معنى الجملة.",
+      "question_en": "What is the incorrect option in the following sentence?",
+      "explanation_ar": "العبارة 'البيت يلعب في الخارج' خاطئة لأن البيت كائن غير حي ولا يمكنه اللعب.",
       "options_ar": [
-        "التحلي",
-        "المهارات",
-        "التعلم",
-        "التكيف"
+        "الوقت كالسيف إن لم تقطعه قطعك.",
+        "النجم يلمع في السماء.",
+        "الكتاب جميل             .",
+        "البيت يلعب في الخارج."
       ],
-      "id": "6a49890b19e619b208f4461f",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "اختار الكلمة المناسبة: يعتبر __________ من أهم الأسباب لتطور المجتمعات.",
-      "explanation_en": "The correct answer is \"Education\" because it is considered the basis for development and innovation in societies. The other options do not reflect the same level of importance.",
-      "options_en": [
-        "Education",
-        "Happiness",
-        "Comfort",
-        "Stability"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Choose the appropriate word: __________ is considered one of the most important reasons for societal development.",
-      "explanation_ar": "الإجابة الصحيحة هي \"التعليم\" لأنه يعتبر أساس التطور والابتكار في المجتمعات. الخيارات الأخرى لا تعكس الأهمية ذاتها.",
-      "options_ar": [
-        "التعليم",
-        "السعادة",
-        "الراحة",
-        "الاستقرار"
-      ],
-      "id": "6a49890b19e619b208f44620",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أكمل الجملة: إن الابتكار __________ لتحقيق الأهداف والطموحات.",
-      "explanation_en": "The correct answer is \"is essential\", because innovation is one of the key factors for achieving goals. The other options convey incorrect meanings.",
-      "options_en": [
-        "is essential",
-        "is not required",
-        "is negative",
-        "is trivial"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Complete the sentence: Innovation __________ to achieve goals and aspirations.",
-      "explanation_ar": "الإجابة الصحيحة هي \"ضروري\"، لأن الابتكار يعد من العوامل الضرورية للوصول إلى الأهداف. الخيارات الأخرى تعطي معاني خاطئة.",
-      "options_ar": [
-        "ضروري",
-        "غير مطلوب",
-        "سلبي",
-        "تافه"
-      ],
-      "id": "6a49890b19e619b208f44621",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "اختر الكلمة الصحيحة: الإنسان __________ بتجاربه ومهاراته في الحياة.",
-      "explanation_en": "The correct answer is \"is shaped\", because experiences and skills shape a person's character. The other options do not convey the concept accurately.",
-      "options_en": [
-        "is shaped",
-        "gets away",
-        "hides",
-        "comes closer"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Choose the correct word: A person __________ by their experiences and skills in life.",
-      "explanation_ar": "الإجابة الصحيحة هي \"يتشكل\"، لأن التجارب والمهارات تشكل شخصية الإنسان. الخيارات الأخرى لا تعكس المفهوم بشكل صحيح.",
-      "options_ar": [
-        "يتشكل",
-        "يبتعد",
-        "يختبئ",
-        "يقترب"
-      ],
-      "id": "6a49890b19e619b208f44622",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أكمل الجملة: إن الحوار __________ من وسائل تعزيز التفاهم بين الثقافات.",
-      "explanation_en": "The correct answer is \"is considered\", because dialogue is a means that enhances understanding and communication. The other options do not express the importance of dialogue.",
-      "options_en": [
-        "is considered",
-        "imposes",
-        "prevents",
-        "hides"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Complete the sentence: Dialogue __________ is one of the means to enhance understanding between cultures.",
-      "explanation_ar": "الإجابة الصحيحة هي \"يعتبر\"، لأن الحوار هو وسيلة تُعزز من التفاهم والتواصل. الخيارات الأخرى لا تعبر عن أهمية الحوار.",
-      "options_ar": [
-        "يعتبر",
-        "يفرض",
-        "يمنع",
-        "يخفي"
-      ],
-      "id": "6a49890b19e619b208f44623",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "اختار الإجابة المناسبة: الموت هو __________ في دورة الحياة.",
-      "explanation_en": "The correct answer is \"a natural phase\", because death is an integral part of the life cycle. The other options reflect incorrect concepts.",
-      "options_en": [
-        "a natural phase",
-        "a surprise",
-        "a happy ending",
-        "a result of failure"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Choose the appropriate answer: Death is __________ in the cycle of life.",
-      "explanation_ar": "الإجابة الصحيحة هي \"مرحلة طبيعية\"، لأن الموت جزء لا يتجزأ من دورة الحياة. الخيارات الأخرى تعكس مفاهيم غير صحيحة.",
-      "options_ar": [
-        "مرحلة طبيعية",
-        "مفاجأة",
-        "خاتمة سعيدة",
-        "نتيجة للفشل"
-      ],
-      "id": "6a49890b19e619b208f44624",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أكمل الجملة: يمكن أن يكون __________ في بعض الأحيان سبباً للصراعات.",
-      "explanation_en": "The correct answer is \"Money\", as money is often used as a cause of conflicts and disputes among individuals and nations. The other options do not reflect that meaning.",
-      "options_en": [
-        "Money",
-        "Love",
-        "Peace",
-        "Hope"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Complete the sentence: __________ can sometimes be a cause of conflicts.",
-      "explanation_ar": "الإجابة الصحيحة هي \"المال\"، حيث يُستخدم المال كسبب للصراعات والنزاعات بين الأفراد والشعوب. الخيارات الأخرى لا تعكس ذلك المعنى.",
-      "options_ar": [
-        "المال",
-        "الحب",
-        "السلام",
-        "الأمل"
-      ],
-      "id": "6a49890b19e619b208f44625",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أكمل الجملة: أراد الطالب أن يحصل على درجات مرتفعة، لذا قام بالتحضير ____ للامتحانات.",
-      "explanation_en": "The correct answer is 'Well' because good preparation is what helps the student achieve high grades. The other options reflect negative or ineffective behaviors in preparation.",
-      "options_en": [
-        "Well",
-        "Badly",
-        "Without effort",
-        "Quickly"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Complete the sentence: The student wanted to achieve high grades, so he prepared ____ for the exams.",
-      "explanation_ar": "الإجابة الصحيحة هي 'جيداً' لأن التحضير الجيد هو ما يساعد الطالب في تحقيق الدرجات المرتفعة. الخيارات الأخرى تعكس سلوكيات سلبية أو غير فعالة في التحضير.",
-      "options_ar": [
-        "جيداً",
-        "سيئاً",
-        "بلا جهد",
-        "بسرعة"
-      ],
-      "id": "6a49890b19e619b208f44626",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أكمل الجملة: كان الحفل ناجحاً جداً، مما جعل الجميع يشعرون ____.",
-      "explanation_en": "The correct answer is 'Joyful' because the success of the party typically leads to positive feelings and expressions of joy. The other options reflect negative feelings that do not correspond to the success of the party.",
-      "options_en": [
-        "Joyful",
-        "Scared",
-        "Annoyed",
-        "Bored"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Complete the sentence: The party was very successful, which made everyone feel ____.",
-      "explanation_ar": "الإجابة الصحيحة هي 'بالفرح' لأن نجاح الحفل عادة ما يؤدي إلى مشاعر إيجابية وصراخ للفرح. الخيارات الأخرى تعكس مشاعر سلبية لا تتناسب مع نجاح الحفل.",
-      "options_ar": [
-        "بالفرح",
-        "بالخوف",
-        "بالضيق",
-        "بالملل"
-      ],
-      "id": "6a49890b19e619b208f44627",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أكمل الجملة: بالرغم من الصعوبات، استمر في العمل ____ لتحقيق أهدافه.",
-      "explanation_en": "The correct answer is 'Diligently' because continuing to work diligently aids in achieving goals. The other options suggest unproductive behaviors.",
-      "options_en": [
-        "Diligently",
-        "Anxiously",
-        "Hastily",
-        "Neglectfully"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Complete the sentence: Despite the difficulties, he continued to work ____ to achieve his goals.",
-      "explanation_ar": "الإجابة الصحيحة هي 'بجدية' لأن الاستمرار في العمل بجدية يساعد في تحقيق الأهداف. الخيارات الأخرى توحي بسلوكيات غير مثمرة.",
-      "options_ar": [
-        "بجدية",
-        "بقلق",
-        "بتسرع",
-        "بإهمال"
-      ],
-      "id": "6a49890b19e619b208f44628",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أكمل الجملة: في عالم التكنولوجيا، يجب على الجميع أن يكونوا ____ لمواكبة التطورات.",
-      "explanation_en": "The correct answer is 'Flexible' because adaptability to changes is a key part of the technology world. The other options imply an inability to adapt.",
-      "options_en": [
-        "Flexible",
-        "Persevering",
-        "Lazy",
-        "Content"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Complete the sentence: In the world of technology, everyone must be ____ to keep up with the developments.",
-      "explanation_ar": "الإجابة الصحيحة هي 'مرنين' لأن التكيف مع التغييرات هو جزء أساسي من عالم التكنولوجيا. الخيارات الأخرى تشير إلى عدم القدرة على التكيف.",
-      "options_ar": [
-        "مرنين",
-        "مثابرين",
-        "كسالى",
-        "مكتفين"
-      ],
-      "id": "6a49890b19e619b208f44629",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أكمل الجملة: كانت الرواية مثيرة للاهتمام، حيث تناولت ____ جديدة لم يتم تناولها من قبل.",
-      "explanation_en": "The correct answer is 'Topics' as it refers to content addressing new issues. The other options are not accurate in this context.",
-      "options_en": [
-        "Topics",
-        "Myths",
-        "Stories",
-        "Movies"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Complete the sentence: The novel was interesting as it addressed ____ new that had not been addressed before.",
-      "explanation_ar": "الإجابة الصحيحة هي 'مواضيع' لأنه يشير إلى المحتوى الذي يتناول قضايا جديدة. الخيارات الأخرى ليست دقيقة في هذا السياق.",
-      "options_ar": [
-        "مواضيع",
-        "خرافات",
-        "قصص",
-        "أفلام"
-      ],
-      "id": "6a49890b19e619b208f4462a",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أكمل الجملة: تميز الفريق في اللعبة بسبب ____ التكتيكات التي اتبعوها.",
-      "explanation_en": "The correct answer is 'Smart' because smart tactics lead to the team's success in the game. The other options suggest ineffective strategies.",
-      "options_en": [
-        "Smart",
-        "Simple",
-        "Random",
-        "Unclear"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Complete the sentence: The team excelled in the game due to the ____ tactics they followed.",
-      "explanation_ar": "الإجابة الصحيحة هي 'الذكية' لأن التكتيكات الذكية تؤدي إلى نجاح الفريق في اللعبة. الخيارات الأخرى تشير إلى أساليب غير فعالة.",
-      "options_ar": [
-        "الذكية",
-        "البسيطة",
-        "العشوائية",
-        "غير المفهومة"
-      ],
-      "id": "6a49890b19e619b208f4462b",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أكمل الجملة: يستخدم الفنانون الألوان ____ للتعبير عن مشاعرهم.",
-      "explanation_en": "The correct answer is 'Intensively' because using colors intensively expresses feelings more strongly. The other options do not reflect an effective way to use colors.",
-      "options_en": [
-        "Intensively",
-        "Randomly",
-        "Healthily",
-        "Boringly"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Complete the sentence: Artists use colors ____ to express their feelings.",
-      "explanation_ar": "الإجابة الصحيحة هي 'بشكل مكثف' لأن استخدام الألوان بشكل مكثف يعبر عن المشاعر بشكل أقوى. الخيارات الأخرى لا تعكس الطريقة الفعالة لاستخدام الألوان.",
-      "options_ar": [
-        "بشكل مكثف",
-        "بشكل عشوائي",
-        "بشكل صحي",
-        "بشكل ممل"
-      ],
-      "id": "6a49890b19e619b208f4462c",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
+      "id": "6a49890c8ffe87196687d6ee",
+      "created_date": "2026-07-04T22:28:28.570000",
+      "updated_date": "2026-07-04T22:28:28.570000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
@@ -970,87 +565,6 @@
         "الإهمال"
       ],
       "id": "6a49890b19e619b208f4462d",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "عندما زرت المكتبة، لاحظت أن الكتب ____ على الأرفف.",
-      "explanation_en": "The correct answer is \"are piling up\" because the verb \"to pile up\" indicates that the books are gathering or increasing over time. Other options like \"are distributed\" and \"are damaged\" do not reflect the correct meaning in this context.",
-      "options_en": [
-        "are distributed",
-        "are damaged",
-        "are declining",
-        "are piling up"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "3",
-      "section": "verbal",
-      "question_en": "When I visited the library, I noticed that the books ____ on the shelves.",
-      "explanation_ar": "الإجابة الصحيحة هي \"تتراكم\" لأن الفعل \"تتراكم\" يعني أن الكتب تتجمع أو تتزايد بمرور الوقت. الخيارات الأخرى مثلاً \"تتوزع\" و\"تتلف\" لا تعكس المعنى الصحيح للسياق.",
-      "options_ar": [
-        "تتوزع",
-        "تتلف",
-        "تتراجع",
-        "تتراكم"
-      ],
-      "id": "6a49890b19e619b208f4462e",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "الجميع يعلم أن الشخص ____ بمثابة القائد في الفريق.",
-      "explanation_en": "The correct answer is \"most competent\" because a leader is generally the most capable of making decisions. The other options do not fit the concept of leadership.",
-      "options_en": [
-        "most competent",
-        "least experienced",
-        "most humble",
-        "loudest"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Everyone knows that the person ____ is the leader of the team.",
-      "explanation_ar": "الإجابة الصحيحة هي \"الأكثر كفاءة\" لأن القائد عادة ما يكون الأكثر قدرة على اتخاذ القرارات. بقية الخيارات لا تنطبق على مفهوم القيادة.",
-      "options_ar": [
-        "الأكثر كفاءة",
-        "الأقل خبرة",
-        "الأكثر تواضعاً",
-        "الأكثر صخبا"
-      ],
-      "id": "6a49890b19e619b208f4462f",
-      "created_date": "2026-07-04T22:28:27.027000",
-      "updated_date": "2026-07-04T22:28:27.027000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "عندما يبدأ الشتاء، تصبح درجات الحرارة ____.",
-      "explanation_en": "The correct answer is \"lower\" because winter is typically associated with a drop in temperatures. The other options like \"higher\" do not reflect the reality of winter.",
-      "options_en": [
-        "higher",
-        "lower",
-        "more stable",
-        "more volatile"
-      ],
-      "topic_index": 1,
-      "grade": 12,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "When winter begins, temperatures become ____.",
-      "explanation_ar": "الإجابة الصحيحة هي \"الأدنى\" لأن الشتاء عادة ما يكون مرتبطاً بانخفاض درجات الحرارة. الخيارات الأخرى مثل \"الأعلى\" لا تعكس الواقع في فصل الشتاء.",
-      "options_ar": [
-        "الأعلى",
-        "الأدنى",
-        "الأكثر استقراراً",
-        "الأكثر تقلباً"
-      ],
-      "id": "6a49890b19e619b208f44630",
       "created_date": "2026-07-04T22:28:27.027000",
       "updated_date": "2026-07-04T22:28:27.027000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -1084,83 +598,488 @@
       "is_sample": false
     },
     {
-      "question_ar": "ما معنى كلمة \"هيبة\"؟",
-      "explanation_en": "The word \"هيبة\" means the great respect and esteem someone or something receives. The other options express different concepts: \"Strength\" refers to physical or mental power, \"Fame\" denotes public knowledge of a person or thing, while \"Arrogance\" means superiority over others.",
+      "question_ar": "اختر الكلمة الصحيحة: الإنسان __________ بتجاربه ومهاراته في الحياة.",
+      "explanation_en": "The correct answer is \"is shaped\", because experiences and skills shape a person's character. The other options do not convey the concept accurately.",
       "options_en": [
-        "Strength",
-        "Fame",
-        "Respect",
-        "Arrogance"
+        "is shaped",
+        "gets away",
+        "hides",
+        "comes closer"
       ],
-      "topic_index": 4,
-      "grade": 12,
-      "correct_answer": "2",
-      "section": "verbal",
-      "question_en": "What does the word \"هيبة\" mean?",
-      "explanation_ar": "كلمة \"هيبة\" تعني الاحترام والتقدير الكبير الذي يناله الشخص أو الشيء. الخيارات الأخرى تعبر عن مفاهيم مختلفة: \"قوة\" تعني القوة البدنية أو النفسية، و\"شهرة\" تشير إلى المعرفة العامة عن شخص أو شيء، بينما \"غرور\" يعني التعالي على الآخرين.",
-      "options_ar": [
-        "قوة",
-        "شهرة",
-        "احترام",
-        "غرور"
-      ],
-      "id": "6a49890a5ad0a1ac76035f22",
-      "created_date": "2026-07-04T22:28:26.358000",
-      "updated_date": "2026-07-04T22:28:26.358000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما معنى كلمة \"نخبة\"؟",
-      "explanation_en": "The word \"نخبة\" means a select group of people distinguished by special characteristics. The other options do not convey the same meaning: \"A large group\" refers to a big number, \"Chaos\" means disorder, while \"An ordinary person\" refers to a regular person without distinguishing traits.",
-      "options_en": [
-        "A select group",
-        "A large group",
-        "Chaos",
-        "An ordinary person"
-      ],
-      "topic_index": 4,
+      "topic_index": 1,
       "grade": 12,
       "correct_answer": "0",
       "section": "verbal",
-      "question_en": "What does the word \"نخبة\" mean?",
-      "explanation_ar": "كلمة \"نخبة\" تعني مجموعة مختارة من الناس يتميزون بصفات خاصة. الخيارات الأخرى لا تعبر عن نفس المعنى: \"مجموعة كبيرة\" تشير إلى عدد كبير، و\"فوضى\" تعني الاضطراب، في حين \"شخص عادي\" يقصد به شخص عادي بلا سمات مميزة.",
+      "question_en": "Choose the correct word: A person __________ by their experiences and skills in life.",
+      "explanation_ar": "الإجابة الصحيحة هي \"يتشكل\"، لأن التجارب والمهارات تشكل شخصية الإنسان. الخيارات الأخرى لا تعكس المفهوم بشكل صحيح.",
       "options_ar": [
-        "مجموعة مختارة",
-        "مجموعة كبيرة",
-        "فوضى",
-        "شخص عادي"
+        "يتشكل",
+        "يبتعد",
+        "يختبئ",
+        "يقترب"
       ],
-      "id": "6a49890a5ad0a1ac76035f23",
-      "created_date": "2026-07-04T22:28:26.358000",
-      "updated_date": "2026-07-04T22:28:26.358000",
+      "id": "6a49890b19e619b208f44622",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
-      "question_ar": "ما معنى كلمة \"قوة\" في سياق الكلمة؟",
-      "explanation_en": "In the context of the word, \"قوة\" refers to influence or the ability to affect others. The other options express different concepts: \"Energy\" refers to physical capacity, \"Courage\" means bravery, and \"Desire\" expresses a need or ambition.",
+      "question_ar": "أكمل الجملة: تميز الفريق في اللعبة بسبب ____ التكتيكات التي اتبعوها.",
+      "explanation_en": "The correct answer is 'Smart' because smart tactics lead to the team's success in the game. The other options suggest ineffective strategies.",
       "options_en": [
-        "Energy",
-        "Influence",
-        "Courage",
-        "Desire"
+        "Smart",
+        "Simple",
+        "Random",
+        "Unclear"
       ],
-      "topic_index": 4,
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Complete the sentence: The team excelled in the game due to the ____ tactics they followed.",
+      "explanation_ar": "الإجابة الصحيحة هي 'الذكية' لأن التكتيكات الذكية تؤدي إلى نجاح الفريق في اللعبة. الخيارات الأخرى تشير إلى أساليب غير فعالة.",
+      "options_ar": [
+        "الذكية",
+        "البسيطة",
+        "العشوائية",
+        "غير المفهومة"
+      ],
+      "id": "6a49890b19e619b208f4462b",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أكمل الجملة: إن الثقافة تعد __________ في بناء الهوية الوطنية.",
+      "explanation_en": "The correct answer is \"a fundamental element\" because culture plays a crucial role in shaping national identities, while the other options do not accurately reflect this meaning.",
+      "options_en": [
+        "a fundamental element",
+        "just a tradition",
+        "a tool for entertainment",
+        "a passing phenomenon"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Complete the sentence: Culture is considered __________ in building national identity.",
+      "explanation_ar": "الإجابة الصحيحة هي \"عنصراً أساسياً\" لأن الثقافة تلعب دوراً جوهرياً في تشكيل الهويات الوطنية، بينما الخيارات الأخرى لا تعكس ذلك المعنى بشكل صحيح.",
+      "options_ar": [
+        "عنصراً أساسياً",
+        "مجرد تقليد",
+        "أداة للترفيه",
+        "ظاهرة عابرة"
+      ],
+      "id": "6a49890b19e619b208f4461e",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أكمل الجملة: إن الابتكار __________ لتحقيق الأهداف والطموحات.",
+      "explanation_en": "The correct answer is \"is essential\", because innovation is one of the key factors for achieving goals. The other options convey incorrect meanings.",
+      "options_en": [
+        "is essential",
+        "is not required",
+        "is negative",
+        "is trivial"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Complete the sentence: Innovation __________ to achieve goals and aspirations.",
+      "explanation_ar": "الإجابة الصحيحة هي \"ضروري\"، لأن الابتكار يعد من العوامل الضرورية للوصول إلى الأهداف. الخيارات الأخرى تعطي معاني خاطئة.",
+      "options_ar": [
+        "ضروري",
+        "غير مطلوب",
+        "سلبي",
+        "تافه"
+      ],
+      "id": "6a49890b19e619b208f44621",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "الجميع يعلم أن الشخص ____ بمثابة القائد في الفريق.",
+      "explanation_en": "The correct answer is \"most competent\" because a leader is generally the most capable of making decisions. The other options do not fit the concept of leadership.",
+      "options_en": [
+        "most competent",
+        "least experienced",
+        "most humble",
+        "loudest"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Everyone knows that the person ____ is the leader of the team.",
+      "explanation_ar": "الإجابة الصحيحة هي \"الأكثر كفاءة\" لأن القائد عادة ما يكون الأكثر قدرة على اتخاذ القرارات. بقية الخيارات لا تنطبق على مفهوم القيادة.",
+      "options_ar": [
+        "الأكثر كفاءة",
+        "الأقل خبرة",
+        "الأكثر تواضعاً",
+        "الأكثر صخبا"
+      ],
+      "id": "6a49890b19e619b208f4462f",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "الجملة التالية تحتاج إلى إكمال: __________ بالأداء الجيد يعكس التزام الفرد.",
+      "explanation_en": "The correct answer is \"Exhibiting\", because exhibiting good performance is what demonstrates commitment. The other options do not fit the meaning of the sentence.",
+      "options_en": [
+        "Exhibiting",
+        "Skills",
+        "Learning",
+        "Adapting"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "The following sentence needs to be completed: __________ with good performance reflects the individual's commitment.",
+      "explanation_ar": "الإجابة الصحيحة هي \"التحلي\"، لأن التحلي بالأداء الجيد هو ما يظهر الالتزام. بينما الخيارات الأخرى لا تتناسب مع معنى الجملة.",
+      "options_ar": [
+        "التحلي",
+        "المهارات",
+        "التعلم",
+        "التكيف"
+      ],
+      "id": "6a49890b19e619b208f4461f",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أكمل الجملة: إن الحوار __________ من وسائل تعزيز التفاهم بين الثقافات.",
+      "explanation_en": "The correct answer is \"is considered\", because dialogue is a means that enhances understanding and communication. The other options do not express the importance of dialogue.",
+      "options_en": [
+        "is considered",
+        "imposes",
+        "prevents",
+        "hides"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Complete the sentence: Dialogue __________ is one of the means to enhance understanding between cultures.",
+      "explanation_ar": "الإجابة الصحيحة هي \"يعتبر\"، لأن الحوار هو وسيلة تُعزز من التفاهم والتواصل. الخيارات الأخرى لا تعبر عن أهمية الحوار.",
+      "options_ar": [
+        "يعتبر",
+        "يفرض",
+        "يمنع",
+        "يخفي"
+      ],
+      "id": "6a49890b19e619b208f44623",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أكمل الجملة: يمكن أن يكون __________ في بعض الأحيان سبباً للصراعات.",
+      "explanation_en": "The correct answer is \"Money\", as money is often used as a cause of conflicts and disputes among individuals and nations. The other options do not reflect that meaning.",
+      "options_en": [
+        "Money",
+        "Love",
+        "Peace",
+        "Hope"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Complete the sentence: __________ can sometimes be a cause of conflicts.",
+      "explanation_ar": "الإجابة الصحيحة هي \"المال\"، حيث يُستخدم المال كسبب للصراعات والنزاعات بين الأفراد والشعوب. الخيارات الأخرى لا تعكس ذلك المعنى.",
+      "options_ar": [
+        "المال",
+        "الحب",
+        "السلام",
+        "الأمل"
+      ],
+      "id": "6a49890b19e619b208f44625",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أكمل الجملة: بالرغم من الصعوبات، استمر في العمل ____ لتحقيق أهدافه.",
+      "explanation_en": "The correct answer is 'Diligently' because continuing to work diligently aids in achieving goals. The other options suggest unproductive behaviors.",
+      "options_en": [
+        "Diligently",
+        "Anxiously",
+        "Hastily",
+        "Neglectfully"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Complete the sentence: Despite the difficulties, he continued to work ____ to achieve his goals.",
+      "explanation_ar": "الإجابة الصحيحة هي 'بجدية' لأن الاستمرار في العمل بجدية يساعد في تحقيق الأهداف. الخيارات الأخرى توحي بسلوكيات غير مثمرة.",
+      "options_ar": [
+        "بجدية",
+        "بقلق",
+        "بتسرع",
+        "بإهمال"
+      ],
+      "id": "6a49890b19e619b208f44628",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أكمل الجملة: أراد الطالب أن يحصل على درجات مرتفعة، لذا قام بالتحضير ____ للامتحانات.",
+      "explanation_en": "The correct answer is 'Well' because good preparation is what helps the student achieve high grades. The other options reflect negative or ineffective behaviors in preparation.",
+      "options_en": [
+        "Well",
+        "Badly",
+        "Without effort",
+        "Quickly"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Complete the sentence: The student wanted to achieve high grades, so he prepared ____ for the exams.",
+      "explanation_ar": "الإجابة الصحيحة هي 'جيداً' لأن التحضير الجيد هو ما يساعد الطالب في تحقيق الدرجات المرتفعة. الخيارات الأخرى تعكس سلوكيات سلبية أو غير فعالة في التحضير.",
+      "options_ar": [
+        "جيداً",
+        "سيئاً",
+        "بلا جهد",
+        "بسرعة"
+      ],
+      "id": "6a49890b19e619b208f44626",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أكمل الجملة: يستخدم الفنانون الألوان ____ للتعبير عن مشاعرهم.",
+      "explanation_en": "The correct answer is 'Intensively' because using colors intensively expresses feelings more strongly. The other options do not reflect an effective way to use colors.",
+      "options_en": [
+        "Intensively",
+        "Randomly",
+        "Healthily",
+        "Boringly"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Complete the sentence: Artists use colors ____ to express their feelings.",
+      "explanation_ar": "الإجابة الصحيحة هي 'بشكل مكثف' لأن استخدام الألوان بشكل مكثف يعبر عن المشاعر بشكل أقوى. الخيارات الأخرى لا تعكس الطريقة الفعالة لاستخدام الألوان.",
+      "options_ar": [
+        "بشكل مكثف",
+        "بشكل عشوائي",
+        "بشكل صحي",
+        "بشكل ممل"
+      ],
+      "id": "6a49890b19e619b208f4462c",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أكمل الجملة: في عالم التكنولوجيا، يجب على الجميع أن يكونوا ____ لمواكبة التطورات.",
+      "explanation_en": "The correct answer is 'Flexible' because adaptability to changes is a key part of the technology world. The other options imply an inability to adapt.",
+      "options_en": [
+        "Flexible",
+        "Persevering",
+        "Lazy",
+        "Content"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Complete the sentence: In the world of technology, everyone must be ____ to keep up with the developments.",
+      "explanation_ar": "الإجابة الصحيحة هي 'مرنين' لأن التكيف مع التغييرات هو جزء أساسي من عالم التكنولوجيا. الخيارات الأخرى تشير إلى عدم القدرة على التكيف.",
+      "options_ar": [
+        "مرنين",
+        "مثابرين",
+        "كسالى",
+        "مكتفين"
+      ],
+      "id": "6a49890b19e619b208f44629",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "عندما زرت المكتبة، لاحظت أن الكتب ____ على الأرفف.",
+      "explanation_en": "The correct answer is \"are piling up\" because the verb \"to pile up\" indicates that the books are gathering or increasing over time. Other options like \"are distributed\" and \"are damaged\" do not reflect the correct meaning in this context.",
+      "options_en": [
+        "are distributed",
+        "are damaged",
+        "are declining",
+        "are piling up"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "3",
+      "section": "verbal",
+      "question_en": "When I visited the library, I noticed that the books ____ on the shelves.",
+      "explanation_ar": "الإجابة الصحيحة هي \"تتراكم\" لأن الفعل \"تتراكم\" يعني أن الكتب تتجمع أو تتزايد بمرور الوقت. الخيارات الأخرى مثلاً \"تتوزع\" و\"تتلف\" لا تعكس المعنى الصحيح للسياق.",
+      "options_ar": [
+        "تتوزع",
+        "تتلف",
+        "تتراجع",
+        "تتراكم"
+      ],
+      "id": "6a49890b19e619b208f4462e",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "عندما يبدأ الشتاء، تصبح درجات الحرارة ____.",
+      "explanation_en": "The correct answer is \"lower\" because winter is typically associated with a drop in temperatures. The other options like \"higher\" do not reflect the reality of winter.",
+      "options_en": [
+        "higher",
+        "lower",
+        "more stable",
+        "more volatile"
+      ],
+      "topic_index": 1,
       "grade": 12,
       "correct_answer": "1",
       "section": "verbal",
-      "question_en": "What does the word \"قوة\" mean in context?",
-      "explanation_ar": "في سياق الكلمة، \"قوة\" تشير إلى التأثير أو القدرة على التأثير في الآخرين. بينما الخيارات الأخرى تعبر عن مفاهيم مختلفة: \"طاقة\" تشير إلى القدرة البدنية، و\"شجاعة\" تعني الجرأة، و\"رغبة\" تعبر عن حاجة أو طموح.",
+      "question_en": "When winter begins, temperatures become ____.",
+      "explanation_ar": "الإجابة الصحيحة هي \"الأدنى\" لأن الشتاء عادة ما يكون مرتبطاً بانخفاض درجات الحرارة. الخيارات الأخرى مثل \"الأعلى\" لا تعكس الواقع في فصل الشتاء.",
       "options_ar": [
-        "طاقة",
-        "تأثير",
-        "شجاعة",
-        "رغبة"
+        "الأعلى",
+        "الأدنى",
+        "الأكثر استقراراً",
+        "الأكثر تقلباً"
       ],
-      "id": "6a49890a5ad0a1ac76035f24",
-      "created_date": "2026-07-04T22:28:26.358000",
-      "updated_date": "2026-07-04T22:28:26.358000",
+      "id": "6a49890b19e619b208f44630",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "اختار الكلمة المناسبة: يعتبر __________ من أهم الأسباب لتطور المجتمعات.",
+      "explanation_en": "The correct answer is \"Education\" because it is considered the basis for development and innovation in societies. The other options do not reflect the same level of importance.",
+      "options_en": [
+        "Education",
+        "Happiness",
+        "Comfort",
+        "Stability"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Choose the appropriate word: __________ is considered one of the most important reasons for societal development.",
+      "explanation_ar": "الإجابة الصحيحة هي \"التعليم\" لأنه يعتبر أساس التطور والابتكار في المجتمعات. الخيارات الأخرى لا تعكس الأهمية ذاتها.",
+      "options_ar": [
+        "التعليم",
+        "السعادة",
+        "الراحة",
+        "الاستقرار"
+      ],
+      "id": "6a49890b19e619b208f44620",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أكمل الجملة: كان الحفل ناجحاً جداً، مما جعل الجميع يشعرون ____.",
+      "explanation_en": "The correct answer is 'Joyful' because the success of the party typically leads to positive feelings and expressions of joy. The other options reflect negative feelings that do not correspond to the success of the party.",
+      "options_en": [
+        "Joyful",
+        "Scared",
+        "Annoyed",
+        "Bored"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Complete the sentence: The party was very successful, which made everyone feel ____.",
+      "explanation_ar": "الإجابة الصحيحة هي 'بالفرح' لأن نجاح الحفل عادة ما يؤدي إلى مشاعر إيجابية وصراخ للفرح. الخيارات الأخرى تعكس مشاعر سلبية لا تتناسب مع نجاح الحفل.",
+      "options_ar": [
+        "بالفرح",
+        "بالخوف",
+        "بالضيق",
+        "بالملل"
+      ],
+      "id": "6a49890b19e619b208f44627",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "اختار الإجابة المناسبة: الموت هو __________ في دورة الحياة.",
+      "explanation_en": "The correct answer is \"a natural phase\", because death is an integral part of the life cycle. The other options reflect incorrect concepts.",
+      "options_en": [
+        "a natural phase",
+        "a surprise",
+        "a happy ending",
+        "a result of failure"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Choose the appropriate answer: Death is __________ in the cycle of life.",
+      "explanation_ar": "الإجابة الصحيحة هي \"مرحلة طبيعية\"، لأن الموت جزء لا يتجزأ من دورة الحياة. الخيارات الأخرى تعكس مفاهيم غير صحيحة.",
+      "options_ar": [
+        "مرحلة طبيعية",
+        "مفاجأة",
+        "خاتمة سعيدة",
+        "نتيجة للفشل"
+      ],
+      "id": "6a49890b19e619b208f44624",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أكمل الجملة: كانت الرواية مثيرة للاهتمام، حيث تناولت ____ جديدة لم يتم تناولها من قبل.",
+      "explanation_en": "The correct answer is 'Topics' as it refers to content addressing new issues. The other options are not accurate in this context.",
+      "options_en": [
+        "Topics",
+        "Myths",
+        "Stories",
+        "Movies"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Complete the sentence: The novel was interesting as it addressed ____ new that had not been addressed before.",
+      "explanation_ar": "الإجابة الصحيحة هي 'مواضيع' لأنه يشير إلى المحتوى الذي يتناول قضايا جديدة. الخيارات الأخرى ليست دقيقة في هذا السياق.",
+      "options_ar": [
+        "مواضيع",
+        "خرافات",
+        "قصص",
+        "أفلام"
+      ],
+      "id": "6a49890b19e619b208f4462a",
+      "created_date": "2026-07-04T22:28:27.027000",
+      "updated_date": "2026-07-04T22:28:27.027000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
@@ -1192,33 +1111,6 @@
       "is_sample": false
     },
     {
-      "question_ar": "ما معنى كلمة \"انزلاق\"؟",
-      "explanation_en": "\"انزلاق\" means slipping or an unexpected movement, often indicating loss of control. The other options do not align with this meaning: \"Fall\" means descending from a higher place, \"Move\" means to transition, and \"Swim\" refers to an aquatic activity.",
-      "options_en": [
-        "Fall",
-        "Move",
-        "Slip",
-        "Swim"
-      ],
-      "topic_index": 4,
-      "grade": 12,
-      "correct_answer": "2",
-      "section": "verbal",
-      "question_en": "What does the word \"انزلاق\" mean?",
-      "explanation_ar": "\"انزلاق\" تعني زلق الشيء أو حركة غير متوقعة، وغالبًا ما تشير إلى فقدان السيطرة. الخيارات الأخرى لا تتماشى مع هذا المعنى: \"سقوط\" يعني النزول من مكان أعلى، و\"تحرك\" تعني الانتقال، و\"سباحة\" تشير إلى النشاط المائي.",
-      "options_ar": [
-        "سقوط",
-        "تحرك",
-        "زلق",
-        "سباحة"
-      ],
-      "id": "6a49890a5ad0a1ac76035f26",
-      "created_date": "2026-07-04T22:28:26.358000",
-      "updated_date": "2026-07-04T22:28:26.358000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
       "question_ar": "ما معنى كلمة \"تناقض\"؟",
       "explanation_en": "\"تناقض\" means difference or lack of agreement between two things. The other options express different concepts: \"Agreement\" means harmony, \"Separation\" pertains to distancing, while \"Conflict\" indicates fighting or dispute.",
       "options_en": [
@@ -1240,6 +1132,195 @@
         "اشتباك"
       ],
       "id": "6a49890a5ad0a1ac76035f27",
+      "created_date": "2026-07-04T22:28:26.358000",
+      "updated_date": "2026-07-04T22:28:26.358000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما مرادف كلمة \"عظيم\"؟",
+      "explanation_en": "The word \"عظيم\" means \"large\" in size or significance. Other words like \"صغير\" (small), \"واسع\" (wide), and \"طويل\" (tall) do not convey the same meaning.",
+      "options_en": [
+        "Large",
+        "Small",
+        "Wide",
+        "Tall"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "What is the synonym of the word \"عظيم\"?",
+      "explanation_ar": "كلمة \"عظيم\" تعني \"كبير\" في الحجم أو الشأن. بينما الكلمات الأخرى مثل \"صغير\" و\"واسع\" و\"طويل\" لا تعبر عن نفس المعنى.",
+      "options_ar": [
+        "كبير",
+        "صغير",
+        "واسع",
+        "طويل"
+      ],
+      "id": "6a49890a5ad0a1ac76035f32",
+      "created_date": "2026-07-04T22:28:26.358000",
+      "updated_date": "2026-07-04T22:28:26.358000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما معنى كلمة \"هيبة\"؟",
+      "explanation_en": "The word \"هيبة\" means the great respect and esteem someone or something receives. The other options express different concepts: \"Strength\" refers to physical or mental power, \"Fame\" denotes public knowledge of a person or thing, while \"Arrogance\" means superiority over others.",
+      "options_en": [
+        "Strength",
+        "Fame",
+        "Respect",
+        "Arrogance"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "verbal",
+      "question_en": "What does the word \"هيبة\" mean?",
+      "explanation_ar": "كلمة \"هيبة\" تعني الاحترام والتقدير الكبير الذي يناله الشخص أو الشيء. الخيارات الأخرى تعبر عن مفاهيم مختلفة: \"قوة\" تعني القوة البدنية أو النفسية، و\"شهرة\" تشير إلى المعرفة العامة عن شخص أو شيء، بينما \"غرور\" يعني التعالي على الآخرين.",
+      "options_ar": [
+        "قوة",
+        "شهرة",
+        "احترام",
+        "غرور"
+      ],
+      "id": "6a49890a5ad0a1ac76035f22",
+      "created_date": "2026-07-04T22:28:26.358000",
+      "updated_date": "2026-07-04T22:28:26.358000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما المعنى الأقرب لكلمة \"جميل\"؟",
+      "explanation_en": "The word \"جميل\" means something of great beauty or wonder, so the correct choice is \"Wonderful\". Other options like \"Ugly\" and \"Ordinary\" do not reflect the meaning of beauty.",
+      "options_en": [
+        "Ugly",
+        "Pleasant",
+        "Ordinary",
+        "Wonderful"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "3",
+      "section": "verbal",
+      "question_en": "What is the closest meaning to the word \"جميل\"?",
+      "explanation_ar": "كلمة \"جميل\" تعني شيء فائق الجمال أو الروعة، لذا الخيار الصحيح هو \"رائع\". الخيارات الأخرى مثل \"قبيح\" و\"عادي\" لا تعكس معنى الجمال.",
+      "options_ar": [
+        "قبيح",
+        "لطيف",
+        "عادي",
+        "رائع"
+      ],
+      "id": "6a49890a5ad0a1ac76035f2a",
+      "created_date": "2026-07-04T22:28:26.358000",
+      "updated_date": "2026-07-04T22:28:26.358000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "اختر الكلمة الأقرب لمعنى \"معرفة\".",
+      "explanation_en": "\"معرفة\" relates to understanding; therefore, the correct choice is \"Understanding\". The other options lead to different meanings.",
+      "options_en": [
+        "Ignorance",
+        "Understanding",
+        "Education",
+        "Comprehension"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "Choose the word closest in meaning to \"معرفة\".",
+      "explanation_ar": "\"معرفة\" تتعلق بالفهم، لذلك الخيار الصحيح هو \"فهم\". الخيارات الأخرى تؤدي لمعاني مختلفة.",
+      "options_ar": [
+        "جهل",
+        "فهم",
+        "تعليم",
+        "استيعاب"
+      ],
+      "id": "6a49890a5ad0a1ac76035f31",
+      "created_date": "2026-07-04T22:28:26.358000",
+      "updated_date": "2026-07-04T22:28:26.358000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما معنى كلمة \"مستقبل\"؟",
+      "explanation_en": "The word \"مستقبل\" refers to the time that will come, which reflects the option \"Future time\". The other options refer to different time phases.",
+      "options_en": [
+        "Beginning",
+        "End",
+        "Future time",
+        "Past time"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "verbal",
+      "question_en": "What does the word \"مستقبل\" mean?",
+      "explanation_ar": "كلمة \"مستقبل\" تشير إلى الزمن الذي سيأتي، وهو ما يعكس الخيار \"زمان لاحق\". أما الخيارات الأخرى فتشير إلى مراحل زمنية مختلفة.",
+      "options_ar": [
+        "بداية",
+        "نهاية",
+        "زمان لاحق",
+        "وقت مضى"
+      ],
+      "id": "6a49890a5ad0a1ac76035f35",
+      "created_date": "2026-07-04T22:28:26.358000",
+      "updated_date": "2026-07-04T22:28:26.358000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما معنى كلمة \"عاجز\"؟",
+      "explanation_en": "The word \"عاجز\" means the inability to do something, which corresponds to \"Weak\". The other options express the opposite concept.",
+      "options_en": [
+        "Strong",
+        "Weak",
+        "Capable",
+        "Mysterious"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "What is the meaning of the word \"عاجز\"?",
+      "explanation_ar": "كلمة \"عاجز\" تعني عدم القدرة على فعل شيء، مما يعني \"ضعيف\". الخيارات الأخرى تعبر عن المفهوم المعاكس.",
+      "options_ar": [
+        "قوي",
+        "ضعيف",
+        "متمكن",
+        "غامض"
+      ],
+      "id": "6a49890a5ad0a1ac76035f2c",
+      "created_date": "2026-07-04T22:28:26.358000",
+      "updated_date": "2026-07-04T22:28:26.358000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما معنى كلمة \"مفاجأة\"؟",
+      "explanation_en": "The word \"مفاجأة\" means an unexpected event, so the correct choice is \"Unexpected event\". The other options denote expectation or prior knowledge.",
+      "options_en": [
+        "Warning",
+        "Notification",
+        "Unexpected event",
+        "Prior knowledge"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "verbal",
+      "question_en": "What is the meaning of the word \"مفاجأة\"?",
+      "explanation_ar": "كلمة \"مفاجأة\" تعني حدث غير متوقع، ولذلك الخيار الصحيح هو \"حدث غير متوقع\". الخيارات الأخرى تدل على توقع أو معرفة مسبقة.",
+      "options_ar": [
+        "تحذير",
+        "إخطار",
+        "حدث غير متوقع",
+        "معرفة مسبقة"
+      ],
+      "id": "6a49890a5ad0a1ac76035f2e",
       "created_date": "2026-07-04T22:28:26.358000",
       "updated_date": "2026-07-04T22:28:26.358000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -1300,81 +1381,27 @@
       "is_sample": false
     },
     {
-      "question_ar": "ما المعنى الأقرب لكلمة \"جميل\"؟",
-      "explanation_en": "The word \"جميل\" means something of great beauty or wonder, so the correct choice is \"Wonderful\". Other options like \"Ugly\" and \"Ordinary\" do not reflect the meaning of beauty.",
+      "question_ar": "اختر الكلمة المناسبة للكلمة \"مغامرة\".",
+      "explanation_en": "\"مغامرة\" usually means \"Challenge\" where there is an element of risk or new experience. The other options do not express the same meaning.",
       "options_en": [
-        "Ugly",
-        "Pleasant",
-        "Ordinary",
-        "Wonderful"
-      ],
-      "topic_index": 4,
-      "grade": 12,
-      "correct_answer": "3",
-      "section": "verbal",
-      "question_en": "What is the closest meaning to the word \"جميل\"?",
-      "explanation_ar": "كلمة \"جميل\" تعني شيء فائق الجمال أو الروعة، لذا الخيار الصحيح هو \"رائع\". الخيارات الأخرى مثل \"قبيح\" و\"عادي\" لا تعكس معنى الجمال.",
-      "options_ar": [
-        "قبيح",
-        "لطيف",
-        "عادي",
-        "رائع"
-      ],
-      "id": "6a49890a5ad0a1ac76035f2a",
-      "created_date": "2026-07-04T22:28:26.358000",
-      "updated_date": "2026-07-04T22:28:26.358000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "اختر الكلمة التي تعني \"النجاح\".",
-      "explanation_en": "The word \"النجاح\" is related to achieving goals and achievements; therefore, the correct choice is \"Achievement\". \"Failure\" and \"Difficulty\" mean the opposite.",
-      "options_en": [
-        "Failure",
-        "Progress",
-        "Achievement",
-        "Difficulty"
-      ],
-      "topic_index": 4,
-      "grade": 12,
-      "correct_answer": "2",
-      "section": "verbal",
-      "question_en": "Choose the word that means \"النجاح\".",
-      "explanation_ar": "كلمة \"النجاح\" تتعلق بتحقيق الأهداف والإنجازات، وبالتالي الخيار الصحيح هو \"الإنجاز\". \"الفشل\" و\"الصعوبة\" يعنيان العكس.",
-      "options_ar": [
-        "الفشل",
-        "التقدم",
-        "الإنجاز",
-        "الصعوبة"
-      ],
-      "id": "6a49890a5ad0a1ac76035f2b",
-      "created_date": "2026-07-04T22:28:26.358000",
-      "updated_date": "2026-07-04T22:28:26.358000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما معنى كلمة \"عاجز\"؟",
-      "explanation_en": "The word \"عاجز\" means the inability to do something, which corresponds to \"Weak\". The other options express the opposite concept.",
-      "options_en": [
-        "Strong",
-        "Weak",
-        "Capable",
-        "Mysterious"
+        "Danger",
+        "Challenge",
+        "Adventure",
+        "Calmness"
       ],
       "topic_index": 4,
       "grade": 12,
       "correct_answer": "1",
       "section": "verbal",
-      "question_en": "What is the meaning of the word \"عاجز\"?",
-      "explanation_ar": "كلمة \"عاجز\" تعني عدم القدرة على فعل شيء، مما يعني \"ضعيف\". الخيارات الأخرى تعبر عن المفهوم المعاكس.",
+      "question_en": "Choose the suitable word for \"مغامرة\".",
+      "explanation_ar": "\"مغامرة\" عادة ما تعني \"تحدي\" حيث يكون هناك عنصر من المخاطرة أو التجربة الجديدة. الخيارات الأخرى لا تعبر عن نفس المعنى.",
       "options_ar": [
-        "قوي",
-        "ضعيف",
-        "متمكن",
-        "غامض"
+        "خطر",
+        "تحدي",
+        "مغامرة",
+        "هدوء"
       ],
-      "id": "6a49890a5ad0a1ac76035f2c",
+      "id": "6a49890a5ad0a1ac76035f2f",
       "created_date": "2026-07-04T22:28:26.358000",
       "updated_date": "2026-07-04T22:28:26.358000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -1408,54 +1435,27 @@
       "is_sample": false
     },
     {
-      "question_ar": "ما معنى كلمة \"مفاجأة\"؟",
-      "explanation_en": "The word \"مفاجأة\" means an unexpected event, so the correct choice is \"Unexpected event\". The other options denote expectation or prior knowledge.",
+      "question_ar": "ما معنى كلمة \"نخبة\"؟",
+      "explanation_en": "The word \"نخبة\" means a select group of people distinguished by special characteristics. The other options do not convey the same meaning: \"A large group\" refers to a big number, \"Chaos\" means disorder, while \"An ordinary person\" refers to a regular person without distinguishing traits.",
       "options_en": [
-        "Warning",
-        "Notification",
-        "Unexpected event",
-        "Prior knowledge"
+        "A select group",
+        "A large group",
+        "Chaos",
+        "An ordinary person"
       ],
       "topic_index": 4,
       "grade": 12,
-      "correct_answer": "2",
+      "correct_answer": "0",
       "section": "verbal",
-      "question_en": "What is the meaning of the word \"مفاجأة\"?",
-      "explanation_ar": "كلمة \"مفاجأة\" تعني حدث غير متوقع، ولذلك الخيار الصحيح هو \"حدث غير متوقع\". الخيارات الأخرى تدل على توقع أو معرفة مسبقة.",
+      "question_en": "What does the word \"نخبة\" mean?",
+      "explanation_ar": "كلمة \"نخبة\" تعني مجموعة مختارة من الناس يتميزون بصفات خاصة. الخيارات الأخرى لا تعبر عن نفس المعنى: \"مجموعة كبيرة\" تشير إلى عدد كبير، و\"فوضى\" تعني الاضطراب، في حين \"شخص عادي\" يقصد به شخص عادي بلا سمات مميزة.",
       "options_ar": [
-        "تحذير",
-        "إخطار",
-        "حدث غير متوقع",
-        "معرفة مسبقة"
+        "مجموعة مختارة",
+        "مجموعة كبيرة",
+        "فوضى",
+        "شخص عادي"
       ],
-      "id": "6a49890a5ad0a1ac76035f2e",
-      "created_date": "2026-07-04T22:28:26.358000",
-      "updated_date": "2026-07-04T22:28:26.358000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "اختر الكلمة المناسبة للكلمة \"مغامرة\".",
-      "explanation_en": "\"مغامرة\" usually means \"Challenge\" where there is an element of risk or new experience. The other options do not express the same meaning.",
-      "options_en": [
-        "Danger",
-        "Challenge",
-        "Adventure",
-        "Calmness"
-      ],
-      "topic_index": 4,
-      "grade": 12,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "Choose the suitable word for \"مغامرة\".",
-      "explanation_ar": "\"مغامرة\" عادة ما تعني \"تحدي\" حيث يكون هناك عنصر من المخاطرة أو التجربة الجديدة. الخيارات الأخرى لا تعبر عن نفس المعنى.",
-      "options_ar": [
-        "خطر",
-        "تحدي",
-        "مغامرة",
-        "هدوء"
-      ],
-      "id": "6a49890a5ad0a1ac76035f2f",
+      "id": "6a49890a5ad0a1ac76035f23",
       "created_date": "2026-07-04T22:28:26.358000",
       "updated_date": "2026-07-04T22:28:26.358000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -1489,81 +1489,27 @@
       "is_sample": false
     },
     {
-      "question_ar": "اختر الكلمة الأقرب لمعنى \"معرفة\".",
-      "explanation_en": "\"معرفة\" relates to understanding; therefore, the correct choice is \"Understanding\". The other options lead to different meanings.",
+      "question_ar": "ما معنى كلمة \"انزلاق\"؟",
+      "explanation_en": "\"انزلاق\" means slipping or an unexpected movement, often indicating loss of control. The other options do not align with this meaning: \"Fall\" means descending from a higher place, \"Move\" means to transition, and \"Swim\" refers to an aquatic activity.",
       "options_en": [
-        "Ignorance",
-        "Understanding",
-        "Education",
-        "Comprehension"
+        "Fall",
+        "Move",
+        "Slip",
+        "Swim"
       ],
       "topic_index": 4,
       "grade": 12,
-      "correct_answer": "1",
+      "correct_answer": "2",
       "section": "verbal",
-      "question_en": "Choose the word closest in meaning to \"معرفة\".",
-      "explanation_ar": "\"معرفة\" تتعلق بالفهم، لذلك الخيار الصحيح هو \"فهم\". الخيارات الأخرى تؤدي لمعاني مختلفة.",
+      "question_en": "What does the word \"انزلاق\" mean?",
+      "explanation_ar": "\"انزلاق\" تعني زلق الشيء أو حركة غير متوقعة، وغالبًا ما تشير إلى فقدان السيطرة. الخيارات الأخرى لا تتماشى مع هذا المعنى: \"سقوط\" يعني النزول من مكان أعلى، و\"تحرك\" تعني الانتقال، و\"سباحة\" تشير إلى النشاط المائي.",
       "options_ar": [
-        "جهل",
-        "فهم",
-        "تعليم",
-        "استيعاب"
+        "سقوط",
+        "تحرك",
+        "زلق",
+        "سباحة"
       ],
-      "id": "6a49890a5ad0a1ac76035f31",
-      "created_date": "2026-07-04T22:28:26.358000",
-      "updated_date": "2026-07-04T22:28:26.358000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما مرادف كلمة \"عظيم\"؟",
-      "explanation_en": "The word \"عظيم\" means \"large\" in size or significance. Other words like \"صغير\" (small), \"واسع\" (wide), and \"طويل\" (tall) do not convey the same meaning.",
-      "options_en": [
-        "Large",
-        "Small",
-        "Wide",
-        "Tall"
-      ],
-      "topic_index": 4,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "What is the synonym of the word \"عظيم\"?",
-      "explanation_ar": "كلمة \"عظيم\" تعني \"كبير\" في الحجم أو الشأن. بينما الكلمات الأخرى مثل \"صغير\" و\"واسع\" و\"طويل\" لا تعبر عن نفس المعنى.",
-      "options_ar": [
-        "كبير",
-        "صغير",
-        "واسع",
-        "طويل"
-      ],
-      "id": "6a49890a5ad0a1ac76035f32",
-      "created_date": "2026-07-04T22:28:26.358000",
-      "updated_date": "2026-07-04T22:28:26.358000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما معنى كلمة \"تجربة\"؟",
-      "explanation_en": "The word \"تجربة\" means \"attempt\" or testing something specific. Other options refer to the outcomes of the experiment and do not express its basic meaning.",
-      "options_en": [
-        "Attempt",
-        "Success",
-        "Failure",
-        "Loss"
-      ],
-      "topic_index": 4,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "What does the word \"تجربة\" mean?",
-      "explanation_ar": "كلمة \"تجربة\" تعني \"محاولة\" أو اختبار شيء معين. الخيارات الأخرى تشير إلى نتائج التجربة ولا تعبر عن معناها الأساسي.",
-      "options_ar": [
-        "محاولة",
-        "نجاح",
-        "فشل",
-        "خسارة"
-      ],
-      "id": "6a49890a5ad0a1ac76035f33",
+      "id": "6a49890a5ad0a1ac76035f26",
       "created_date": "2026-07-04T22:28:26.358000",
       "updated_date": "2026-07-04T22:28:26.358000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -1597,218 +1543,83 @@
       "is_sample": false
     },
     {
-      "question_ar": "ما معنى كلمة \"مستقبل\"؟",
-      "explanation_en": "The word \"مستقبل\" refers to the time that will come, which reflects the option \"Future time\". The other options refer to different time phases.",
+      "question_ar": "ما معنى كلمة \"قوة\" في سياق الكلمة؟",
+      "explanation_en": "In the context of the word, \"قوة\" refers to influence or the ability to affect others. The other options express different concepts: \"Energy\" refers to physical capacity, \"Courage\" means bravery, and \"Desire\" expresses a need or ambition.",
       "options_en": [
-        "Beginning",
-        "End",
-        "Future time",
-        "Past time"
+        "Energy",
+        "Influence",
+        "Courage",
+        "Desire"
       ],
       "topic_index": 4,
       "grade": 12,
-      "correct_answer": "2",
+      "correct_answer": "1",
       "section": "verbal",
-      "question_en": "What does the word \"مستقبل\" mean?",
-      "explanation_ar": "كلمة \"مستقبل\" تشير إلى الزمن الذي سيأتي، وهو ما يعكس الخيار \"زمان لاحق\". أما الخيارات الأخرى فتشير إلى مراحل زمنية مختلفة.",
+      "question_en": "What does the word \"قوة\" mean in context?",
+      "explanation_ar": "في سياق الكلمة، \"قوة\" تشير إلى التأثير أو القدرة على التأثير في الآخرين. بينما الخيارات الأخرى تعبر عن مفاهيم مختلفة: \"طاقة\" تشير إلى القدرة البدنية، و\"شجاعة\" تعني الجرأة، و\"رغبة\" تعبر عن حاجة أو طموح.",
       "options_ar": [
-        "بداية",
-        "نهاية",
-        "زمان لاحق",
-        "وقت مضى"
+        "طاقة",
+        "تأثير",
+        "شجاعة",
+        "رغبة"
       ],
-      "id": "6a49890a5ad0a1ac76035f35",
+      "id": "6a49890a5ad0a1ac76035f24",
       "created_date": "2026-07-04T22:28:26.358000",
       "updated_date": "2026-07-04T22:28:26.358000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
-      "question_ar": "أوجد اللفظ الذي يتناظر مع الكلمة 'سيارة'.",
-      "explanation_en": "The word 'Bicycle' corresponds to 'Car'; both are modes of transportation. 'Bus', 'Airplane', and 'Ship' are also modes of transportation but do not match as closely as 'Bicycle'.",
+      "question_ar": "اختر الكلمة التي تعني \"النجاح\".",
+      "explanation_en": "The word \"النجاح\" is related to achieving goals and achievements; therefore, the correct choice is \"Achievement\". \"Failure\" and \"Difficulty\" mean the opposite.",
       "options_en": [
-        "Bus",
-        "Bicycle",
-        "Airplane",
-        "Ship"
+        "Failure",
+        "Progress",
+        "Achievement",
+        "Difficulty"
       ],
-      "topic_index": 2,
-      "grade": 12,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "Find the word that corresponds to 'Car'.",
-      "explanation_ar": "الكلمة 'دراجة' تتناظر مع 'سيارة'؛ فكلاهما وسائل نقل. 'حافلة' و'طائرة' و'سفينة' هي أيضًا وسائل نقل، لكن لا تتناسب مثل 'دراجة'.",
-      "options_ar": [
-        "حافلة",
-        "دراجة",
-        "طائرة",
-        "سفينة"
-      ],
-      "id": "6a498909a8bec5493b1d17fe",
-      "created_date": "2026-07-04T22:28:25.589000",
-      "updated_date": "2026-07-04T22:28:25.589000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "اختر الكلمة التي تتناظر مع 'شمس'.",
-      "explanation_en": "The word 'Moon' corresponds to 'Sun'; as the moon is present at night opposite the sun during the day. The other options are natural things but do not directly correspond to 'Sun'.",
-      "options_en": [
-        "Moon",
-        "Star",
-        "Cloud",
-        "Sky"
-      ],
-      "topic_index": 2,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Choose the word that corresponds to 'Sun'.",
-      "explanation_ar": "الكلمة 'قمر' تتناظر مع 'شمس'؛ حيث أن القمر يكون موجودًا في الليل مقابل الشمس في النهار. الخيارات الأخرى هي أشياء طبيعية ولكن لا تقابل 'شمس' بشكل مباشر.",
-      "options_ar": [
-        "قمر",
-        "نجمة",
-        "غيمة",
-        "سماء"
-      ],
-      "id": "6a498909a8bec5493b1d17ff",
-      "created_date": "2026-07-04T22:28:25.589000",
-      "updated_date": "2026-07-04T22:28:25.589000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما الكلمة التي تناظر 'كتب'؟",
-      "explanation_en": "The word 'Library' corresponds to 'Books'; a library is a place that contains books. The other options do not match as well.",
-      "options_en": [
-        "Library",
-        "Reading",
-        "Pen",
-        "Page"
-      ],
-      "topic_index": 2,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "What is the word that corresponds to 'Books'?",
-      "explanation_ar": "الكلمة 'مكتبة' تتناظر مع 'كتب'؛ فالمكتبة مكان يحتوي على الكتب. الخيارات الأخرى لا تتشابه بنفس القدر.",
-      "options_ar": [
-        "مكتبة",
-        "قراءة",
-        "قلم",
-        "صفحة"
-      ],
-      "id": "6a498909a8bec5493b1d1800",
-      "created_date": "2026-07-04T22:28:25.589000",
-      "updated_date": "2026-07-04T22:28:25.589000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "اختر الكلمة المتناظرة مع 'طبيب'.",
-      "explanation_en": "'Hospital' is the place where a 'Doctor' works. The other options are not directly related to the concept.",
-      "options_en": [
-        "Patient",
-        "Medicine",
-        "Hospital",
-        "Technician"
-      ],
-      "topic_index": 2,
+      "topic_index": 4,
       "grade": 12,
       "correct_answer": "2",
       "section": "verbal",
-      "question_en": "Select the word that corresponds to 'Doctor'.",
-      "explanation_ar": "'مستشفى' هو المكان الذي يتواجد فيه 'طبيب' لممارسة عمله. بينما الخيارات الأخرى ليست متطابقة لهذا المفهوم.",
+      "question_en": "Choose the word that means \"النجاح\".",
+      "explanation_ar": "كلمة \"النجاح\" تتعلق بتحقيق الأهداف والإنجازات، وبالتالي الخيار الصحيح هو \"الإنجاز\". \"الفشل\" و\"الصعوبة\" يعنيان العكس.",
       "options_ar": [
-        "مريض",
-        "دواء",
-        "مستشفى",
-        "تقني"
+        "الفشل",
+        "التقدم",
+        "الإنجاز",
+        "الصعوبة"
       ],
-      "id": "6a498909a8bec5493b1d1801",
-      "created_date": "2026-07-04T22:28:25.589000",
-      "updated_date": "2026-07-04T22:28:25.589000",
+      "id": "6a49890a5ad0a1ac76035f2b",
+      "created_date": "2026-07-04T22:28:26.358000",
+      "updated_date": "2026-07-04T22:28:26.358000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
-      "question_ar": "أوجد الكلمة التي تتناظر مع 'بيت'.",
-      "explanation_en": "'Family' corresponds to 'House'; as the house is where the family lives. The other options are not as closely related.",
+      "question_ar": "ما معنى كلمة \"تجربة\"؟",
+      "explanation_en": "The word \"تجربة\" means \"attempt\" or testing something specific. Other options refer to the outcomes of the experiment and do not express its basic meaning.",
       "options_en": [
-        "Tree",
-        "Family",
-        "School",
-        "Garden"
+        "Attempt",
+        "Success",
+        "Failure",
+        "Loss"
       ],
-      "topic_index": 2,
-      "grade": 12,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "Find the word that corresponds to 'House'.",
-      "explanation_ar": "'عائلة' تتناظر مع 'بيت'؛ حيث أن البيت هو المكان الذي تعيش فيه العائلة. الخيارات الأخرى ليست متعارفة بنفس القدر.",
-      "options_ar": [
-        "شجرة",
-        "عائلة",
-        "مدرسة",
-        "حديقة"
-      ],
-      "id": "6a498909a8bec5493b1d1802",
-      "created_date": "2026-07-04T22:28:25.589000",
-      "updated_date": "2026-07-04T22:28:25.589000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "اختر الكلمة التي تتناظر مع 'أسد'.",
-      "explanation_en": "'Tiger' corresponds to 'Lion'; both are large predatory animals. The other options are not predators to the same extent.",
-      "options_en": [
-        "Tiger",
-        "Gazelle",
-        "Bat",
-        "Bear"
-      ],
-      "topic_index": 2,
+      "topic_index": 4,
       "grade": 12,
       "correct_answer": "0",
       "section": "verbal",
-      "question_en": "Select the word that corresponds to 'Lion'.",
-      "explanation_ar": "'نمر' يتناظر مع 'أسد'؛ حيث أن كلاهما من الحيوانات الكبيرة المفترسة. الخيارات الأخرى ليست مفترسة بنفس الدرجة.",
+      "question_en": "What does the word \"تجربة\" mean?",
+      "explanation_ar": "كلمة \"تجربة\" تعني \"محاولة\" أو اختبار شيء معين. الخيارات الأخرى تشير إلى نتائج التجربة ولا تعبر عن معناها الأساسي.",
       "options_ar": [
-        "نمر",
-        "غزال",
-        "وطواط",
-        "دب"
+        "محاولة",
+        "نجاح",
+        "فشل",
+        "خسارة"
       ],
-      "id": "6a498909a8bec5493b1d1803",
-      "created_date": "2026-07-04T22:28:25.589000",
-      "updated_date": "2026-07-04T22:28:25.589000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما الكلمة المناسبة مقابل 'بحر'؟",
-      "explanation_en": "'Ocean' is larger than 'Sea' and corresponds to it. The other options do not match at a similar level.",
-      "options_en": [
-        "River",
-        "Ocean",
-        "Screen",
-        "Ship"
-      ],
-      "topic_index": 2,
-      "grade": 12,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "What is the corresponding word for 'Sea'?",
-      "explanation_ar": "'محيط' هو أكبر من 'بحر' ويتناظر معه. الخيارات الأخرى ليست بمستوى مشابه.",
-      "options_ar": [
-        "نهر",
-        "محيط",
-        "شاشة",
-        "سفينة"
-      ],
-      "id": "6a498909a8bec5493b1d1804",
-      "created_date": "2026-07-04T22:28:25.589000",
-      "updated_date": "2026-07-04T22:28:25.589000",
+      "id": "6a49890a5ad0a1ac76035f33",
+      "created_date": "2026-07-04T22:28:26.358000",
+      "updated_date": "2026-07-04T22:28:26.358000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
@@ -1834,195 +1645,6 @@
         "طقس"
       ],
       "id": "6a498909a8bec5493b1d1805",
-      "created_date": "2026-07-04T22:28:25.589000",
-      "updated_date": "2026-07-04T22:28:25.589000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "الخس هو مثل ماذا؟",
-      "explanation_en": "Lettuce is a type of vegetable, so the correct option is 'Vegetables'. 'Fruits' is incorrect as it differs from the type of lettuce. 'Sweets' and 'Grilled Foods' also do not match the concept of lettuce.",
-      "options_en": [
-        "Fruits",
-        "Vegetables",
-        "Sweets",
-        "Grilled Foods"
-      ],
-      "topic_index": 2,
-      "grade": 12,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "Lettuce is to what?",
-      "explanation_ar": "الخس هو نوع من الخضروات، لذلك الخيار الصحيح هو 'خضروات'. بينما 'فواكه' غير صحيح لأنه يختلف عن نوع الخس. 'حلويات' و 'أطعمة مشوية' أيضًا لا تتطابق مع مفهوم الخس.",
-      "options_ar": [
-        "فواكه",
-        "خضروات",
-        "حلويات",
-        "أطعمة مشوية"
-      ],
-      "id": "6a498909a8bec5493b1d1806",
-      "created_date": "2026-07-04T22:28:25.589000",
-      "updated_date": "2026-07-04T22:28:25.589000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "الشمس تشبه ماذا في الليل؟",
-      "explanation_en": "The sun during the day corresponds to the moon at night, so the correct answer is 'The Moon'. 'Stars' are not a direct equivalent as they are part of the night sky, but the moon is the body that reflects sunlight. 'Fireworks' and 'Storms' do not have a clear relation to the sun.",
-      "options_en": [
-        "Stars",
-        "Fireworks",
-        "The Moon",
-        "Storms"
-      ],
-      "topic_index": 2,
-      "grade": 12,
-      "correct_answer": "2",
-      "section": "verbal",
-      "question_en": "The sun is to what at night?",
-      "explanation_ar": "الشمس في النهار تقابل القمر في الليل، لذا الإجابة الصحيحة هي 'القمر'. 'النجوم' ليست مكافئة مباشرة، فهي جزء من السماء ليلاً، لكن القمر هو الجسم الذي يعكس ضوء الشمس. 'ألعاب نارية' و 'العواصف' ليس لهما علاقة واضحة بالشمس.",
-      "options_ar": [
-        "النجوم",
-        "ألعاب نارية",
-        "القمر",
-        "العواصف"
-      ],
-      "id": "6a498909a8bec5493b1d1807",
-      "created_date": "2026-07-04T22:28:25.589000",
-      "updated_date": "2026-07-04T22:28:25.589000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "الأسد هو ملك الغابة، فما هو لقب النسر؟",
-      "explanation_en": "The correct title for the eagle is 'Queen of the Sky' because it soars high in the sky. 'Ruler of the Seas' applies to other types of beings like fishes. 'Horse of the Air' and 'Chief of the Mountains' do not have correct significations.",
-      "options_en": [
-        "Queen of the Sky",
-        "Ruler of the Seas",
-        "Horse of the Air",
-        "Chief of the Mountains"
-      ],
-      "topic_index": 2,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "The lion is the king of the jungle, what is the title of the eagle?",
-      "explanation_ar": "اللقب الصحيح للنسر هو 'ملكة السماء' لأنه يمارس طيرانه العالي في السماء. 'حاكم البحار' ينطبق على أنواع أخرى من الكائنات مثل الأسماك. 'حصان الهواء' و 'رئيس الجبال' ليس لهم دلالة صحيحة.",
-      "options_ar": [
-        "ملكة السماء",
-        "حاكم البحار",
-        "حصان الهواء",
-        "رئيس الجبال"
-      ],
-      "id": "6a498909a8bec5493b1d1808",
-      "created_date": "2026-07-04T22:28:25.589000",
-      "updated_date": "2026-07-04T22:28:25.589000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "كلمة سريعة تعني عكس كلمة بطيء؟",
-      "explanation_en": "The word that is the opposite of 'fast' is 'slow'. The other options like 'Angry', 'Strong', and 'Weak' refer to emotions or physical states and are not related to speed.",
-      "options_en": [
-        "Angry",
-        "Slow",
-        "Strong",
-        "Weak"
-      ],
-      "topic_index": 2,
-      "grade": 12,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "The word fast is the opposite of what word?",
-      "explanation_ar": "الكلمة التي تعني عكس 'سريع' هي 'بطيء'. الخيارات الأخرى مثل 'غاضب'، 'قوي'، و 'ضعيف' تشير إلى مشاعر أو حالات جسدية، ولا تتعلق بالسرعة.",
-      "options_ar": [
-        "غاضب",
-        "بطيء",
-        "قوي",
-        "ضعيف"
-      ],
-      "id": "6a498909a8bec5493b1d1809",
-      "created_date": "2026-07-04T22:28:25.589000",
-      "updated_date": "2026-07-04T22:28:25.589000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "الكتاب هو مثل................؟",
-      "explanation_en": "A book is used for reading, so the correct choice is 'Reading'. 'Machine' and 'Pen' do not reflect the action related to the book. 'History' is a subject but not the action associated with a book.",
-      "options_en": [
-        "Machine",
-        "Pen",
-        "Reading",
-        "History"
-      ],
-      "topic_index": 2,
-      "grade": 12,
-      "correct_answer": "2",
-      "section": "verbal",
-      "question_en": "A book is to ................?",
-      "explanation_ar": "الكتاب يُستخدم للقراءة، لذا الاختيار الصحيح هو 'قراءة'. 'ماكينة' و 'قلم' لا يعكسان الفعل المتعلق بالكتاب. 'تاريخ' هو موضوع ولكنه ليس الفعل المرتبط بالكتاب.",
-      "options_ar": [
-        "ماكينة",
-        "قلم",
-        "قراءة",
-        "تاريخ"
-      ],
-      "id": "6a498909a8bec5493b1d180a",
-      "created_date": "2026-07-04T22:28:25.589000",
-      "updated_date": "2026-07-04T22:28:25.589000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "المعلم هو مثل...............؟",
-      "explanation_en": "A teacher is the one who teaches students, so the appropriate option is 'Student'. 'Lecturer' refers to another type of education, while 'Book' and 'School' are not related to categories of people.",
-      "options_en": [
-        "Student",
-        "Lecturer",
-        "Book",
-        "School"
-      ],
-      "topic_index": 2,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "A teacher is to ................?",
-      "explanation_ar": "المعلم هو الشخص الذي يعلّم الطلاب، لذا الخيار المناسب هو 'طالب'. 'محاضر' تشير إلى نوع آخر من التعليم، 'كتاب' و 'مدرسة' ليسا مرتبطين بفئة الأشخاص.",
-      "options_ar": [
-        "طالب",
-        "محاضر",
-        "كتاب",
-        "مدرسة"
-      ],
-      "id": "6a498909a8bec5493b1d180b",
-      "created_date": "2026-07-04T22:28:25.589000",
-      "updated_date": "2026-07-04T22:28:25.589000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "التفاح يشبه.................؟",
-      "explanation_en": "An apple and a banana are both fruits, so the correct option is 'Banana'. 'Strawberry' is also a fruit but not as closely related. 'Carton' and 'Refrigerator' do not relate to fruits.",
-      "options_en": [
-        "Carton",
-        "Banana",
-        "Strawberry",
-        "Refrigerator"
-      ],
-      "topic_index": 2,
-      "grade": 12,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "An apple is like ................?",
-      "explanation_ar": "التفاح و الموز كلاهما فواكه، لذا الخيار الصحيح هو 'موز'. 'فراولة' أيضاً فاكهة لكنها ليست مشابهة بنفس القدر. 'كرتونة' و 'ثلاجة' لا تتعلقان بالفاكهة.",
-      "options_ar": [
-        "كرتونة",
-        "موز",
-        "فراولة",
-        "ثلاجة"
-      ],
-      "id": "6a498909a8bec5493b1d180c",
       "created_date": "2026-07-04T22:28:25.589000",
       "updated_date": "2026-07-04T22:28:25.589000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -2083,54 +1705,108 @@
       "is_sample": false
     },
     {
-      "question_ar": "أي من الكلمات التالية تتناظر مع (كتاب)؟",
-      "explanation_en": "The word (book) is used in a library, so (Library) is the correct corresponding word, while the other options refer to tools or materials directly associated with a book.",
+      "question_ar": "ما الكلمة المناسبة مقابل 'بحر'؟",
+      "explanation_en": "'Ocean' is larger than 'Sea' and corresponds to it. The other options do not match at a similar level.",
       "options_en": [
-        "Pen",
-        "Library",
-        "Paper",
-        "Notebook"
+        "River",
+        "Ocean",
+        "Screen",
+        "Ship"
       ],
       "topic_index": 2,
       "grade": 12,
       "correct_answer": "1",
       "section": "verbal",
-      "question_en": "Which of the following words corresponds to (book)?",
-      "explanation_ar": "الكلمة (كتاب) تستخدم في المكتبة، لذا (مكتبة) هي الكلمة المتناظرة الصحيحة، بينما الخيارات الأخرى تشير إلى أدوات أو مواد مرتبطة بالكتاب مباشرة.",
+      "question_en": "What is the corresponding word for 'Sea'?",
+      "explanation_ar": "'محيط' هو أكبر من 'بحر' ويتناظر معه. الخيارات الأخرى ليست بمستوى مشابه.",
       "options_ar": [
-        "قلم",
-        "مكتبة",
-        "ورقة",
-        "دفتر"
+        "نهر",
+        "محيط",
+        "شاشة",
+        "سفينة"
       ],
-      "id": "6a498909a8bec5493b1d180f",
+      "id": "6a498909a8bec5493b1d1804",
       "created_date": "2026-07-04T22:28:25.589000",
       "updated_date": "2026-07-04T22:28:25.589000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
-      "question_ar": "كلمة (طبيب) تتناظر مع أي من الكلمات الآتية؟",
-      "explanation_en": "The word (doctor) is a profession associated with a hospital, hence (Hospital) corresponds correctly, while the other options refer to different concepts within the health field.",
+      "question_ar": "الشمس تشبه ماذا في الليل؟",
+      "explanation_en": "The sun during the day corresponds to the moon at night, so the correct answer is 'The Moon'. 'Stars' are not a direct equivalent as they are part of the night sky, but the moon is the body that reflects sunlight. 'Fireworks' and 'Storms' do not have a clear relation to the sun.",
+      "options_en": [
+        "Stars",
+        "Fireworks",
+        "The Moon",
+        "Storms"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "verbal",
+      "question_en": "The sun is to what at night?",
+      "explanation_ar": "الشمس في النهار تقابل القمر في الليل، لذا الإجابة الصحيحة هي 'القمر'. 'النجوم' ليست مكافئة مباشرة، فهي جزء من السماء ليلاً، لكن القمر هو الجسم الذي يعكس ضوء الشمس. 'ألعاب نارية' و 'العواصف' ليس لهما علاقة واضحة بالشمس.",
+      "options_ar": [
+        "النجوم",
+        "ألعاب نارية",
+        "القمر",
+        "العواصف"
+      ],
+      "id": "6a498909a8bec5493b1d1807",
+      "created_date": "2026-07-04T22:28:25.589000",
+      "updated_date": "2026-07-04T22:28:25.589000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "اختر الكلمة المتناظرة مع 'طبيب'.",
+      "explanation_en": "'Hospital' is the place where a 'Doctor' works. The other options are not directly related to the concept.",
       "options_en": [
         "Patient",
-        "Hospital",
         "Medicine",
-        "Treatment"
+        "Hospital",
+        "Technician"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "verbal",
+      "question_en": "Select the word that corresponds to 'Doctor'.",
+      "explanation_ar": "'مستشفى' هو المكان الذي يتواجد فيه 'طبيب' لممارسة عمله. بينما الخيارات الأخرى ليست متطابقة لهذا المفهوم.",
+      "options_ar": [
+        "مريض",
+        "دواء",
+        "مستشفى",
+        "تقني"
+      ],
+      "id": "6a498909a8bec5493b1d1801",
+      "created_date": "2026-07-04T22:28:25.589000",
+      "updated_date": "2026-07-04T22:28:25.589000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "الخس هو مثل ماذا؟",
+      "explanation_en": "Lettuce is a type of vegetable, so the correct option is 'Vegetables'. 'Fruits' is incorrect as it differs from the type of lettuce. 'Sweets' and 'Grilled Foods' also do not match the concept of lettuce.",
+      "options_en": [
+        "Fruits",
+        "Vegetables",
+        "Sweets",
+        "Grilled Foods"
       ],
       "topic_index": 2,
       "grade": 12,
       "correct_answer": "1",
       "section": "verbal",
-      "question_en": "The word (doctor) corresponds to which of the following words?",
-      "explanation_ar": "الكلمة (طبيب) هي مهنة ترتبط بالمستشفى لذلك (مستشفى) تتناظر بشكل صحيح، في حين أن الخيارات الأخرى تشير إلى مفاهيم مختلفة ضمن المجال الصحي.",
+      "question_en": "Lettuce is to what?",
+      "explanation_ar": "الخس هو نوع من الخضروات، لذلك الخيار الصحيح هو 'خضروات'. بينما 'فواكه' غير صحيح لأنه يختلف عن نوع الخس. 'حلويات' و 'أطعمة مشوية' أيضًا لا تتطابق مع مفهوم الخس.",
       "options_ar": [
-        "مريض",
-        "مستشفى",
-        "دواء",
-        "علاج"
+        "فواكه",
+        "خضروات",
+        "حلويات",
+        "أطعمة مشوية"
       ],
-      "id": "6a498909a8bec5493b1d1810",
+      "id": "6a498909a8bec5493b1d1806",
       "created_date": "2026-07-04T22:28:25.589000",
       "updated_date": "2026-07-04T22:28:25.589000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -2164,6 +1840,330 @@
       "is_sample": false
     },
     {
+      "question_ar": "اختر الكلمة التي تتناظر مع 'شمس'.",
+      "explanation_en": "The word 'Moon' corresponds to 'Sun'; as the moon is present at night opposite the sun during the day. The other options are natural things but do not directly correspond to 'Sun'.",
+      "options_en": [
+        "Moon",
+        "Star",
+        "Cloud",
+        "Sky"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Choose the word that corresponds to 'Sun'.",
+      "explanation_ar": "الكلمة 'قمر' تتناظر مع 'شمس'؛ حيث أن القمر يكون موجودًا في الليل مقابل الشمس في النهار. الخيارات الأخرى هي أشياء طبيعية ولكن لا تقابل 'شمس' بشكل مباشر.",
+      "options_ar": [
+        "قمر",
+        "نجمة",
+        "غيمة",
+        "سماء"
+      ],
+      "id": "6a498909a8bec5493b1d17ff",
+      "created_date": "2026-07-04T22:28:25.589000",
+      "updated_date": "2026-07-04T22:28:25.589000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "كلمة (طبيب) تتناظر مع أي من الكلمات الآتية؟",
+      "explanation_en": "The word (doctor) is a profession associated with a hospital, hence (Hospital) corresponds correctly, while the other options refer to different concepts within the health field.",
+      "options_en": [
+        "Patient",
+        "Hospital",
+        "Medicine",
+        "Treatment"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "The word (doctor) corresponds to which of the following words?",
+      "explanation_ar": "الكلمة (طبيب) هي مهنة ترتبط بالمستشفى لذلك (مستشفى) تتناظر بشكل صحيح، في حين أن الخيارات الأخرى تشير إلى مفاهيم مختلفة ضمن المجال الصحي.",
+      "options_ar": [
+        "مريض",
+        "مستشفى",
+        "دواء",
+        "علاج"
+      ],
+      "id": "6a498909a8bec5493b1d1810",
+      "created_date": "2026-07-04T22:28:25.589000",
+      "updated_date": "2026-07-04T22:28:25.589000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "كلمة سريعة تعني عكس كلمة بطيء؟",
+      "explanation_en": "The word that is the opposite of 'fast' is 'slow'. The other options like 'Angry', 'Strong', and 'Weak' refer to emotions or physical states and are not related to speed.",
+      "options_en": [
+        "Angry",
+        "Slow",
+        "Strong",
+        "Weak"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "The word fast is the opposite of what word?",
+      "explanation_ar": "الكلمة التي تعني عكس 'سريع' هي 'بطيء'. الخيارات الأخرى مثل 'غاضب'، 'قوي'، و 'ضعيف' تشير إلى مشاعر أو حالات جسدية، ولا تتعلق بالسرعة.",
+      "options_ar": [
+        "غاضب",
+        "بطيء",
+        "قوي",
+        "ضعيف"
+      ],
+      "id": "6a498909a8bec5493b1d1809",
+      "created_date": "2026-07-04T22:28:25.589000",
+      "updated_date": "2026-07-04T22:28:25.589000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أوجد اللفظ الذي يتناظر مع الكلمة 'سيارة'.",
+      "explanation_en": "The word 'Bicycle' corresponds to 'Car'; both are modes of transportation. 'Bus', 'Airplane', and 'Ship' are also modes of transportation but do not match as closely as 'Bicycle'.",
+      "options_en": [
+        "Bus",
+        "Bicycle",
+        "Airplane",
+        "Ship"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "Find the word that corresponds to 'Car'.",
+      "explanation_ar": "الكلمة 'دراجة' تتناظر مع 'سيارة'؛ فكلاهما وسائل نقل. 'حافلة' و'طائرة' و'سفينة' هي أيضًا وسائل نقل، لكن لا تتناسب مثل 'دراجة'.",
+      "options_ar": [
+        "حافلة",
+        "دراجة",
+        "طائرة",
+        "سفينة"
+      ],
+      "id": "6a498909a8bec5493b1d17fe",
+      "created_date": "2026-07-04T22:28:25.589000",
+      "updated_date": "2026-07-04T22:28:25.589000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أوجد الكلمة التي تتناظر مع 'بيت'.",
+      "explanation_en": "'Family' corresponds to 'House'; as the house is where the family lives. The other options are not as closely related.",
+      "options_en": [
+        "Tree",
+        "Family",
+        "School",
+        "Garden"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "Find the word that corresponds to 'House'.",
+      "explanation_ar": "'عائلة' تتناظر مع 'بيت'؛ حيث أن البيت هو المكان الذي تعيش فيه العائلة. الخيارات الأخرى ليست متعارفة بنفس القدر.",
+      "options_ar": [
+        "شجرة",
+        "عائلة",
+        "مدرسة",
+        "حديقة"
+      ],
+      "id": "6a498909a8bec5493b1d1802",
+      "created_date": "2026-07-04T22:28:25.589000",
+      "updated_date": "2026-07-04T22:28:25.589000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما الكلمة التي تناظر 'كتب'؟",
+      "explanation_en": "The word 'Library' corresponds to 'Books'; a library is a place that contains books. The other options do not match as well.",
+      "options_en": [
+        "Library",
+        "Reading",
+        "Pen",
+        "Page"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "What is the word that corresponds to 'Books'?",
+      "explanation_ar": "الكلمة 'مكتبة' تتناظر مع 'كتب'؛ فالمكتبة مكان يحتوي على الكتب. الخيارات الأخرى لا تتشابه بنفس القدر.",
+      "options_ar": [
+        "مكتبة",
+        "قراءة",
+        "قلم",
+        "صفحة"
+      ],
+      "id": "6a498909a8bec5493b1d1800",
+      "created_date": "2026-07-04T22:28:25.589000",
+      "updated_date": "2026-07-04T22:28:25.589000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "الكتاب هو مثل................؟",
+      "explanation_en": "A book is used for reading, so the correct choice is 'Reading'. 'Machine' and 'Pen' do not reflect the action related to the book. 'History' is a subject but not the action associated with a book.",
+      "options_en": [
+        "Machine",
+        "Pen",
+        "Reading",
+        "History"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "verbal",
+      "question_en": "A book is to ................?",
+      "explanation_ar": "الكتاب يُستخدم للقراءة، لذا الاختيار الصحيح هو 'قراءة'. 'ماكينة' و 'قلم' لا يعكسان الفعل المتعلق بالكتاب. 'تاريخ' هو موضوع ولكنه ليس الفعل المرتبط بالكتاب.",
+      "options_ar": [
+        "ماكينة",
+        "قلم",
+        "قراءة",
+        "تاريخ"
+      ],
+      "id": "6a498909a8bec5493b1d180a",
+      "created_date": "2026-07-04T22:28:25.589000",
+      "updated_date": "2026-07-04T22:28:25.589000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "التفاح يشبه.................؟",
+      "explanation_en": "An apple and a banana are both fruits, so the correct option is 'Banana'. 'Strawberry' is also a fruit but not as closely related. 'Carton' and 'Refrigerator' do not relate to fruits.",
+      "options_en": [
+        "Carton",
+        "Banana",
+        "Strawberry",
+        "Refrigerator"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "An apple is like ................?",
+      "explanation_ar": "التفاح و الموز كلاهما فواكه، لذا الخيار الصحيح هو 'موز'. 'فراولة' أيضاً فاكهة لكنها ليست مشابهة بنفس القدر. 'كرتونة' و 'ثلاجة' لا تتعلقان بالفاكهة.",
+      "options_ar": [
+        "كرتونة",
+        "موز",
+        "فراولة",
+        "ثلاجة"
+      ],
+      "id": "6a498909a8bec5493b1d180c",
+      "created_date": "2026-07-04T22:28:25.589000",
+      "updated_date": "2026-07-04T22:28:25.589000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أي من الكلمات التالية تتناظر مع (كتاب)؟",
+      "explanation_en": "The word (book) is used in a library, so (Library) is the correct corresponding word, while the other options refer to tools or materials directly associated with a book.",
+      "options_en": [
+        "Pen",
+        "Library",
+        "Paper",
+        "Notebook"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "Which of the following words corresponds to (book)?",
+      "explanation_ar": "الكلمة (كتاب) تستخدم في المكتبة، لذا (مكتبة) هي الكلمة المتناظرة الصحيحة، بينما الخيارات الأخرى تشير إلى أدوات أو مواد مرتبطة بالكتاب مباشرة.",
+      "options_ar": [
+        "قلم",
+        "مكتبة",
+        "ورقة",
+        "دفتر"
+      ],
+      "id": "6a498909a8bec5493b1d180f",
+      "created_date": "2026-07-04T22:28:25.589000",
+      "updated_date": "2026-07-04T22:28:25.589000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "اختر الكلمة التي تتناظر مع 'أسد'.",
+      "explanation_en": "'Tiger' corresponds to 'Lion'; both are large predatory animals. The other options are not predators to the same extent.",
+      "options_en": [
+        "Tiger",
+        "Gazelle",
+        "Bat",
+        "Bear"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Select the word that corresponds to 'Lion'.",
+      "explanation_ar": "'نمر' يتناظر مع 'أسد'؛ حيث أن كلاهما من الحيوانات الكبيرة المفترسة. الخيارات الأخرى ليست مفترسة بنفس الدرجة.",
+      "options_ar": [
+        "نمر",
+        "غزال",
+        "وطواط",
+        "دب"
+      ],
+      "id": "6a498909a8bec5493b1d1803",
+      "created_date": "2026-07-04T22:28:25.589000",
+      "updated_date": "2026-07-04T22:28:25.589000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "الأسد هو ملك الغابة، فما هو لقب النسر؟",
+      "explanation_en": "The correct title for the eagle is 'Queen of the Sky' because it soars high in the sky. 'Ruler of the Seas' applies to other types of beings like fishes. 'Horse of the Air' and 'Chief of the Mountains' do not have correct significations.",
+      "options_en": [
+        "Queen of the Sky",
+        "Ruler of the Seas",
+        "Horse of the Air",
+        "Chief of the Mountains"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "The lion is the king of the jungle, what is the title of the eagle?",
+      "explanation_ar": "اللقب الصحيح للنسر هو 'ملكة السماء' لأنه يمارس طيرانه العالي في السماء. 'حاكم البحار' ينطبق على أنواع أخرى من الكائنات مثل الأسماك. 'حصان الهواء' و 'رئيس الجبال' ليس لهم دلالة صحيحة.",
+      "options_ar": [
+        "ملكة السماء",
+        "حاكم البحار",
+        "حصان الهواء",
+        "رئيس الجبال"
+      ],
+      "id": "6a498909a8bec5493b1d1808",
+      "created_date": "2026-07-04T22:28:25.589000",
+      "updated_date": "2026-07-04T22:28:25.589000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "المعلم هو مثل...............؟",
+      "explanation_en": "A teacher is the one who teaches students, so the appropriate option is 'Student'. 'Lecturer' refers to another type of education, while 'Book' and 'School' are not related to categories of people.",
+      "options_en": [
+        "Student",
+        "Lecturer",
+        "Book",
+        "School"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "A teacher is to ................?",
+      "explanation_ar": "المعلم هو الشخص الذي يعلّم الطلاب، لذا الخيار المناسب هو 'طالب'. 'محاضر' تشير إلى نوع آخر من التعليم، 'كتاب' و 'مدرسة' ليسا مرتبطين بفئة الأشخاص.",
+      "options_ar": [
+        "طالب",
+        "محاضر",
+        "كتاب",
+        "مدرسة"
+      ],
+      "id": "6a498909a8bec5493b1d180b",
+      "created_date": "2026-07-04T22:28:25.589000",
+      "updated_date": "2026-07-04T22:28:25.589000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
       "question_ar": "في أي سياق يمكن استخدام كلمة \"صمود\"؟",
       "explanation_en": "The word 'resilience' refers to the ability to endure and stand firm in tough times, unlike the other options which indicate escape or surrender.",
       "options_en": [
@@ -2185,60 +2185,6 @@
         "الهروب"
       ],
       "id": "6a4988deb8db5f051d46fd0a",
-      "created_date": "2026-07-04T22:27:42.353000",
-      "updated_date": "2026-07-04T22:27:42.353000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "كيف تكتمل الجملة التالية: \"الرجل الذي ساعد في إنقاذ الأرواح كان ___.\"؟",
-      "explanation_en": "In this sentence, a word expected to express courage and heroism should be used, so the option 'a hero' is the most fitting for the idea of saving.",
-      "options_en": [
-        "A hero",
-        "Cowardly",
-        "Uninterested",
-        "Transient"
-      ],
-      "topic_index": 0,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "How does the following sentence complete: \"The man who helped save lives was ___.\"?",
-      "explanation_ar": "في هذه الجملة، يتوقع أن تُستخدم كلمة تعبر عن الشجاعة والبطولة، لذلك الخيار \"بطلاً\" هو الأكثر ملاءمة لفكرة الإنقاذ.",
-      "options_ar": [
-        "بطلاً",
-        "جباناً",
-        "غير مهتم",
-        "عابراً"
-      ],
-      "id": "6a4988deb8db5f051d46fd0b",
-      "created_date": "2026-07-04T22:27:42.353000",
-      "updated_date": "2026-07-04T22:27:42.353000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما هي الفكرة الرئيسية في النص الذي يناقش تأثيرات التكنولوجيا على التعليم؟",
-      "explanation_en": "The main idea is that technology increases communication between students and teachers, which is seen as a positive factor enhancing the learning process. The other options are incorrect as they express negative impacts or lack of influence, while the text focuses on the positive effects of technology.",
-      "options_en": [
-        "Increased communication between students and teachers",
-        "Decreased quality of education",
-        "No impact of technology on education",
-        "Improved learning methods"
-      ],
-      "topic_index": 0,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "What is the main idea in the text discussing the effects of technology on education?",
-      "explanation_ar": "الفكرة الرئيسية هي أن التكنولوجيا تزيد من التواصل بين الطلاب والمعلمين، مما يُعتبر عاملاً إيجابياً يعزز عملية التعلم. الخيارات الأخرى غير صحيحة لأن كل منها يعبر عن تأثيرات سلبية أو عدم تأثير، بينما النص يركز على التأثير الإيجابي للتكنولوجيا.",
-      "options_ar": [
-        "زيادة التواصل بين الطلاب والمعلمين",
-        "تقليل جودة التعليم",
-        "عدم تأثير التكنولوجيا على التعليم",
-        "تحسين أساليب التعلم"
-      ],
-      "id": "6a4988deb8db5f051d46fd0c",
       "created_date": "2026-07-04T22:27:42.353000",
       "updated_date": "2026-07-04T22:27:42.353000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -2272,33 +2218,6 @@
       "is_sample": false
     },
     {
-      "question_ar": "ما المعنى المحتمل لكلمة \"استدامة\" المستخدمة في السياق البيئي؟",
-      "explanation_en": "The word 'sustainability' refers to the conservation of resources for future generations and ensuring they are not depleted. The other options represent negative concepts and do not reflect the true meaning of sustainability, which revolves around balance between development and the environment.",
-      "options_en": [
-        "Overconsumption of resources",
-        "Conservation of resources for future generations",
-        "Environmental degradation",
-        "Increased productivity without assessment"
-      ],
-      "topic_index": 0,
-      "grade": 12,
-      "correct_answer": "1",
-      "section": "verbal",
-      "question_en": "What is the potential meaning of the word \"sustainability\" used in the environmental context?",
-      "explanation_ar": "الكلمة 'استدامة' تدل على الحفاظ على الموارد للأجيال القادمة وضمان عدم استنزافها. الخيارات الأخرى تمثل مفاهيم سلبية ولا تعكس المعنى الحقيقي للاستدامة، والتي تتمحور حول التوازن بين التنمية والبيئة.",
-      "options_ar": [
-        "الاستخدام المفرط للموارد",
-        "الحفاظ على الموارد للأجيال القادمة",
-        "تدهور البيئة",
-        "زيادة الإنتاجية دون تقييم"
-      ],
-      "id": "6a4988deb8db5f051d46fd0e",
-      "created_date": "2026-07-04T22:27:42.353000",
-      "updated_date": "2026-07-04T22:27:42.353000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
       "question_ar": "ما الغرض من استخدام الأمثلة في الكتابات التحليلية؟",
       "explanation_en": "The purpose of using examples in analytical writing is to support the points made and clarify them for the reader. The other options are incorrect because the aim of examples is to elucidate rather than complicate or confuse the text.",
       "options_en": [
@@ -2326,29 +2245,83 @@
       "is_sample": false
     },
     {
-      "question_ar": "ما هي الفكرة الرئيسية في النص التالي؟ \"يمثل التعليم أحد أهم عوامل التنمية المستدامة، حيث يسهم في تحسين مستوى المعيشة وزيادة الوعي لدى الأفراد.\"",
-      "explanation_en": "The correct answer is \"The importance of education in development\" because the text discusses the role of education in improving life and increasing awareness, indicating its fundamental impact on sustainable development. The other options do not directly relate to the main idea.",
+      "question_ar": "كيف تكتمل الجملة التالية: \"الرجل الذي ساعد في إنقاذ الأرواح كان ___.\"؟",
+      "explanation_en": "In this sentence, a word expected to express courage and heroism should be used, so the option 'a hero' is the most fitting for the idea of saving.",
       "options_en": [
-        "The importance of education in development",
-        "Problems of education in societies",
-        "The history of education in the world",
-        "Education and technology"
+        "A hero",
+        "Cowardly",
+        "Uninterested",
+        "Transient"
       ],
       "topic_index": 0,
       "grade": 12,
       "correct_answer": "0",
       "section": "verbal",
-      "question_en": "What is the main idea of the following text? \"Education represents one of the most important factors for sustainable development, as it contributes to improving living standards and increasing awareness among individuals.\"",
-      "explanation_ar": "الجواب الصحيح هو \"أهمية التعليم في التنمية\" لأن النص يتحدث عن دور التعليم في تحسين الحياة وزيادة الوعي، مما يشير إلى تأثيره كعامل أساسي في التنمية المستدامة. الخيارات الأخرى لا تتعلق مباشرة بالفكرة الرئيسية.",
+      "question_en": "How does the following sentence complete: \"The man who helped save lives was ___.\"?",
+      "explanation_ar": "في هذه الجملة، يتوقع أن تُستخدم كلمة تعبر عن الشجاعة والبطولة، لذلك الخيار \"بطلاً\" هو الأكثر ملاءمة لفكرة الإنقاذ.",
       "options_ar": [
-        "أهمية التعليم في التنمية",
-        "مشاكل التعليم في المجتمعات",
-        "تاريخ التعليم في العالم",
-        "التعليم والتكنولوجيا"
+        "بطلاً",
+        "جباناً",
+        "غير مهتم",
+        "عابراً"
       ],
-      "id": "6a4988deb8db5f051d46fcfc",
-      "created_date": "2026-07-04T22:27:42.352000",
-      "updated_date": "2026-07-04T22:27:42.352000",
+      "id": "6a4988deb8db5f051d46fd0b",
+      "created_date": "2026-07-04T22:27:42.353000",
+      "updated_date": "2026-07-04T22:27:42.353000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما المعنى المحتمل لكلمة \"استدامة\" المستخدمة في السياق البيئي؟",
+      "explanation_en": "The word 'sustainability' refers to the conservation of resources for future generations and ensuring they are not depleted. The other options represent negative concepts and do not reflect the true meaning of sustainability, which revolves around balance between development and the environment.",
+      "options_en": [
+        "Overconsumption of resources",
+        "Conservation of resources for future generations",
+        "Environmental degradation",
+        "Increased productivity without assessment"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "What is the potential meaning of the word \"sustainability\" used in the environmental context?",
+      "explanation_ar": "الكلمة 'استدامة' تدل على الحفاظ على الموارد للأجيال القادمة وضمان عدم استنزافها. الخيارات الأخرى تمثل مفاهيم سلبية ولا تعكس المعنى الحقيقي للاستدامة، والتي تتمحور حول التوازن بين التنمية والبيئة.",
+      "options_ar": [
+        "الاستخدام المفرط للموارد",
+        "الحفاظ على الموارد للأجيال القادمة",
+        "تدهور البيئة",
+        "زيادة الإنتاجية دون تقييم"
+      ],
+      "id": "6a4988deb8db5f051d46fd0e",
+      "created_date": "2026-07-04T22:27:42.353000",
+      "updated_date": "2026-07-04T22:27:42.353000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هي الفكرة الرئيسية في النص الذي يناقش تأثيرات التكنولوجيا على التعليم؟",
+      "explanation_en": "The main idea is that technology increases communication between students and teachers, which is seen as a positive factor enhancing the learning process. The other options are incorrect as they express negative impacts or lack of influence, while the text focuses on the positive effects of technology.",
+      "options_en": [
+        "Increased communication between students and teachers",
+        "Decreased quality of education",
+        "No impact of technology on education",
+        "Improved learning methods"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "What is the main idea in the text discussing the effects of technology on education?",
+      "explanation_ar": "الفكرة الرئيسية هي أن التكنولوجيا تزيد من التواصل بين الطلاب والمعلمين، مما يُعتبر عاملاً إيجابياً يعزز عملية التعلم. الخيارات الأخرى غير صحيحة لأن كل منها يعبر عن تأثيرات سلبية أو عدم تأثير، بينما النص يركز على التأثير الإيجابي للتكنولوجيا.",
+      "options_ar": [
+        "زيادة التواصل بين الطلاب والمعلمين",
+        "تقليل جودة التعليم",
+        "عدم تأثير التكنولوجيا على التعليم",
+        "تحسين أساليب التعلم"
+      ],
+      "id": "6a4988deb8db5f051d46fd0c",
+      "created_date": "2026-07-04T22:27:42.353000",
+      "updated_date": "2026-07-04T22:27:42.353000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
@@ -2374,168 +2347,6 @@
         "الشراكة"
       ],
       "id": "6a4988deb8db5f051d46fcfd",
-      "created_date": "2026-07-04T22:27:42.352000",
-      "updated_date": "2026-07-04T22:27:42.352000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما هو المعنى الأساسي لكلمة \"تحديات\" في هذا السياق؟ \"يواجه الشباب العديد من التحديات في سعيهم لتحقيق النجاح.\"",
-      "explanation_en": "The word \"challenges\" here refers to \"difficulties\" as it relates to the obstacles that youth must overcome to achieve success. The other options do not convey the same meaning.",
-      "options_en": [
-        "Difficulties",
-        "Opportunities",
-        "Help",
-        "Changes"
-      ],
-      "topic_index": 0,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "What is the basic meaning of the word \"challenges\" in this context? \"Youth face many challenges in their pursuit of success.\"",
-      "explanation_ar": "كلمة \"تحديات\" تشير هنا إلى \"مصاعب\" حيث تتعلق العقبات التي يجب على الشباب التغلب عليها لتحقيق النجاح. الخيارات الأخرى لا تعطي نفس المعنى.",
-      "options_ar": [
-        "مصاعب",
-        "فرص",
-        "مساعدة",
-        "تغيرات"
-      ],
-      "id": "6a4988deb8db5f051d46fcfe",
-      "created_date": "2026-07-04T22:27:42.352000",
-      "updated_date": "2026-07-04T22:27:42.352000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما المقصود من العبارة: \"المعرفة قوة\"؟",
-      "explanation_en": "The phrase indicates that knowledge enhances an individual's ability to make correct decisions. The other options contain different meanings and do not express the true meaning of the statement.",
-      "options_en": [
-        "Knowledge increases the ability to make decisions",
-        "Knowledge brings wealth",
-        "Knowledge means success",
-        "Knowledge is better than money"
-      ],
-      "topic_index": 0,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "What is meant by the phrase: \"Knowledge is power\"?",
-      "explanation_ar": "العبارة تشير إلى أن المعرفة تعزز من قدرة الفرد على اتخاذ قرارات صحيحة. الخيارات الأخرى تحتوي على معانٍ مختلفة ولا تعبر عن المعنى الحقيقي للجملة.",
-      "options_ar": [
-        "المعرفة تزيد من القدرة على اتخاذ القرارات",
-        "المعرفة تجلب المال",
-        "المعرفة تعني النجاح",
-        "المعرفة أجمل من المال"
-      ],
-      "id": "6a4988deb8db5f051d46fcff",
-      "created_date": "2026-07-04T22:27:42.352000",
-      "updated_date": "2026-07-04T22:27:42.352000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما هو المعنى المخفي في العبارة: \"العلم نور\"؟",
-      "explanation_en": "The phrase means that knowledge provides the guidance and understanding that can lead to success. The other options express meanings that do not reflect the intended message of the phrase.",
-      "options_en": [
-        "Knowledge leads to success",
-        "Knowledge brings luck",
-        "Knowledge solves all problems",
-        "Knowledge achieves dreams"
-      ],
-      "topic_index": 0,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "What is the hidden meaning in the phrase: \"Knowledge is light\"?",
-      "explanation_ar": "العبارة تعني أن العلم يوفر الإرشاد والفهم الذي يمكن أن يقود إلى النجاح. الخيارات الأخرى تعبر عن معاني لا تعكس المقصود بالعبارة.",
-      "options_ar": [
-        "العلم يقود إلى النجاح",
-        "العلم يجلب الحظ",
-        "العلم يحل كل المشاكل",
-        "العلم يحقق الأحلام"
-      ],
-      "id": "6a4988deb8db5f051d46fd00",
-      "created_date": "2026-07-04T22:27:42.352000",
-      "updated_date": "2026-07-04T22:27:42.352000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "في الجملة: \"تعد القراءة أداة فعالة لتوسيع المدارك.\" ما هو مفهوم \"توسيع المدارك\"؟",
-      "explanation_en": "\"Expanding horizons\" means \"increasing information\" and refers to knowing more things. The other options do not express the same meaning contained within the sentence.",
-      "options_en": [
-        "Increasing information",
-        "Narrowing knowledge",
-        "Defining vision",
-        "Adjusting behavior"
-      ],
-      "topic_index": 0,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "In the sentence: \"Reading is an effective tool for expanding horizons.\" What is meant by \"expanding horizons\"?",
-      "explanation_ar": "\"توسيع المدارك\" يعني \"زيادة المعلومات\" ويشير إلى معرفة المزيد من الأشياء. الخيارات الأخرى لا تعبر عن نفس المعنى الوارد في الجملة.",
-      "options_ar": [
-        "زيادة المعلومات",
-        "تقليص المعرفة",
-        "تحديد الرؤية",
-        "تعديل السلوك"
-      ],
-      "id": "6a4988deb8db5f051d46fd01",
-      "created_date": "2026-07-04T22:27:42.352000",
-      "updated_date": "2026-07-04T22:27:42.352000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما هي نتيجة العبارة: \"المثابرة تؤدي إلى النجاح\"؟",
-      "explanation_en": "The statement points out that continued effort and perseverance are factors of success, thus the correct answer is \"We must keep trying.\" The other options express negative and unrelated ideas.",
-      "options_en": [
-        "We must keep trying",
-        "Failure is normal",
-        "Success is easy",
-        "Learning is useless"
-      ],
-      "topic_index": 0,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "What is the conclusion of the statement: \"Perseverance leads to success\"?",
-      "explanation_ar": "العبارة تشير إلى أن استمرار الجهد والمثابرة هي عوامل النجاح، لذلك الجواب الصحيح هو \"يجب أن نستمر في المحاولة\". الخيارات الأخرى تعبر عن أفكار سلبية وغير متعلقة.",
-      "options_ar": [
-        "يجب أن نستمر في المحاولة",
-        "الفشل شيء عادي",
-        "النجاح سهل",
-        "لا فائدة من التعلم"
-      ],
-      "id": "6a4988deb8db5f051d46fd02",
-      "created_date": "2026-07-04T22:27:42.352000",
-      "updated_date": "2026-07-04T22:27:42.352000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "ما هو دلالة كلمة \"تعاون\" في سياق العمل الجماعي؟",
-      "explanation_en": "The word \"cooperation\" means \"working together\" as it refers to joint efforts to achieve a common goal. The other options represent opposing concepts.",
-      "options_en": [
-        "Working together",
-        "Competition",
-        "Individualism",
-        "Ignoring"
-      ],
-      "topic_index": 0,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "What is the connotation of the word \"cooperation\" in the context of teamwork?",
-      "explanation_ar": "كلمة \"تعاون\" تعني \"العمل معاً\" حيث تشير إلى الجهود المشتركة لتحقيق هدف موحد. الخيارات الأخرى تمثل مفاهيم معاكسة.",
-      "options_ar": [
-        "العمل معاً",
-        "التنافس",
-        "الفردية",
-        "التجاهل"
-      ],
-      "id": "6a4988deb8db5f051d46fd03",
       "created_date": "2026-07-04T22:27:42.352000",
       "updated_date": "2026-07-04T22:27:42.352000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -2569,27 +2380,135 @@
       "is_sample": false
     },
     {
-      "question_ar": "أي من الجمل التالية تعبر عن الانخفاض؟",
-      "explanation_en": "The sentence that expresses a decline is 'The number of visitors decreased', while the other options indicate an increase or stability.",
+      "question_ar": "ما المقصود بكلمة \"الخداع\" في الجملة: \"الخداع لا يدوم طويلاً\"؟",
+      "explanation_en": "The word 'deception' refers to misleading, not to truthfulness, hiding, or concealing in a general sense.",
       "options_en": [
-        "The number of visitors increased",
-        "The number of visitors decreased",
-        "The number of visitors remained stable",
-        "The number of visitors became increasing"
+        "Misleading",
+        "Truthfulness",
+        "Hiding",
+        "Concealing"
       ],
       "topic_index": 0,
       "grade": 12,
-      "correct_answer": "1",
+      "correct_answer": "0",
       "section": "verbal",
-      "question_en": "Which of the following sentences expresses a decline?",
-      "explanation_ar": "الجملة التي تعبر عن الانخفاض هي \"انخفض عدد الزوار\"، بينما الخيارات الأخرى تشير إلى الزيادة أو الاستقرار.",
+      "question_en": "What is the meaning of the word \"deception\" in the sentence: \"Deception does not last long\"?",
+      "explanation_ar": "كلمة \"الخداع\" تشير إلى التضليل وليس إلى الصدق أو الاختباء أو الإخفاء بشكل عام.",
       "options_ar": [
-        "تزايد عدد الزوار",
-        "انخفض عدد الزوار",
-        "استقر عدد الزوار",
-        "أصبح عدد الزوار متزايداً"
+        "التضليل",
+        "الصدق",
+        "الاختباء",
+        "الإخفاء"
       ],
-      "id": "6a4988deb8db5f051d46fd05",
+      "id": "6a4988deb8db5f051d46fd07",
+      "created_date": "2026-07-04T22:27:42.352000",
+      "updated_date": "2026-07-04T22:27:42.352000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "في الجملة: \"تعد القراءة أداة فعالة لتوسيع المدارك.\" ما هو مفهوم \"توسيع المدارك\"؟",
+      "explanation_en": "\"Expanding horizons\" means \"increasing information\" and refers to knowing more things. The other options do not express the same meaning contained within the sentence.",
+      "options_en": [
+        "Increasing information",
+        "Narrowing knowledge",
+        "Defining vision",
+        "Adjusting behavior"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "In the sentence: \"Reading is an effective tool for expanding horizons.\" What is meant by \"expanding horizons\"?",
+      "explanation_ar": "\"توسيع المدارك\" يعني \"زيادة المعلومات\" ويشير إلى معرفة المزيد من الأشياء. الخيارات الأخرى لا تعبر عن نفس المعنى الوارد في الجملة.",
+      "options_ar": [
+        "زيادة المعلومات",
+        "تقليص المعرفة",
+        "تحديد الرؤية",
+        "تعديل السلوك"
+      ],
+      "id": "6a4988deb8db5f051d46fd01",
+      "created_date": "2026-07-04T22:27:42.352000",
+      "updated_date": "2026-07-04T22:27:42.352000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أي من الكلمات التالية مرادف لكلمة \"ابتكار\"؟",
+      "explanation_en": "The word 'innovation' is related to development, while the other options carry negative or unsuitable meanings.",
+      "options_en": [
+        "Development",
+        "Backwardness",
+        "Stability",
+        "Imitation"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "Which of the following words is a synonym for the word \"innovation\"?",
+      "explanation_ar": "كلمة \"ابتكار\" ترتبط بالتطوير، في حين أن الخيارات الأخرى تحمل معاني سلبية أو غير مناسبة.",
+      "options_ar": [
+        "تطوير",
+        "تخلف",
+        "استقرار",
+        "تقليد"
+      ],
+      "id": "6a4988deb8db5f051d46fd09",
+      "created_date": "2026-07-04T22:27:42.352000",
+      "updated_date": "2026-07-04T22:27:42.352000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو المعنى المخفي في العبارة: \"العلم نور\"؟",
+      "explanation_en": "The phrase means that knowledge provides the guidance and understanding that can lead to success. The other options express meanings that do not reflect the intended message of the phrase.",
+      "options_en": [
+        "Knowledge leads to success",
+        "Knowledge brings luck",
+        "Knowledge solves all problems",
+        "Knowledge achieves dreams"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "What is the hidden meaning in the phrase: \"Knowledge is light\"?",
+      "explanation_ar": "العبارة تعني أن العلم يوفر الإرشاد والفهم الذي يمكن أن يقود إلى النجاح. الخيارات الأخرى تعبر عن معاني لا تعكس المقصود بالعبارة.",
+      "options_ar": [
+        "العلم يقود إلى النجاح",
+        "العلم يجلب الحظ",
+        "العلم يحل كل المشاكل",
+        "العلم يحقق الأحلام"
+      ],
+      "id": "6a4988deb8db5f051d46fd00",
+      "created_date": "2026-07-04T22:27:42.352000",
+      "updated_date": "2026-07-04T22:27:42.352000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هي نتيجة العبارة: \"المثابرة تؤدي إلى النجاح\"؟",
+      "explanation_en": "The statement points out that continued effort and perseverance are factors of success, thus the correct answer is \"We must keep trying.\" The other options express negative and unrelated ideas.",
+      "options_en": [
+        "We must keep trying",
+        "Failure is normal",
+        "Success is easy",
+        "Learning is useless"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "What is the conclusion of the statement: \"Perseverance leads to success\"?",
+      "explanation_ar": "العبارة تشير إلى أن استمرار الجهد والمثابرة هي عوامل النجاح، لذلك الجواب الصحيح هو \"يجب أن نستمر في المحاولة\". الخيارات الأخرى تعبر عن أفكار سلبية وغير متعلقة.",
+      "options_ar": [
+        "يجب أن نستمر في المحاولة",
+        "الفشل شيء عادي",
+        "النجاح سهل",
+        "لا فائدة من التعلم"
+      ],
+      "id": "6a4988deb8db5f051d46fd02",
       "created_date": "2026-07-04T22:27:42.352000",
       "updated_date": "2026-07-04T22:27:42.352000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -2623,27 +2542,135 @@
       "is_sample": false
     },
     {
-      "question_ar": "ما المقصود بكلمة \"الخداع\" في الجملة: \"الخداع لا يدوم طويلاً\"؟",
-      "explanation_en": "The word 'deception' refers to misleading, not to truthfulness, hiding, or concealing in a general sense.",
+      "question_ar": "ما المقصود من العبارة: \"المعرفة قوة\"؟",
+      "explanation_en": "The phrase indicates that knowledge enhances an individual's ability to make correct decisions. The other options contain different meanings and do not express the true meaning of the statement.",
       "options_en": [
-        "Misleading",
-        "Truthfulness",
-        "Hiding",
-        "Concealing"
+        "Knowledge increases the ability to make decisions",
+        "Knowledge brings wealth",
+        "Knowledge means success",
+        "Knowledge is better than money"
       ],
       "topic_index": 0,
       "grade": 12,
       "correct_answer": "0",
       "section": "verbal",
-      "question_en": "What is the meaning of the word \"deception\" in the sentence: \"Deception does not last long\"?",
-      "explanation_ar": "كلمة \"الخداع\" تشير إلى التضليل وليس إلى الصدق أو الاختباء أو الإخفاء بشكل عام.",
+      "question_en": "What is meant by the phrase: \"Knowledge is power\"?",
+      "explanation_ar": "العبارة تشير إلى أن المعرفة تعزز من قدرة الفرد على اتخاذ قرارات صحيحة. الخيارات الأخرى تحتوي على معانٍ مختلفة ولا تعبر عن المعنى الحقيقي للجملة.",
       "options_ar": [
-        "التضليل",
-        "الصدق",
-        "الاختباء",
-        "الإخفاء"
+        "المعرفة تزيد من القدرة على اتخاذ القرارات",
+        "المعرفة تجلب المال",
+        "المعرفة تعني النجاح",
+        "المعرفة أجمل من المال"
       ],
-      "id": "6a4988deb8db5f051d46fd07",
+      "id": "6a4988deb8db5f051d46fcff",
+      "created_date": "2026-07-04T22:27:42.352000",
+      "updated_date": "2026-07-04T22:27:42.352000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو دلالة كلمة \"تعاون\" في سياق العمل الجماعي؟",
+      "explanation_en": "The word \"cooperation\" means \"working together\" as it refers to joint efforts to achieve a common goal. The other options represent opposing concepts.",
+      "options_en": [
+        "Working together",
+        "Competition",
+        "Individualism",
+        "Ignoring"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "What is the connotation of the word \"cooperation\" in the context of teamwork?",
+      "explanation_ar": "كلمة \"تعاون\" تعني \"العمل معاً\" حيث تشير إلى الجهود المشتركة لتحقيق هدف موحد. الخيارات الأخرى تمثل مفاهيم معاكسة.",
+      "options_ar": [
+        "العمل معاً",
+        "التنافس",
+        "الفردية",
+        "التجاهل"
+      ],
+      "id": "6a4988deb8db5f051d46fd03",
+      "created_date": "2026-07-04T22:27:42.352000",
+      "updated_date": "2026-07-04T22:27:42.352000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو المعنى الأساسي لكلمة \"تحديات\" في هذا السياق؟ \"يواجه الشباب العديد من التحديات في سعيهم لتحقيق النجاح.\"",
+      "explanation_en": "The word \"challenges\" here refers to \"difficulties\" as it relates to the obstacles that youth must overcome to achieve success. The other options do not convey the same meaning.",
+      "options_en": [
+        "Difficulties",
+        "Opportunities",
+        "Help",
+        "Changes"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "What is the basic meaning of the word \"challenges\" in this context? \"Youth face many challenges in their pursuit of success.\"",
+      "explanation_ar": "كلمة \"تحديات\" تشير هنا إلى \"مصاعب\" حيث تتعلق العقبات التي يجب على الشباب التغلب عليها لتحقيق النجاح. الخيارات الأخرى لا تعطي نفس المعنى.",
+      "options_ar": [
+        "مصاعب",
+        "فرص",
+        "مساعدة",
+        "تغيرات"
+      ],
+      "id": "6a4988deb8db5f051d46fcfe",
+      "created_date": "2026-07-04T22:27:42.352000",
+      "updated_date": "2026-07-04T22:27:42.352000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أي من الجمل التالية تعبر عن الانخفاض؟",
+      "explanation_en": "The sentence that expresses a decline is 'The number of visitors decreased', while the other options indicate an increase or stability.",
+      "options_en": [
+        "The number of visitors increased",
+        "The number of visitors decreased",
+        "The number of visitors remained stable",
+        "The number of visitors became increasing"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "verbal",
+      "question_en": "Which of the following sentences expresses a decline?",
+      "explanation_ar": "الجملة التي تعبر عن الانخفاض هي \"انخفض عدد الزوار\"، بينما الخيارات الأخرى تشير إلى الزيادة أو الاستقرار.",
+      "options_ar": [
+        "تزايد عدد الزوار",
+        "انخفض عدد الزوار",
+        "استقر عدد الزوار",
+        "أصبح عدد الزوار متزايداً"
+      ],
+      "id": "6a4988deb8db5f051d46fd05",
+      "created_date": "2026-07-04T22:27:42.352000",
+      "updated_date": "2026-07-04T22:27:42.352000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هي الفكرة الرئيسية في النص التالي؟ \"يمثل التعليم أحد أهم عوامل التنمية المستدامة، حيث يسهم في تحسين مستوى المعيشة وزيادة الوعي لدى الأفراد.\"",
+      "explanation_en": "The correct answer is \"The importance of education in development\" because the text discusses the role of education in improving life and increasing awareness, indicating its fundamental impact on sustainable development. The other options do not directly relate to the main idea.",
+      "options_en": [
+        "The importance of education in development",
+        "Problems of education in societies",
+        "The history of education in the world",
+        "Education and technology"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "verbal",
+      "question_en": "What is the main idea of the following text? \"Education represents one of the most important factors for sustainable development, as it contributes to improving living standards and increasing awareness among individuals.\"",
+      "explanation_ar": "الجواب الصحيح هو \"أهمية التعليم في التنمية\" لأن النص يتحدث عن دور التعليم في تحسين الحياة وزيادة الوعي، مما يشير إلى تأثيره كعامل أساسي في التنمية المستدامة. الخيارات الأخرى لا تتعلق مباشرة بالفكرة الرئيسية.",
+      "options_ar": [
+        "أهمية التعليم في التنمية",
+        "مشاكل التعليم في المجتمعات",
+        "تاريخ التعليم في العالم",
+        "التعليم والتكنولوجيا"
+      ],
+      "id": "6a4988deb8db5f051d46fcfc",
       "created_date": "2026-07-04T22:27:42.352000",
       "updated_date": "2026-07-04T22:27:42.352000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -2671,33 +2698,6 @@
         "للحديث عن إنجازات"
       ],
       "id": "6a4988deb8db5f051d46fd08",
-      "created_date": "2026-07-04T22:27:42.352000",
-      "updated_date": "2026-07-04T22:27:42.352000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أي من الكلمات التالية مرادف لكلمة \"ابتكار\"؟",
-      "explanation_en": "The word 'innovation' is related to development, while the other options carry negative or unsuitable meanings.",
-      "options_en": [
-        "Development",
-        "Backwardness",
-        "Stability",
-        "Imitation"
-      ],
-      "topic_index": 0,
-      "grade": 12,
-      "correct_answer": "0",
-      "section": "verbal",
-      "question_en": "Which of the following words is a synonym for the word \"innovation\"?",
-      "explanation_ar": "كلمة \"ابتكار\" ترتبط بالتطوير، في حين أن الخيارات الأخرى تحمل معاني سلبية أو غير مناسبة.",
-      "options_ar": [
-        "تطوير",
-        "تخلف",
-        "استقرار",
-        "تقليد"
-      ],
-      "id": "6a4988deb8db5f051d46fd09",
       "created_date": "2026-07-04T22:27:42.352000",
       "updated_date": "2026-07-04T22:27:42.352000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
