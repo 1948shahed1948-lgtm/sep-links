@@ -9,6 +9,7 @@
 | المهارات الحياتية والأسرية | Life & Family Skills | https://u17nw5n6zxh1-d.space-z.ai |
 | الاختبارات التكيفية ٣ | Adaptive Tests 3 | https://w1un15watek1-d.space-z.ai |
 | اختبار | Test | https://j1mnd5dqpsz1-d.space-z.ai |
+| مخبر القياس | Measurement Lab | https://h1mm65hgjvu0-d.space-z.ai |
 
 ---
 
