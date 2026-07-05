@@ -4,33 +4,6 @@
   "count": 23,
   "questions": [
     {
-      "question_ar": "ما هو حل المعادلة x^2 - 9 = 0؟",
-      "explanation_en": "This equation implies that x^2 = 9, so x can be ±3.",
-      "options_en": [
-        "3",
-        "-3",
-        "2",
-        "0"
-      ],
-      "topic_index": 1,
-      "grade": 8,
-      "correct_answer": "2",
-      "section": "quantitative",
-      "question_en": "What is the solution to the equation x^2 - 9 = 0?",
-      "explanation_ar": "هذه المعادلة تعني أن x^2 = 9، لذا x يمكن أن يكون ±3.",
-      "options_ar": [
-        "3",
-        "-3",
-        "2",
-        "0"
-      ],
-      "id": "6a4987ede4695e6eb06f6bf9",
-      "created_date": "2026-07-04T22:23:41.932000",
-      "updated_date": "2026-07-04T22:23:41.932000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
       "question_ar": "إذا كانت 3x - 4 = 5، فما هي قيمة x؟",
       "explanation_en": "We add 4 to both sides and then divide by 3: x = 3.",
       "options_en": [
@@ -58,27 +31,27 @@
       "is_sample": false
     },
     {
-      "question_ar": "حل المعادلة 7 - x = 2، فما هي قيمة x؟",
-      "explanation_en": "We subtract 7 from both sides: -x = -5, then multiply by -1: x = 5.",
+      "question_ar": "ما هو حل المعادلة x^2 - 9 = 0؟",
+      "explanation_en": "This equation implies that x^2 = 9, so x can be ±3.",
       "options_en": [
-        "5",
         "3",
+        "-3",
         "2",
-        "7"
+        "0"
       ],
       "topic_index": 1,
       "grade": 8,
-      "correct_answer": "1",
+      "correct_answer": "2",
       "section": "quantitative",
-      "question_en": "Solve the equation 7 - x = 2, what is the value of x?",
-      "explanation_ar": "نطرح 7 من كلا الجانبين: -x = -5، ثم نضرب في -1: x = 5.",
+      "question_en": "What is the solution to the equation x^2 - 9 = 0?",
+      "explanation_ar": "هذه المعادلة تعني أن x^2 = 9، لذا x يمكن أن يكون ±3.",
       "options_ar": [
-        "5",
         "3",
+        "-3",
         "2",
-        "7"
+        "0"
       ],
-      "id": "6a4987ede4695e6eb06f6bfb",
+      "id": "6a4987ede4695e6eb06f6bf9",
       "created_date": "2026-07-04T22:23:41.932000",
       "updated_date": "2026-07-04T22:23:41.932000",
       "created_by_id": "6a459ddfe6fb4264c098136e",
@@ -139,6 +112,33 @@
       "is_sample": false
     },
     {
+      "question_ar": "حل المعادلة x/2 - 4 = 0، ما قيمتها؟",
+      "explanation_en": "We add 4 to both sides: x = 8.",
+      "options_en": [
+        "4",
+        "8",
+        "0",
+        "2"
+      ],
+      "topic_index": 1,
+      "grade": 8,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "Solve the equation x/2 - 4 = 0, what is its value?",
+      "explanation_ar": "نضيف 4 إلى كلا الجانبين: x = 8.",
+      "options_ar": [
+        "4",
+        "8",
+        "0",
+        "2"
+      ],
+      "id": "6a4987ede4695e6eb06f6bff",
+      "created_date": "2026-07-04T22:23:41.932000",
+      "updated_date": "2026-07-04T22:23:41.932000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
       "question_ar": "إذا كانت المعادلة 8 - x = 5، فما هي قيمة x؟",
       "explanation_en": "We subtract 8 from both sides: -x = -3, then multiply by -1: x = 3.",
       "options_en": [
@@ -166,27 +166,27 @@
       "is_sample": false
     },
     {
-      "question_ar": "حل المعادلة x/2 - 4 = 0، ما قيمتها؟",
-      "explanation_en": "We add 4 to both sides: x = 8.",
+      "question_ar": "حل المعادلة 7 - x = 2، فما هي قيمة x؟",
+      "explanation_en": "We subtract 7 from both sides: -x = -5, then multiply by -1: x = 5.",
       "options_en": [
-        "4",
-        "8",
-        "0",
-        "2"
+        "5",
+        "3",
+        "2",
+        "7"
       ],
       "topic_index": 1,
       "grade": 8,
       "correct_answer": "1",
       "section": "quantitative",
-      "question_en": "Solve the equation x/2 - 4 = 0, what is its value?",
-      "explanation_ar": "نضيف 4 إلى كلا الجانبين: x = 8.",
+      "question_en": "Solve the equation 7 - x = 2, what is the value of x?",
+      "explanation_ar": "نطرح 7 من كلا الجانبين: -x = -5، ثم نضرب في -1: x = 5.",
       "options_ar": [
-        "4",
-        "8",
-        "0",
-        "2"
+        "5",
+        "3",
+        "2",
+        "7"
       ],
-      "id": "6a4987ede4695e6eb06f6bff",
+      "id": "6a4987ede4695e6eb06f6bfb",
       "created_date": "2026-07-04T22:23:41.932000",
       "updated_date": "2026-07-04T22:23:41.932000",
       "created_by_id": "6a459ddfe6fb4264c098136e",
@@ -247,54 +247,27 @@
       "is_sample": false
     },
     {
-      "question_ar": "إذا كانت المعادلة 2x + 5 = 15، فما هو قيمة x؟",
-      "explanation_en": "To find x, we start by subtracting 5 from both sides: 2x = 10, then divide by 2, so x = 5.",
+      "question_ar": "إذا كانت المعادلة 6x - 9 = 3، فما قيمة x؟",
+      "explanation_en": "We add 9 to both sides: 6x = 12, then divide by 6: x = 2.",
       "options_en": [
-        "5",
-        "10",
-        "15",
-        "20"
-      ],
-      "topic_index": 1,
-      "grade": 8,
-      "correct_answer": "0",
-      "section": "quantitative",
-      "question_en": "If the equation is 2x + 5 = 15, what is the value of x?",
-      "explanation_ar": "لإيجاد x، نبدأ بطرح 5 من كلا الجانبين: 2x = 10، ثم نقسم على 2، لذا x = 5.",
-      "options_ar": [
-        "5",
-        "10",
-        "15",
-        "20"
-      ],
-      "id": "6a4987ede4695e6eb06f6beb",
-      "created_date": "2026-07-04T22:23:41.931000",
-      "updated_date": "2026-07-04T22:23:41.931000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
-      "question_ar": "حل المعادلة 3(x - 2) = 12، ما هي قيمة x؟",
-      "explanation_en": "We start by dividing both sides by 3: x - 2 = 4, then add 2: x = 6.",
-      "options_en": [
-        "6",
-        "8",
-        "10",
-        "4"
+        "0",
+        "1",
+        "2",
+        "3"
       ],
       "topic_index": 1,
       "grade": 8,
       "correct_answer": "1",
       "section": "quantitative",
-      "question_en": "Solve the equation 3(x - 2) = 12, what is the value of x?",
-      "explanation_ar": "نبدأ بتقسيم كلا الجانبين على 3: x - 2 = 4، ثم نضيف 2: x = 6.",
+      "question_en": "If the equation is 6x - 9 = 3, what is the value of x?",
+      "explanation_ar": "نضيف 9 إلى كلا الجانبين: 6x = 12، ثم نقسم على 6: x = 2.",
       "options_ar": [
-        "6",
-        "8",
-        "10",
-        "4"
+        "0",
+        "1",
+        "2",
+        "3"
       ],
-      "id": "6a4987ede4695e6eb06f6bec",
+      "id": "6a4987ede4695e6eb06f6bf0",
       "created_date": "2026-07-04T22:23:41.931000",
       "updated_date": "2026-07-04T22:23:41.931000",
       "created_by_id": "6a459ddfe6fb4264c098136e",
@@ -328,6 +301,33 @@
       "is_sample": false
     },
     {
+      "question_ar": "حل المعادلة 3(x - 2) = 12، ما هي قيمة x؟",
+      "explanation_en": "We start by dividing both sides by 3: x - 2 = 4, then add 2: x = 6.",
+      "options_en": [
+        "6",
+        "8",
+        "10",
+        "4"
+      ],
+      "topic_index": 1,
+      "grade": 8,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "Solve the equation 3(x - 2) = 12, what is the value of x?",
+      "explanation_ar": "نبدأ بتقسيم كلا الجانبين على 3: x - 2 = 4، ثم نضيف 2: x = 6.",
+      "options_ar": [
+        "6",
+        "8",
+        "10",
+        "4"
+      ],
+      "id": "6a4987ede4695e6eb06f6bec",
+      "created_date": "2026-07-04T22:23:41.931000",
+      "updated_date": "2026-07-04T22:23:41.931000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
       "question_ar": "ما هو حل المعادلة x/5 = 3؟",
       "explanation_en": "We multiply both sides by 5: x = 15.",
       "options_en": [
@@ -355,135 +355,27 @@
       "is_sample": false
     },
     {
-      "question_ar": "ما قيمة x في المعادلة: 7x + 4 = 25؟",
-      "explanation_en": "We subtract 4 from both sides: 7x = 21, then divide by 7: x = 3.",
+      "question_ar": "إذا كانت المعادلة 2x + 5 = 15، فما هو قيمة x؟",
+      "explanation_en": "To find x, we start by subtracting 5 from both sides: 2x = 10, then divide by 2, so x = 5.",
       "options_en": [
-        "1",
-        "3",
         "5",
-        "10"
-      ],
-      "topic_index": 1,
-      "grade": 8,
-      "correct_answer": "2",
-      "section": "quantitative",
-      "question_en": "What is the value of x in the equation: 7x + 4 = 25?",
-      "explanation_ar": "نطرح 4 من كلا الجانبين: 7x = 21، ثم نقسم على 7: x = 3.",
-      "options_ar": [
-        "1",
-        "3",
-        "5",
-        "10"
-      ],
-      "id": "6a4987ede4695e6eb06f6bef",
-      "created_date": "2026-07-04T22:23:41.931000",
-      "updated_date": "2026-07-04T22:23:41.931000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
-      "question_ar": "إذا كانت المعادلة 6x - 9 = 3، فما قيمة x؟",
-      "explanation_en": "We add 9 to both sides: 6x = 12, then divide by 6: x = 2.",
-      "options_en": [
-        "0",
-        "1",
-        "2",
-        "3"
-      ],
-      "topic_index": 1,
-      "grade": 8,
-      "correct_answer": "1",
-      "section": "quantitative",
-      "question_en": "If the equation is 6x - 9 = 3, what is the value of x?",
-      "explanation_ar": "نضيف 9 إلى كلا الجانبين: 6x = 12، ثم نقسم على 6: x = 2.",
-      "options_ar": [
-        "0",
-        "1",
-        "2",
-        "3"
-      ],
-      "id": "6a4987ede4695e6eb06f6bf0",
-      "created_date": "2026-07-04T22:23:41.931000",
-      "updated_date": "2026-07-04T22:23:41.931000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
-      "question_ar": "حل المعادلة 5x + 2 = 3x + 8، ما هي القيمة الصحيحة لـ x؟",
-      "explanation_en": "We start by subtracting 3x from both sides: 2x + 2 = 8, then subtract 2: 2x = 6, finally divide by 2: x = 3.",
-      "options_en": [
-        "1",
-        "3",
-        "2",
-        "0"
-      ],
-      "topic_index": 1,
-      "grade": 8,
-      "correct_answer": "2",
-      "section": "quantitative",
-      "question_en": "Solve the equation 5x + 2 = 3x + 8, what is the correct value of x?",
-      "explanation_ar": "نبدأ بطرح 3x من كلا الجانبين: 2x + 2 = 8، ثم نطرح 2: 2x = 6، ثم نقسم على 2: x = 3.",
-      "options_ar": [
-        "1",
-        "3",
-        "2",
-        "0"
-      ],
-      "id": "6a4987ede4695e6eb06f6bf1",
-      "created_date": "2026-07-04T22:23:41.931000",
-      "updated_date": "2026-07-04T22:23:41.931000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
-      "question_ar": "إذا كانت المعادلة x/3 + 2 = 10، فما هي قيمة x؟",
-      "explanation_en": "We subtract 2 from both sides: x/3 = 8 then multiply by 3: x = 24.",
-      "options_en": [
-        "18",
-        "24",
-        "12",
-        "30"
+        "10",
+        "15",
+        "20"
       ],
       "topic_index": 1,
       "grade": 8,
       "correct_answer": "0",
       "section": "quantitative",
-      "question_en": "If the equation is x/3 + 2 = 10, what is the value of x?",
-      "explanation_ar": "نطرح 2 من كلا الجانبين: x/3 = 8 ثم نضرب في 3: x = 24.",
+      "question_en": "If the equation is 2x + 5 = 15, what is the value of x?",
+      "explanation_ar": "لإيجاد x، نبدأ بطرح 5 من كلا الجانبين: 2x = 10، ثم نقسم على 2، لذا x = 5.",
       "options_ar": [
-        "18",
-        "24",
-        "12",
-        "30"
+        "5",
+        "10",
+        "15",
+        "20"
       ],
-      "id": "6a4987ede4695e6eb06f6bf2",
-      "created_date": "2026-07-04T22:23:41.931000",
-      "updated_date": "2026-07-04T22:23:41.931000",
-      "created_by_id": "6a459ddfe6fb4264c098136e",
-      "is_sample": false
-    },
-    {
-      "question_ar": "أي من المعادلات التالية تمثل 2x + 3 = 7؟",
-      "explanation_en": "We start by subtracting 3 from both sides: 2x = 4, then divide by 2: x = 2.",
-      "options_en": [
-        "x = 2",
-        "x = 3",
-        "x = 4",
-        "x = 1"
-      ],
-      "topic_index": 1,
-      "grade": 8,
-      "correct_answer": "0",
-      "section": "quantitative",
-      "question_en": "Which of the following equations represents 2x + 3 = 7?",
-      "explanation_ar": "نبدأ بطرح 3 من كلا الجانبين: 2x = 4، ثم نقسم على 2: x = 2.",
-      "options_ar": [
-        "x = 2",
-        "x = 3",
-        "x = 4",
-        "x = 1"
-      ],
-      "id": "6a4987ede4695e6eb06f6bf3",
+      "id": "6a4987ede4695e6eb06f6beb",
       "created_date": "2026-07-04T22:23:41.931000",
       "updated_date": "2026-07-04T22:23:41.931000",
       "created_by_id": "6a459ddfe6fb4264c098136e",
@@ -517,54 +409,81 @@
       "is_sample": false
     },
     {
-      "question_ar": "حل المعادلة 8 + 2x = 18، فما هي قيمة x؟",
-      "explanation_en": "We subtract 8 from both sides: 2x = 10, then divide by 2: x = 5.",
+      "question_ar": "حل المعادلة 5x + 2 = 3x + 8، ما هي القيمة الصحيحة لـ x؟",
+      "explanation_en": "We start by subtracting 3x from both sides: 2x + 2 = 8, then subtract 2: 2x = 6, finally divide by 2: x = 3.",
       "options_en": [
+        "1",
+        "3",
         "2",
-        "5",
-        "10",
-        "3"
+        "0"
       ],
       "topic_index": 1,
       "grade": 8,
-      "correct_answer": "1",
+      "correct_answer": "2",
       "section": "quantitative",
-      "question_en": "Solve the equation 8 + 2x = 18, what is the value of x?",
-      "explanation_ar": "نطرح 8 من كلا الجانبين: 2x = 10، ثم نقسم على 2: x = 5.",
+      "question_en": "Solve the equation 5x + 2 = 3x + 8, what is the correct value of x?",
+      "explanation_ar": "نبدأ بطرح 3x من كلا الجانبين: 2x + 2 = 8، ثم نطرح 2: 2x = 6، ثم نقسم على 2: x = 3.",
       "options_ar": [
+        "1",
+        "3",
         "2",
-        "5",
-        "10",
-        "3"
+        "0"
       ],
-      "id": "6a4987ede4695e6eb06f6bf5",
+      "id": "6a4987ede4695e6eb06f6bf1",
       "created_date": "2026-07-04T22:23:41.931000",
       "updated_date": "2026-07-04T22:23:41.931000",
       "created_by_id": "6a459ddfe6fb4264c098136e",
       "is_sample": false
     },
     {
-      "question_ar": "كم عدد الحلول للمعادلة 2(x + 3) = 2x + 6؟",
-      "explanation_en": "We analyze the equation to find that solutions are unique and hold true for any value of x.",
+      "question_ar": "أي من المعادلات التالية تمثل 2x + 3 = 7؟",
+      "explanation_en": "We start by subtracting 3 from both sides: 2x = 4, then divide by 2: x = 2.",
       "options_en": [
-        "0",
-        "1",
-        "2",
-        "Infinite"
+        "x = 2",
+        "x = 3",
+        "x = 4",
+        "x = 1"
       ],
       "topic_index": 1,
       "grade": 8,
-      "correct_answer": "3",
+      "correct_answer": "0",
       "section": "quantitative",
-      "question_en": "How many solutions are there for the equation 2(x + 3) = 2x + 6?",
-      "explanation_ar": "نحلل المعادلة لنجد أن الحل فريد وأنها صحيحة لأي قيمة لـ x.",
+      "question_en": "Which of the following equations represents 2x + 3 = 7?",
+      "explanation_ar": "نبدأ بطرح 3 من كلا الجانبين: 2x = 4، ثم نقسم على 2: x = 2.",
       "options_ar": [
-        "0",
-        "1",
-        "2",
-        "لا نهائي"
+        "x = 2",
+        "x = 3",
+        "x = 4",
+        "x = 1"
       ],
-      "id": "6a4987ede4695e6eb06f6bf6",
+      "id": "6a4987ede4695e6eb06f6bf3",
+      "created_date": "2026-07-04T22:23:41.931000",
+      "updated_date": "2026-07-04T22:23:41.931000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت المعادلة x/3 + 2 = 10، فما هي قيمة x؟",
+      "explanation_en": "We subtract 2 from both sides: x/3 = 8 then multiply by 3: x = 24.",
+      "options_en": [
+        "18",
+        "24",
+        "12",
+        "30"
+      ],
+      "topic_index": 1,
+      "grade": 8,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the equation is x/3 + 2 = 10, what is the value of x?",
+      "explanation_ar": "نطرح 2 من كلا الجانبين: x/3 = 8 ثم نضرب في 3: x = 24.",
+      "options_ar": [
+        "18",
+        "24",
+        "12",
+        "30"
+      ],
+      "id": "6a4987ede4695e6eb06f6bf2",
       "created_date": "2026-07-04T22:23:41.931000",
       "updated_date": "2026-07-04T22:23:41.931000",
       "created_by_id": "6a459ddfe6fb4264c098136e",
@@ -598,6 +517,60 @@
       "is_sample": false
     },
     {
+      "question_ar": "ما قيمة x في المعادلة: 7x + 4 = 25؟",
+      "explanation_en": "We subtract 4 from both sides: 7x = 21, then divide by 7: x = 3.",
+      "options_en": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
+      "topic_index": 1,
+      "grade": 8,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "What is the value of x in the equation: 7x + 4 = 25?",
+      "explanation_ar": "نطرح 4 من كلا الجانبين: 7x = 21، ثم نقسم على 7: x = 3.",
+      "options_ar": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
+      "id": "6a4987ede4695e6eb06f6bef",
+      "created_date": "2026-07-04T22:23:41.931000",
+      "updated_date": "2026-07-04T22:23:41.931000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "كم عدد الحلول للمعادلة 2(x + 3) = 2x + 6؟",
+      "explanation_en": "We analyze the equation to find that solutions are unique and hold true for any value of x.",
+      "options_en": [
+        "0",
+        "1",
+        "2",
+        "Infinite"
+      ],
+      "topic_index": 1,
+      "grade": 8,
+      "correct_answer": "3",
+      "section": "quantitative",
+      "question_en": "How many solutions are there for the equation 2(x + 3) = 2x + 6?",
+      "explanation_ar": "نحلل المعادلة لنجد أن الحل فريد وأنها صحيحة لأي قيمة لـ x.",
+      "options_ar": [
+        "0",
+        "1",
+        "2",
+        "لا نهائي"
+      ],
+      "id": "6a4987ede4695e6eb06f6bf6",
+      "created_date": "2026-07-04T22:23:41.931000",
+      "updated_date": "2026-07-04T22:23:41.931000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
       "question_ar": "حل المعادلة 4(x + 1) = 20، ما هي قيمة x؟",
       "explanation_en": "We first divide by 4 and then subtract 1: x = 4.",
       "options_en": [
@@ -619,6 +592,33 @@
         "1"
       ],
       "id": "6a4987ede4695e6eb06f6bf8",
+      "created_date": "2026-07-04T22:23:41.931000",
+      "updated_date": "2026-07-04T22:23:41.931000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "question_ar": "حل المعادلة 8 + 2x = 18، فما هي قيمة x؟",
+      "explanation_en": "We subtract 8 from both sides: 2x = 10, then divide by 2: x = 5.",
+      "options_en": [
+        "2",
+        "5",
+        "10",
+        "3"
+      ],
+      "topic_index": 1,
+      "grade": 8,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "Solve the equation 8 + 2x = 18, what is the value of x?",
+      "explanation_ar": "نطرح 8 من كلا الجانبين: 2x = 10، ثم نقسم على 2: x = 5.",
+      "options_ar": [
+        "2",
+        "5",
+        "10",
+        "3"
+      ],
+      "id": "6a4987ede4695e6eb06f6bf5",
       "created_date": "2026-07-04T22:23:41.931000",
       "updated_date": "2026-07-04T22:23:41.931000",
       "created_by_id": "6a459ddfe6fb4264c098136e",
