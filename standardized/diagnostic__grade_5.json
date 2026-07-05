@@ -4,186 +4,38 @@
   "count": 12,
   "questions": [
     {
-      "ordering_items_ar": [],
-      "question_type": "matching",
+      "ordering_items_ar": [
+        "مثلث",
+        "مربع",
+        "خماسي أضلاع",
+        "سداسي أضلاع"
+      ],
+      "question_type": "ordering",
       "options_en": [],
       "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "الجمع والطرح من المهارات الأساسية؛ 450+250=700، و1000-350=650.",
-      "test_type": "diagnostic",
-      "difficulty": "easy",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [
-        {
-          "left": "450 + 250",
-          "right": "700"
-        },
-        {
-          "left": "1000 - 350",
-          "right": "650"
-        },
-        {
-          "left": "125 + 125",
-          "right": "250"
-        },
-        {
-          "left": "800 - 450",
-          "right": "350"
-        }
+      "ordering_items_en": [
+        "Triangle",
+        "Square",
+        "Pentagon",
+        "Hexagon"
       ],
-      "question_ar": "صل كل عملية حسابية بناتجها الصحيح:",
-      "explanation_en": "Addition and subtraction are basic skills; 450+250=700, and 1000-350=650.",
+      "topic_en": "Geometry",
+      "explanation_ar": "المثلث له 3 أضلاع، المربع 4، الخماسي 5، والسداسي 6 أضلاع.",
+      "test_type": "diagnostic",
+      "difficulty": "hard",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأشكال التالية من الأقل إلى الأكثر في عدد الأضلاع:",
+      "explanation_en": "A triangle has 3 sides, a square has 4, a pentagon has 5, and a hexagon has 6.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 5,
-      "matching_pairs_ar": [
-        {
-          "left": "450 + 250",
-          "right": "700"
-        },
-        {
-          "left": "1000 - 350",
-          "right": "650"
-        },
-        {
-          "left": "125 + 125",
-          "right": "250"
-        },
-        {
-          "left": "800 - 450",
-          "right": "350"
-        }
-      ],
-      "question_en": "Match each math operation with its correct result:",
+      "matching_pairs_ar": [],
+      "question_en": "Order the following shapes from the least to the most number of sides:",
       "classify_categories_en": [],
       "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499b861111d92a9fb3c1e4",
-      "created_date": "2026-07-04T23:47:18.464000",
-      "updated_date": "2026-07-04T23:47:18.464000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "matching",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Words and Synonyms",
-      "explanation_ar": "إثراء الحصيلة اللغوية بمرادفات مثل التآزر (التعاون) والكد (الجهد).",
-      "test_type": "diagnostic",
-      "difficulty": "easy",
-      "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [
-        {
-          "left": "Epidemic",
-          "right": "Infectious disease"
-        },
-        {
-          "left": "Synergy",
-          "right": "Cooperation"
-        },
-        {
-          "left": "Constructed",
-          "right": "Built"
-        },
-        {
-          "left": "Toil",
-          "right": "Hard work and effort"
-        }
-      ],
-      "question_ar": "صل الكلمة بمرادفها الصحيح من منهج لغتي:",
-      "explanation_en": "Enriching vocabulary with synonyms such as synergy (cooperation) and toil (effort).",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [
-        {
-          "left": "الوباء",
-          "right": "المرض المعدي"
-        },
-        {
-          "left": "التآزر",
-          "right": "التعاون"
-        },
-        {
-          "left": "شيد",
-          "right": "بنى"
-        },
-        {
-          "left": "الكد",
-          "right": "التعب والجهد"
-        }
-      ],
-      "question_en": "Match the word with its correct synonym from the Lughati curriculum:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b861111d92a9fb3c1e5",
-      "created_date": "2026-07-04T23:47:18.464000",
-      "updated_date": "2026-07-04T23:47:18.464000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "matching",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "تبسيط الكسور يعتمد على قسمة البسط والمقام على القاسم المشترك الأكبر؛ 5/10 تصبح 1/2.",
-      "test_type": "diagnostic",
-      "difficulty": "medium",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [
-        {
-          "left": "5/10",
-          "right": "1/2"
-        },
-        {
-          "left": "4/12",
-          "right": "1/3"
-        },
-        {
-          "left": "2/10",
-          "right": "1/5"
-        },
-        {
-          "left": "6/8",
-          "right": "3/4"
-        }
-      ],
-      "question_ar": "صل كل كسر بصورته المبسطة:",
-      "explanation_en": "Simplifying fractions depends on dividing the numerator and denominator by the greatest common divisor; 5/10 becomes 1/2.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [
-        {
-          "left": "5/10",
-          "right": "1/2"
-        },
-        {
-          "left": "4/12",
-          "right": "1/3"
-        },
-        {
-          "left": "2/10",
-          "right": "1/5"
-        },
-        {
-          "left": "6/8",
-          "right": "3/4"
-        }
-      ],
-      "question_en": "Match each fraction with its simplified form:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b861111d92a9fb3c1e6",
+      "id": "6a499b861111d92a9fb3c1e9",
       "created_date": "2026-07-04T23:47:18.464000",
       "updated_date": "2026-07-04T23:47:18.464000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -252,6 +104,68 @@
       "is_sample": false
     },
     {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Fractions",
+      "explanation_ar": "تبسيط الكسور يعتمد على قسمة البسط والمقام على القاسم المشترك الأكبر؛ 5/10 تصبح 1/2.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الكسور",
+      "matching_pairs_en": [
+        {
+          "left": "5/10",
+          "right": "1/2"
+        },
+        {
+          "left": "4/12",
+          "right": "1/3"
+        },
+        {
+          "left": "2/10",
+          "right": "1/5"
+        },
+        {
+          "left": "6/8",
+          "right": "3/4"
+        }
+      ],
+      "question_ar": "صل كل كسر بصورته المبسطة:",
+      "explanation_en": "Simplifying fractions depends on dividing the numerator and denominator by the greatest common divisor; 5/10 becomes 1/2.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 5,
+      "matching_pairs_ar": [
+        {
+          "left": "5/10",
+          "right": "1/2"
+        },
+        {
+          "left": "4/12",
+          "right": "1/3"
+        },
+        {
+          "left": "2/10",
+          "right": "1/5"
+        },
+        {
+          "left": "6/8",
+          "right": "3/4"
+        }
+      ],
+      "question_en": "Match each fraction with its simplified form:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b861111d92a9fb3c1e6",
+      "created_date": "2026-07-04T23:47:18.464000",
+      "updated_date": "2026-07-04T23:47:18.464000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
       "ordering_items_ar": [
         "5",
         "12",
@@ -286,44 +200,6 @@
       "classify_items_ar": [],
       "options_ar": [],
       "id": "6a499b861111d92a9fb3c1e8",
-      "created_date": "2026-07-04T23:47:18.464000",
-      "updated_date": "2026-07-04T23:47:18.464000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "مثلث",
-        "مربع",
-        "خماسي أضلاع",
-        "سداسي أضلاع"
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "Triangle",
-        "Square",
-        "Pentagon",
-        "Hexagon"
-      ],
-      "topic_en": "Geometry",
-      "explanation_ar": "المثلث له 3 أضلاع، المربع 4، الخماسي 5، والسداسي 6 أضلاع.",
-      "test_type": "diagnostic",
-      "difficulty": "hard",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "رتب الأشكال التالية من الأقل إلى الأكثر في عدد الأضلاع:",
-      "explanation_en": "A triangle has 3 sides, a square has 4, a pentagon has 5, and a hexagon has 6.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Order the following shapes from the least to the most number of sides:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b861111d92a9fb3c1e9",
       "created_date": "2026-07-04T23:47:18.464000",
       "updated_date": "2026-07-04T23:47:18.464000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -407,135 +283,61 @@
     },
     {
       "ordering_items_ar": [],
-      "question_type": "classify",
+      "question_type": "matching",
       "options_en": [],
       "correct_answer": null,
       "ordering_items_en": [],
-      "topic_en": "Even and Odd Numbers",
-      "explanation_ar": "العدد الزوجي يقبل القسمة على 2 بدون باقٍ، بينما الفردي يتبقى منه 1.",
+      "topic_en": "Words and Synonyms",
+      "explanation_ar": "إثراء الحصيلة اللغوية بمرادفات مثل التآزر (التعاون) والكد (الجهد).",
       "test_type": "diagnostic",
       "difficulty": "easy",
-      "topic_ar": "الأعداد الزوجية والفردية",
-      "matching_pairs_en": [],
-      "question_ar": "صنف الأعداد التالية إلى زوجية وفردية:",
-      "explanation_en": "An even number is divisible by 2 with no remainder, while an odd number has a remainder of 1.",
-      "classify_categories_ar": [
-        "أعداد زوجية",
-        "أعداد فردية"
-      ],
-      "classify_items_en": [
+      "topic_ar": "الكلمات والمرادفات",
+      "matching_pairs_en": [
         {
-          "correct_category": 0,
-          "item": "12"
+          "left": "Epidemic",
+          "right": "Infectious disease"
         },
         {
-          "correct_category": 1,
-          "item": "15"
+          "left": "Synergy",
+          "right": "Cooperation"
         },
         {
-          "correct_category": 0,
-          "item": "24"
+          "left": "Constructed",
+          "right": "Built"
         },
         {
-          "correct_category": 1,
-          "item": "37"
+          "left": "Toil",
+          "right": "Hard work and effort"
         }
       ],
+      "question_ar": "صل الكلمة بمرادفها الصحيح من منهج لغتي:",
+      "explanation_en": "Enriching vocabulary with synonyms such as synergy (cooperation) and toil (effort).",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
       "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Classify the following numbers into even and odd:",
-      "classify_categories_en": [
-        "Even Numbers",
-        "Odd Numbers"
-      ],
-      "classify_items_ar": [
+      "matching_pairs_ar": [
         {
-          "correct_category": 0,
-          "item": "12"
+          "left": "الوباء",
+          "right": "المرض المعدي"
         },
         {
-          "correct_category": 1,
-          "item": "15"
+          "left": "التآزر",
+          "right": "التعاون"
         },
         {
-          "correct_category": 0,
-          "item": "24"
+          "left": "شيد",
+          "right": "بنى"
         },
         {
-          "correct_category": 1,
-          "item": "37"
+          "left": "الكد",
+          "right": "التعب والجهد"
         }
       ],
+      "question_en": "Match the word with its correct synonym from the Lughati curriculum:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499b861111d92a9fb3c1ec",
-      "created_date": "2026-07-04T23:47:18.464000",
-      "updated_date": "2026-07-04T23:47:18.464000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "classify",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Currency and Money",
-      "explanation_ar": "الريال والهللات يمكن أن تكون معدنية، بينما الفئات الكبيرة مثل 500 هي ورقية.",
-      "test_type": "diagnostic",
-      "difficulty": "medium",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [],
-      "question_ar": "صنف العملات السعودية التالية حسب نوعها:",
-      "explanation_en": "The riyal and halalas can be coins, while large denominations like 500 are paper notes.",
-      "classify_categories_ar": [
-        "عملات معدنية",
-        "عملات ورقية"
-      ],
-      "classify_items_en": [
-        {
-          "correct_category": 0,
-          "item": "50 Halalas"
-        },
-        {
-          "correct_category": 0,
-          "item": "One Riyal Coin"
-        },
-        {
-          "correct_category": 1,
-          "item": "Five Riyals"
-        },
-        {
-          "correct_category": 1,
-          "item": "Five Hundred Riyals"
-        }
-      ],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Classify the following Saudi currencies according to their type:",
-      "classify_categories_en": [
-        "Coins",
-        "Paper Notes"
-      ],
-      "classify_items_ar": [
-        {
-          "correct_category": 0,
-          "item": "50 هللة"
-        },
-        {
-          "correct_category": 0,
-          "item": "ريال واحد معدني"
-        },
-        {
-          "correct_category": 1,
-          "item": "خمسة ريالات"
-        },
-        {
-          "correct_category": 1,
-          "item": "خمس مئة ريال"
-        }
-      ],
-      "options_ar": [],
-      "id": "6a499b861111d92a9fb3c1ed",
+      "id": "6a499b861111d92a9fb3c1e5",
       "created_date": "2026-07-04T23:47:18.464000",
       "updated_date": "2026-07-04T23:47:18.464000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -676,6 +478,204 @@
       ],
       "options_ar": [],
       "id": "6a499b861111d92a9fb3c1ef",
+      "created_date": "2026-07-04T23:47:18.464000",
+      "updated_date": "2026-07-04T23:47:18.464000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Addition and Subtraction",
+      "explanation_ar": "الجمع والطرح من المهارات الأساسية؛ 450+250=700، و1000-350=650.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "الجمع والطرح",
+      "matching_pairs_en": [
+        {
+          "left": "450 + 250",
+          "right": "700"
+        },
+        {
+          "left": "1000 - 350",
+          "right": "650"
+        },
+        {
+          "left": "125 + 125",
+          "right": "250"
+        },
+        {
+          "left": "800 - 450",
+          "right": "350"
+        }
+      ],
+      "question_ar": "صل كل عملية حسابية بناتجها الصحيح:",
+      "explanation_en": "Addition and subtraction are basic skills; 450+250=700, and 1000-350=650.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 5,
+      "matching_pairs_ar": [
+        {
+          "left": "450 + 250",
+          "right": "700"
+        },
+        {
+          "left": "1000 - 350",
+          "right": "650"
+        },
+        {
+          "left": "125 + 125",
+          "right": "250"
+        },
+        {
+          "left": "800 - 450",
+          "right": "350"
+        }
+      ],
+      "question_en": "Match each math operation with its correct result:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b861111d92a9fb3c1e4",
+      "created_date": "2026-07-04T23:47:18.464000",
+      "updated_date": "2026-07-04T23:47:18.464000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Currency and Money",
+      "explanation_ar": "الريال والهللات يمكن أن تكون معدنية، بينما الفئات الكبيرة مثل 500 هي ورقية.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "العملات والنقود",
+      "matching_pairs_en": [],
+      "question_ar": "صنف العملات السعودية التالية حسب نوعها:",
+      "explanation_en": "The riyal and halalas can be coins, while large denominations like 500 are paper notes.",
+      "classify_categories_ar": [
+        "عملات معدنية",
+        "عملات ورقية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "50 Halalas"
+        },
+        {
+          "correct_category": 0,
+          "item": "One Riyal Coin"
+        },
+        {
+          "correct_category": 1,
+          "item": "Five Riyals"
+        },
+        {
+          "correct_category": 1,
+          "item": "Five Hundred Riyals"
+        }
+      ],
+      "grade": 5,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following Saudi currencies according to their type:",
+      "classify_categories_en": [
+        "Coins",
+        "Paper Notes"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "50 هللة"
+        },
+        {
+          "correct_category": 0,
+          "item": "ريال واحد معدني"
+        },
+        {
+          "correct_category": 1,
+          "item": "خمسة ريالات"
+        },
+        {
+          "correct_category": 1,
+          "item": "خمس مئة ريال"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499b861111d92a9fb3c1ed",
+      "created_date": "2026-07-04T23:47:18.464000",
+      "updated_date": "2026-07-04T23:47:18.464000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Even and Odd Numbers",
+      "explanation_ar": "العدد الزوجي يقبل القسمة على 2 بدون باقٍ، بينما الفردي يتبقى منه 1.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "الأعداد الزوجية والفردية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأعداد التالية إلى زوجية وفردية:",
+      "explanation_en": "An even number is divisible by 2 with no remainder, while an odd number has a remainder of 1.",
+      "classify_categories_ar": [
+        "أعداد زوجية",
+        "أعداد فردية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "12"
+        },
+        {
+          "correct_category": 1,
+          "item": "15"
+        },
+        {
+          "correct_category": 0,
+          "item": "24"
+        },
+        {
+          "correct_category": 1,
+          "item": "37"
+        }
+      ],
+      "grade": 5,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following numbers into even and odd:",
+      "classify_categories_en": [
+        "Even Numbers",
+        "Odd Numbers"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "12"
+        },
+        {
+          "correct_category": 1,
+          "item": "15"
+        },
+        {
+          "correct_category": 0,
+          "item": "24"
+        },
+        {
+          "correct_category": 1,
+          "item": "37"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499b861111d92a9fb3c1ec",
       "created_date": "2026-07-04T23:47:18.464000",
       "updated_date": "2026-07-04T23:47:18.464000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
