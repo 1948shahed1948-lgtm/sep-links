@@ -1,0 +1,653 @@
+{
+  "test_type": "diagnostic",
+  "grade": 6,
+  "count": 12,
+  "questions": [
+    {
+      "ordering_items_ar": [
+        "9 × 5",
+        "40 ÷ 1",
+        "4 × 8",
+        "50 ÷ 5"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "9 × 5",
+        "40 ÷ 1",
+        "4 × 8",
+        "50 ÷ 5"
+      ],
+      "topic_en": "Multiplication and Division",
+      "explanation_ar": "النواتج هي: 45، 40، 32، 10 بالترتيب من الأكبر للأصغر.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الضرب والقسمة",
+      "matching_pairs_en": [],
+      "question_ar": "رتب نواتج العمليات التالية من الأكبر إلى الأصغر:",
+      "explanation_en": "The results are: 45, 40, 32, 10 in order from largest to smallest.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Order the results of the following operations from largest to smallest:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b88a4ffeb1904c61991",
+      "created_date": "2026-07-04T23:47:20.555000",
+      "updated_date": "2026-07-04T23:47:20.555000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "خمسة ريالات",
+        "عشرة ريالات",
+        "خمسون ريالاً",
+        "مائة ريال",
+        "خمسمائة ريال"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "5 Riyals",
+        "10 Riyals",
+        "50 Riyals",
+        "100 Riyals",
+        "500 Riyals"
+      ],
+      "topic_en": "Currency and Money",
+      "explanation_ar": "هذا هو الترتيب التصاعدي للفئات النقدية الورقية المستخدمة في المملكة العربية السعودية.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "العملات والنقود",
+      "matching_pairs_en": [],
+      "question_ar": "رتب فئات العملة الورقية السعودية من القيمة الأقل إلى القيمة الأعلى:",
+      "explanation_en": "This is the ascending order of the paper denominations used in Saudi Arabia.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Order the Saudi banknote denominations from the lowest value to the highest value:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b88a4ffeb1904c61992",
+      "created_date": "2026-07-04T23:47:20.555000",
+      "updated_date": "2026-07-04T23:47:20.555000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Even and Odd Numbers",
+      "explanation_ar": "الأعداد الزوجية تنتهي بـ (0, 2, 4, 6, 8) والأعداد الفردية تنتهي بـ (1, 3, 5, 7, 9).",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الأعداد الزوجية والفردية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأعداد التالية إلى زوجية أو فردية:",
+      "explanation_en": "Even numbers end in (0, 2, 4, 6, 8) and odd numbers end in (1, 3, 5, 7, 9).",
+      "classify_categories_ar": [
+        "أعداد زوجية",
+        "أعداد فردية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "24"
+        },
+        {
+          "correct_category": 1,
+          "item": "15"
+        },
+        {
+          "correct_category": 0,
+          "item": "48"
+        },
+        {
+          "correct_category": 1,
+          "item": "37"
+        }
+      ],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following numbers into even or odd:",
+      "classify_categories_en": [
+        "Even Numbers",
+        "Odd Numbers"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "24"
+        },
+        {
+          "correct_category": 1,
+          "item": "15"
+        },
+        {
+          "correct_category": 0,
+          "item": "48"
+        },
+        {
+          "correct_category": 1,
+          "item": "37"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499b88a4ffeb1904c61993",
+      "created_date": "2026-07-04T23:47:20.555000",
+      "updated_date": "2026-07-04T23:47:20.555000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Fractions",
+      "explanation_ar": "الكسر الفعلي يكون بسطه أصغر من مقامه، أما الكسر غير الفعلي فيكون بسطه أكبر من أو يساوي مقامه.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "الكسور",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الكسور التالية إلى كسور فعلية (أقل من 1) وكسور غير فعلية (أكبر من أو تساوي 1):",
+      "explanation_en": "A proper fraction has a numerator smaller than the denominator, while an improper fraction has a numerator larger than or equal to the denominator.",
+      "classify_categories_ar": [
+        "كسور فعلية",
+        "كسور غير فعلية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "3/5"
+        },
+        {
+          "correct_category": 1,
+          "item": "7/4"
+        },
+        {
+          "correct_category": 0,
+          "item": "2/9"
+        },
+        {
+          "correct_category": 1,
+          "item": "11/3"
+        }
+      ],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following fractions into proper (less than 1) and improper (greater than or equal to 1):",
+      "classify_categories_en": [
+        "Proper Fractions",
+        "Improper Fractions"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "3/5"
+        },
+        {
+          "correct_category": 1,
+          "item": "7/4"
+        },
+        {
+          "correct_category": 0,
+          "item": "2/9"
+        },
+        {
+          "correct_category": 1,
+          "item": "11/3"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499b88a4ffeb1904c61994",
+      "created_date": "2026-07-04T23:47:20.555000",
+      "updated_date": "2026-07-04T23:47:20.555000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "الاسم يدل على شيء ثابت (المدرسة، كتاب)، والفعل يدل على حدث مرتبط بزمن (يذاكر، انطلق).",
+      "test_type": "diagnostic",
+      "difficulty": "hard",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الكلمات التالية حسب نوعها في قواعد اللغة العربية (اسم أو فعل):",
+      "explanation_en": "A noun refers to a fixed entity (School, Book), while a verb refers to an action linked to time (Studies, Launched).",
+      "classify_categories_ar": [
+        "أسماء",
+        "أفعال"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "School"
+        },
+        {
+          "correct_category": 1,
+          "item": "Studies"
+        },
+        {
+          "correct_category": 0,
+          "item": "Book"
+        },
+        {
+          "correct_category": 1,
+          "item": "Launched"
+        }
+      ],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following words according to their type in Arabic grammar (Noun or Verb):",
+      "classify_categories_en": [
+        "Nouns",
+        "Verbs"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "المدرسة"
+        },
+        {
+          "correct_category": 1,
+          "item": "يذاكر"
+        },
+        {
+          "correct_category": 0,
+          "item": "كتاب"
+        },
+        {
+          "correct_category": 1,
+          "item": "انطلق"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499b88a4ffeb1904c61995",
+      "created_date": "2026-07-04T23:47:20.555000",
+      "updated_date": "2026-07-04T23:47:20.555000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Geometry",
+      "explanation_ar": "الزاوية الحادة أصغر من 90، القائمة تساوي 90، والمنفرجة أكبر من 90 وأصغر من 180 درجة.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الزوايا التالية حسب قياسها (حادة، قائمة، منفرجة):",
+      "explanation_en": "Acute angles are less than 90, Right angles equal 90, and Obtuse angles are greater than 90 but less than 180 degrees.",
+      "classify_categories_ar": [
+        "حادة",
+        "قائمة",
+        "منفرجة"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "45 degrees"
+        },
+        {
+          "correct_category": 1,
+          "item": "90 degrees"
+        },
+        {
+          "correct_category": 2,
+          "item": "120 degrees"
+        },
+        {
+          "correct_category": 0,
+          "item": "30 degrees"
+        }
+      ],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following angles by their measure (Acute, Right, Obtuse):",
+      "classify_categories_en": [
+        "Acute",
+        "Right",
+        "Obtuse"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "45 درجة"
+        },
+        {
+          "correct_category": 1,
+          "item": "90 درجة"
+        },
+        {
+          "correct_category": 2,
+          "item": "120 درجة"
+        },
+        {
+          "correct_category": 0,
+          "item": "30 درجة"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499b88a4ffeb1904c61996",
+      "created_date": "2026-07-04T23:47:20.555000",
+      "updated_date": "2026-07-04T23:47:20.555000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "المتر يستخدم لقياس الطول، الجرام للكتلة، واللتر للسعة السائلة.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "الوحدات والقياس",
+      "matching_pairs_en": [
+        {
+          "left": "Meter",
+          "right": "Length"
+        },
+        {
+          "left": "Gram",
+          "right": "Mass"
+        },
+        {
+          "left": "Liter",
+          "right": "Capacity"
+        }
+      ],
+      "question_ar": "صل كل وحدة قياس بالكمية الفيزيائية التي تعبر عنها:",
+      "explanation_en": "Meter is used for length, Gram for mass, and Liter for liquid capacity.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [
+        {
+          "left": "المتر",
+          "right": "الطول"
+        },
+        {
+          "left": "الجرام",
+          "right": "الكتلة"
+        },
+        {
+          "left": "اللتر",
+          "right": "السعة"
+        }
+      ],
+      "question_en": "Match each measurement unit with the physical quantity it represents:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b88a4ffeb1904c6198b",
+      "created_date": "2026-07-04T23:47:20.554000",
+      "updated_date": "2026-07-04T23:47:20.554000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Geometry",
+      "explanation_ar": "يتميز كل مضلع بعدد أضلاع محدد؛ فالمثلث له 3 والمربع 4 والسداسي 6.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [
+        {
+          "left": "Triangle",
+          "right": "3 sides"
+        },
+        {
+          "left": "Square",
+          "right": "4 sides"
+        },
+        {
+          "left": "Hexagon",
+          "right": "6 sides"
+        }
+      ],
+      "question_ar": "صل كل شكل هندسي بعدد أضلاعه الصحيح:",
+      "explanation_en": "Each polygon is defined by its number of sides; triangles have 3, squares have 4, and hexagons have 6.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [
+        {
+          "left": "المثلث",
+          "right": "3 أضلاع"
+        },
+        {
+          "left": "المربع",
+          "right": "4 أضلاع"
+        },
+        {
+          "left": "الشكل السداسي",
+          "right": "6 أضلاع"
+        }
+      ],
+      "question_en": "Match each geometric shape with its correct number of sides:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b88a4ffeb1904c6198c",
+      "created_date": "2026-07-04T23:47:20.554000",
+      "updated_date": "2026-07-04T23:47:20.554000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Words and Synonyms",
+      "explanation_ar": "البسالة تعني الشجاعة، والجود هو الكرم، والحرص يدل على العناية والاهتمام.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الكلمات والمرادفات",
+      "matching_pairs_en": [
+        {
+          "left": "Valour",
+          "right": "Bravery"
+        },
+        {
+          "left": "Bounty",
+          "right": "Generosity"
+        },
+        {
+          "left": "Prudence",
+          "right": "Care"
+        }
+      ],
+      "question_ar": "صل الكلمة بمعناها الصحيح كما ورد في منهج لغتي:",
+      "explanation_en": "Valour means bravery, bounty means generosity, and prudence indicates care and attention.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [
+        {
+          "left": "البسالة",
+          "right": "الشجاعة"
+        },
+        {
+          "left": "الجود",
+          "right": "الكرم"
+        },
+        {
+          "left": "الحرص",
+          "right": "العناية"
+        }
+      ],
+      "question_en": "Match each word with its correct meaning from the Arabic curriculum:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b88a4ffeb1904c6198d",
+      "created_date": "2026-07-04T23:47:20.554000",
+      "updated_date": "2026-07-04T23:47:20.554000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Fractions",
+      "explanation_ar": "الكسور الاعتيادية يمكن تحويلها لكسور عشرية؛ النصف يساوي 0.5، الربع 0.25، وثلاثة أرباع 0.75.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الكسور",
+      "matching_pairs_en": [
+        {
+          "left": "1/2",
+          "right": "0.5"
+        },
+        {
+          "left": "1/4",
+          "right": "0.25"
+        },
+        {
+          "left": "3/4",
+          "right": "0.75"
+        }
+      ],
+      "question_ar": "صل الكسر الاعتيادي بالكسر العشري المساوي له:",
+      "explanation_en": "Common fractions can be converted to decimals; 1/2 is 0.5, 1/4 is 0.25, and 3/4 is 0.75.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [
+        {
+          "left": "1/2",
+          "right": "0.5"
+        },
+        {
+          "left": "1/4",
+          "right": "0.25"
+        },
+        {
+          "left": "3/4",
+          "right": "0.75"
+        }
+      ],
+      "question_en": "Match the common fraction with its equivalent decimal fraction:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b88a4ffeb1904c6198e",
+      "created_date": "2026-07-04T23:47:20.554000",
+      "updated_date": "2026-07-04T23:47:20.554000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "10 - 6",
+        "5 + 4",
+        "20 - 5",
+        "12 + 8"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "10 - 6",
+        "5 + 4",
+        "20 - 5",
+        "12 + 8"
+      ],
+      "topic_en": "Addition and Subtraction",
+      "explanation_ar": "النواتج هي: (10-6=4)، (5+4=9)، (20-5=15)، (12+8=20).",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الجمع والطرح",
+      "matching_pairs_en": [],
+      "question_ar": "رتب العمليات الحسابية التالية من الأصغر ناتجاً إلى الأكبر ناتجاً:",
+      "explanation_en": "The results are: (10-6=4), (5+4=9), (20-5=15), (12+8=20).",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following calculations from the smallest result to the largest result:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b88a4ffeb1904c6198f",
+      "created_date": "2026-07-04T23:47:20.554000",
+      "updated_date": "2026-07-04T23:47:20.554000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "3",
+        "6",
+        "12",
+        "24",
+        "48"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "3",
+        "6",
+        "12",
+        "24",
+        "48"
+      ],
+      "topic_en": "Patterns and Sequences",
+      "explanation_ar": "النمط يعتمد على ضرب العدد السابق في 2 للحصول على العدد التالي.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "أكمل النمط العددي بترتيب الأرقام تصاعدياً حسب قاعدة النمط (ضرب 2):",
+      "explanation_en": "The pattern is based on multiplying the previous number by 2 to get the next number.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Complete the numerical pattern by ordering numbers ascendingly based on the rule (multiply by 2):",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b88a4ffeb1904c61990",
+      "created_date": "2026-07-04T23:47:20.554000",
+      "updated_date": "2026-07-04T23:47:20.554000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    }
+  ]
+}
