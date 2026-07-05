@@ -1,0 +1,637 @@
+{
+  "test_type": "diagnostic",
+  "grade": 1,
+  "count": 12,
+  "questions": [
+    {
+      "ordering_items_ar": [
+        "1 + 1 = 2",
+        "4 + 1 = 5",
+        "5 + 4 = 9",
+        "10 + 2 = 12"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "1 + 1 = 2",
+        "4 + 1 = 5",
+        "5 + 4 = 9",
+        "10 + 2 = 12"
+      ],
+      "topic_en": "Addition and Subtraction",
+      "explanation_ar": "الترتيب يعتمد على ناتج الجمع لكل مسألة (2، 5، 9، 12).",
+      "test_type": "diagnostic",
+      "difficulty": "hard",
+      "topic_ar": "الجمع والطرح",
+      "matching_pairs_en": [],
+      "question_ar": "رتب نواتج عمليات الجمع التالية من الأصغر إلى الأكبر:",
+      "explanation_en": "Ordering depends on the sum of each problem (2, 5, 9, 12).",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the results of the following addition operations from smallest to largest:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b937ef04f371b660aa4",
+      "created_date": "2026-07-04T23:47:31.459000",
+      "updated_date": "2026-07-04T23:47:31.459000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "topic_en": "Patterns and Sequences",
+      "explanation_ar": "العد القفزي باثنين مهارة أساسية لتمهيد مفهوم الأعداد الزوجية والضرب لاحقاً.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأعداد لتكمل نمط القفز باثنين (العد القفزي):",
+      "explanation_en": "Skip counting by twos is a fundamental skill to prepare for the concept of even numbers and multiplication later.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the numbers to complete the skip counting by two pattern:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b937ef04f371b660aa5",
+      "created_date": "2026-07-04T23:47:31.459000",
+      "updated_date": "2026-07-04T23:47:31.459000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "يستيقظ أحمد من النوم مبكراً",
+        "يذهب أحمد إلى المدرسة",
+        "يدرس أحمد في الفصل مع زملائه",
+        "يعود أحمد إلى البيت سعيداً"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Ahmad wakes up early",
+        "Ahmad goes to school",
+        "Ahmad studies in the classroom with his classmates",
+        "Ahmad returns home happy"
+      ],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "ترتيب الأحداث يساعد الطالب على فهم التسلسل الزمني في القصص القصيرة.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "رتب أحداث يوم أحمد الدراسي بالترتيب الصحيح:",
+      "explanation_en": "Ordering events helps the student understand chronological sequence in short stories.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the events of Ahmad's school day in the correct sequence:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b937ef04f371b660aa6",
+      "created_date": "2026-07-04T23:47:31.459000",
+      "updated_date": "2026-07-04T23:47:31.459000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "الربع",
+        "النصف",
+        "الكل (الواحد الكامل)"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Quarter",
+        "Half",
+        "Whole"
+      ],
+      "topic_en": "Fractions",
+      "explanation_ar": "في الصف الأول، يركز الطالب على مفهوم النصف والربع كأجزاء من الكل.",
+      "test_type": "diagnostic",
+      "difficulty": "hard",
+      "topic_ar": "الكسور",
+      "matching_pairs_en": [],
+      "question_ar": "رتب أجزاء الشكل الملونة من الأصغر كمية إلى الأكبر:",
+      "explanation_en": "In first grade, the student focuses on the concept of half and quarter as parts of a whole.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the colored parts of the shape from the smallest amount to the largest:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b937ef04f371b660aa7",
+      "created_date": "2026-07-04T23:47:31.459000",
+      "updated_date": "2026-07-04T23:47:31.459000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Even and Odd Numbers",
+      "explanation_ar": "العدد الزوجي يمكن تقسيمه إلى مجموعتين متساويتين، بينما الفردي يتبقى منه واحد.",
+      "test_type": "diagnostic",
+      "difficulty": "hard",
+      "topic_ar": "الأعداد الزوجية والفردية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأعداد التالية إلى زوجية أو فردية:",
+      "explanation_en": "An even number can be divided into two equal groups, while an odd number leaves one remaining.",
+      "classify_categories_ar": [
+        "عدد زوجي",
+        "عدد فردي"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "2"
+        },
+        {
+          "correct_category": 1,
+          "item": "5"
+        },
+        {
+          "correct_category": 0,
+          "item": "8"
+        },
+        {
+          "correct_category": 1,
+          "item": "3"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following numbers into even or odd:",
+      "classify_categories_en": [
+        "Even Number",
+        "Odd Number"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "2"
+        },
+        {
+          "correct_category": 1,
+          "item": "5"
+        },
+        {
+          "correct_category": 0,
+          "item": "8"
+        },
+        {
+          "correct_category": 1,
+          "item": "3"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499b937ef04f371b660aa8",
+      "created_date": "2026-07-04T23:47:31.459000",
+      "updated_date": "2026-07-04T23:47:31.459000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Multiplication and Division (Equal Groups)",
+      "explanation_ar": "المجموعات المتساوية هي أساس فهم عملية الضرب في المنهج السعودي.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "الضرب والقسمة (المجموعات المتساوية)",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الصور التالية حسب نوع المجموعات (تمهيد للضرب):",
+      "explanation_en": "Equal groups are the basis for understanding the multiplication process in the Saudi curriculum.",
+      "classify_categories_ar": [
+        "مجموعات متساوية",
+        "مجموعات غير متساوية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Two plates with 3 apples each"
+        },
+        {
+          "correct_category": 1,
+          "item": "A bag with 2 balls and a bag with 5 balls"
+        },
+        {
+          "correct_category": 0,
+          "item": "Three boxes with 1 pencil each"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following images by group type (introduction to multiplication):",
+      "classify_categories_en": [
+        "Equal Groups",
+        "Unequal Groups"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "صحنان في كل منهما 3 تفاحات"
+        },
+        {
+          "correct_category": 1,
+          "item": "كيس فيه 2 كرة وكيس فيه 5 كرات"
+        },
+        {
+          "correct_category": 0,
+          "item": "ثلاث علب في كل منها قلم واحد"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499b937ef04f371b660aa9",
+      "created_date": "2026-07-04T23:47:31.459000",
+      "updated_date": "2026-07-04T23:47:31.459000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Geometric Shapes and Solids",
+      "explanation_ar": "يفرق الطالب بين الشكل المسطح (ثنائي الأبعاد) والمجسم الذي يشغل حيزاً (ثلاثي الأبعاد).",
+      "test_type": "diagnostic",
+      "difficulty": "hard",
+      "topic_ar": "الأشكال الهندسية والمجسمات",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأشكال التالية إلى (أشكال مستوية) أو (مجسمات):",
+      "explanation_en": "The student differentiates between a flat shape (2D) and a solid that occupies space (3D).",
+      "classify_categories_ar": [
+        "أشكال مستوية",
+        "مجسمات"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Square"
+        },
+        {
+          "correct_category": 1,
+          "item": "Sphere/Ball"
+        },
+        {
+          "correct_category": 0,
+          "item": "Triangle"
+        },
+        {
+          "correct_category": 1,
+          "item": "Cube"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following shapes into (Flat Shapes) or (Solids):",
+      "classify_categories_en": [
+        "Flat Shapes",
+        "Solids"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "مربع"
+        },
+        {
+          "correct_category": 1,
+          "item": "كرة"
+        },
+        {
+          "correct_category": 0,
+          "item": "مثلث"
+        },
+        {
+          "correct_category": 1,
+          "item": "مكعب"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499b937ef04f371b660aaa",
+      "created_date": "2026-07-04T23:47:31.459000",
+      "updated_date": "2026-07-04T23:47:31.459000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Reading and Comprehension (Word Types)",
+      "explanation_ar": "الاسم يدل على إنسان أو حيوان أو جماد، والفعل يدل على عمل نقوم به.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "قراءة وفهم (أنواع الكلمات)",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الكلمات التالية إلى (اسم) أو (فعل) حسب دروس لغتي:",
+      "explanation_en": "A noun refers to a person, animal, or object, and a verb refers to an action we perform.",
+      "classify_categories_ar": [
+        "اسم",
+        "فعل"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Book"
+        },
+        {
+          "correct_category": 1,
+          "item": "Reads"
+        },
+        {
+          "correct_category": 0,
+          "item": "School"
+        },
+        {
+          "correct_category": 1,
+          "item": "Plays"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following words into (Noun) or (Verb) according to Lughati lessons:",
+      "classify_categories_en": [
+        "Noun",
+        "Verb"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "كتاب"
+        },
+        {
+          "correct_category": 1,
+          "item": "يقرأ"
+        },
+        {
+          "correct_category": 0,
+          "item": "مدرسة"
+        },
+        {
+          "correct_category": 1,
+          "item": "يلعب"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499b937ef04f371b660aab",
+      "created_date": "2026-07-04T23:47:31.459000",
+      "updated_date": "2026-07-04T23:47:31.459000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Money and Currency",
+      "explanation_ar": "يتعلم الطالب في الصف الأول التمييز بين فئات العملات السعودية الورقية والمعدنية (1، 2، 5، 10).",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "النقود والعملات",
+      "matching_pairs_en": [
+        {
+          "left": "Banknote with 10 written on it",
+          "right": "Ten Riyals"
+        },
+        {
+          "left": "Banknote with 5 written on it",
+          "right": "Five Riyals"
+        },
+        {
+          "left": "Coin with 2 written on it",
+          "right": "Two Riyals"
+        }
+      ],
+      "question_ar": "صل العملة السعودية بقيمتها الصحيحة:",
+      "explanation_en": "First-grade students learn to distinguish between Saudi paper and coin denominations (1, 2, 5, 10).",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "ورقة نقدية مكتوب عليها 10",
+          "right": "عشرة ريالات"
+        },
+        {
+          "left": "ورقة نقدية مكتوب عليها 5",
+          "right": "خمسة ريالات"
+        },
+        {
+          "left": "عملة معدنية مكتوب عليها 2",
+          "right": "ريالان"
+        }
+      ],
+      "question_en": "Match the Saudi currency with its correct value:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b937ef04f371b660aa0",
+      "created_date": "2026-07-04T23:47:31.458000",
+      "updated_date": "2026-07-04T23:47:31.458000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Geometric Shapes",
+      "explanation_ar": "يتعرف الطالب على خصائص الأشكال المستوية الأساسية مثل عدد الأضلاع والرؤوس.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [
+        {
+          "left": "Triangle",
+          "right": "Has 3 sides and 3 vertices"
+        },
+        {
+          "left": "Square",
+          "right": "Has 4 equal sides"
+        },
+        {
+          "left": "Circle",
+          "right": "A curved shape with no sides"
+        }
+      ],
+      "question_ar": "صل اسم الشكل الهندسي بوصفه الصحيح:",
+      "explanation_en": "The student identifies the properties of basic flat shapes, such as the number of sides and vertices.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "المثلث",
+          "right": "له 3 أضلاع و 3 رؤوس"
+        },
+        {
+          "left": "المربع",
+          "right": "له 4 أضلاع متساوية"
+        },
+        {
+          "left": "الدائرة",
+          "right": "شكل منحني ليس له أضلاع"
+        }
+      ],
+      "question_en": "Match the geometric shape name with its correct description:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b937ef04f371b660aa1",
+      "created_date": "2026-07-04T23:47:31.458000",
+      "updated_date": "2026-07-04T23:47:31.458000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Words and Synonyms",
+      "explanation_ar": "تنمية الثروة اللغوية بربط الكلمات بمرادفاتها الشائعة في كتاب لغتي.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الكلمات والمرادفات",
+      "matching_pairs_en": [
+        {
+          "left": "Residence",
+          "right": "House"
+        },
+        {
+          "left": "Glad",
+          "right": "Happy"
+        },
+        {
+          "left": "Huge",
+          "right": "Very big"
+        }
+      ],
+      "question_ar": "صل الكلمة بمعناها الصحيح (من دروس لغتي):",
+      "explanation_en": "Developing vocabulary by linking words to their common synonyms in the Lughati book.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "منزل",
+          "right": "بيت"
+        },
+        {
+          "left": "مسرور",
+          "right": "فرح"
+        },
+        {
+          "left": "ضخم",
+          "right": "كبير جداً"
+        }
+      ],
+      "question_en": "Match the word with its correct meaning (from Lughati lessons):",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b937ef04f371b660aa2",
+      "created_date": "2026-07-04T23:47:31.458000",
+      "updated_date": "2026-07-04T23:47:31.458000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "يتعلم الطالب في فصل القياس استخدام الأدوات المناسبة لقياس الطول والكتلة والوقت.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الوحدات والقياس",
+      "matching_pairs_en": [
+        {
+          "left": "Ruler",
+          "right": "Length of a pencil"
+        },
+        {
+          "left": "Scale",
+          "right": "Mass of fruit"
+        },
+        {
+          "left": "Clock",
+          "right": "Time"
+        }
+      ],
+      "question_ar": "صل الأداة بالشيء الذي تقيسه:",
+      "explanation_en": "In the measurement chapter, the student learns to use appropriate tools to measure length, mass, and time.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "المسطرة",
+          "right": "طول القلم"
+        },
+        {
+          "left": "الميزان",
+          "right": "كتلة الفاكهة"
+        },
+        {
+          "left": "الساعة",
+          "right": "الوقت"
+        }
+      ],
+      "question_en": "Match the tool with what it measures:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b937ef04f371b660aa3",
+      "created_date": "2026-07-04T23:47:31.458000",
+      "updated_date": "2026-07-04T23:47:31.458000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    }
+  ]
+}
