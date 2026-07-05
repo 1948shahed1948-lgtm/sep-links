@@ -5,214 +5,6 @@
   "questions": [
     {
       "ordering_items_ar": [],
-      "question_type": "matching",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Currency and Money",
-      "explanation_ar": "جمع فئات العملة السعودية يساعد في التعاملات اليومية؛ ٥٠ + ١٠ + ١٠ يساوي ٧٠ ريالاً.",
-      "test_type": "diagnostic",
-      "difficulty": "medium",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [
-        {
-          "left": "One 50 note + two 10 notes",
-          "right": "70 Riyals"
-        },
-        {
-          "left": "One 100 note + one 50 note",
-          "right": "150 Riyals"
-        },
-        {
-          "left": "One 10 note + one 5 note + 1 Riyal",
-          "right": "16 Riyals"
-        }
-      ],
-      "question_ar": "صل مجموع الأوراق النقدية السعودية بقيمتها الإجمالية:",
-      "explanation_en": "Adding Saudi currency denominations helps in daily transactions; 50 + 10 + 10 equals 70 Riyals.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 4,
-      "matching_pairs_ar": [
-        {
-          "left": "ورقة ٥٠ + ورقتان ١٠",
-          "right": "٧٠ ريالاً"
-        },
-        {
-          "left": "ورقة ١٠٠ + ورقة ٥٠",
-          "right": "١٥٠ ريالاً"
-        },
-        {
-          "left": "ورقة ١٠ + ورقة ٥ + ريال",
-          "right": "١٦ ريالاً"
-        }
-      ],
-      "question_en": "Match the group of Saudi bank notes to their total value:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499ba5db2bae8633c99785",
-      "created_date": "2026-07-04T23:47:49.329000",
-      "updated_date": "2026-07-04T23:47:49.329000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "٢",
-        "٤",
-        "٨",
-        "١٦",
-        "٣٢"
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "2",
-        "4",
-        "8",
-        "16",
-        "32"
-      ],
-      "topic_en": "Patterns and Sequence",
-      "explanation_ar": "النمط الهندسي هنا يعتمد على مضاعفة العدد السابق (ضرب في ٢).",
-      "test_type": "diagnostic",
-      "difficulty": "hard",
-      "topic_ar": "الأنماط والتسلسل",
-      "matching_pairs_en": [],
-      "question_ar": "رتب الأعداد التالية لتكمل النمط (القاعدة: ضرب العدد في ٢):",
-      "explanation_en": "The geometric pattern here depends on doubling the previous number (multiplying by 2).",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 4,
-      "matching_pairs_ar": [],
-      "question_en": "Order the following numbers to complete the pattern (Rule: Multiply by 2):",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499ba5db2bae8633c99786",
-      "created_date": "2026-07-04T23:47:49.329000",
-      "updated_date": "2026-07-04T23:47:49.329000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "١/١٠",
-        "١/٨",
-        "١/٤",
-        "١/٢"
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "1/10",
-        "1/8",
-        "1/4",
-        "1/2"
-      ],
-      "topic_en": "Fractions",
-      "explanation_ar": "في كسور الوحدة (البسط ١)، كلما كبر المقام صغرت قيمة الكسر.",
-      "test_type": "diagnostic",
-      "difficulty": "hard",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "رتب الكسور التالية من الأصغر قيمة إلى الأكبر قيمة:",
-      "explanation_en": "In unit fractions (numerator is 1), the larger the denominator, the smaller the value of the fraction.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 4,
-      "matching_pairs_ar": [],
-      "question_en": "Arrange the following fractions from the smallest value to the largest value:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499ba5db2bae8633c99787",
-      "created_date": "2026-07-04T23:47:49.329000",
-      "updated_date": "2026-07-04T23:47:49.329000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "وضع البذرة في التربة",
-        "سقي البذرة بالماء",
-        "ظهور الجذور والنبوت",
-        "نمو الأوراق والأزهار"
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "Placing the seed in soil",
-        "Watering the seed",
-        "Roots and sprout appear",
-        "Leaves and flowers grow"
-      ],
-      "topic_en": "Reading and Comprehension",
-      "explanation_ar": "التسلسل المنطقي للأحداث يبدأ بالزراعة ثم الري ثم النمو التدريجي.",
-      "test_type": "diagnostic",
-      "difficulty": "medium",
-      "topic_ar": "قراءة وفهم",
-      "matching_pairs_en": [],
-      "question_ar": "رتب أحداث دورة حياة النبات بالترتيب الصحيح:",
-      "explanation_en": "The logical sequence of events begins with planting, then watering, then gradual growth.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 4,
-      "matching_pairs_ar": [],
-      "question_en": "Order the events of a plant's life cycle in the correct sequence:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499ba5db2bae8633c99788",
-      "created_date": "2026-07-04T23:47:49.329000",
-      "updated_date": "2026-07-04T23:47:49.329000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "١٠٤٥٠",
-        "١٤٠٥٠",
-        "١٥٤٠٠",
-        "٤٠٥١٠"
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "10450",
-        "14050",
-        "15400",
-        "40510"
-      ],
-      "topic_en": "Large Numbers",
-      "explanation_ar": "نقارن الأعداد بدءاً من المنزلة الكبرى (عشرات الألوف) ثم الألوف وهكذا.",
-      "test_type": "diagnostic",
-      "difficulty": "hard",
-      "topic_ar": "الأعداد الكبيرة",
-      "matching_pairs_en": [],
-      "question_ar": "رتب الأعداد التالية من الأصغر إلى الأكبر:",
-      "explanation_en": "We compare numbers starting from the highest place value (ten thousands), then thousands, and so on.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 4,
-      "matching_pairs_ar": [],
-      "question_en": "Order the following numbers from least to greatest:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499ba5db2bae8633c99789",
-      "created_date": "2026-07-04T23:47:49.329000",
-      "updated_date": "2026-07-04T23:47:49.329000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
       "question_type": "classify",
       "options_en": [],
       "correct_answer": null,
@@ -280,68 +72,40 @@
       "is_sample": false
     },
     {
-      "ordering_items_ar": [],
-      "question_type": "classify",
+      "ordering_items_ar": [
+        "٢",
+        "٤",
+        "٨",
+        "١٦",
+        "٣٢"
+      ],
+      "question_type": "ordering",
       "options_en": [],
       "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Units and Measurement",
-      "explanation_ar": "المتر والسنتيمتر لقياس الأطوال، بينما الجرام والكيلوجرام لقياس كتلة الأشياء.",
+      "ordering_items_en": [
+        "2",
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "topic_en": "Patterns and Sequence",
+      "explanation_ar": "النمط الهندسي هنا يعتمد على مضاعفة العدد السابق (ضرب في ٢).",
       "test_type": "diagnostic",
-      "difficulty": "easy",
-      "topic_ar": "الوحدات والقياس",
+      "difficulty": "hard",
+      "topic_ar": "الأنماط والتسلسل",
       "matching_pairs_en": [],
-      "question_ar": "صنف الوحدات التالية حسب ما تقيسه (طول أو كتلة):",
-      "explanation_en": "Meter and centimeter are for measuring lengths, while gram and kilogram are for measuring the mass of objects.",
-      "classify_categories_ar": [
-        "وحدات الطول",
-        "وحدات الكتلة"
-      ],
-      "classify_items_en": [
-        {
-          "correct_category": 0,
-          "item": "Meter"
-        },
-        {
-          "correct_category": 1,
-          "item": "Kilogram"
-        },
-        {
-          "correct_category": 0,
-          "item": "Centimeter"
-        },
-        {
-          "correct_category": 1,
-          "item": "Gram"
-        }
-      ],
+      "question_ar": "رتب الأعداد التالية لتكمل النمط (القاعدة: ضرب العدد في ٢):",
+      "explanation_en": "The geometric pattern here depends on doubling the previous number (multiplying by 2).",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
       "grade": 4,
       "matching_pairs_ar": [],
-      "question_en": "Classify the following units based on what they measure (Length or Mass):",
-      "classify_categories_en": [
-        "Length Units",
-        "Mass Units"
-      ],
-      "classify_items_ar": [
-        {
-          "correct_category": 0,
-          "item": "متر"
-        },
-        {
-          "correct_category": 1,
-          "item": "كيلوجرام"
-        },
-        {
-          "correct_category": 0,
-          "item": "سنتيمتر"
-        },
-        {
-          "correct_category": 1,
-          "item": "جرام"
-        }
-      ],
+      "question_en": "Order the following numbers to complete the pattern (Rule: Multiply by 2):",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499ba5db2bae8633c9978b",
+      "id": "6a499ba5db2bae8633c99786",
       "created_date": "2026-07-04T23:47:49.329000",
       "updated_date": "2026-07-04T23:47:49.329000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -478,56 +242,238 @@
       "is_sample": false
     },
     {
+      "ordering_items_ar": [
+        "١٠٤٥٠",
+        "١٤٠٥٠",
+        "١٥٤٠٠",
+        "٤٠٥١٠"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "10450",
+        "14050",
+        "15400",
+        "40510"
+      ],
+      "topic_en": "Large Numbers",
+      "explanation_ar": "نقارن الأعداد بدءاً من المنزلة الكبرى (عشرات الألوف) ثم الألوف وهكذا.",
+      "test_type": "diagnostic",
+      "difficulty": "hard",
+      "topic_ar": "الأعداد الكبيرة",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأعداد التالية من الأصغر إلى الأكبر:",
+      "explanation_en": "We compare numbers starting from the highest place value (ten thousands), then thousands, and so on.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following numbers from least to greatest:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c99789",
+      "created_date": "2026-07-04T23:47:49.329000",
+      "updated_date": "2026-07-04T23:47:49.329000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "المتر والسنتيمتر لقياس الأطوال، بينما الجرام والكيلوجرام لقياس كتلة الأشياء.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "الوحدات والقياس",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الوحدات التالية حسب ما تقيسه (طول أو كتلة):",
+      "explanation_en": "Meter and centimeter are for measuring lengths, while gram and kilogram are for measuring the mass of objects.",
+      "classify_categories_ar": [
+        "وحدات الطول",
+        "وحدات الكتلة"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Meter"
+        },
+        {
+          "correct_category": 1,
+          "item": "Kilogram"
+        },
+        {
+          "correct_category": 0,
+          "item": "Centimeter"
+        },
+        {
+          "correct_category": 1,
+          "item": "Gram"
+        }
+      ],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following units based on what they measure (Length or Mass):",
+      "classify_categories_en": [
+        "Length Units",
+        "Mass Units"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "متر"
+        },
+        {
+          "correct_category": 1,
+          "item": "كيلوجرام"
+        },
+        {
+          "correct_category": 0,
+          "item": "سنتيمتر"
+        },
+        {
+          "correct_category": 1,
+          "item": "جرام"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c9978b",
+      "created_date": "2026-07-04T23:47:49.329000",
+      "updated_date": "2026-07-04T23:47:49.329000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
       "ordering_items_ar": [],
       "question_type": "matching",
       "options_en": [],
       "correct_answer": null,
       "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "عند الجمع نجمع الآحاد مع الآحاد والعشرات مع العشرات، وفي الطرح نستلف إذا كان المطروح منه أصغر من المطروح.",
+      "topic_en": "Currency and Money",
+      "explanation_ar": "جمع فئات العملة السعودية يساعد في التعاملات اليومية؛ ٥٠ + ١٠ + ١٠ يساوي ٧٠ ريالاً.",
       "test_type": "diagnostic",
-      "difficulty": "hard",
-      "topic_ar": "الجمع والطرح",
+      "difficulty": "medium",
+      "topic_ar": "العملات والنقود",
       "matching_pairs_en": [
         {
-          "left": "450 + 150",
-          "right": "600"
+          "left": "One 50 note + two 10 notes",
+          "right": "70 Riyals"
         },
         {
-          "left": "1000 - 250",
-          "right": "750"
+          "left": "One 100 note + one 50 note",
+          "right": "150 Riyals"
         },
         {
-          "left": "320 + 80",
-          "right": "400"
+          "left": "One 10 note + one 5 note + 1 Riyal",
+          "right": "16 Riyals"
         }
       ],
-      "question_ar": "صل كل عملية حسابية بناتجها الصحيح:",
-      "explanation_en": "In addition, we add ones to ones and tens to tens. In subtraction, we regroup if the minuend is smaller than the subtrahend.",
+      "question_ar": "صل مجموع الأوراق النقدية السعودية بقيمتها الإجمالية:",
+      "explanation_en": "Adding Saudi currency denominations helps in daily transactions; 50 + 10 + 10 equals 70 Riyals.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 4,
       "matching_pairs_ar": [
         {
-          "left": "٤٥٠ + ١٥٠",
-          "right": "٦٠٠"
+          "left": "ورقة ٥٠ + ورقتان ١٠",
+          "right": "٧٠ ريالاً"
         },
         {
-          "left": "١٠٠٠ - ٢٥٠",
-          "right": "٧٥٠"
+          "left": "ورقة ١٠٠ + ورقة ٥٠",
+          "right": "١٥٠ ريالاً"
         },
         {
-          "left": "٣٢٠ + ٨٠",
-          "right": "٤٠٠"
+          "left": "ورقة ١٠ + ورقة ٥ + ريال",
+          "right": "١٦ ريالاً"
         }
       ],
-      "question_en": "Match each calculation with its correct result:",
+      "question_en": "Match the group of Saudi bank notes to their total value:",
       "classify_categories_en": [],
       "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499ba5db2bae8633c99782",
-      "created_date": "2026-07-04T23:47:49.328000",
-      "updated_date": "2026-07-04T23:47:49.328000",
+      "id": "6a499ba5db2bae8633c99785",
+      "created_date": "2026-07-04T23:47:49.329000",
+      "updated_date": "2026-07-04T23:47:49.329000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "وضع البذرة في التربة",
+        "سقي البذرة بالماء",
+        "ظهور الجذور والنبوت",
+        "نمو الأوراق والأزهار"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Placing the seed in soil",
+        "Watering the seed",
+        "Roots and sprout appear",
+        "Leaves and flowers grow"
+      ],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "التسلسل المنطقي للأحداث يبدأ بالزراعة ثم الري ثم النمو التدريجي.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "رتب أحداث دورة حياة النبات بالترتيب الصحيح:",
+      "explanation_en": "The logical sequence of events begins with planting, then watering, then gradual growth.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Order the events of a plant's life cycle in the correct sequence:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c99788",
+      "created_date": "2026-07-04T23:47:49.329000",
+      "updated_date": "2026-07-04T23:47:49.329000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "١/١٠",
+        "١/٨",
+        "١/٤",
+        "١/٢"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "1/10",
+        "1/8",
+        "1/4",
+        "1/2"
+      ],
+      "topic_en": "Fractions",
+      "explanation_ar": "في كسور الوحدة (البسط ١)، كلما كبر المقام صغرت قيمة الكسر.",
+      "test_type": "diagnostic",
+      "difficulty": "hard",
+      "topic_ar": "الكسور",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الكسور التالية من الأصغر قيمة إلى الأكبر قيمة:",
+      "explanation_en": "In unit fractions (numerator is 1), the larger the denominator, the smaller the value of the fraction.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Arrange the following fractions from the smallest value to the largest value:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c99787",
+      "created_date": "2026-07-04T23:47:49.329000",
+      "updated_date": "2026-07-04T23:47:49.329000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
@@ -634,6 +580,60 @@
       "classify_items_ar": [],
       "options_ar": [],
       "id": "6a499ba5db2bae8633c99784",
+      "created_date": "2026-07-04T23:47:49.328000",
+      "updated_date": "2026-07-04T23:47:49.328000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Addition and Subtraction",
+      "explanation_ar": "عند الجمع نجمع الآحاد مع الآحاد والعشرات مع العشرات، وفي الطرح نستلف إذا كان المطروح منه أصغر من المطروح.",
+      "test_type": "diagnostic",
+      "difficulty": "hard",
+      "topic_ar": "الجمع والطرح",
+      "matching_pairs_en": [
+        {
+          "left": "450 + 150",
+          "right": "600"
+        },
+        {
+          "left": "1000 - 250",
+          "right": "750"
+        },
+        {
+          "left": "320 + 80",
+          "right": "400"
+        }
+      ],
+      "question_ar": "صل كل عملية حسابية بناتجها الصحيح:",
+      "explanation_en": "In addition, we add ones to ones and tens to tens. In subtraction, we regroup if the minuend is smaller than the subtrahend.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [
+        {
+          "left": "٤٥٠ + ١٥٠",
+          "right": "٦٠٠"
+        },
+        {
+          "left": "١٠٠٠ - ٢٥٠",
+          "right": "٧٥٠"
+        },
+        {
+          "left": "٣٢٠ + ٨٠",
+          "right": "٤٠٠"
+        }
+      ],
+      "question_en": "Match each calculation with its correct result:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c99782",
       "created_date": "2026-07-04T23:47:49.328000",
       "updated_date": "2026-07-04T23:47:49.328000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
