@@ -1,0 +1,77 @@
+{
+  "curriculum": "national",
+  "grade": "grade_1",
+  "count": 5,
+  "questions": [
+    {
+      "color": "#2196F3",
+      "name_ar": "التربية البدنية",
+      "grade": "grade_1",
+      "icon": "Running",
+      "curriculum": "national",
+      "name_en": "Physical Education",
+      "order": 0,
+      "id": "6a484362cc354ea419549486",
+      "created_date": "2026-07-03T23:18:58.521000",
+      "updated_date": "2026-07-03T23:18:58.521000",
+      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "is_sample": false
+    },
+    {
+      "color": "#FFC107",
+      "name_ar": "التربية الفنية",
+      "grade": "grade_1",
+      "icon": "Palette",
+      "curriculum": "national",
+      "name_en": "Art Education",
+      "order": 0,
+      "id": "6a4843611c6d80b6a35907af",
+      "created_date": "2026-07-03T23:18:57.899000",
+      "updated_date": "2026-07-03T23:18:57.899000",
+      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "is_sample": false
+    },
+    {
+      "color": "#3B82F6",
+      "name_ar": "الرياضيات",
+      "grade": "grade_1",
+      "icon": "Calculator",
+      "curriculum": "national",
+      "name_en": "Mathematics",
+      "order": 1,
+      "id": "6a483f3c96e05821ffa066e1",
+      "created_date": "2026-07-03T23:01:16.118000",
+      "updated_date": "2026-07-03T23:01:16.118000",
+      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "is_sample": false
+    },
+    {
+      "color": "#10B981",
+      "name_ar": "اللغة العربية",
+      "grade": "grade_1",
+      "icon": "BookOpen",
+      "curriculum": "national",
+      "name_en": "Arabic Language",
+      "order": 2,
+      "id": "6a483f3c96e05821ffa066e2",
+      "created_date": "2026-07-03T23:01:16.118000",
+      "updated_date": "2026-07-03T23:01:16.118000",
+      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "is_sample": false
+    },
+    {
+      "color": "#8B5CF6",
+      "name_ar": "التربية الإسلامية",
+      "grade": "grade_1",
+      "icon": "BookMarked",
+      "curriculum": "national",
+      "name_en": "Islamic Education",
+      "order": 3,
+      "id": "6a483f3c96e05821ffa066e3",
+      "created_date": "2026-07-03T23:01:16.118000",
+      "updated_date": "2026-07-03T23:01:16.118000",
+      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "is_sample": false
+    }
+  ]
+}
