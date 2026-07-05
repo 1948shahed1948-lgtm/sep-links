@@ -4,40 +4,6 @@
   "count": 7,
   "questions": [
     {
-      "golden_rule_en": "If 'Ma' connects to 'Inna', it invalidates its action, and what follows is a Mubtada'.",
-      "options_en": [
-        "Noun of Inna, accusative with 'Ya'",
-        "Subject (Mubtada'), nominative with 'Waw'",
-        "Predicate of Inna, nominative with 'Waw'",
-        "Agent (Fa'il), nominative with 'Waw'"
-      ],
-      "common_mistake_en": "As soon as the student sees 'Inna', they rush to define what follows as 'Noun of Inna, accusative', ignoring the effect of the attached 'Ma'.",
-      "correct_answer": "1",
-      "topic_en": "Inna and its sisters (Ma al-Kaffah)",
-      "subject_ar": "اللغة العربية",
-      "explanation_ar": "دخول (ما) على (إن) يسمى (ما الكافة)، وهي تكفّها عن العمل (أي تلغي أثرها الإعرابي). لذا تعود الجملة لأصلها (مبتدأ وخبر)، وكلمة المؤمنون هنا مبتدأ مرفوع بالواو لأنه جمع مذكر سالم.",
-      "golden_rule_ar": "(ما) إذا اتصلت بـ (إن) أبطلت عملها، وما بعدها مبتدأ.",
-      "topic_ar": "إن وأخواتها (ما الكافة)",
-      "subject_en": "Arabic Language",
-      "question_ar": "أعرب كلمة (المؤمنون) في جملة: \"إنما المؤمنون إخوة\".",
-      "explanation_en": "The entry of 'Ma' into 'Inna' is called 'Ma al-Kaffah', and it stops it from working (cancels its grammatical effect). Therefore, the sentence returns to its origin (subject and predicate), and the word 'al-mu'minuna' here is a subject nominative with 'Waw' because it is a sound masculine plural.",
-      "stage": "primary",
-      "grade": 6,
-      "question_en": "Parse the word (المؤمنون) in the sentence: \"Innama al-mu'minuna ikhwah\".",
-      "options_ar": [
-        "اسم إن منصوب وعلامة نصبه الياء",
-        "مبتدأ مرفوع وعلامة رفعه الواو",
-        "خبر إن مرفوع وعلامة رفعه الواو",
-        "فاعل مرفوع بالواو"
-      ],
-      "common_mistake_ar": "بمجرد رؤية (إن)، يسارع الطالب لتعريف ما بعدها على أنه (اسم إن منصوب)، متجاهلاً أثر (ما) الملتصقة بها.",
-      "id": "6a49a4f139ead10de3924757",
-      "created_date": "2026-07-05T00:27:29.755000",
-      "updated_date": "2026-07-05T00:27:29.755000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
       "golden_rule_en": "Percentage depends on the 'amount it is calculated from', it is not a fixed value.",
       "options_en": [
         "100 Riyals",
@@ -66,6 +32,40 @@
       ],
       "common_mistake_ar": "يعتقد أغلب الطلاب أن الزيادة 20% ثم الخصم 20% يلغيان بعضهما ويعود السعر لـ 100 ريال، متجاهلين أن قيمة الخصم تُحسب من المبلغ الأكبر الجديد.",
       "id": "6a49a4f139ead10de392475b",
+      "created_date": "2026-07-05T00:27:29.755000",
+      "updated_date": "2026-07-05T00:27:29.755000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "golden_rule_en": "If 'Ma' connects to 'Inna', it invalidates its action, and what follows is a Mubtada'.",
+      "options_en": [
+        "Noun of Inna, accusative with 'Ya'",
+        "Subject (Mubtada'), nominative with 'Waw'",
+        "Predicate of Inna, nominative with 'Waw'",
+        "Agent (Fa'il), nominative with 'Waw'"
+      ],
+      "common_mistake_en": "As soon as the student sees 'Inna', they rush to define what follows as 'Noun of Inna, accusative', ignoring the effect of the attached 'Ma'.",
+      "correct_answer": "1",
+      "topic_en": "Inna and its sisters (Ma al-Kaffah)",
+      "subject_ar": "اللغة العربية",
+      "explanation_ar": "دخول (ما) على (إن) يسمى (ما الكافة)، وهي تكفّها عن العمل (أي تلغي أثرها الإعرابي). لذا تعود الجملة لأصلها (مبتدأ وخبر)، وكلمة المؤمنون هنا مبتدأ مرفوع بالواو لأنه جمع مذكر سالم.",
+      "golden_rule_ar": "(ما) إذا اتصلت بـ (إن) أبطلت عملها، وما بعدها مبتدأ.",
+      "topic_ar": "إن وأخواتها (ما الكافة)",
+      "subject_en": "Arabic Language",
+      "question_ar": "أعرب كلمة (المؤمنون) في جملة: \"إنما المؤمنون إخوة\".",
+      "explanation_en": "The entry of 'Ma' into 'Inna' is called 'Ma al-Kaffah', and it stops it from working (cancels its grammatical effect). Therefore, the sentence returns to its origin (subject and predicate), and the word 'al-mu'minuna' here is a subject nominative with 'Waw' because it is a sound masculine plural.",
+      "stage": "primary",
+      "grade": 6,
+      "question_en": "Parse the word (المؤمنون) in the sentence: \"Innama al-mu'minuna ikhwah\".",
+      "options_ar": [
+        "اسم إن منصوب وعلامة نصبه الياء",
+        "مبتدأ مرفوع وعلامة رفعه الواو",
+        "خبر إن مرفوع وعلامة رفعه الواو",
+        "فاعل مرفوع بالواو"
+      ],
+      "common_mistake_ar": "بمجرد رؤية (إن)، يسارع الطالب لتعريف ما بعدها على أنه (اسم إن منصوب)، متجاهلاً أثر (ما) الملتصقة بها.",
+      "id": "6a49a4f139ead10de3924757",
       "created_date": "2026-07-05T00:27:29.755000",
       "updated_date": "2026-07-05T00:27:29.755000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
