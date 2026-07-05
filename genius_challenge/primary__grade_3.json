@@ -38,40 +38,6 @@
       "is_sample": false
     },
     {
-      "golden_rule_en": "Young reptiles are mini-versions; young amphibians need a transformation (metamorphosis).",
-      "options_en": [
-        "Reptiles lay eggs and amphibians give birth",
-        "Young reptiles look like their parents, while young amphibians do not",
-        "Amphibians always live in water only",
-        "Reptiles go through a metamorphosis stage like butterflies"
-      ],
-      "common_mistake_en": "Many students think amphibians and reptiles are identical because both lay eggs, neglecting the fact of 'metamorphosis' and the appearance of the young.",
-      "correct_answer": "1",
-      "topic_en": "Animal Life Cycles",
-      "subject_ar": "العلوم",
-      "explanation_ar": "الزواحف تضع بيوضاً على اليابسة وتخرج منها صغار تشبه والديها تماماً ولكنها أصغر حجماً. أما البرمائيات فتمر بمرحلة 'التحول'، حيث يفقس البيض في الماء عن 'أبو ذنيبة' الذي لا يشبه الضفدع البالغ، ثم يتغير شكله تدريجياً.",
-      "golden_rule_ar": "صغير الزواحف نسخة مصغرة، وصغير البرمائيات يحتاج لعملية تغيير شكل (تحول).",
-      "topic_ar": "دورة حياة الحيوانات",
-      "subject_en": "Science",
-      "question_ar": "ما هو الفرق الجوهري بين دورة حياة الزواحف (مثل السلحفاة) ودورة حياة البرمائيات (مثل الضفدع)؟",
-      "explanation_en": "Reptiles lay eggs on land, and the hatchlings look exactly like their parents but smaller. Amphibians undergo 'metamorphosis'; the eggs hatch in water into tadpoles that do not look like adult frogs, then their shape changes gradually.",
-      "stage": "primary",
-      "grade": 3,
-      "question_en": "What is the fundamental difference between the life cycle of reptiles (like a turtle) and amphibians (like a frog)?",
-      "options_ar": [
-        "الزواحف تبيض والبرمائيات تلد",
-        "صغار الزواحف تشبه والديها، بينما صغار البرمائيات لا تشبههما",
-        "البرمائيات تعيش دائماً في الماء فقط",
-        "الزواحف تمر بمرحلة التحول مثل الفراشة"
-      ],
-      "common_mistake_ar": "يعتقد الكثير من الطلاب أن البرمائيات والزواحف متشابهة تماماً لأن كليهما يبيض، ويغفلون عن حقيقة 'التحول' وشكل الصغار.",
-      "id": "6a49a4386f623da7f7960a2f",
-      "created_date": "2026-07-05T00:24:24.628000",
-      "updated_date": "2026-07-05T00:24:24.628000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
       "golden_rule_en": "Ta'a Marbuta and Hamza after Alif hate extra Alif in Tanween!",
       "options_en": [
         "Ma'an (with extra Alif)",
@@ -100,6 +66,40 @@
       ],
       "common_mistake_ar": "يقع الطلاب دائماً في فخ زيادة الألف بعد التاء المربوطة أو كتابة التنوين نوناً صريحة.",
       "id": "6a49a4386f623da7f7960a30",
+      "created_date": "2026-07-05T00:24:24.628000",
+      "updated_date": "2026-07-05T00:24:24.628000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "golden_rule_en": "Young reptiles are mini-versions; young amphibians need a transformation (metamorphosis).",
+      "options_en": [
+        "Reptiles lay eggs and amphibians give birth",
+        "Young reptiles look like their parents, while young amphibians do not",
+        "Amphibians always live in water only",
+        "Reptiles go through a metamorphosis stage like butterflies"
+      ],
+      "common_mistake_en": "Many students think amphibians and reptiles are identical because both lay eggs, neglecting the fact of 'metamorphosis' and the appearance of the young.",
+      "correct_answer": "1",
+      "topic_en": "Animal Life Cycles",
+      "subject_ar": "العلوم",
+      "explanation_ar": "الزواحف تضع بيوضاً على اليابسة وتخرج منها صغار تشبه والديها تماماً ولكنها أصغر حجماً. أما البرمائيات فتمر بمرحلة 'التحول'، حيث يفقس البيض في الماء عن 'أبو ذنيبة' الذي لا يشبه الضفدع البالغ، ثم يتغير شكله تدريجياً.",
+      "golden_rule_ar": "صغير الزواحف نسخة مصغرة، وصغير البرمائيات يحتاج لعملية تغيير شكل (تحول).",
+      "topic_ar": "دورة حياة الحيوانات",
+      "subject_en": "Science",
+      "question_ar": "ما هو الفرق الجوهري بين دورة حياة الزواحف (مثل السلحفاة) ودورة حياة البرمائيات (مثل الضفدع)؟",
+      "explanation_en": "Reptiles lay eggs on land, and the hatchlings look exactly like their parents but smaller. Amphibians undergo 'metamorphosis'; the eggs hatch in water into tadpoles that do not look like adult frogs, then their shape changes gradually.",
+      "stage": "primary",
+      "grade": 3,
+      "question_en": "What is the fundamental difference between the life cycle of reptiles (like a turtle) and amphibians (like a frog)?",
+      "options_ar": [
+        "الزواحف تبيض والبرمائيات تلد",
+        "صغار الزواحف تشبه والديها، بينما صغار البرمائيات لا تشبههما",
+        "البرمائيات تعيش دائماً في الماء فقط",
+        "الزواحف تمر بمرحلة التحول مثل الفراشة"
+      ],
+      "common_mistake_ar": "يعتقد الكثير من الطلاب أن البرمائيات والزواحف متشابهة تماماً لأن كليهما يبيض، ويغفلون عن حقيقة 'التحول' وشكل الصغار.",
+      "id": "6a49a4386f623da7f7960a2f",
       "created_date": "2026-07-05T00:24:24.628000",
       "updated_date": "2026-07-05T00:24:24.628000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
