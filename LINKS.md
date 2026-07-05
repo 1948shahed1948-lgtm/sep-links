@@ -7,6 +7,7 @@
 | لغتي | My Language | https://h1hnd59rkba1-d.space-z.ai |
 | التربية الفنية | Art Education | https://e1znj54sf2t0-d.space-z.ai |
 | المهارات الحياتية والأسرية | Life & Family Skills | https://u17nw5n6zxh1-d.space-z.ai |
+| الاختبارات التكيفية ٣ | Adaptive Tests 3 | https://w1un15watek1-d.space-z.ai |
 
 ---
 
