@@ -1,0 +1,679 @@
+{
+  "test_type": "criterion",
+  "grade": 2,
+  "count": 12,
+  "questions": [
+    {
+      "ordering_items_ar": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "topic_en": "Patterns and Sequence",
+      "explanation_ar": "فهم الأنماط العددية يمهد الطريق لتعلم الضرب والعد القفزي.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأعداد التالية لتكوين نمط صحيح بزيادة 5 في كل مرة",
+      "explanation_en": "Understanding numerical patterns paves the way for learning multiplication and skip counting.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following numbers to form a correct pattern increasing by 5 each time",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499292e25dc98dd762d323",
+      "created_date": "2026-07-04T23:09:06.798000",
+      "updated_date": "2026-07-04T23:09:06.798000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "120",
+        "250",
+        "430",
+        "500"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "120",
+        "250",
+        "430",
+        "500"
+      ],
+      "topic_en": "Number Comparison",
+      "explanation_ar": "مهارة ترتيب الأعداد ضمن 1000 هي جزء أساسي من منهج الرياضيات للصف الثاني.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "مقارنة الأعداد",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأعداد التالية من الأصغر إلى الأكبر",
+      "explanation_en": "The skill of ordering numbers up to 1000 is an essential part of the Grade 2 Math curriculum.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following numbers from smallest to largest",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499292e25dc98dd762d324",
+      "created_date": "2026-07-04T23:09:06.798000",
+      "updated_date": "2026-07-04T23:09:06.798000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Even and Odd Numbers",
+      "explanation_ar": "العدد الزوجي هو الذي يمكن تقسيمه إلى مجموعتين متساويتين، بينما الفردي يتبقى منه واحد.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأعداد الزوجية والفردية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأعداد التالية إلى أعداد زوجية أو أعداد فردية",
+      "explanation_en": "An even number can be divided into two equal groups, while an odd number leaves one remainder.",
+      "classify_categories_ar": [
+        "أعداد زوجية",
+        "أعداد فردية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "8"
+        },
+        {
+          "correct_category": 1,
+          "item": "5"
+        },
+        {
+          "correct_category": 0,
+          "item": "12"
+        },
+        {
+          "correct_category": 1,
+          "item": "17"
+        }
+      ],
+      "grade": 2,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following numbers into even or odd numbers",
+      "classify_categories_en": [
+        "Even Numbers",
+        "Odd Numbers"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "8"
+        },
+        {
+          "correct_category": 1,
+          "item": "5"
+        },
+        {
+          "correct_category": 0,
+          "item": "12"
+        },
+        {
+          "correct_category": 1,
+          "item": "17"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499292e25dc98dd762d325",
+      "created_date": "2026-07-04T23:09:06.798000",
+      "updated_date": "2026-07-04T23:09:06.798000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Fractions",
+      "explanation_ar": "الكسور تعبر عن الأجزاء المتطابقة من الكل، ويتعلم الطالب في هذا الصف النصف والثلث والربع.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الكسور",
+      "matching_pairs_en": [],
+      "question_ar": "صنف العبارات التالية حسب الكسر الذي تمثله",
+      "explanation_en": "Fractions represent equal parts of a whole; students learn half, third, and quarter in this grade.",
+      "classify_categories_ar": [
+        "النصف (1/2)",
+        "الربع (1/4)"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "One part of two equal parts"
+        },
+        {
+          "correct_category": 1,
+          "item": "One part of four equal parts"
+        },
+        {
+          "correct_category": 0,
+          "item": "Half of a loaf"
+        },
+        {
+          "correct_category": 1,
+          "item": "A quarter of an hour"
+        }
+      ],
+      "grade": 2,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following phrases based on the fraction they represent",
+      "classify_categories_en": [
+        "Half (1/2)",
+        "Quarter (1/4)"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "جزء واحد من جزءين متطابقين"
+        },
+        {
+          "correct_category": 1,
+          "item": "جزء واحد من أربعة أجزاء متطابقة"
+        },
+        {
+          "correct_category": 0,
+          "item": "نصف الرغيف"
+        },
+        {
+          "correct_category": 1,
+          "item": "ربع الساعة"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499292e25dc98dd762d326",
+      "created_date": "2026-07-04T23:09:06.798000",
+      "updated_date": "2026-07-04T23:09:06.798000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Multiplication and Division",
+      "explanation_ar": "يتم تقديم الضرب كجمع متكرر والقسمة كتوزيع بالتساوي في نهاية الصف الثاني الابتدائي.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الضرب والقسمة",
+      "matching_pairs_en": [],
+      "question_ar": "صنف المفاهيم التالية إلى ما يمثل الضرب أو القسمة",
+      "explanation_en": "Multiplication is introduced as repeated addition and division as equal distribution at the end of Grade 2.",
+      "classify_categories_ar": [
+        "عملية الضرب",
+        "عملية القسمة"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Repeated addition"
+        },
+        {
+          "correct_category": 1,
+          "item": "Equal distribution"
+        },
+        {
+          "correct_category": 0,
+          "item": "Sign (×)"
+        },
+        {
+          "correct_category": 1,
+          "item": "Distributing 10 balls into 2 boxes"
+        }
+      ],
+      "grade": 2,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following concepts into what represents multiplication or division",
+      "classify_categories_en": [
+        "Multiplication",
+        "Division"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "الجمع المتكرر"
+        },
+        {
+          "correct_category": 1,
+          "item": "التوزيع بالتساوي"
+        },
+        {
+          "correct_category": 0,
+          "item": "إشارة (×)"
+        },
+        {
+          "correct_category": 1,
+          "item": "توزيع 10 كرات على صندوقين"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499292e25dc98dd762d327",
+      "created_date": "2026-07-04T23:09:06.798000",
+      "updated_date": "2026-07-04T23:09:06.798000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Solar and Lunar Al",
+      "explanation_ar": "ال القمرية تُكتب وتُنطق، أما ال الشمسية فتُكتب ولا تُنطق ويأتي بعدها حرف مشدد.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "ال الشمسية وال القمرية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الكلمات التالية إلى كلمات تبدأ بـ (ال) الشمسية أو (ال) القمرية",
+      "explanation_en": "Lunar 'Al' is written and pronounced, while Solar 'Al' is written but not pronounced and followed by a stressed letter.",
+      "classify_categories_ar": [
+        "ال القمرية",
+        "ال الشمسية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Al-Madrasa (School)"
+        },
+        {
+          "correct_category": 1,
+          "item": "Al-Sidq (Honesty)"
+        },
+        {
+          "correct_category": 0,
+          "item": "Al-Jamal (Camel)"
+        },
+        {
+          "correct_category": 1,
+          "item": "Al-Thawb (Dress)"
+        }
+      ],
+      "grade": 2,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following words into those starting with Solar (Al) or Lunar (Al)",
+      "classify_categories_en": [
+        "Lunar Al",
+        "Solar Al"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "المدرسة"
+        },
+        {
+          "correct_category": 1,
+          "item": "الصدق"
+        },
+        {
+          "correct_category": 0,
+          "item": "الجمل"
+        },
+        {
+          "correct_category": 1,
+          "item": "الثوب"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499292e25dc98dd762d328",
+      "created_date": "2026-07-04T23:09:06.798000",
+      "updated_date": "2026-07-04T23:09:06.798000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Vocabulary and Synonyms",
+      "explanation_ar": "هذا السؤال يختبر مهارة الطالب في فهم مفردات اللغة العربية من كتاب لغتي للصف الثاني الابتدائي.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الكلمات والمرادفات",
+      "matching_pairs_en": [
+        {
+          "left": "Pure",
+          "right": "Clean"
+        },
+        {
+          "left": "Guided",
+          "right": "Directed"
+        },
+        {
+          "left": "Jogged",
+          "right": "Ran fast"
+        },
+        {
+          "left": "Watched",
+          "right": "Saw"
+        }
+      ],
+      "question_ar": "صل كل كلمة بمعناها الصحيح من نص (صديقي)",
+      "explanation_en": "This question tests the student's ability to understand Arabic vocabulary from the Lughati book for Grade 2.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [
+        {
+          "left": "نقية",
+          "right": "نظيفة"
+        },
+        {
+          "left": "أرشد",
+          "right": "وجه"
+        },
+        {
+          "left": "هرول",
+          "right": "أسرع"
+        },
+        {
+          "left": "شاهد",
+          "right": "رأى"
+        }
+      ],
+      "question_en": "Match each word with its correct meaning from the text (My Friend)",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499292e25dc98dd762d31d",
+      "created_date": "2026-07-04T23:09:06.797000",
+      "updated_date": "2026-07-04T23:09:06.797000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "يتعلم الطالب في مادة الرياضيات كيفية اختيار الوحدات المناسبة لقياس الطول والوزن والوقت.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الوحدات والقياس",
+      "matching_pairs_en": [
+        {
+          "left": "Ruler",
+          "right": "Centimeter"
+        },
+        {
+          "left": "Meter",
+          "right": "Room length measurement"
+        },
+        {
+          "left": "Scale",
+          "right": "Kilogram"
+        },
+        {
+          "left": "Wall Clock",
+          "right": "Time measurement"
+        }
+      ],
+      "question_ar": "صل الأداة بوحدة القياس أو الاستخدام المناسب لها",
+      "explanation_en": "In Mathematics, students learn how to choose appropriate units for measuring length, weight, and time.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [
+        {
+          "left": "المسطرة",
+          "right": "السنتيمتر"
+        },
+        {
+          "left": "المتر",
+          "right": "قياس طول الغرفة"
+        },
+        {
+          "left": "الميزان",
+          "right": "الكيلوجرام"
+        },
+        {
+          "left": "ساعة الحائط",
+          "right": "قياس الوقت"
+        }
+      ],
+      "question_en": "Match the tool with the appropriate measurement unit or use",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499292e25dc98dd762d31e",
+      "created_date": "2026-07-04T23:09:06.797000",
+      "updated_date": "2026-07-04T23:09:06.797000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Geometric Shapes",
+      "explanation_ar": "يساعد هذا النشاط الطالب على التعرف على خصائص الأشكال الهندسية المستوية.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [
+        {
+          "left": "Triangle",
+          "right": "3 sides"
+        },
+        {
+          "left": "Square",
+          "right": "4 equal sides"
+        },
+        {
+          "left": "Circle",
+          "right": "0 sides"
+        },
+        {
+          "left": "Rectangle",
+          "right": "4 vertices"
+        }
+      ],
+      "question_ar": "صل الشكل الهندسي بعدد أضلاعه أو رؤوسه",
+      "explanation_en": "This activity helps the student identify the properties of 2D geometric shapes.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [
+        {
+          "left": "المثلث",
+          "right": "3 أضلاع"
+        },
+        {
+          "left": "المربع",
+          "right": "4 أضلاع متساوية"
+        },
+        {
+          "left": "الدائرة",
+          "right": "ليس لها أضلاع"
+        },
+        {
+          "left": "المستطيل",
+          "right": "4 رؤوس"
+        }
+      ],
+      "question_en": "Match the geometric shape with its number of sides or vertices",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499292e25dc98dd762d31f",
+      "created_date": "2026-07-04T23:09:06.797000",
+      "updated_date": "2026-07-04T23:09:06.797000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Addition and Subtraction",
+      "explanation_ar": "يعزز هذا السؤال مهارات الجمع والطرح الذهني ضمن العدد 20.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الجمع والطرح",
+      "matching_pairs_en": [
+        {
+          "left": "5 + 5",
+          "right": "10"
+        },
+        {
+          "left": "15 - 5",
+          "right": "10"
+        },
+        {
+          "left": "4 + 3",
+          "right": "7"
+        },
+        {
+          "left": "10 - 3",
+          "right": "7"
+        }
+      ],
+      "question_ar": "صل كل مسألة حسابية بالناتج الصحيح لها",
+      "explanation_en": "This question reinforces mental addition and subtraction skills within 20.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [
+        {
+          "left": "5 + 5",
+          "right": "10"
+        },
+        {
+          "left": "15 - 5",
+          "right": "10"
+        },
+        {
+          "left": "4 + 3",
+          "right": "7"
+        },
+        {
+          "left": "10 - 3",
+          "right": "7"
+        }
+      ],
+      "question_en": "Match each math problem with its correct result",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499292e25dc98dd762d320",
+      "created_date": "2026-07-04T23:09:06.797000",
+      "updated_date": "2026-07-04T23:09:06.797000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "خمسون ريالاً",
+        "عشرة ريالات",
+        "خمسة ريالات",
+        "ريال واحد"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Fifty Riyals",
+        "Ten Riyals",
+        "Five Riyals",
+        "One Riyal"
+      ],
+      "topic_en": "Currency and Money",
+      "explanation_ar": "يعد تمييز فئات النقود وترتيبها حسب القيمة مهارة حياتية ورياضية أساسية في الصف الثاني.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "العملات والنقود",
+      "matching_pairs_en": [],
+      "question_ar": "رتب العملات الورقية السعودية من القيمة الأكبر إلى القيمة الأصغر",
+      "explanation_en": "Distinguishing currency denominations and ordering them by value is a key life and math skill in Grade 2.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [],
+      "question_en": "Order the Saudi paper currencies from highest to lowest value",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499292e25dc98dd762d321",
+      "created_date": "2026-07-04T23:09:06.797000",
+      "updated_date": "2026-07-04T23:09:06.797000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "استيقظ فواز من النوم مبكراً",
+        "توضأ وصلى الفجر",
+        "لبس ملابس المدرسة",
+        "ركب حافلة المدرسة"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Fawaz woke up early",
+        "Performed Wudu and prayed",
+        "Dressed in school clothes",
+        "Rode the school bus"
+      ],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "يساعد ترتيب الأحداث على تنمية مهارة التسلسل المنطقي وفهم المقروء.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "رتب أحداث يوم فواز المدرسي بالترتيب الصحيح",
+      "explanation_en": "Ordering events helps develop logical sequencing and reading comprehension skills.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [],
+      "question_en": "Order the events of Fawaz's school day in the correct sequence",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499292e25dc98dd762d322",
+      "created_date": "2026-07-04T23:09:06.797000",
+      "updated_date": "2026-07-04T23:09:06.797000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    }
+  ]
+}
