@@ -1,3160 +1,312 @@
 {
   "test_type": "adaptive",
   "grade": 5,
-  "count": 95,
+  "count": 22,
   "questions": [
     {
       "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "332",
-        "322",
-        "342",
-        "312"
-      ],
-      "correct_answer": "1",
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
       "ordering_items_en": [],
       "topic_en": "Addition and Subtraction",
-      "explanation_ar": "1000 − 678 = 322. نطرح: 1000 − 600 = 400، ثم 400 − 78 = 322.",
+      "explanation_ar": "3500 + 2000 = 5500 (أكبر)، 9000 - 4500 = 4500 (أصغر)، 1200 + 3900 = 5100 (أكبر)، 6000 - 1500 = 4500 (أصغر).",
       "test_type": "adaptive",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "topic_ar": "الجمع والطرح",
       "matching_pairs_en": [],
-      "question_ar": "ما ناتج 1000 − 678 ؟",
-      "explanation_en": "1000 − 678 = 322. Subtract: 1000 − 600 = 400, then 400 − 78 = 322.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
+      "question_ar": "صنف نواتج العمليات الحسابية التالية إلى مجموعات بناءً على قيمتها مقارنة بالعدد 5000.",
+      "explanation_en": "3500 + 2000 = 5500 (Greater), 9000 - 4500 = 4500 (Less), 1200 + 3900 = 5100 (Greater), 6000 - 1500 = 4500 (Less).",
+      "classify_categories_ar": [
+        "أكبر من 5000",
+        "أصغر من 5000"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "3500 + 2000"
+        },
+        {
+          "correct_category": 1,
+          "item": "9000 - 4500"
+        },
+        {
+          "correct_category": 0,
+          "item": "1200 + 3900"
+        },
+        {
+          "correct_category": 1,
+          "item": "6000 - 1500"
+        }
+      ],
       "grade": 5,
       "matching_pairs_ar": [],
-      "question_en": "What is 1000 − 678?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "332",
-        "322",
-        "342",
-        "312"
+      "question_en": "Classify the results of the following arithmetic operations based on their value compared to 5000.",
+      "classify_categories_en": [
+        "Greater than 5000",
+        "Less than 5000"
       ],
-      "id": "6a4a018e33ed42b0b0f7ecbb",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "3500 + 2000"
+        },
+        {
+          "correct_category": 1,
+          "item": "9000 - 4500"
+        },
+        {
+          "correct_category": 0,
+          "item": "1200 + 3900"
+        },
+        {
+          "correct_category": 1,
+          "item": "6000 - 1500"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4a64e540cf7c8b3f47c2ad",
+      "created_date": "2026-07-05T14:06:29.745000",
+      "updated_date": "2026-07-05T14:06:29.745000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
       "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "82",
-        "92",
-        "102",
-        "112"
-      ],
-      "correct_answer": "1",
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
       "ordering_items_en": [],
       "topic_en": "Multiplication and Division",
-      "explanation_ar": "23 × 4 = (20×4) + (3×4) = 80 + 12 = 92.",
+      "explanation_ar": "تعتمد هذه العمليات على جداول الضرب الأساسية وقواعد القسمة البسيطة.",
       "test_type": "adaptive",
       "difficulty": "easy",
       "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "ما ناتج 23 × 4 ؟",
-      "explanation_en": "23 × 4 = (20×4) + (3×4) = 80 + 12 = 92.",
+      "matching_pairs_en": [
+        {
+          "left": "12 × 5",
+          "right": "60"
+        },
+        {
+          "left": "100 ÷ 4",
+          "right": "25"
+        },
+        {
+          "left": "15 × 3",
+          "right": "45"
+        },
+        {
+          "left": "81 ÷ 9",
+          "right": "9"
+        }
+      ],
+      "question_ar": "صل كل عملية حسابية بنتيجتها الصحيحة.",
+      "explanation_en": "These operations depend on basic multiplication tables and simple division rules.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is 23 × 4?",
+      "matching_pairs_ar": [
+        {
+          "left": "12 × 5",
+          "right": "60"
+        },
+        {
+          "left": "100 ÷ 4",
+          "right": "25"
+        },
+        {
+          "left": "15 × 3",
+          "right": "45"
+        },
+        {
+          "left": "81 ÷ 9",
+          "right": "9"
+        }
+      ],
+      "question_en": "Match each calculation with its correct result.",
       "classify_categories_en": [],
       "classify_items_ar": [],
-      "options_ar": [
-        "82",
-        "92",
-        "102",
-        "112"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecbc",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "options_ar": [],
+      "id": "6a4a64e540cf7c8b3f47c2ae",
+      "created_date": "2026-07-05T14:06:29.745000",
+      "updated_date": "2026-07-05T14:06:29.745000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
       "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "48 ÷ 6 = 8 لأن 6 × 8 = 48.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "ما ناتج 48 ÷ 6 ؟",
-      "explanation_en": "48 ÷ 6 = 8 because 6 × 8 = 48.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is 48 ÷ 6?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecbd",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "amazed",
-        "sad",
-        "joyful",
-        "angry"
-      ],
-      "correct_answer": "2",
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
       "ordering_items_en": [],
       "topic_en": "Words and Synonyms",
-      "explanation_ar": "مرادف \"سعيد\" هو \"فرحان\" لأن الكلمتين تعبران عن شعور الفرح.",
+      "explanation_ar": "المرادفات هي كلمات مختلفة تعطي نفس المعنى أو معنىً مقارباً جداً.",
       "test_type": "adaptive",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [],
-      "question_ar": "ما مرادف كلمة \"سعيد\"؟",
-      "explanation_en": "\"Happy\" is synonymous with \"joyful\" because both express the feeling of pleasure.",
+      "matching_pairs_en": [
+        {
+          "left": "Huge",
+          "right": "Big"
+        },
+        {
+          "left": "Brave",
+          "right": "Valiant"
+        },
+        {
+          "left": "Happy",
+          "right": "Joyful"
+        },
+        {
+          "left": "Home",
+          "right": "House"
+        }
+      ],
+      "question_ar": "صل كل كلمة بمرادفها الصحيح من المنهج الدراسي.",
+      "explanation_en": "Synonyms are different words that provide the same meaning or a very close meaning.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is a synonym of the word \"happy\"?",
+      "matching_pairs_ar": [
+        {
+          "left": "ضخم",
+          "right": "كبير"
+        },
+        {
+          "left": "شجاع",
+          "right": "باسل"
+        },
+        {
+          "left": "مسرور",
+          "right": "فرح"
+        },
+        {
+          "left": "منزل",
+          "right": "بيت"
+        }
+      ],
+      "question_en": "Match each word with its correct synonym from the curriculum.",
       "classify_categories_en": [],
       "classify_items_ar": [],
-      "options_ar": [
-        "مبهور",
-        "حزين",
-        "فرحان",
-        "غاضب"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecbe",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "options_ar": [],
+      "id": "6a4a64e540cf7c8b3f47c2af",
+      "created_date": "2026-07-05T14:06:29.745000",
+      "updated_date": "2026-07-05T14:06:29.745000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "apples and bananas",
-        "oranges",
-        "bread",
-        "milk"
+      "ordering_items_ar": [
+        "ولادة الملك عبدالعزيز في الرياض",
+        "انتقال الملك عبدالعزيز مع أسرته إلى الكويت",
+        "استعادة الملك عبدالعزيز للرياض عام 1319هـ",
+        "إعلان توحيد المملكة العربية السعودية عام 1351هـ"
       ],
-      "correct_answer": "0",
-      "ordering_items_en": [],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Birth of King Abdulaziz in Riyadh",
+        "King Abdulaziz moving with his family to Kuwait",
+        "King Abdulaziz recovering Riyadh in 1319 AH",
+        "Announcement of the unification of Saudi Arabia in 1351 AH"
+      ],
       "topic_en": "Reading and Comprehension",
-      "explanation_ar": "الجملة تذكر أن طارق اشترى \"تفاح وموز\" مباشرة.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "قراءة وفهم",
-      "matching_pairs_en": [],
-      "question_ar": "اقرأ الجملة: \"طارق ذهب إلى السوق لشراء تفاح وموز.\" ماذا اشترى طارق؟",
-      "explanation_en": "The sentence directly states that Tariq bought \"apples and bananas.\"",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Read the sentence: \"Tariq went to the market to buy apples and bananas.\" What did Tariq buy?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "تفاح وموز",
-        "برتقال",
-        "خبز",
-        "حليب"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecbf",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "المربع له أربعة أضلاع متساوية الطول.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "كم عدد أضلاع المربع؟",
-      "explanation_en": "A square has four equal-length sides.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "How many sides does a square have?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecc0",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "25 m",
-        "2.5 m",
-        "2500 m",
-        "0.25 m"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Units and Measurement",
-      "explanation_ar": "1 متر = 100 سم، لذا 250 سم = 250 ÷ 100 = 2.5 متر.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الوحدات والقياس",
-      "matching_pairs_en": [],
-      "question_ar": "كم يساوي 250 سنتيمتراً بالمتر؟",
-      "explanation_en": "1 m = 100 cm, so 250 cm = 250 ÷ 100 = 2.5 m.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "How many meters is 250 centimeters?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "25 م",
-        "2.5 م",
-        "2500 م",
-        "0.25 م"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecc1",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1/3",
-        "2/4",
-        "1/4",
-        "3/4"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "2/4 = (2 ÷ 2)/(4 ÷ 2) = 1/2، لذلك 2/4 مكافئ لـ 1/2.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "أي من الكسور التالية مكافئ لِـ 1/2؟",
-      "explanation_en": "2/4 = (2 ÷ 2)/(4 ÷ 2) = 1/2, so 2/4 is equivalent to 1/2.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which fraction is equivalent to 1/2?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "1/3",
-        "2/4",
-        "1/4",
-        "3/4"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecc2",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "9",
-        "10",
-        "12",
-        "8"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Patterns and Sequences",
-      "explanation_ar": "العدد يزيد بمقدار 2 كل مرة: 8 + 2 = 10.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الأنماط والتسلسل",
-      "matching_pairs_en": [],
-      "question_ar": "ما الرقم التالي في التسلسل: 2، 4، 6، 8، ... ؟",
-      "explanation_en": "The numbers increase by 2 each time: 8 + 2 = 10.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is the next number in the sequence: 2, 4, 6, 8, ...?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "9",
-        "10",
-        "12",
-        "8"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecc3",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "17",
-        "24",
-        "36",
-        "42"
-      ],
-      "correct_answer": "0",
-      "ordering_items_en": [],
-      "topic_en": "Even and Odd Numbers",
-      "explanation_ar": "17 فردي لأن لا يقبل القسمة على 2 بدون الباقي، بينما البقية أعداد زوجية.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الأعداد الزوجية والفردية",
-      "matching_pairs_en": [],
-      "question_ar": "أي من الأعداد التالية عدد فردي؟ 17، 24، 36، 42",
-      "explanation_en": "17 is odd because it cannot be divided by 2 evenly; the others are even.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which of the following numbers is odd? 17, 24, 36, 42",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "17",
-        "24",
-        "36",
-        "42"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecc4",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "3 SAR",
-        "4 SAR",
-        "5 SAR",
-        "6 SAR"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Money and Currency",
-      "explanation_ar": "20 − 15 = 5 ريال هو الباقي.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [],
-      "question_ar": "ثمن لعبة 15 ريالًا. دفعت بعملة ورقية بقيمة 20 ريالًا. كم الباقي؟",
-      "explanation_en": "20 − 15 = 5 SAR is the change.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "A toy costs 15 SAR. You paid with a 20 SAR bill. How much change do you get?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "3 ريال",
-        "4 ريال",
-        "5 ريال",
-        "6 ريال"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecc5",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "30 SAR",
-        "35 SAR",
-        "40 SAR",
-        "25 SAR"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "7 × 5 = 35 ريال لكل الدفاتر.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "دفتر واحد سعره 7 ريالات. كم تدفع لشراء 5 دفاتر؟",
-      "explanation_en": "7 × 5 = 35 SAR for all notebooks.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "One notebook costs 7 SAR. How much do you pay for 5 notebooks?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "30 ريال",
-        "35 ريال",
-        "40 ريال",
-        "25 ريال"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecc6",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1/6 pizza",
-        "1/2 pizza",
-        "2/3 pizza",
-        "3/6 pizza"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "3 ÷ 6 = 1/2، كل طفل يحصل على نصف بيتزا.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "إذا قسمت 3 بيتزات بالتساوي على 6 أطفال، كم نصيب كل طفل؟",
-      "explanation_en": "3 ÷ 6 = 1/2, so each child gets half a pizza.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "If 3 pizzas are shared equally among 6 children, how much does each child get?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "1/6 بيتزا",
-        "1/2 بيتزا",
-        "2/3 بيتزا",
-        "3/6 بيتزا"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecc7",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "7,154",
-        "6,954",
-        "7,244",
-        "6,854"
-      ],
-      "correct_answer": "explanation_ar",
-      "ordering_items_en": [],
-      "topic_en": "Addition and subtraction",
-      "explanation_ar": "نجمع الأعداد: 4,365 + 2,789 = 7,154.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "ما ناتج جمع 4,365 و 2,789؟",
-      "explanation_en": "Add the numbers: 4,365 + 2,789 = 7,154.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is the sum of 4,365 and 2,789?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "7,154",
-        "6,954",
-        "7,244",
-        "6,854"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecc8",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1,458",
-        "1,368",
-        "1,558",
-        "1,428"
-      ],
-      "correct_answer": "explanation_ar",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and division",
-      "explanation_ar": "243 × 6 = (200×6)+(40×6)+(3×6)=1,200+240+18=1,458.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "ما نتيجة 243 × 6؟",
-      "explanation_en": "243 × 6 = (200×6)+(40×6)+(3×6)=1,200+240+18=1,458.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is 243 × 6?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "1,458",
-        "1,368",
-        "1,558",
-        "1,428"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecc9",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "380",
-        "370",
-        "460",
-        "340"
-      ],
-      "correct_answer": "",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and division",
-      "explanation_ar": "4,560 ÷ 12 = 380 لأن 380 × 12 = 4,560.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "ما ناتج 4,560 ÷ 12؟",
-      "explanation_en": "4,560 ÷ 12 = 380 because 380 × 12 = 4,560.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is 4,560 ÷ 12?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "380",
-        "370",
-        "460",
-        "340"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecca",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Joyful",
-        "Sad",
-        "Angry",
-        "Hungry"
-      ],
-      "correct_answer": "",
-      "ordering_items_en": [],
-      "topic_en": "Words and synonyms",
-      "explanation_ar": "كلمة \"مبتهج\" تعني فرح أو سعيد، لذلك هي المرادف الصحيح.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [],
-      "question_ar": "ما المرادف الأقرب لكلمة \"سعيد\"؟",
-      "explanation_en": "'Joyful' means happy, so it is the correct synonym.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which word is a synonym of 'happy'?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "مبتهج",
-        "حزين",
-        "غاضب",
-        "جائع"
-      ],
-      "id": "6a4a018e33ed42b0b0f7eccb",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "To improve air quality",
-        "Just to play",
-        "To get a prize",
-        "To sell it"
-      ],
-      "correct_answer": "",
-      "ordering_items_en": [],
-      "topic_en": "Reading and comprehension",
-      "explanation_ar": "النص يذكر صراحة أن الهدف كان تحسين جودة الهواء وتوفير الظل؛ الخيار الأول يطابق السبب.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "قراءة وفهم",
-      "matching_pairs_en": [],
-      "question_ar": "قرأت أمل في الحديقة وزرعت شجرة لتحسين جودة الهواء وتوفير الظل. لماذا زرعت أمل الشجرة؟",
-      "explanation_en": "The passage states she planted it to improve air quality and provide shade; the first option matches that reason.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Amal planted a tree in the garden to improve air quality and provide shade. Why did Amal plant the tree?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "لتحسين جودة الهواء",
-        "للعب فقط",
-        "للحصول على جائزة",
-        "للبيع"
-      ],
-      "id": "6a4a018e33ed42b0b0f7eccc",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "8",
-        "12",
-        "6",
-        "4"
-      ],
-      "correct_answer": "",
-      "ordering_items_en": [],
-      "topic_en": "Geometric shapes",
-      "explanation_ar": "المنشور المستطيلي له 6 أوجه و12 حافة و8 رؤوس. إذًا الحواف = 12.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "كم عدد الحواف في المنشور المستطيلي؟",
-      "explanation_en": "A rectangular prism has 6 faces, 12 edges, and 8 vertices. So edges = 12.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "How many edges does a rectangular prism have?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "8",
-        "12",
-        "6",
-        "4"
-      ],
-      "id": "6a4a018e33ed42b0b0f7eccd",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "25 cm",
-        "250 cm",
-        "2,500 cm",
-        "0.025 cm"
-      ],
-      "correct_answer": "",
-      "ordering_items_en": [],
-      "topic_en": "Units and measurement",
-      "explanation_ar": "1 متر = 100 سم، إذًا 2.5 × 100 = 250 سم.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الوحدات والقياس",
-      "matching_pairs_en": [],
-      "question_ar": "حوّل 2.5 مترًا إلى سنتيمترات.",
-      "explanation_en": "1 meter = 100 cm, so 2.5 × 100 = 250 cm.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Convert 2.5 meters to centimeters.",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "25 سم",
-        "250 سم",
-        "2,500 سم",
-        "0.025 سم"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecce",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "3/4",
-        "5/8",
-        "Equal",
-        "Cannot compare"
-      ],
-      "correct_answer": "",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "3/4 = 0.75، و5/8 = 0.625، فـ 3/4 أكبر.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "أي الكسرين أكبر: 3/4 أم 5/8؟",
-      "explanation_en": "3/4 = 0.75 and 5/8 = 0.625, so 3/4 is larger.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which fraction is larger: 3/4 or 5/8?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "3/4",
-        "5/8",
-        "متساويان",
-        "لا يمكن المقارنة"
-      ],
-      "id": "6a4a018e33ed42b0b0f7eccf",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "60",
-        "70",
-        "80",
-        "90"
-      ],
-      "correct_answer": "",
-      "ordering_items_en": [],
-      "topic_en": "Patterns and sequences",
-      "explanation_ar": "كل عدد يتضاعف: 5→10→20→40، لذلك التالي 40×2 = 80.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأنماط والتسلسل",
-      "matching_pairs_en": [],
-      "question_ar": "ما العدد التالي في المتتالية: 5, 10, 20, 40, ؟",
-      "explanation_en": "Each term doubles: 5→10→20→40, so next is 40×2 = 80.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is the next number in the sequence: 5, 10, 20, 40, ?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "60",
-        "70",
-        "80",
-        "90"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecd0",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "2",
-        "17",
-        "44",
-        "68"
-      ],
-      "correct_answer": "",
-      "ordering_items_en": [],
-      "topic_en": "Even and odd numbers",
-      "explanation_ar": "العدد 17 لا يقبل القسمة على 2، لذا هو فردي. الباقي أعداد زوجية.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأعداد الزوجية والفردية",
-      "matching_pairs_en": [],
-      "question_ar": "أي الأعداد التالية فردي؟ 2، 17، 44، 68",
-      "explanation_en": "17 is not divisible by 2, so it is odd. The others are even.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which of the following numbers is odd? 2, 17, 44, 68",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "2",
-        "17",
-        "44",
-        "68"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecd1",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "5 riyals and 25 halalas",
-        "4 riyals and 25 halalas",
-        "5 riyals and 75 halalas",
-        "6 riyals and 25 halalas"
-      ],
-      "correct_answer": "",
-      "ordering_items_en": [],
-      "topic_en": "Currency and money",
-      "explanation_ar": "7.75 − 2.50 = 5.25؛ أي 5 ريالات و25 هللة.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [],
-      "question_ar": "لديك 7 ريالات و75 هللة. اشتريت قلمًا بـ2 ريـال و50 هللة. كم يتبقى من المال؟",
-      "explanation_en": "7.75 − 2.50 = 5.25; that is 5 riyals and 25 halalas.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "You have 7 riyals and 75 halalas. You bought a pen for 2 riyals and 50 halalas. How much money remains?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "5 ريالات و25 هللة",
-        "4 ريالات و25 هللة",
-        "5 ريالات و75 هللة",
-        "6 ريالات و25 هللة"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecd2",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "84",
-        "72",
-        "96",
-        "68"
-      ],
-      "correct_answer": "",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and division",
-      "explanation_ar": "12 × 7 = 84 قلمًا.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "كل صندوق يحتوي على 12 قلمًا. كم قلمًا في 7 صناديق؟",
-      "explanation_en": "12 × 7 = 84 pencils.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Each box contains 12 pencils. How many pencils are in 7 boxes?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "84",
-        "72",
-        "96",
-        "68"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecd3",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "3/8",
-        "4/8",
-        "2/8",
-        "5/8"
-      ],
-      "correct_answer": "",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "المأكول = 3/8 + 2/8 = 5/8. المتبقي = 1 − 5/8 = 3/8.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "قُسم قالب كعك إلى 8 قطع. أكلت سارة 3/8 وأكل علي 2/8. ما الكسر المتبقي من القالب؟",
-      "explanation_en": "Eaten = 3/8 + 2/8 = 5/8. Remaining = 1 − 5/8 = 3/8.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "A cake is cut into 8 pieces. Sara ate 3/8 and Ali ate 2/8. What fraction of the cake remains?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "3/8",
-        "4/8",
-        "2/8",
-        "5/8"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecd4",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "60 cm²",
-        "34 cm²",
-        "17 cm²",
-        "24 cm²"
-      ],
-      "correct_answer": "",
-      "ordering_items_en": [],
-      "topic_en": "Units and measurement",
-      "explanation_ar": "المساحة = الطول × العرض = 12 × 5 = 60 سم².",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الوحدات والقياس",
-      "matching_pairs_en": [],
-      "question_ar": "مستطيل طوله 12 سم وعرضه 5 سم. ما مساحته بالسنتيمتر المربع؟",
-      "explanation_en": "Area = length × width = 12 × 5 = 60 cm².",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "A rectangle has length 12 cm and width 5 cm. What is its area in square centimeters?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "60 سم²",
-        "34 سم²",
-        "17 سم²",
-        "24 سم²"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecd5",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "5036",
-        "6146",
-        "6036",
-        "5936"
-      ],
-      "correct_answer": "use_index_2",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "4875 + 2698 = 7573. ثم 7573 − 1537 = 6036. لذا النتيجة 6036.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "ما ناتج العملية 4875 + 2698 − 1537؟",
-      "explanation_en": "4875 + 2698 = 7573. Then 7573 − 1537 = 6036. So the result is 6036.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is the result of 4875 + 2698 − 1537?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "5036",
-        "6146",
-        "6036",
-        "5936"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecd6",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "19 remainder 10",
-        "18 remainder 14",
-        "20 remainder -2",
-        "17 remainder 10"
-      ],
-      "correct_answer": "use_index_0",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "12 × 19 = 228 والباقي 238 − 228 = 10. لذلك خارج القسمة 19 والباقي 10.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "عند قسمة 238 على 12 ما خارج القسمة والباقي؟ (خارج ÷ الباقي)",
-      "explanation_en": "12 × 19 = 228 and the remainder is 238 − 228 = 10. So quotient = 19 and remainder = 10.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "When 238 is divided by 12, what are the quotient and remainder? (quotient ÷ remainder)",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "19 و10",
-        "18 و14",
-        "20 و-2",
-        "17 و10"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecd7",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "miserly (بخيل)",
-        "generous (كريم)",
-        "giving (سخي)",
-        "kind (لطيف)"
-      ],
-      "correct_answer": "use_index_0",
-      "ordering_items_en": [],
-      "topic_en": "Words and Synonyms",
-      "explanation_ar": "\"شحيح\" يعني من لا يعطي بالسهولة أو يبخل، والكلمة الأنسب هي \"بخيل\".",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [],
-      "question_ar": "ما أقرب مرادف لكلمة \"شحيح\"؟",
-      "explanation_en": "\"شحيح\" means someone who is stingy or not willing to give; the best synonym is \"بخيل\" (miserly).",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which word is the closest synonym of \"شحيح\" (stingy)?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "بخيل",
-        "كريم",
-        "سخي",
-        "لطيف"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecd8",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "The soil was of poor quality",
-        "The plants were watered regularly and therefore grew well",
-        "The leaves were already green before",
-        "The plants didn't get sunlight"
-      ],
-      "correct_answer": "use_index_1",
-      "ordering_items_en": [],
-      "topic_en": "Reading and Comprehension",
-      "explanation_ar": "الفقرة تشير صراحة إلى أن أحمد سقَى النباتات صباحًا ومساءً وأنها بعد أسبوع نمت وأصبحت أكثر اخضرارًا؛ لذلك الاستنتاج المنطقي هو أن السقي المنتظم ساهم في نموها.",
+      "explanation_ar": "تبدأ الأحداث بالولادة، ثم الرحيل، ثم العودة لفتح الرياض، وأخيراً إعلان التوحيد الكامل.",
       "test_type": "adaptive",
       "difficulty": "hard",
       "topic_ar": "قراءة وفهم",
       "matching_pairs_en": [],
-      "question_ar": "اقرأ الفقرة: \"سقَى أحمد النباتات صباحًا ومساءً كل يوم. بعد أسبوع أصبحت النباتات أكثر اخضرارًا ونمت سريعًا.\" ما الاستنتاج الأكثر منطقية من الفقرة؟",
-      "explanation_en": "The passage states Ahmed watered the plants morning and evening and that after a week they grew greener and faster; thus the logical conclusion is that regular watering helped them grow.",
+      "question_ar": "رتب الأحداث التاريخية التالية لتوحيد المملكة العربية السعودية زمنياً.",
+      "explanation_en": "The events start with birth, then departure, followed by the return to conquer Riyadh, and finally the announcement of full unification.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 5,
       "matching_pairs_ar": [],
-      "question_en": "Read the passage: \"Ahmed watered the plants every morning and evening. After a week the plants became greener and grew quickly.\" What is the most logical conclusion from the passage?",
+      "question_en": "Order the following historical events of the unification of Saudi Arabia chronologically.",
       "classify_categories_en": [],
       "classify_items_ar": [],
-      "options_ar": [
-        "التربة كانت سيئة الجودة",
-        "النباتات سُقيت بانتظام فنماًا جيدًا",
-        "الأوراق كانت مسبقًا خضراء",
-        "النباتات لم تحصل على ضوء الشمس"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecd9",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "options_ar": [],
+      "id": "6a4a64e540cf7c8b3f47c2b0",
+      "created_date": "2026-07-05T14:06:29.745000",
+      "updated_date": "2026-07-05T14:06:29.745000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
       "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "62 cm²",
-        "72 cm²",
-        "68 cm²",
-        "80 cm²"
-      ],
-      "correct_answer": "use_index_1",
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
       "ordering_items_en": [],
       "topic_en": "Geometric Shapes",
-      "explanation_ar": "مساحة المستطيل = 10 × 6 = 60 سم². مساحة المثلث القائم = 1/2 × القاعدة × الارتفاع = 1/2 × 6 × 4 = 12 سم². المجموع = 60 + 12 = 72 سم².",
+      "explanation_ar": "الأشكال ثنائية الأبعاد لها طول وعرض فقط، بينما الأشكال ثلاثية الأبعاد لها طول وعرض وارتفاع.",
       "test_type": "adaptive",
       "difficulty": "hard",
       "topic_ar": "الأشكال الهندسية",
       "matching_pairs_en": [],
-      "question_ar": "شكل مؤلف من مستطيل طوله 10 سم وعرضه 6 سم، وملحق به مثلث قائم القاعدة طوله 6 سم وارتفاعه 4 سم إلى أحد جوانب المستطيل. ما المساحة الكلية للمستطيل والمثلث معًا؟",
-      "explanation_en": "Rectangle area = 10 × 6 = 60 cm². Right triangle area = 1/2 × base × height = 1/2 × 6 × 4 = 12 cm². Total = 60 + 12 = 72 cm².",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
+      "question_ar": "صنف الأشكال الهندسية التالية إلى ثنائية أبعاد أو ثلاثية أبعاد.",
+      "explanation_en": "2D shapes have only length and width, while 3D shapes have length, width, and height.",
+      "classify_categories_ar": [
+        "أشكال ثنائية الأبعاد",
+        "أشكال ثلاثية الأبعاد"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Square"
+        },
+        {
+          "correct_category": 1,
+          "item": "Cube"
+        },
+        {
+          "correct_category": 0,
+          "item": "Triangle"
+        },
+        {
+          "correct_category": 1,
+          "item": "Sphere"
+        },
+        {
+          "correct_category": 1,
+          "item": "Cylinder"
+        }
+      ],
       "grade": 5,
       "matching_pairs_ar": [],
-      "question_en": "A shape consists of a rectangle 10 cm by 6 cm with a right triangle (base 6 cm, height 4 cm) attached to one side of the rectangle. What is the total area of the rectangle and triangle together?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "62 سم²",
-        "72 سم²",
-        "68 سم²",
-        "80 سم²"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecda",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "95 cm",
-        "9.5 cm",
-        "0.95 m",
-        "475 cm"
-      ],
-      "correct_answer": "use_index_0",
-      "ordering_items_en": [],
-      "topic_en": "Units and Measurement",
-      "explanation_ar": "الطول الكلي بالسنتيمتر = 4 م 75 سم = 400 سم + 75 سم = 475 سم. نقسم 475 ÷ 5 = 95 سم لكل قطعة.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الوحدات والقياس",
-      "matching_pairs_en": [],
-      "question_ar": "حبل طوله 4 متر و75 سم قطع إلى 5 قطع متساوية. ما طول كل قطعة بالسنتيمتر؟",
-      "explanation_en": "Total length in cm = 4 m 75 cm = 400 cm + 75 cm = 475 cm. Divide 475 ÷ 5 = 95 cm per piece.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "A rope 4 meters 75 centimeters long is cut into 5 equal pieces. What is the length of each piece in centimeters?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "95 سم",
-        "9.5 سم",
-        "0.95 م",
-        "475 سم"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecdb",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1 5/12",
-        "11/12",
-        "5/12",
-        "1 1/12"
-      ],
-      "correct_answer": "use_index_0",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "المقام المشترك 12: 2/3 = 8/12 و3/4 = 9/12. المجموع = 8/12 + 9/12 = 17/12 = 1 و5/12.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "ما ناتج جمع 2/3 + 3/4 على صورة عدد كسري مبسط؟",
-      "explanation_en": "Common denominator 12: 2/3 = 8/12 and 3/4 = 9/12. Sum = 8/12 + 9/12 = 17/12 = 1 5/12.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is the sum of 2/3 + 3/4 expressed as a simplified mixed number?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "1 5/12",
-        "11/12",
-        "5/12",
-        "1 1/12"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecdc",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "73",
-        "99",
-        "97",
-        "64"
-      ],
-      "correct_answer": "use_index_2",
-      "ordering_items_en": [],
-      "topic_en": "Patterns and Sequences",
-      "explanation_ar": "كل حد يُحَسَب بالقاعدة: الحد الجديد = الحد السابق × 2 − 1. مثال: 4×2−1=7، 7×2−1=13، ... لذلك 49×2−1=97.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الأنماط والتسلسل",
-      "matching_pairs_en": [],
-      "question_ar": "أوجد الحد التالي في المتتالية: 4, 7, 13, 25, 49, ... ما العدد التالي؟",
-      "explanation_en": "Each term follows rule: new = previous × 2 − 1. E.g., 4×2−1=7, 7×2−1=13, ... So 49×2−1=97.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Find the next term in the sequence: 4, 7, 13, 25, 49, ... What is the next number?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "73",
-        "99",
-        "97",
-        "64"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecdd",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "even + even",
-        "even × odd",
-        "odd + odd",
-        "odd × odd"
-      ],
-      "correct_answer": "use_index_3",
-      "ordering_items_en": [],
-      "topic_en": "Even and Odd Numbers",
-      "explanation_ar": "ضرب عدد فردي في عدد فردي يعطي دائمًا عددًا فرديًا. الخيارات الأخرى لا تعطي فرديًا دائمًا.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الأعداد الزوجية والفردية",
-      "matching_pairs_en": [],
-      "question_ar": "أي من التعبيرات التالية يعطي دائمًا عددًا فرديًا؟",
-      "explanation_en": "The product of two odd numbers is always odd. The other choices do not always yield an odd number.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which of the following expressions always gives an odd number?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "زوجي + زوجي",
-        "زوجي × فردي",
-        "فردي + فردي",
-        "فردي × فردي"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecde",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "2 SR and 25 halalas",
-        "1 SR and 75 halalas",
-        "2 SR and 50 halalas",
-        "3 SR and 25 halalas"
-      ],
-      "correct_answer": "use_index_0",
-      "ordering_items_en": [],
-      "topic_en": "Currency and Money",
-      "explanation_ar": "إجمالي ما معه = 3×10 + 5×1 + 4×0.5 = 30 + 5 + 2 = 37 ر.س. الباقي = 37 − 34.75 = 2.25 ر.س = 2 ر.س و25 هللة.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [],
-      "question_ar": "أحمد معه ثلاث أوراق من فئة 10 ر.س وخمس عملات فئة 1 ر.س وأربع عملات فئة 50 هللة. اشترى شيئًا بمبلغ 34.75 ر.س. ما الباقي عنده؟",
-      "explanation_en": "Total money = 3×10 + 5×1 + 4×0.5 = 30 + 5 + 2 = 37 SR. Change = 37 − 34.75 = 2.25 SR = 2 SR and 25 halalas.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Ahmed has three 10‑riyal notes, five 1‑riyal coins, and four 50‑halala coins. He buys an item costing 34.75 SR. How much change does he receive?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "2 ر.س و25 هللة",
-        "1 ر.س و75 هللة",
-        "2 ر.س و50 هللة",
-        "3 ر.س و25 هللة"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecdf",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "362",
-        "363",
-        "364",
-        "353"
-      ],
-      "correct_answer": "use_index_1",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division (Missing Factor)",
-      "explanation_ar": "نقسم 4356 ÷ 12 = 363 (لأن 12×363 = 4356). لذا العامل الآخر 363.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الضرب والقسمة (عامل مفقود)",
-      "matching_pairs_en": [],
-      "question_ar": "حاصل ضرب عددين يساوي 4356، وإذا كان أحدهما 12 فما الآخر؟",
-      "explanation_en": "4356 ÷ 12 = 363 (since 12×363 = 4356). So the other factor is 363.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "The product of two numbers is 4356. If one factor is 12, what is the other factor?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "362",
-        "363",
-        "364",
-        "353"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ece0",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "5/8",
-        "7/12",
-        "3/5",
-        "11/20"
-      ],
-      "correct_answer": "use_index_0",
-      "ordering_items_en": [],
-      "topic_en": "Fractions (Comparison)",
-      "explanation_ar": "نحو القيم العشرية: 5/8=0.625، 7/12≈0.583، 3/5=0.6، 11/20=0.55. الأكبر هو 5/8 (=0.625).",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الكسور (المقارنة)",
-      "matching_pairs_en": [],
-      "question_ar": "أي من الكسور التالية أكبر؟ 5/8 ، 7/12 ، 3/5 ، 11/20",
-      "explanation_en": "Decimal values: 5/8=0.625, 7/12≈0.583, 3/5=0.6, 11/20=0.55. The greatest is 5/8 (0.625).",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which of the following fractions is the greatest? 5/8 , 7/12 , 3/5 , 11/20",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "5/8",
-        "7/12",
-        "3/5",
-        "11/20"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ece1",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "6",
-        "8",
-        "12",
-        "16"
-      ],
-      "correct_answer": "use_index_2",
-      "ordering_items_en": [],
-      "topic_en": "Geometric Solids",
-      "explanation_ar": "لمتوازي المستطيلات 6 أوجه و8 رؤوس و12 حافة. لذلك عدد الحواف (الأضلاع) = 12.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الأشكال الهندسية (مجسم)",
-      "matching_pairs_en": [],
-      "question_ar": "كم عدد الحواف في متوازي مستطيلات (الصندوق المستطيل)؟",
-      "explanation_en": "A rectangular prism has 6 faces, 8 vertices, and 12 edges. So the number of edges is 12.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "How many edges does a rectangular prism (box) have?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "6",
-        "8",
-        "12",
-        "16"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ece2",
-      "created_date": "2026-07-05T07:02:38.951000",
-      "updated_date": "2026-07-05T07:02:38.951000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "736",
-        "746",
-        "756",
-        "766"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "457 + 289 = 746. نجمع الآحاد: 7+9=16 (نكتب 6 ونرفع 1)، عشرات: 5+8+1=14 (نكتب 4 ونرفع 1)، مئات: 4+2+1=7 → 746.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "ما ناتج 457 + 289 ؟",
-      "explanation_en": "457 + 289 = 746. Add units: 7+9=16 (write 6 carry 1), tens: 5+8+1=14 (write 4 carry 1), hundreds: 4+2+1=7 → 746.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is 457 + 289?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "736",
-        "746",
-        "756",
-        "766"
-      ],
-      "id": "6a4a018e33ed42b0b0f7ecba",
-      "created_date": "2026-07-05T07:02:38.950000",
-      "updated_date": "2026-07-05T07:02:38.950000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "375 cm",
-        "37.5 cm",
-        "3.75 cm",
-        "3750 cm"
-      ],
-      "correct_answer": "use-value",
-      "ordering_items_en": [],
-      "topic_en": "Units and Measurement",
-      "explanation_ar": "المتر الواحد = 100 سم. إذًا 3.75 × 100 = 375 سم.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الوحدات والقياس",
-      "matching_pairs_en": [],
-      "question_ar": "حوّل 3.75 مترًا إلى سنتيمترات.",
-      "explanation_en": "1 meter = 100 cm. So 3.75 × 100 = 375 cm.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Convert 3.75 meters to centimeters.",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "375 سم",
-        "37.5 سم",
-        "3.75 سم",
-        "3750 سم"
-      ],
-      "id": "6a49ffa1e028bafd6940d743",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "17/12 (1 5/12)",
-        "5/7",
-        "1 1/12",
-        "13/12"
-      ],
-      "correct_answer": "use-value",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "مقام مشترك = 12. 2/3 = 8/12، 3/4 = 9/12. المجموع = 8/12 + 9/12 = 17/12 = 1 5/12.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "ما ناتج جمع 2/3 + 3/4؟",
-      "explanation_en": "Common denominator = 12. 2/3 = 8/12, 3/4 = 9/12. Sum = 8/12 + 9/12 = 17/12 = 1 5/12.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is the result of 2/3 + 3/4?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "17/12 (1 5/12)",
-        "5/7",
-        "1 1/12",
-        "13/12"
-      ],
-      "id": "6a49ffa1e028bafd6940d744",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "37",
-        "35",
-        "30",
-        "33"
-      ],
-      "correct_answer": "use-value",
-      "ordering_items_en": [],
-      "topic_en": "Patterns and Sequences",
-      "explanation_ar": "الفروق هي 3، 5، 7، 9 (أعداد فردية متزايدة). الفرق التالي 11. 26 + 11 = 37.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأنماط والتسلسل",
-      "matching_pairs_en": [],
-      "question_ar": "ما الرقم التالي في المتتالية: 2، 5، 10، 17، 26، ... ؟",
-      "explanation_en": "Differences are 3, 5, 7, 9 (increasing odd numbers). Next difference is 11. 26 + 11 = 37.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is the next number in the sequence: 2, 5, 10, 17, 26, ... ?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "37",
-        "35",
-        "30",
-        "33"
-      ],
-      "id": "6a49ffa1e028bafd6940d745",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "4",
-        "27",
-        "18",
-        "60"
-      ],
-      "correct_answer": "use-value",
-      "ordering_items_en": [],
-      "topic_en": "Even and Odd Numbers",
-      "explanation_ar": "العدد الفردي لا يقسم على 2 بدون باقي. من الأعداد المعطاة 27 هو العدد الفردي.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأعداد الزوجية والفردية",
-      "matching_pairs_en": [],
-      "question_ar": "أي من الأعداد التالية عدد فردي؟",
-      "explanation_en": "An odd number is not divisible by 2 without remainder. Among the given numbers, 27 is odd.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which of the following numbers is odd?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "4",
-        "27",
-        "18",
-        "60"
-      ],
-      "id": "6a49ffa1e028bafd6940d746",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "33 SAR",
-        "31 SAR",
-        "28 SAR",
-        "39 SAR"
-      ],
-      "correct_answer": "use-value",
-      "ordering_items_en": [],
-      "topic_en": "Money and Currency",
-      "explanation_ar": "تكلفة الأقلام = 4 × 3 = 12، تكلفة الدفاتر = 3 × 7 = 21. الإجمالي = 12 + 21 = 33 ريالًا.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [],
-      "question_ar": "قلم رصاص سعره 3 ريالات، ودفتر سعره 7 ريالات. اشترى أحمد 4 أقلام رصاص و3 دفاتر. كم أنفق أحمد؟",
-      "explanation_en": "Cost of pencils = 4 × 3 = 12, cost of notebooks = 3 × 7 = 21. Total = 12 + 21 = 33 SAR.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "A pencil costs 3 SAR and a notebook costs 7 SAR. Ahmed bought 4 pencils and 3 notebooks. How much did Ahmed spend?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "33 ريالًا",
-        "31 ريالًا",
-        "28 ريالًا",
-        "39 ريالًا"
-      ],
-      "id": "6a49ffa1e028bafd6940d747",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "15",
-        "12",
-        "18",
-        "10"
-      ],
-      "correct_answer": "use-value",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "إجمالي التفاح = 5 × 24 = 120. 120 ÷ 8 = 15 تفاحة لكل طالب.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "يوجد 5 صناديق، في كل صندوق 24 تفاحة. قسّم التفاح بالتساوي على 8 طلاب. كم تفاحة يحصل كل طالب؟",
-      "explanation_en": "Total apples = 5 × 24 = 120. 120 ÷ 8 = 15 apples per student.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "There are 5 boxes, each containing 24 apples. The apples are shared equally among 8 students. How many apples does each student get?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "15",
-        "12",
-        "18",
-        "10"
-      ],
-      "id": "6a49ffa1e028bafd6940d748",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "3/4",
-        "5/6",
-        "7/8",
-        "4/5"
-      ],
-      "correct_answer": "use-value",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "حوّل إلى أعداد عشرية أو قارن: 3/4 = 0.75، 4/5 = 0.8، 5/6 ≈ 0.833، 7/8 = 0.875. الأصغر هو 3/4.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "أي من الكسور التالية أصغر؟ 3/4، 5/6، 7/8، 4/5",
-      "explanation_en": "Convert to decimals or compare: 3/4 = 0.75, 4/5 = 0.8, 5/6 ≈ 0.833, 7/8 = 0.875. The smallest is 3/4.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which of the following fractions is the smallest? 3/4, 5/6, 7/8, 4/5",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "3/4",
-        "5/6",
-        "7/8",
-        "4/5"
-      ],
-      "id": "6a49ffa1e028bafd6940d749",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "84 cm²",
-        "19 cm²",
-        "84 cm",
-        "21 cm²"
-      ],
-      "correct_answer": "use-value",
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "المساحة = الطول × العرض = 12 × 7 = 84 سم².",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "ما مساحة مستطيل طوله 12 سم وعرضه 7 سم؟",
-      "explanation_en": "Area = length × width = 12 × 7 = 84 cm².",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is the area of a rectangle with length 12 cm and width 7 cm?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "84 سم²",
-        "19 سم²",
-        "84 سم",
-        "21 سم²"
-      ],
-      "id": "6a49ffa1e028bafd6940d74a",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "59,049",
-        "60,049",
-        "58,049",
-        "59,149"
-      ],
-      "correct_answer": "${0}",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "أولاً 13,578 + 48,765 = 62,343. ثم 62,343 − 3,294 = 59,049.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "احسب: 13,578 + 48,765 − 3,294 = ؟",
-      "explanation_en": "First 13,578 + 48,765 = 62,343. Then 62,343 − 3,294 = 59,049.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Calculate: 13,578 + 48,765 − 3,294 = ?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "59,049",
-        "60,049",
-        "58,049",
-        "59,149"
-      ],
-      "id": "6a49ffa1e028bafd6940d74b",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "9,102",
-        "8,892",
-        "9,612",
-        "7,602"
-      ],
-      "correct_answer": "${0}",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "246 × 37 = 246×30 + 246×7 = 7,380 + 1,722 = 9,102.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "ما ناتج 246 × 37؟",
-      "explanation_en": "246 × 37 = 246×30 + 246×7 = 7,380 + 1,722 = 9,102.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is 246 × 37?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "9,102",
-        "8,892",
-        "9,612",
-        "7,602"
-      ],
-      "id": "6a49ffa1e028bafd6940d74c",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Adjacent",
-        "Far",
-        "Wide",
-        "Long"
-      ],
-      "correct_answer": "${0}",
-      "ordering_items_en": [],
-      "topic_en": "Words and Synonyms",
-      "explanation_ar": "'مجاور' تعني قريب أو متلاصق، وهي المرادف الأنسب لكلمة 'قريب'.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [],
-      "question_ar": "ما مرادف كلمة «قريب»؟",
-      "explanation_en": "'مجاور' means adjacent or near, which is the best synonym for 'قريب'.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is a synonym of the word \"قريب\" (near)?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "مجاور",
-        "بعيد",
-        "واسع",
-        "طويل"
-      ],
-      "id": "6a49ffa1e028bafd6940d74d",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Apples",
-        "Oranges",
-        "Figs",
-        "None of the above"
-      ],
-      "correct_answer": "${0}",
-      "ordering_items_en": [],
-      "topic_en": "Reading Comprehension",
-      "explanation_ar": "ذكر النص أنها اشترت ثلاثة كيلو تفاح وكيلو برتقال، إذن اشترت التفاح أكثر.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "قراءة وفهم",
-      "matching_pairs_en": [],
-      "question_ar": "اقرأ الفقرة: «ذهبت سلمى إلى السوق لشراء تفاح وبرتقال. لاحظت أن التفاح أقل سعراً من البرتقال، فاشترت ثلاثة كيلو تفاح وكيلو برتقال.» ما السؤال؟: ماذا قررت سلمى أن تشتري أكثر؟",
-      "explanation_en": "The text says she bought 3 kg of apples and 1 kg of oranges, so she bought more apples.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Read the passage: \"Salma went to the market to buy apples and oranges. She noticed apples were cheaper than oranges, so she bought 3 kg of apples and 1 kg of oranges.\" Question: What did Salma decide to buy more of?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "التفاح",
-        "البرتقال",
-        "التين",
-        "لا شيء مما سبق"
-      ],
-      "id": "6a49ffa1e028bafd6940d74e",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "3",
-        "6",
-        "9",
-        "12"
-      ],
-      "correct_answer": "${1}",
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "السداسي المنتظم له ستة أضلاع متساوية وله ستة محاور تماثل تمر عبر كل رأس ومركز الضلع المقابل.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "كم عدد محاور التماثل في شكل سداسي منتظم؟",
-      "explanation_en": "A regular hexagon has six equal sides and six symmetry axes passing through each vertex and the opposite side's midpoint.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "How many lines of symmetry does a regular hexagon have?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "3",
-        "6",
-        "9",
-        "12"
-      ],
-      "id": "6a49ffa1e028bafd6940d74f",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "4,250 mL",
-        "425 mL",
-        "42,500 mL",
-        "42.5 mL"
-      ],
-      "correct_answer": "${0}",
-      "ordering_items_en": [],
-      "topic_en": "Units and Measurement",
-      "explanation_ar": "1 لتر = 1,000 مل. إذن 4.25 × 1,000 = 4,250 مل.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الوحدات والقياس",
-      "matching_pairs_en": [],
-      "question_ar": "حوّل 4.25 لتر إلى مليلتر.",
-      "explanation_en": "1 liter = 1,000 mL. So 4.25 × 1,000 = 4,250 mL.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Convert 4.25 liters into milliliters.",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "4,250 مل",
-        "425 مل",
-        "42,500 مل",
-        "42.5 مل"
-      ],
-      "id": "6a49ffa1e028bafd6940d750",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "19/12",
-        "1 7/12",
-        "11/12",
-        "23/12"
-      ],
-      "correct_answer": "${1}",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "3/4 = 9/12 و5/6 = 10/12. المجموع = 19/12 = 1 و7/12.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "احسب: 3/4 + 5/6 = ؟",
-      "explanation_en": "3/4 = 9/12 and 5/6 = 10/12. Sum = 19/12 = 1 7/12.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Compute: 3/4 + 5/6 = ?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "19/12",
-        "1 و7/12",
-        "11/12",
-        "23/12"
-      ],
-      "id": "6a49ffa1e028bafd6940d751",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "46",
-        "47",
-        "45",
-        "48"
-      ],
-      "correct_answer": "${1}",
-      "ordering_items_en": [],
-      "topic_en": "Patterns and Sequences",
-      "explanation_ar": "كل حد يساوي الحد السابق ×2 + 1: 23×2+1 = 47.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الأنماط والتسلسل",
-      "matching_pairs_en": [],
-      "question_ar": "أكمل التسلسل: 2, 5, 11, 23, ... ما العدد التالي؟",
-      "explanation_en": "Each term = previous ×2 +1: 23×2+1 = 47.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Complete the sequence: 2, 5, 11, 23, ... What is the next number?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "46",
-        "47",
-        "45",
-        "48"
-      ],
-      "id": "6a49ffa1e028bafd6940d752",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "n²",
-        "n + 2",
-        "2n",
-        "n³"
-      ],
-      "correct_answer": "${2}",
-      "ordering_items_en": [],
-      "topic_en": "Even and Odd Numbers",
-      "explanation_ar": "2n = 2×n دائماً عدد زوجي لأنّه مضاعف للعدد 2. التعبيرات الأخرى يمكن أن تكون فردية عندما يكون n فردياً.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الأعداد الزوجية والفردية",
-      "matching_pairs_en": [],
-      "question_ar": "إذا كان n عدداً فردياً، فأي التعبيرات التالية يكون دائماً زوجياً؟",
-      "explanation_en": "2n = 2×n is always even because it's a multiple of 2. The other expressions can be odd when n is odd.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "If n is an odd number, which of the following expressions is always even?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "n²",
-        "n + 2",
-        "2n",
-        "n³"
-      ],
-      "id": "6a49ffa1e028bafd6940d753",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "8.50 SAR",
-        "9.00 SAR",
-        "10.00 SAR",
-        "9.50 SAR"
-      ],
-      "correct_answer": "${1}",
-      "ordering_items_en": [],
-      "topic_en": "Money and Coins",
-      "explanation_ar": "المجموع = 3×10 + 2×1 + 0.50 = 32.50 ريال. الباقي = 32.50 − 23.50 = 9.00 ريال.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [],
-      "question_ar": "لدى ليلى: ثلاث أوراق من فئة 10 ريال، عملتان من فئة 1 ريال، و50 هللة. اشترت كتاباً بـ 23.50 ريال. كم الباقي؟",
-      "explanation_en": "Total = 3×10 + 2×1 + 0.50 = 32.50 SAR. Change = 32.50 − 23.50 = 9.00 SAR.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Laila has three 10-riyal notes, two 1-riyal coins, and 50 halalas. She bought a book for 23.50 riyals. How much change does she get?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "8.50 ريال",
-        "9.00 ريال",
-        "10.00 ريال",
-        "9.50 ريال"
-      ],
-      "id": "6a49ffa1e028bafd6940d754",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "21 boxes and 2 candies",
-        "20 boxes and 8 candies",
-        "22 boxes and 4 candies",
-        "19 boxes and ..."
-      ],
-      "correct_answer": "${0}",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "128 ÷ 6 = 21 باقٍ 2. إذن 21 علبة ممتلئة وقطعتان متبقيتان.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "إذا وضعنا 128 قطعة حلوى في علب كل منها 6 قطع، فكم عدد العلب الممتلئة والقطع المتبقية؟",
-      "explanation_en": "128 ÷ 6 = 21 remainder 2. So 21 full boxes and 2 candies remain.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "If we place 128 candies into boxes holding 6 candies each, how many full boxes and how many candies remain?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "21 علبة و2 قطعة",
-        "20 علبة و8 قطع",
-        "22 علبة و4 قطع",
-        "19 علبة و..."
-      ],
-      "id": "6a49ffa1e028bafd6940d755",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "14.4 m²",
-        "7.7 m²",
-        "12.8 m²",
-        "15.6 m²"
-      ],
-      "correct_answer": "${0}",
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "المساحة = الطول × العرض = 4.5 × 3.2 = 14.4 م².",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "مساحة مستطيل طولُه 4.5 م وعرضُه 3.2 م تساوي كم؟",
-      "explanation_en": "Area = length × width = 4.5 × 3.2 = 14.4 m².",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is the area of a rectangle with length 4.5 m and width 3.2 m?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "14.4 م²",
-        "7.7 م²",
-        "12.8 م²",
-        "15.6 م²"
-      ],
-      "id": "6a49ffa1e028bafd6940d756",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "5/8",
-        "7/12",
-        "3/5",
-        "9/16"
-      ],
-      "correct_answer": "${0}",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "قِيَم كسرية: 5/8=0.625، 7/12≈0.583، 3/5=0.6، 9/16=0.5625. الأكبر هو 5/8.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "أي من الكسور التالية هو الأكبر: 5/8، 7/12، 3/5، 9/16؟",
-      "explanation_en": "Decimal equivalents: 5/8=0.625, 7/12≈0.583, 3/5=0.6, 9/16=0.5625. The largest is 5/8.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which of the following fractions is the largest: 5/8, 7/12, 3/5, 9/16?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "5/8",
-        "7/12",
-        "3/5",
-        "9/16"
-      ],
-      "id": "6a49ffa1e028bafd6940d757",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "6 hours 35 minutes",
-        "6 hours 15 minutes",
-        "7 hours",
-        "5 hours 55 minutes"
-      ],
-      "correct_answer": "${0}",
-      "ordering_items_en": [],
-      "topic_en": "Units and Measurement",
-      "explanation_ar": "من 7:45 إلى 14:20 الفرق = 6 ساعات و35 دقيقة (من 7:45 إلى 13:45 = 6 ساعات، ثم إلى 14:20 = +35 دقيقة).",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الوحدات والقياس",
-      "matching_pairs_en": [],
-      "question_ar": "إذا بدأ الدوام في المدرسة الساعة 7:45 انتهى الساعة 14:20، فكم مدة الدوام بالساعات والدقائق؟",
-      "explanation_en": "From 7:45 to 14:20 the difference is 6 hours 35 minutes (7:45→13:45 = 6 hours, then +35 minutes to 14:20).",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "If school starts at 7:45 and ends at 14:20, what is the duration of the school day in hours and minutes?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "6 ساعات و35 دقيقة",
-        "6 ساعات و15 دقيقة",
-        "7 ساعات",
-        "5 ساعات و55 دقيقة"
-      ],
-      "id": "6a49ffa1e028bafd6940d758",
-      "created_date": "2026-07-05T06:54:25.485000",
-      "updated_date": "2026-07-05T06:54:25.485000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "383",
-        "373",
-        "393",
-        "363"
-      ],
-      "correct_answer": "0",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "245 + 138 = 383، إذن العدد الكلي للتفاح 383.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "لدى يوسف 245 تفاحة وأعطاه صديقه 138 تفاحة. كم تفاحة لديه الآن؟",
-      "explanation_en": "245 + 138 = 383, so the total number of apples is 383.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Youssef has 245 apples and his friend gave him 138 more. How many apples does he have now?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "383",
-        "373",
-        "393",
-        "363"
-      ],
-      "id": "6a49ffa1e028bafd6940d72f",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "334",
-        "344",
-        "324",
-        "314"
-      ],
-      "correct_answer": "0",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "520 − 186 = 334، لذلك بقي 334 طالبًا.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "في المدرسة كان هناك 520 طالبًا وانتقل 186 منهم إلى مدرسة أخرى. كم طالبًا بقي؟",
-      "explanation_en": "520 − 186 = 334, so 334 students remain.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "There were 520 students at the school and 186 moved to another school. How many students remain?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "334",
-        "344",
-        "324",
-        "314"
-      ],
-      "id": "6a49ffa1e028bafd6940d730",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "54",
-        "56",
-        "48",
-        "63"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "7 × 8 = 56.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "ما حاصل ضرب 7 في 8؟",
-      "explanation_en": "7 × 8 = 56.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is 7 times 8?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "54",
-        "56",
-        "48",
-        "63"
-      ],
-      "id": "6a49ffa1e028bafd6940d731",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "6",
-        "8",
-        "9",
-        "12"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "72 ÷ 9 = 8، إذن كل طفل يحصل على 8 ألعاب.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "قُسمت 72 لعبة بالتساوي على 9 أطفال. كم لعبة يحصل كل طفل؟",
-      "explanation_en": "72 ÷ 9 = 8, so each child gets 8 toys.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "72 toys were shared equally among 9 children. How many toys does each child get?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "6",
-        "8",
-        "9",
-        "12"
-      ],
-      "id": "6a49ffa1e028bafd6940d732",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "sad",
-        "happy",
-        "angry",
-        "tired"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Words and Synonyms",
-      "explanation_ar": "مرادف كلمة \"سعيد\" هو \"فرح\"، أي تعبير عن السعادة.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [],
-      "question_ar": "ما مرادف كلمة \"سعيد\"؟",
-      "explanation_en": "A synonym of \"سعيد\" is \"فرح\" which means \"happy.\"",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is a synonym for the Arabic word \"سعيد\" (saʿīd)?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "حزين",
-        "فرح",
-        "غاضب",
-        "متعب"
-      ],
-      "id": "6a49ffa1e028bafd6940d733",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "It is small",
-        "It is large and likes water",
-        "It flies",
-        "It lives in water"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Reading and Comprehension",
-      "explanation_ar": "النص ذكر أن الفيل \"حيوان كبير ويحب الماء\"، وهذا هو الجواب الصحيح.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "قراءة وفهم",
-      "matching_pairs_en": [],
-      "question_ar": "سامر قرأ كتابًا عن الحيوانات. تعلم أن الفيل حيوان كبير ويحب الماء. ماذا تعلم سامر عن الفيل؟",
-      "explanation_en": "The passage states the elephant is \"large and likes water,\" which is the correct answer.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Samer read a book about animals. He learned that the elephant is a large animal and likes water. What did Samer learn about the elephant?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "أنه صغير",
-        "أنه كبير ويحب الماء",
-        "أنه يطير",
-        "أنه يعيش في الماء"
-      ],
-      "id": "6a49ffa1e028bafd6940d734",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "المثلث له ثلاث أضلاع، لذلك الإجابة 3.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "كم عدد أضلاع المثلث؟",
-      "explanation_en": "A triangle has three sides, so the answer is 3.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "How many sides does a triangle have?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "id": "6a49ffa1e028bafd6940d735",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Rectangle",
-        "Square",
-        "Triangle",
-        "Circle"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "المربع له أربعة أضلاع متساوية وزواياه قائمة (90 درجة).",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "أي شكل له أربعة أضلاع متساوية وكل زواياه 90 درجة؟",
-      "explanation_en": "A square has four equal sides and all right angles (90°).",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which shape has four equal sides and all angles are 90 degrees?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "مستطيل",
-        "مربع",
-        "مثلث",
-        "دائرة"
-      ],
-      "id": "6a49ffa1e028bafd6940d736",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "10",
-        "100",
-        "1000",
-        "1"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Units and Measurement",
-      "explanation_ar": "المتر يساوي 100 سنتيمتر.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الوحدات والقياس",
-      "matching_pairs_en": [],
-      "question_ar": "كم سنتيمتراً في متر واحد؟",
-      "explanation_en": "One meter equals 100 centimeters.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "How many centimeters are in one meter?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "10",
-        "100",
-        "1000",
-        "1"
-      ],
-      "id": "6a49ffa1e028bafd6940d737",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "15 riyals",
-        "8 riyals",
-        "10 riyals",
-        "20 riyals"
-      ],
-      "correct_answer": "0",
-      "ordering_items_en": [],
-      "topic_en": "Money and Currency",
-      "explanation_ar": "3 × 5 = 15، إذن المجموع 15 ريالًا.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [],
-      "question_ar": "لدى ليلى ثلاث عملات قيمتها كل واحدة 5 ريالات. ما مجموع المال لديها؟",
-      "explanation_en": "3 × 5 = 15, so the total is 15 riyals.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Laila has three coins, each worth 5 riyals. What is the total amount of money she has?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "15 ريال",
-        "8 ريال",
-        "10 ريال",
-        "20 ريال"
-      ],
-      "id": "6a49ffa1e028bafd6940d738",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1/2",
-        "1/3",
-        "1/4",
-        "3/4"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "أخذت قطعة واحدة من أربعة أجزاء، أي 1/4 من الكعكة.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "قسمنا كعكة إلى 4 أجزاء وأخذت قطعة واحدة. أي جزء من الكعكة أخذت؟",
-      "explanation_en": "You took one out of four pieces, which is 1/4 of the cake.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "A cake is cut into 4 equal pieces and you take one piece. What fraction of the cake did you take?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "1/2",
-        "1/3",
-        "1/4",
-        "3/4"
-      ],
-      "id": "6a49ffa1e028bafd6940d739",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "2/3",
-        "2/4",
-        "3/4",
-        "1/3"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "2/4 يساوي 1/2 بعد التبسيط (2 ÷ 2) / (4 ÷ 2) = 1/2.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "أي من الكسور التالية يعادل 1/2؟",
-      "explanation_en": "2/4 is equal to 1/2 after simplifying (2 ÷ 2)/(4 ÷ 2) = 1/2.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which of the following fractions is equivalent to 1/2?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "2/3",
-        "2/4",
-        "3/4",
-        "1/3"
-      ],
-      "id": "6a49ffa1e028bafd6940d73a",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "9",
-        "10",
-        "8",
-        "12"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Patterns and Sequences",
-      "explanation_ar": "الأنماط تزيد بمقدار 2 كل مرة، لذا بعد 8 يأتي 10.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الأنماط والتسلسل",
-      "matching_pairs_en": [],
-      "question_ar": "ما الرقم التالي في المتتالية: 2، 4، 6، 8، ؟",
-      "explanation_en": "The pattern increases by 2 each time, so after 8 comes 10.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is the next number in the sequence: 2, 4, 6, 8, ?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "9",
-        "10",
-        "8",
-        "12"
-      ],
-      "id": "6a49ffa1e028bafd6940d73b",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "12",
-        "17",
-        "8",
-        "20"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Even and Odd Numbers",
-      "explanation_ar": "17 عدد فردي لأن ليس قابلاً للقسمة على 2 بدون باقٍ.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الأعداد الزوجية والفردية",
-      "matching_pairs_en": [],
-      "question_ar": "أي الأعداد التالية عدد فردي؟",
-      "explanation_en": "17 is odd because it is not divisible by 2 without a remainder.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which of the following numbers is odd?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "12",
-        "17",
-        "8",
-        "20"
-      ],
-      "id": "6a49ffa1e028bafd6940d73c",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "4029",
-        "3929",
-        "4819",
-        "6083"
-      ],
-      "correct_answer": "use-value",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "4785 + 1298 = 6083 ثم 6083 − 2054 = 4029. إذًا الجواب 4029.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "أحمد كان لديه 4785 ملصقًا. اشترى 1298 ملصقًا وأعطى 2054 منها لصديقه. كم عدد الملصقات التي بقيت مع أحمد؟",
-      "explanation_en": "4785 + 1298 = 6083 then 6083 − 2054 = 4029. So the answer is 4029.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Ahmed had 4,785 stickers. He bought 1,298 more and gave 2,054 to his friend. How many stickers does Ahmed have now?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "4029",
-        "3929",
-        "4819",
-        "6083"
-      ],
-      "id": "6a49ffa1e028bafd6940d73d",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1296",
-        "1080",
-        "1356",
-        "1246"
-      ],
-      "correct_answer": "use-value",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "48 × 27 = (50 − 2) × 27 = 1350 − 54 = 1296.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "ما حاصل ضرب 48 في 27؟",
-      "explanation_en": "48 × 27 = (50 − 2) × 27 = 1350 − 54 = 1296.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "What is 48 multiplied by 27?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "1296",
-        "1080",
-        "1356",
-        "1246"
-      ],
-      "id": "6a49ffa1e028bafd6940d73e",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "35",
-        "25",
-        "75",
-        "45"
-      ],
-      "correct_answer": "use-value",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "25 × 35 = 875، لذلك 875 ÷ 25 = 35.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "قسّم 875 على 25. ما الناتج؟",
-      "explanation_en": "25 × 35 = 875, so 875 ÷ 25 = 35.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Divide 875 by 25. What is the result?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "35",
-        "25",
-        "75",
-        "45"
-      ],
-      "id": "6a49ffa1e028bafd6940d73f",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "slow",
-        "fast",
-        "thin",
-        "strong"
-      ],
-      "correct_answer": "use-value",
-      "ordering_items_en": [],
-      "topic_en": "Words and Synonyms",
-      "explanation_ar": "المرادف الصحيح لكلمة \"سريع\" هو \"سريع\" (في الخيارات المقابلة باللغة الإنجليزية: fast). الخيارات الأخرى لا تعني نفس المعنى.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [],
-      "question_ar": "ما المرادف الأقرب لكلمة \"سريع\"؟",
-      "explanation_en": "The correct synonym for \"fast\" is \"fast\" (as shown in the English options). The other choices do not share the same meaning.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which word is the closest synonym for \"fast\"?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "بطيء",
-        "سريع",
-        "هزيل",
-        "قوي"
-      ],
-      "id": "6a49ffa1e028bafd6940d740",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "7",
-        "12",
-        "9",
-        "15"
-      ],
-      "correct_answer": "use-value",
-      "ordering_items_en": [],
-      "topic_en": "Reading and Comprehension",
-      "explanation_ar": "عدد الطماطم = 3 أواني × 4 طماطم في كل وعاء = 12 طماطم.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "قراءة وفهم",
-      "matching_pairs_en": [],
-      "question_ar": "لينا لديها حديقة صغيرة. زرعت بذور الطماطم في 3 أواني، ونمت في كل وعاء 4 طماطم. كم طماطم قطفت لينا؟",
-      "explanation_en": "Number of tomatoes = 3 pots × 4 tomatoes each = 12 tomatoes.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Lina has a small garden. She planted tomato seeds in 3 pots, and each pot grew 4 tomatoes. How many tomatoes did Lina harvest?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "7",
-        "12",
-        "9",
-        "15"
-      ],
-      "id": "6a49ffa1e028bafd6940d741",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Four equal sides and four right angles",
-        "Three sides and two right angles",
-        "Four sides but only two right angles",
-        "Six equal sides"
-      ],
-      "correct_answer": "use-value",
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "المربع له أربعة أضلاع متساوية وأربع زوايا قائمة (كل زاوية 90°).",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "أي من الخصائص التالية تصف الشكل المربع؟",
-      "explanation_en": "A square has four equal sides and four right angles (each angle is 90°).",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Which of the following properties describes a square?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "أربعة أضلاع متساوية وأربع زوايا قائمة",
-        "ثلاثة أضلاع وزاويتان قائمتان",
-        "أربعة أضلاع ولكن زاويتان قائمتان فقط",
-        "ستة أضلاع متساوية"
-      ],
-      "id": "6a49ffa1e028bafd6940d742",
-      "created_date": "2026-07-05T06:54:25.484000",
-      "updated_date": "2026-07-05T06:54:25.484000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "question_en": "Classify the following geometric shapes into 2D or 3D.",
+      "classify_categories_en": [
+        "2D Shapes",
+        "3D Shapes"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "مربع"
+        },
+        {
+          "correct_category": 1,
+          "item": "مكعب"
+        },
+        {
+          "correct_category": 0,
+          "item": "مثلث"
+        },
+        {
+          "correct_category": 1,
+          "item": "كرة"
+        },
+        {
+          "correct_category": 1,
+          "item": "أسطوانة"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4a64e540cf7c8b3f47c2b1",
+      "created_date": "2026-07-05T14:06:29.745000",
+      "updated_date": "2026-07-05T14:06:29.745000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
@@ -3164,96 +316,272 @@
       "correct_answer": null,
       "ordering_items_en": [],
       "topic_en": "Units and Measurement",
-      "explanation_ar": "التحويل بين الوحدات يتطلب الضرب أو القسمة في قوى العشرة؛ الطن يساوي 1000 كجم، واللتر يساوي 1000 ملل، والكيلوجرام يساوي 1000 جرام.",
+      "explanation_ar": "نستخدم المليمتر للأطوال الصغيرة جداً، والكيلومتر للمسافات البعيدة، والكيلوجرام للكتل، واللتر للسعات.",
       "test_type": "adaptive",
       "difficulty": "hard",
-      "topic_ar": "وحدات القياس",
+      "topic_ar": "الوحدات والقياس",
       "matching_pairs_en": [
         {
-          "left": "9000 kg",
-          "right": "9 Tons"
+          "left": "Millimeter",
+          "right": "Length of a tiny insect"
         },
         {
-          "left": "2.5 L",
-          "right": "2500 ml"
+          "left": "Kilometer",
+          "right": "Distance between two cities"
         },
         {
-          "left": "0.75 kg",
-          "right": "750 g"
+          "left": "Kilogram",
+          "right": "Mass of a bag of flour"
         },
         {
-          "left": "0.5 L",
-          "right": "500 ml"
+          "left": "Liter",
+          "right": "Capacity of a large juice bottle"
         }
       ],
-      "question_ar": "صل كل قيمة من العمود الأيمن بما يعادلها في العمود الأيسر من وحدات الكتلة والسعة:",
-      "explanation_en": "Converting between units requires multiplying or dividing by powers of ten; 1 Ton equals 1000 kg, 1 Liter equals 1000 ml, and 1 Kilogram equals 1000 g.",
+      "question_ar": "صل كل وحدة قياس بالاستخدام المناسب لها.",
+      "explanation_en": "We use millimeter for tiny lengths, kilometer for long distances, kilogram for mass, and liter for capacity.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 5,
       "matching_pairs_ar": [
         {
-          "left": "9000 كجم",
-          "right": "9 أطنان"
+          "left": "المليمتر",
+          "right": "طول حشرة صغيرة جداً"
         },
         {
-          "left": "2.5 لتر",
-          "right": "2500 ملل"
+          "left": "الكيلومتر",
+          "right": "المسافة بين مدينتين"
         },
         {
-          "left": "0.75 كجم",
-          "right": "750 جرام"
+          "left": "الكيلوجرام",
+          "right": "كتلة كيس دقيق"
         },
         {
-          "left": "0.5 لتر",
-          "right": "500 ملل"
+          "left": "اللتر",
+          "right": "سعة عبوة عصير كبيرة"
         }
       ],
-      "question_en": "Match each value from the right column with its equivalent in the left column for mass and capacity units:",
+      "question_en": "Match each measurement unit to its appropriate use.",
       "classify_categories_en": [],
       "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499c1550d39130b1a33b94",
-      "created_date": "2026-07-04T23:49:41.201000",
-      "updated_date": "2026-07-04T23:49:41.201000",
+      "id": "6a4a64e540cf7c8b3f47c2b2",
+      "created_date": "2026-07-05T14:06:29.745000",
+      "updated_date": "2026-07-05T14:06:29.745000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
       "ordering_items_ar": [
-        "0.9",
-        "4/5",
-        "0.75",
-        "1/2"
+        "١/٨ (ثُمن)",
+        "١/٤ (رُبع)",
+        "١/٢ (نِصف)",
+        "٣/٤ (ثلاثة أرباع)"
       ],
       "question_type": "ordering",
       "options_en": [],
       "correct_answer": null,
       "ordering_items_en": [
-        "0.9",
-        "4/5",
-        "0.75",
-        "1/2"
+        "1/8 (One-eighth)",
+        "1/4 (One-fourth)",
+        "1/2 (One-half)",
+        "3/4 (Three-fourths)"
       ],
-      "topic_en": "Fractions and Decimals",
-      "explanation_ar": "بتحويل الكل إلى صيغة عشرية: 0.9 تبقى كما هي، 4/5 تساوي 0.8، و0.75 تبقى كما هي، و1/2 تساوي 0.5. الترتيب التنازلي هو من الأكبر للأصغر.",
+      "topic_en": "Fractions",
+      "explanation_ar": "كلما كبر المقام في كسر الوحدة، صغرت قيمة الكسر. لذا فإن الثمن هو الأصغر.",
       "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الكسور والكسور العشرية",
+      "difficulty": "easy",
+      "topic_ar": "الكسور",
       "matching_pairs_en": [],
-      "question_ar": "رتب القيم التالية ترتيباً تنازلياً (من الأكبر إلى الأصغر):",
-      "explanation_en": "By converting all to decimal form: 0.9 stays the same, 4/5 equals 0.8, 0.75 stays the same, and 1/2 equals 0.5. Descending order is from largest to smallest.",
+      "question_ar": "رتب الكسور التالية من الأصغر إلى الأكبر.",
+      "explanation_en": "As the denominator increases in a unit fraction, the value of the fraction decreases. Therefore, 1/8 is the smallest.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 5,
       "matching_pairs_ar": [],
-      "question_en": "Order the following values in descending order (from largest to smallest):",
+      "question_en": "Order the following fractions from smallest to largest.",
       "classify_categories_en": [],
       "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499c1550d39130b1a33b95",
-      "created_date": "2026-07-04T23:49:41.201000",
-      "updated_date": "2026-07-04T23:49:41.201000",
+      "id": "6a4a64e540cf7c8b3f47c2b3",
+      "created_date": "2026-07-05T14:06:29.745000",
+      "updated_date": "2026-07-05T14:06:29.745000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "٣",
+        "٦",
+        "١٢",
+        "٢٤"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "3",
+        "6",
+        "12",
+        "24"
+      ],
+      "topic_en": "Patterns and Sequences",
+      "explanation_ar": "النمط يعتمد على ضرب كل عدد في ٢ للحصول على العدد التالي: ٣×٢=٦، ٦×٢=١٢، ١٢×٢=٢٤.",
+      "test_type": "adaptive",
+      "difficulty": "medium",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "أكمل النمط العددي التالي بترتيب الأرقام الصحيحة (النمط هو الضرب في ٢).",
+      "explanation_en": "The pattern depends on multiplying each number by 2 to get the next: 3x2=6, 6x2=12, 12x2=24.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 5,
+      "matching_pairs_ar": [],
+      "question_en": "Complete the following numerical pattern by ordering the correct numbers (the pattern is multiplying by 2).",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4a64e540cf7c8b3f47c2b4",
+      "created_date": "2026-07-05T14:06:29.745000",
+      "updated_date": "2026-07-05T14:06:29.745000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Even and Odd Numbers",
+      "explanation_ar": "العدد الزوجي ينتهي بـ (٠، ٢، ٤، ٦، ٨)، والعدد الفردي ينتهي بـ (١، ٣، ٥، ٧، ٩).",
+      "test_type": "adaptive",
+      "difficulty": "hard",
+      "topic_ar": "الأعداد الزوجية والفردية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأعداد التالية إلى أعداد زوجية أو فردية.",
+      "explanation_en": "Even numbers end in (0, 2, 4, 6, 8), and odd numbers end in (1, 3, 5, 7, 9).",
+      "classify_categories_ar": [
+        "أعداد زوجية",
+        "أعداد فردية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "24"
+        },
+        {
+          "correct_category": 1,
+          "item": "31"
+        },
+        {
+          "correct_category": 0,
+          "item": "56"
+        },
+        {
+          "correct_category": 1,
+          "item": "79"
+        },
+        {
+          "correct_category": 0,
+          "item": "100"
+        }
+      ],
+      "grade": 5,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following numbers into even or odd.",
+      "classify_categories_en": [
+        "Even Numbers",
+        "Odd Numbers"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "٢٤"
+        },
+        {
+          "correct_category": 1,
+          "item": "٣١"
+        },
+        {
+          "correct_category": 0,
+          "item": "٥٦"
+        },
+        {
+          "correct_category": 1,
+          "item": "٧٩"
+        },
+        {
+          "correct_category": 0,
+          "item": "١٠٠"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4a64e540cf7c8b3f47c2b5",
+      "created_date": "2026-07-05T14:06:29.745000",
+      "updated_date": "2026-07-05T14:06:29.745000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Currency and Money",
+      "explanation_ar": "يتميز كل ريال سعودي بلون خاص: ٥ بنفسجي، ١٠ بني، ٥٠ أخضر غامق، ١٠٠ أحمر.",
+      "test_type": "adaptive",
+      "difficulty": "hard",
+      "topic_ar": "العملات والنقود",
+      "matching_pairs_en": [
+        {
+          "left": "5 Riyals",
+          "right": "Purple"
+        },
+        {
+          "left": "10 Riyals",
+          "right": "Brown"
+        },
+        {
+          "left": "50 Riyals",
+          "right": "Green"
+        },
+        {
+          "left": "100 Riyals",
+          "right": "Red"
+        }
+      ],
+      "question_ar": "صل كل فئة نقدية سعودية بلونها المميز في الإصدار السادس.",
+      "explanation_en": "Each Saudi Riyal note has a unique color: 5 is purple, 10 is brown, 50 is dark green, and 100 is red.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 5,
+      "matching_pairs_ar": [
+        {
+          "left": "٥ ريالات",
+          "right": "بنفسجي"
+        },
+        {
+          "left": "١٠ ريالات",
+          "right": "بني"
+        },
+        {
+          "left": "٥٠ ريالاً",
+          "right": "أخضر"
+        },
+        {
+          "left": "١٠٠ ريال",
+          "right": "أحمر"
+        }
+      ],
+      "question_en": "Match each Saudi banknote denomination with its distinctive color in the 6th edition.",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4a64e540cf7c8b3f47c2b6",
+      "created_date": "2026-07-05T14:06:29.745000",
+      "updated_date": "2026-07-05T14:06:29.745000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
@@ -3322,6 +650,106 @@
       ],
       "options_ar": [],
       "id": "6a499c1550d39130b1a33b96",
+      "created_date": "2026-07-04T23:49:41.201000",
+      "updated_date": "2026-07-04T23:49:41.201000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "0.9",
+        "4/5",
+        "0.75",
+        "1/2"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "0.9",
+        "4/5",
+        "0.75",
+        "1/2"
+      ],
+      "topic_en": "Fractions and Decimals",
+      "explanation_ar": "بتحويل الكل إلى صيغة عشرية: 0.9 تبقى كما هي، 4/5 تساوي 0.8، و0.75 تبقى كما هي، و1/2 تساوي 0.5. الترتيب التنازلي هو من الأكبر للأصغر.",
+      "test_type": "adaptive",
+      "difficulty": "hard",
+      "topic_ar": "الكسور والكسور العشرية",
+      "matching_pairs_en": [],
+      "question_ar": "رتب القيم التالية ترتيباً تنازلياً (من الأكبر إلى الأصغر):",
+      "explanation_en": "By converting all to decimal form: 0.9 stays the same, 4/5 equals 0.8, 0.75 stays the same, and 1/2 equals 0.5. Descending order is from largest to smallest.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 5,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following values in descending order (from largest to smallest):",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499c1550d39130b1a33b95",
+      "created_date": "2026-07-04T23:49:41.201000",
+      "updated_date": "2026-07-04T23:49:41.201000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "التحويل بين الوحدات يتطلب الضرب أو القسمة في قوى العشرة؛ الطن يساوي 1000 كجم، واللتر يساوي 1000 ملل، والكيلوجرام يساوي 1000 جرام.",
+      "test_type": "adaptive",
+      "difficulty": "hard",
+      "topic_ar": "وحدات القياس",
+      "matching_pairs_en": [
+        {
+          "left": "9000 kg",
+          "right": "9 Tons"
+        },
+        {
+          "left": "2.5 L",
+          "right": "2500 ml"
+        },
+        {
+          "left": "0.75 kg",
+          "right": "750 g"
+        },
+        {
+          "left": "0.5 L",
+          "right": "500 ml"
+        }
+      ],
+      "question_ar": "صل كل قيمة من العمود الأيمن بما يعادلها في العمود الأيسر من وحدات الكتلة والسعة:",
+      "explanation_en": "Converting between units requires multiplying or dividing by powers of ten; 1 Ton equals 1000 kg, 1 Liter equals 1000 ml, and 1 Kilogram equals 1000 g.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 5,
+      "matching_pairs_ar": [
+        {
+          "left": "9000 كجم",
+          "right": "9 أطنان"
+        },
+        {
+          "left": "2.5 لتر",
+          "right": "2500 ملل"
+        },
+        {
+          "left": "0.75 كجم",
+          "right": "750 جرام"
+        },
+        {
+          "left": "0.5 لتر",
+          "right": "500 ملل"
+        }
+      ],
+      "question_en": "Match each value from the right column with its equivalent in the left column for mass and capacity units:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499c1550d39130b1a33b94",
       "created_date": "2026-07-04T23:49:41.201000",
       "updated_date": "2026-07-04T23:49:41.201000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -3460,38 +888,68 @@
       "is_sample": false
     },
     {
-      "ordering_items_ar": [
-        "مليجرام",
-        "جرام",
-        "كيلوجرام",
-        "طن"
-      ],
-      "question_type": "ordering",
+      "ordering_items_ar": [],
+      "question_type": "classify",
       "options_en": [],
       "correct_answer": null,
-      "ordering_items_en": [
-        "Milligram",
-        "Gram",
-        "Kilogram",
-        "Metric Ton"
-      ],
-      "topic_en": "Units of Measurement - Mass",
-      "explanation_ar": "الترتيب الصحيح لوحدات الكتلة يبدأ بالمليجرام للأجسام الصغيرة جداً وينتهي بالطن للأجسام الكبيرة جداً.",
+      "ordering_items_en": [],
+      "topic_en": "Vocabulary - Synonyms and Antonyms",
+      "explanation_ar": "المترادفات هي كلمات لها نفس المعنى، بينما الأضداد هي كلمات متعاكسة في المعنى.",
       "test_type": "adaptive",
       "difficulty": "medium",
-      "topic_ar": "وحدات القياس - الكتلة",
+      "topic_ar": "الكلمات والمترادفات (لغتي الجميلة)",
       "matching_pairs_en": [],
-      "question_ar": "رتب وحدات الكتلة المترية التالية من الأصغر إلى الأكبر.",
-      "explanation_en": "The correct order of mass units starts with milligrams for very small objects and ends with tons for very large objects.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
+      "question_ar": "صنف أزواج الكلمات التالية إلى (مترادفات) أو (أضداد).",
+      "explanation_en": "Synonyms are words that have the same meaning, while antonyms are words that are opposite in meaning.",
+      "classify_categories_ar": [
+        "مترادفات",
+        "أضداد"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Large / Huge"
+        },
+        {
+          "correct_category": 1,
+          "item": "Generous / Stingy"
+        },
+        {
+          "correct_category": 1,
+          "item": "Happy / Sad"
+        },
+        {
+          "correct_category": 0,
+          "item": "Fast / Quick"
+        }
+      ],
       "grade": 5,
       "matching_pairs_ar": [],
-      "question_en": "Order the following metric mass units from smallest to largest.",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
+      "question_en": "Classify the following word pairs into (Synonyms) or (Antonyms).",
+      "classify_categories_en": [
+        "Synonyms",
+        "Antonyms"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "كبير / ضخم"
+        },
+        {
+          "correct_category": 1,
+          "item": "كريم / بخيل"
+        },
+        {
+          "correct_category": 1,
+          "item": "مسرور / حزين"
+        },
+        {
+          "correct_category": 0,
+          "item": "سريع / خاطف"
+        }
+      ],
       "options_ar": [],
-      "id": "6a499c0c1b983604620c98e4",
+      "id": "6a499c0c1b983604620c98e6",
       "created_date": "2026-07-04T23:49:32.034000",
       "updated_date": "2026-07-04T23:49:32.034000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -3566,68 +1024,38 @@
       "is_sample": false
     },
     {
-      "ordering_items_ar": [],
-      "question_type": "classify",
+      "ordering_items_ar": [
+        "مليجرام",
+        "جرام",
+        "كيلوجرام",
+        "طن"
+      ],
+      "question_type": "ordering",
       "options_en": [],
       "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Vocabulary - Synonyms and Antonyms",
-      "explanation_ar": "المترادفات هي كلمات لها نفس المعنى، بينما الأضداد هي كلمات متعاكسة في المعنى.",
+      "ordering_items_en": [
+        "Milligram",
+        "Gram",
+        "Kilogram",
+        "Metric Ton"
+      ],
+      "topic_en": "Units of Measurement - Mass",
+      "explanation_ar": "الترتيب الصحيح لوحدات الكتلة يبدأ بالمليجرام للأجسام الصغيرة جداً وينتهي بالطن للأجسام الكبيرة جداً.",
       "test_type": "adaptive",
       "difficulty": "medium",
-      "topic_ar": "الكلمات والمترادفات (لغتي الجميلة)",
+      "topic_ar": "وحدات القياس - الكتلة",
       "matching_pairs_en": [],
-      "question_ar": "صنف أزواج الكلمات التالية إلى (مترادفات) أو (أضداد).",
-      "explanation_en": "Synonyms are words that have the same meaning, while antonyms are words that are opposite in meaning.",
-      "classify_categories_ar": [
-        "مترادفات",
-        "أضداد"
-      ],
-      "classify_items_en": [
-        {
-          "correct_category": 0,
-          "item": "Large / Huge"
-        },
-        {
-          "correct_category": 1,
-          "item": "Generous / Stingy"
-        },
-        {
-          "correct_category": 1,
-          "item": "Happy / Sad"
-        },
-        {
-          "correct_category": 0,
-          "item": "Fast / Quick"
-        }
-      ],
+      "question_ar": "رتب وحدات الكتلة المترية التالية من الأصغر إلى الأكبر.",
+      "explanation_en": "The correct order of mass units starts with milligrams for very small objects and ends with tons for very large objects.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
       "grade": 5,
       "matching_pairs_ar": [],
-      "question_en": "Classify the following word pairs into (Synonyms) or (Antonyms).",
-      "classify_categories_en": [
-        "Synonyms",
-        "Antonyms"
-      ],
-      "classify_items_ar": [
-        {
-          "correct_category": 0,
-          "item": "كبير / ضخم"
-        },
-        {
-          "correct_category": 1,
-          "item": "كريم / بخيل"
-        },
-        {
-          "correct_category": 1,
-          "item": "مسرور / حزين"
-        },
-        {
-          "correct_category": 0,
-          "item": "سريع / خاطف"
-        }
-      ],
+      "question_en": "Order the following metric mass units from smallest to largest.",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499c0c1b983604620c98e6",
+      "id": "6a499c0c1b983604620c98e4",
       "created_date": "2026-07-04T23:49:32.034000",
       "updated_date": "2026-07-04T23:49:32.034000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -3690,6 +1118,82 @@
       "classify_items_ar": [],
       "options_ar": [],
       "id": "6a499c07e3c92f5782e3fa61",
+      "created_date": "2026-07-04T23:49:27.848000",
+      "updated_date": "2026-07-04T23:49:27.848000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Currency and Money",
+      "explanation_ar": "الريال السعودي هو الوحدة الأساسية، وتجزأ إلى 100 هللة. الفئات الورقية تكون بالريال، بينما الأجزاء الصغيرة تكون بالهللات.",
+      "test_type": "adaptive",
+      "difficulty": "easy",
+      "topic_ar": "العملات والنقود",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الفئات التالية حسب نوعها (هل هي ريالات أم هللات):",
+      "explanation_en": "The Saudi Riyal is the primary unit, divided into 100 Halalas. Paper denominations are in Riyals, while smaller parts are in Halalas.",
+      "classify_categories_ar": [
+        "فئة الريال",
+        "فئة الهللة"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "50 Riyals"
+        },
+        {
+          "correct_category": 1,
+          "item": "25 Halalas"
+        },
+        {
+          "correct_category": 0,
+          "item": "5 Riyals"
+        },
+        {
+          "correct_category": 1,
+          "item": "50 Halalas"
+        },
+        {
+          "correct_category": 0,
+          "item": "100 Riyals"
+        }
+      ],
+      "grade": 5,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following denominations by their type (Riyals or Halalas):",
+      "classify_categories_en": [
+        "Riyal Category",
+        "Halala Category"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "50 ريالاً"
+        },
+        {
+          "correct_category": 1,
+          "item": "25 هللة"
+        },
+        {
+          "correct_category": 0,
+          "item": "5 ريالات"
+        },
+        {
+          "correct_category": 1,
+          "item": "50 هللة"
+        },
+        {
+          "correct_category": 0,
+          "item": "100 ريال"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499c07e3c92f5782e3fa64",
       "created_date": "2026-07-04T23:49:27.848000",
       "updated_date": "2026-07-04T23:49:27.848000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -3804,82 +1308,6 @@
       ],
       "options_ar": [],
       "id": "6a499c07e3c92f5782e3fa63",
-      "created_date": "2026-07-04T23:49:27.848000",
-      "updated_date": "2026-07-04T23:49:27.848000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "classify",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Currency and Money",
-      "explanation_ar": "الريال السعودي هو الوحدة الأساسية، وتجزأ إلى 100 هللة. الفئات الورقية تكون بالريال، بينما الأجزاء الصغيرة تكون بالهللات.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [],
-      "question_ar": "صنف الفئات التالية حسب نوعها (هل هي ريالات أم هللات):",
-      "explanation_en": "The Saudi Riyal is the primary unit, divided into 100 Halalas. Paper denominations are in Riyals, while smaller parts are in Halalas.",
-      "classify_categories_ar": [
-        "فئة الريال",
-        "فئة الهللة"
-      ],
-      "classify_items_en": [
-        {
-          "correct_category": 0,
-          "item": "50 Riyals"
-        },
-        {
-          "correct_category": 1,
-          "item": "25 Halalas"
-        },
-        {
-          "correct_category": 0,
-          "item": "5 Riyals"
-        },
-        {
-          "correct_category": 1,
-          "item": "50 Halalas"
-        },
-        {
-          "correct_category": 0,
-          "item": "100 Riyals"
-        }
-      ],
-      "grade": 5,
-      "matching_pairs_ar": [],
-      "question_en": "Classify the following denominations by their type (Riyals or Halalas):",
-      "classify_categories_en": [
-        "Riyal Category",
-        "Halala Category"
-      ],
-      "classify_items_ar": [
-        {
-          "correct_category": 0,
-          "item": "50 ريالاً"
-        },
-        {
-          "correct_category": 1,
-          "item": "25 هللة"
-        },
-        {
-          "correct_category": 0,
-          "item": "5 ريالات"
-        },
-        {
-          "correct_category": 1,
-          "item": "50 هللة"
-        },
-        {
-          "correct_category": 0,
-          "item": "100 ريال"
-        }
-      ],
-      "options_ar": [],
-      "id": "6a499c07e3c92f5782e3fa64",
       "created_date": "2026-07-04T23:49:27.848000",
       "updated_date": "2026-07-04T23:49:27.848000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
