@@ -1,2666 +1,1690 @@
 {
   "test_type": "adaptive",
   "grade": 1,
-  "count": 97,
+  "count": 56,
   "questions": [
     {
       "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "12",
-        "13",
-        "14",
-        "15"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "8 + 5 = 13. نجمع 8 مع 5 لنحصل على 13.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "ما ناتج 8 + 5؟",
-      "explanation_en": "8 + 5 = 13. Add 8 and 5 to get 13.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "What is 8 + 5?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "12",
-        "13",
-        "14",
-        "15"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea8c",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "7",
-        "8",
-        "9",
-        "6"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "15 - 7 = 8. نطرح 7 من 15 فتبقى 8.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "ما ناتج 15 - 7؟",
-      "explanation_en": "15 - 7 = 8. Subtract 7 from 15 to get 8.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "What is 15 - 7?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "7",
-        "8",
-        "9",
-        "6"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea8d",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "5",
-        "6",
-        "4",
-        "3"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "2 × 3 = 6. مرتان من الثلاثة يساويان ستة.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "كم حاصل 2 × 3؟",
-      "explanation_en": "2 × 3 = 6. Two groups of three make six.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "What is 2 × 3?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "5",
-        "6",
-        "4",
-        "3"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea8e",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "6 ÷ 3 = 2. كل طفل يحصل على تفاحتين.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "عند تقسيم 6 تفاحات على 3 أطفال بالتساوي، كم تفاحة يحصل كل طفل؟",
-      "explanation_en": "6 ÷ 3 = 2. Each child gets two apples.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "If 6 apples are shared equally among 3 children, how many apples does each child get?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea8f",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Farah (happy)",
-        "Sad",
-        "Hungry",
-        "Big"
-      ],
-      "correct_answer": "0",
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
       "ordering_items_en": [],
       "topic_en": "Words and Synonyms",
-      "explanation_ar": "مرادف \"سعيد\" هو \"فرح\" لأنهما تعبّران عن نفس الشعور.",
+      "explanation_ar": "فهم الأضداد يساعد على زيادة الثروة اللغوية وفهم معاني النصوص.",
       "test_type": "adaptive",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [],
-      "question_ar": "ما المرادف الأقرب لكلمة \"سعيد\"؟",
-      "explanation_en": "\"Farah\" means happy; it is a synonym of \"happy\".",
+      "matching_pairs_en": [
+        {
+          "left": "Wide",
+          "right": "Narrow"
+        },
+        {
+          "left": "Full",
+          "right": "Empty"
+        },
+        {
+          "left": "Strong",
+          "right": "Weak"
+        },
+        {
+          "left": "Clean",
+          "right": "Dirty"
+        }
+      ],
+      "question_ar": "صِل الكلمة بضدها (عكسها) من الكلمات التالية:",
+      "explanation_en": "Understanding opposites helps increase vocabulary and comprehension of texts.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Which word is closest in meaning to \"happy\"?",
+      "matching_pairs_ar": [
+        {
+          "left": "واسع",
+          "right": "ضيق"
+        },
+        {
+          "left": "ممتلئ",
+          "right": "فارغ"
+        },
+        {
+          "left": "قوي",
+          "right": "ضعيف"
+        },
+        {
+          "left": "نظيف",
+          "right": "متسخ"
+        }
+      ],
+      "question_en": "Match the word to its opposite from the following words:",
       "classify_categories_en": [],
       "classify_items_ar": [],
-      "options_ar": [
-        "فرح",
-        "حزين",
-        "جائع",
-        "كبير"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea90",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "options_ar": [],
+      "id": "6a4a60066ec4f874003baa5d",
+      "created_date": "2026-07-05T13:45:42.738000",
+      "updated_date": "2026-07-05T13:45:42.738000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
       "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "They played ball",
-        "They went to school",
-        "They slept at home",
-        "They ran in the market"
-      ],
-      "correct_answer": "0",
-      "ordering_items_en": [],
-      "topic_en": "Reading and Comprehension",
-      "explanation_ar": "النص يقول أنهم لعبوا كرة في الحديقة؛ لذلك الإجابة الصحيحة \"لعبوا كرة\".",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "قراءة وفهم",
-      "matching_pairs_en": [],
-      "question_ar": "العائلة ذهبت إلى الحديقة. أخذوا سلة طعام ولعبوا كرة. ماذا فعلوا في الحديقة؟",
-      "explanation_en": "The text says they played ball in the park; so the correct answer is \"They played ball.\"",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "The family went to the park. They took a picnic basket and played ball. What did they do in the park?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "لعبوا كرة",
-        "ذهبوا إلى المدرسة",
-        "ناموا في البيت",
-        "ركضوا في السوق"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea91",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Square",
-        "Rectangle",
-        "Triangle",
-        "Circle"
-      ],
-      "correct_answer": "0",
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "المربع له أربع أضلاع متساوية وزوايا قائمة. المستطيل زواياه قائمة لكن أضلاعه ليست كلها متساوية.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "أي الشكل له أربع أضلاع متساوية وزوايا قائمة؟",
-      "explanation_en": "A square has four equal sides and right angles. A rectangle has right angles but not all sides equal.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Which shape has four equal sides and right angles?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "مربع",
-        "مستطيل",
-        "مثلث",
-        "دائرة"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea92",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "The ruler",
-        "The pen",
-        "They are the same length",
-        "I don't know"
-      ],
-      "correct_answer": "0",
-      "ordering_items_en": [],
-      "topic_en": "Units and Measurement",
-      "explanation_ar": "30 سم أكبر من 15 سم، إذن المسطرة أطول من القلم.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الوحدات والقياس",
-      "matching_pairs_en": [],
-      "question_ar": "مسطرة طولها 30 سم وقلم طولها 15 سم. أيهما أطول؟",
-      "explanation_en": "30 cm is greater than 15 cm, so the ruler is longer than the pen.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "A ruler is 30 cm long and a pen is 15 cm long. Which is longer?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "المسطرة",
-        "القلم",
-        "طولا متساويان",
-        "لا أعرف"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea93",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1/2",
-        "1/3",
-        "2/3",
-        "1/4"
-      ],
-      "correct_answer": "0",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "تم تلوين جزء واحد من جزئين متساويين، أي 1 من 2 = 1/2.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "مربع مقسم إلى جزئين متساويين وتم تلوين جزء واحد. أي كسر يمثل الجزء الملون؟",
-      "explanation_en": "One of two equal parts is colored, which is 1 out of 2 = 1/2.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "A square is divided into two equal parts and one part is colored. Which fraction shows the colored part?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "1/2",
-        "1/3",
-        "2/3",
-        "1/4"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea94",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Patterns and Sequences",
-      "explanation_ar": "الأعداد تزداد بمقدار 2 كل مرة: 2،4،6،التالي 8.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأنماط والتسلسل",
-      "matching_pairs_en": [],
-      "question_ar": "ما العدد التالي في المتتالية 2, 4, 6, ... ؟",
-      "explanation_en": "Numbers increase by 2 each time: 2, 4, 6, next is 8.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "What is the next number in the sequence 2, 4, 6, ...?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea95",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "8",
-        "11",
-        "14",
-        "20"
-      ],
-      "correct_answer": "1",
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
       "ordering_items_en": [],
       "topic_en": "Even and Odd Numbers",
-      "explanation_ar": "11 عدد فردي لأن لا يقبل القسمة على 2 بدون باقي.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأعداد الزوجية والفردية",
-      "matching_pairs_en": [],
-      "question_ar": "أي من الأعداد التالية عدد فردي؟",
-      "explanation_en": "11 is odd because it cannot be divided by 2 without a remainder.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Which of the following numbers is odd?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "8",
-        "11",
-        "14",
-        "20"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea96",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1 riyal",
-        "2 riyals",
-        "5 riyals",
-        "10 riyals"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Coins and Money",
-      "explanation_ar": "1 ريال + 1 ريال = 2 ريال، إذاً المجموع هو 2 ريال.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [],
-      "question_ar": "لديك عملتان كل واحدة قيمتها 1 ريال. كم مجموع ما لديك؟",
-      "explanation_en": "1 riyal + 1 riyal = 2 riyals, so the total is 2 riyals.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "You have two coins, each worth 1 riyal. How much money do you have in total?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "1 ريال",
-        "2 ريال",
-        "5 ريال",
-        "10 ريال"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea97",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Stupid",
-        "Clever",
-        "Strong",
-        "Tall"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Words and Synonyms",
-      "explanation_ar": "\"فطن\" يعني ذكي ومتفهم، لذا هو المرادف الصحيح.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [],
-      "question_ar": "ما المرادف الأقرب لكلمة \"ذكي\"؟",
-      "explanation_en": "\"Fatin\" means clever or smart, so it is the correct synonym.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Which word is closest in meaning to \"smart\"?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "غبي",
-        "فطن",
-        "قوي",
-        "طويل"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea98",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "2",
-        "3",
-        "4",
-        "1"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "المثلث له ثلاث زوايا دائمًا، لذلك الإجابة هي 3.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "كم زاوية في المثلث؟",
-      "explanation_en": "A triangle always has three angles, so the answer is 3.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "How many angles does a triangle have?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "2",
-        "3",
-        "4",
-        "1"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea99",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "correct_answer": ":",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "7 − 2 − 3 = 2. لذا تبقى تفاحتان.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "في سلةٍ هناك 7 تفاحات. أكلتُ 2 ثم أعطيتُ صديقي 3. كم تفاحة تبقت؟",
-      "explanation_en": "7 − 2 − 3 = 2. So 2 apples remain.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "There are 7 apples in a basket. I ate 2 and then gave 3 to my friend. How many apples are left?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea9a",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "15",
-        "16",
-        "17",
-        "18"
-      ],
-      "correct_answer": ":",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "9 + 8 = 17 (نجمع 9 و8).",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "ما ناتج 9 + 8؟",
-      "explanation_en": "9 + 8 = 17 (add 9 and 8).",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "What is 9 + 8?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "15",
-        "16",
-        "17",
-        "18"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea9b",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "10",
-        "11",
-        "12",
-        "13"
-      ],
-      "correct_answer": ":",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication",
-      "explanation_ar": "3 × 4 = 12، أو 4 + 4 + 4 = 12.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الضرب",
-      "matching_pairs_en": [],
-      "question_ar": "هناك 3 مجموعات، كل مجموعة بها 4 أشياء. كم عدد الأشياء كلها؟",
-      "explanation_en": "3 × 4 = 12, or 4 + 4 + 4 = 12.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "There are 3 groups with 4 items each. How many items are there in total?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "10",
-        "11",
-        "12",
-        "13"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea9c",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "3",
-        "4",
-        "6",
-        "9"
-      ],
-      "correct_answer": ":",
-      "ordering_items_en": [],
-      "topic_en": "Division",
-      "explanation_ar": "12 ÷ 3 = 4. كل صديق يحصل على 4 حبات.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "القسمة",
-      "matching_pairs_en": [],
-      "question_ar": "لديك 12 حبة وتريد تقسيمها على 3 أصدقاء بالتساوي. كم حبة يحصل كل واحد؟",
-      "explanation_en": "12 ÷ 3 = 4. Each friend gets 4 items.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "You have 12 items and want to divide them equally among 3 friends. How many does each get?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "3",
-        "4",
-        "6",
-        "9"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea9d",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "sad",
-        "joyful",
-        "big",
-        "fast"
-      ],
-      "correct_answer": ":",
-      "ordering_items_en": [],
-      "topic_en": "Words and Synonyms",
-      "explanation_ar": "كلمة \"مسرور\" تعني سعيد، فهي المرادف الصحيح.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [],
-      "question_ar": "مرادف كلمة \"سعيد\" هو أيٌّ من التالي؟",
-      "explanation_en": "\"Musrur\" (joyful) means happy, so it is the correct synonym.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Which of the following is a synonym of the word \"happy\"?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "حزين",
-        "مسرور",
-        "كبير",
-        "سريع"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea9e",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "correct_answer": ":",
-      "ordering_items_en": [],
-      "topic_en": "Reading and Comprehension",
-      "explanation_ar": "في الحقيبة الأولى يوجد كتابان، والحقيبة الثانية تحتوي قلمًا واحدًا فقط. إذًا عدد الكتب = 2.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "قراءة وفهم",
-      "matching_pairs_en": [],
-      "question_ar": "النص: عادل يحمل حقيبة فيها كتابين وحقيبة أخرى فيها قلم واحد. سؤال: كم كتابًا مع عادل؟",
-      "explanation_en": "The first bag has 2 books and the second bag has only 1 pencil. So number of books = 2.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Passage: Adel carries one bag with two books and another bag with one pencil. Question: How many books does Adel have?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea9f",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "square",
-        "rectangle",
-        "triangle",
-        "circle"
-      ],
-      "correct_answer": ":",
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "المربع له أربعة أضلاع متساوية وزوايا قائمة.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "أي شكل له 4 أضلاع متساوية و4 زوايا قائمة؟",
-      "explanation_en": "A square has four equal sides and right angles.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Which shape has 4 equal sides and 4 right angles?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "مربع",
-        "مستطيل",
-        "مثلث",
-        "دائرة"
-      ],
-      "id": "6a49fedb9177d9ef1c14eaa0",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "5 cm",
-        "10 cm",
-        "15 cm",
-        "20 cm"
-      ],
-      "correct_answer": ":",
-      "ordering_items_en": [],
-      "topic_en": "Units and Measurement",
-      "explanation_ar": "15 − 5 = 10 سم الفرق بين الطولين.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الوحدات والقياس",
-      "matching_pairs_en": [],
-      "question_ar": "طول القلم 15 سم وطول الممحاة 5 سم. ما الفرق في الطول؟",
-      "explanation_en": "15 − 5 = 10 cm difference in length.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "A pencil is 15 cm long and an eraser is 5 cm long. What is the difference in length?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "5 سم",
-        "10 سم",
-        "15 سم",
-        "20 سم"
-      ],
-      "id": "6a49fedb9177d9ef1c14eaa1",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "one quarter",
-        "one half",
-        "one third",
-        "three quarters"
-      ],
-      "correct_answer": ":",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "بعد أكل جزء واحد من جزئين متساويين يبقى نصف الكعكة.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "قسّمت كعكة إلى جزئين متساويين وأكلت جزءًا واحدًا. أي جزء تبقى؟",
-      "explanation_en": "After eating one of the two equal parts, one half remains.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "I divided a cake into two equal parts and ate one part. Which part remains?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "ربع",
-        "نصف",
-        "ثلث",
-        "ثلاثة أرباع"
-      ],
-      "id": "6a49fedb9177d9ef1c14eaa2",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "correct_answer": ":",
-      "ordering_items_en": [],
-      "topic_en": "Patterns and Sequences",
-      "explanation_ar": "النمط يزيد بمقدار 2 كل مرة: 2،4،6،8.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الأنماط والتسلسل",
-      "matching_pairs_en": [],
-      "question_ar": "أكمل المتسلسلة: 2، 4، 6، ؟",
-      "explanation_en": "The pattern increases by 2 each time: 2, 4, 6, 8.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Complete the sequence: 2, 4, 6, ?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "id": "6a49fedb9177d9ef1c14eaa3",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "14",
-        "17",
-        "22",
-        "8"
-      ],
-      "correct_answer": ":",
-      "ordering_items_en": [],
-      "topic_en": "Even and Odd Numbers",
-      "explanation_ar": "17 عدد فردي لأنّه لا يقبل القسمة على 2 بدون باقٍ.",
+      "explanation_ar": "الأعداد الزوجية هي التي يمكن تقسيمها إلى زوجين متساويين، أما الفردية فيبقى منها واحد.",
       "test_type": "adaptive",
       "difficulty": "hard",
       "topic_ar": "الأعداد الزوجية والفردية",
       "matching_pairs_en": [],
-      "question_ar": "اختر العدد الفردي من الأعداد التالية: 14، 17، 22، 8.",
-      "explanation_en": "17 is odd because it is not divisible by 2 evenly.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
+      "question_ar": "صنف الأعداد التالية إلى زوجية أو فردية:",
+      "explanation_en": "Even numbers can be divided into equal pairs, while odd numbers always have one left over.",
+      "classify_categories_ar": [
+        "أعداد زوجية",
+        "أعداد فردية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "2"
+        },
+        {
+          "correct_category": 1,
+          "item": "7"
+        },
+        {
+          "correct_category": 0,
+          "item": "10"
+        },
+        {
+          "correct_category": 1,
+          "item": "15"
+        },
+        {
+          "correct_category": 0,
+          "item": "18"
+        },
+        {
+          "correct_category": 1,
+          "item": "3"
+        }
+      ],
       "grade": 1,
       "matching_pairs_ar": [],
-      "question_en": "Choose the odd number from the following: 14, 17, 22, 8.",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "14",
-        "17",
-        "22",
-        "8"
+      "question_en": "Classify the following numbers into Even or Odd:",
+      "classify_categories_en": [
+        "Even Numbers",
+        "Odd Numbers"
       ],
-      "id": "6a49fedb9177d9ef1c14eaa4",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "2"
+        },
+        {
+          "correct_category": 1,
+          "item": "7"
+        },
+        {
+          "correct_category": 0,
+          "item": "10"
+        },
+        {
+          "correct_category": 1,
+          "item": "15"
+        },
+        {
+          "correct_category": 0,
+          "item": "18"
+        },
+        {
+          "correct_category": 1,
+          "item": "3"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4a60066ec4f874003baa64",
+      "created_date": "2026-07-05T13:45:42.738000",
+      "updated_date": "2026-07-05T13:45:42.738000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
       "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "0 halala",
-        "50 halala",
-        "100 halala",
-        "150 halala"
-      ],
-      "correct_answer": ":",
-      "ordering_items_en": [],
-      "topic_en": "Coins and Money",
-      "explanation_ar": "1 ريال و50 هللة = 150 هللة. بعد دفع 100 هللة (1 ريال) يبقى 50 هللة.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [],
-      "question_ar": "محمد لديه 1 ريال و50 هللة، واشترى شيئًا ثمنه 1 ريال. كم هللة تبقت لديه؟",
-      "explanation_en": "1 riyal 50 halala = 150 halala. After paying 100 halala (1 riyal) he has 50 halala left.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Mohammed has 1 riyal and 50 halala. He buys something that costs 1 riyal. How many halalas remain?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "0 هللة",
-        "50 هللة",
-        "100 هللة",
-        "150 هللة"
-      ],
-      "id": "6a49fedb9177d9ef1c14eaa5",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "correct_answer": ":",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Subtraction (combined)",
-      "explanation_ar": "المجموع = 3×4 = 12 ثم 12 − 5 = 7. إذًا تبقى 7 كرات.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الضرب والطرح (مسألة مركبة)",
-      "matching_pairs_en": [],
-      "question_ar": "هناك 3 صفوف كل صف يحتوي 4 كرات. أعطيتُ صديقتي 5 كرات. كم تبقى لدي؟",
-      "explanation_en": "Total = 3×4 = 12, then 12 − 5 = 7. So 7 balls remain.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "There are 3 rows with 4 balls each. I gave my friend 5 balls. How many balls do I have left?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "id": "6a49fedb9177d9ef1c14eaa6",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "4",
-        "5",
-        "6",
-        "8"
-      ],
-      "correct_answer": ":",
-      "ordering_items_en": [],
-      "topic_en": "Division and Sharing",
-      "explanation_ar": "10 ÷ 2 = 5. تستطيع ملء 5 سلال كلٌّ منها بها 2 تفاحة.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "القسمة والتوزيع",
-      "matching_pairs_en": [],
-      "question_ar": "لديك 10 تفاحات وتريد وضع 2 تفاحة في كل سلة. كم سلة ستملأ بالكامل؟",
-      "explanation_en": "10 ÷ 2 = 5. You can fill 5 baskets with 2 apples each.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "You have 10 apples and want to put 2 apples in each basket. How many baskets will you fill completely?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "4",
-        "5",
-        "6",
-        "8"
-      ],
-      "id": "6a49fedb9177d9ef1c14eaa7",
-      "created_date": "2026-07-05T06:51:07.740000",
-      "updated_date": "2026-07-05T06:51:07.740000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "4",
-        "5",
-        "6",
-        "3"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "3 زائد 2 يساوي 5. نجمع الثلاثة مع الاثنين فنحصل على خمسة.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "ما حاصل 3 + 2 ؟",
-      "explanation_en": "3 plus 2 equals 5. Add three and two to get five.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "What is 3 + 2?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "4",
-        "5",
-        "6",
-        "3"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea7e",
-      "created_date": "2026-07-05T06:51:07.739000",
-      "updated_date": "2026-07-05T06:51:07.739000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "3",
-        "4",
-        "5",
-        "2"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "5 ناقص 1 يساوي 4. نأخذ واحداً من خمسة فيتبقى أربعة.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "ما حاصل 5 - 1 ؟",
-      "explanation_en": "5 minus 1 equals 4. Take one away from five and four remain.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "What is 5 - 1?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "3",
-        "4",
-        "5",
-        "2"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea7f",
-      "created_date": "2026-07-05T06:51:07.739000",
-      "updated_date": "2026-07-05T06:51:07.739000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "correct_answer": "1",
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
       "ordering_items_en": [],
       "topic_en": "Multiplication and Division",
-      "explanation_ar": "2 مضروبًا في 1 يبقى 2. أي مجموع مجموعة واحدة من العدد 2.",
+      "explanation_ar": "المجموعات المتساوية هي أساس مفهوم الضرب (الجمع المتكرر).",
       "test_type": "adaptive",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "topic_ar": "الضرب والقسمة",
       "matching_pairs_en": [],
-      "question_ar": "ما حاصل 2 × 1 ؟",
-      "explanation_en": "2 times 1 is 2. It's one group of two.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
+      "question_ar": "صنف المجموعات إلى مجموعات متساوية أو غير متساوية:",
+      "explanation_en": "Equal groups are the foundation of multiplication (repeated addition).",
+      "classify_categories_ar": [
+        "مجموعات متساوية",
+        "مجموعات غير متساوية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "3 plates with 2 apples each"
+        },
+        {
+          "correct_category": 1,
+          "item": "Bag with 5 balls and bag with 3 balls"
+        },
+        {
+          "correct_category": 0,
+          "item": "2 pencils in each of 4 pencil cases"
+        },
+        {
+          "correct_category": 1,
+          "item": "Box with 10 gifts and box with 2"
+        }
+      ],
       "grade": 1,
       "matching_pairs_ar": [],
-      "question_en": "What is 2 × 1?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "1",
-        "2",
-        "3",
-        "4"
+      "question_en": "Classify the groups into Equal Groups or Unequal Groups:",
+      "classify_categories_en": [
+        "Equal Groups",
+        "Unequal Groups"
       ],
-      "id": "6a49fedb9177d9ef1c14ea80",
-      "created_date": "2026-07-05T06:51:07.739000",
-      "updated_date": "2026-07-05T06:51:07.739000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "3 أطباق في كل منها تفاحتان"
+        },
+        {
+          "correct_category": 1,
+          "item": "كيس فيه 5 كرات وكيس فيه 3 كرات"
+        },
+        {
+          "correct_category": 0,
+          "item": "قلمان في كل مقلمة من 4 مقلمات"
+        },
+        {
+          "correct_category": 1,
+          "item": "صندوق فيه 10 هدايا وصندوق فيه 2"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4a60066ec4f874003baa67",
+      "created_date": "2026-07-05T13:45:42.738000",
+      "updated_date": "2026-07-05T13:45:42.738000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
       "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "correct_answer": "1",
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
       "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "4 مقسومة على 2 تساوي 2. كل طفل يحصل على(2) بسكوتتين.",
+      "topic_en": "Addition and Subtraction",
+      "explanation_ar": "في الصف الأول، نتعلم الجمع والطرح ضمن العدد 20 باستخدام استراتيجيات مثل العد التنازلي أو حقائق الأعداد.",
       "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "لديك 4 بسكويتات توزعها على طفلين بالتساوي. كم يحصل كل طفل؟",
-      "explanation_en": "4 divided by 2 equals 2. Each child gets 2 cookies.",
+      "difficulty": "hard",
+      "topic_ar": "الجمع والطرح",
+      "matching_pairs_en": [
+        {
+          "left": "15 - 7",
+          "right": "8"
+        },
+        {
+          "left": "12 + 6",
+          "right": "18"
+        },
+        {
+          "left": "20 - 5",
+          "right": "15"
+        },
+        {
+          "left": "9 + 4",
+          "right": "13"
+        }
+      ],
+      "question_ar": "صِل الجملة العددية بنتيجتها الصحيحة (طرح وجمع حتى 20):",
+      "explanation_en": "In Grade 1, we learn addition and subtraction within 20 using strategies like counting back or number facts.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "You have 4 cookies and share them equally between 2 children. How many does each child get?",
+      "matching_pairs_ar": [
+        {
+          "left": "15 - 7",
+          "right": "8"
+        },
+        {
+          "left": "12 + 6",
+          "right": "18"
+        },
+        {
+          "left": "20 - 5",
+          "right": "15"
+        },
+        {
+          "left": "9 + 4",
+          "right": "13"
+        }
+      ],
+      "question_en": "Match the number sentence to its correct result (Addition and Subtraction up to 20):",
       "classify_categories_en": [],
       "classify_items_ar": [],
-      "options_ar": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea81",
-      "created_date": "2026-07-05T06:51:07.739000",
-      "updated_date": "2026-07-05T06:51:07.739000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "options_ar": [],
+      "id": "6a4a60066ec4f874003baa5c",
+      "created_date": "2026-07-05T13:45:42.738000",
+      "updated_date": "2026-07-05T13:45:42.738000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "sad",
-        "cheerful",
-        "glad",
-        "small"
+      "ordering_items_ar": [
+        "أفهم",
+        "أخطط",
+        "أحل",
+        "أتحقق"
       ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Words and Synonyms",
-      "explanation_ar": "مسرور هو مرادف لكلمة سعيد. يعني نفس المعنى: فرحان.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [],
-      "question_ar": "ما مرادف كلمة \"سعيد\"؟",
-      "explanation_en": "Glad (مسرور) is a synonym of happy (سعيد). It means feeling joyful.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "What is a synonym for the word \"happy\" (سعيد)?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "حزين",
-        "مرح",
-        "مسرور",
-        "صغير"
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Understand",
+        "Plan",
+        "Solve",
+        "Check"
       ],
-      "id": "6a49fedb9177d9ef1c14ea82",
-      "created_date": "2026-07-05T06:51:07.739000",
-      "updated_date": "2026-07-05T06:51:07.739000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Lolo",
-        "Mary",
-        "cat",
-        "play"
-      ],
-      "correct_answer": "0",
-      "ordering_items_en": [],
-      "topic_en": "Reading and Comprehension",
-      "explanation_ar": "في الجملة ذُكر أن اسم القطة هو لولو.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "قراءة وفهم",
-      "matching_pairs_en": [],
-      "question_ar": "القصة: \"قطة اسمها لولو تحب اللعب.\" ما اسم القطة؟",
-      "explanation_en": "The sentence says the cat's name is Lolo.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Passage: \"A cat named Lolo likes to play.\" What is the cat's name?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "لولو",
-        "مريم",
-        "قطة",
-        "لعب"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea83",
-      "created_date": "2026-07-05T06:51:07.739000",
-      "updated_date": "2026-07-05T06:51:07.739000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Rectangle",
-        "Circle",
-        "Triangle",
-        "Square"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "المثلث له ثلاثة أضلاع. الدائرة ليس لها أضلاع، والمربع والمستطيل لهما أربعة أضلاع.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "أي شكل له ثلاثة أضلاع؟",
-      "explanation_en": "A triangle has three sides. A circle has none; a square and rectangle have four.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Which shape has three sides?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "مستطيل",
-        "دائرة",
-        "مثلث",
-        "مربع"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea84",
-      "created_date": "2026-07-05T06:51:07.739000",
-      "updated_date": "2026-07-05T06:51:07.739000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Scale",
-        "Ruler",
-        "Clock",
-        "Pencil"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Units and Measurement",
-      "explanation_ar": "نستخدم المسطرة لقياس الطول بالسنتيمتر أو بالمليمتر.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الوحدات والقياس",
-      "matching_pairs_en": [],
-      "question_ar": "ما الأداة التي نستخدمها لقياس الطول؟",
-      "explanation_en": "We use a ruler to measure length in centimeters or millimeters.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Which tool do we use to measure length?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "ميزان",
-        "مسطرة",
-        "ساعة",
-        "قلم"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea85",
-      "created_date": "2026-07-05T06:51:07.739000",
-      "updated_date": "2026-07-05T06:51:07.739000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Quarter",
-        "Half",
-        "Eighth",
-        "Whole"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "عندما نقسم الشيء إلى جزئين متساويين، فكل جزء يسمى نصف.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "إذا قسمت تفاحة إلى نصفين، كل قطعة تسمى؟",
-      "explanation_en": "When something is split into two equal parts, each part is called a half.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "If an apple is cut into two equal parts, each part is called a ____?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "ربع",
-        "نصف",
-        "ثمن",
-        "كمل"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea86",
-      "created_date": "2026-07-05T06:51:07.739000",
-      "updated_date": "2026-07-05T06:51:07.739000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Circle",
-        "Triangle",
-        "Square",
-        "Rectangle"
-      ],
-      "correct_answer": "0",
-      "ordering_items_en": [],
       "topic_en": "Patterns and Sequences",
-      "explanation_ar": "النمط يتكرر دائماً: دائرة ثم مربع، إذاً التالي هو دائرة.",
+      "explanation_ar": "هذه هي الخطوات الأربع المعتمدة في المنهج السعودي لحل أي مسألة رياضية.",
       "test_type": "adaptive",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "topic_ar": "الأنماط والتسلسل",
       "matching_pairs_en": [],
-      "question_ar": "أكمل النمط: دائرة، مربع، دائرة، مربع، ... ما التالي؟",
-      "explanation_en": "The pattern alternates circle then square, so the next is circle.",
+      "question_ar": "رتّب خطوات حل المسألة الرياضية بالترتيب الصحيح:",
+      "explanation_en": "These are the four steps approved in the Saudi curriculum for solving any math problem.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 1,
       "matching_pairs_ar": [],
-      "question_en": "Complete the pattern: circle, square, circle, square, ... What comes next?",
+      "question_en": "Order the steps of solving a math problem in the correct order:",
       "classify_categories_en": [],
       "classify_items_ar": [],
-      "options_ar": [
-        "دائرة",
-        "مثلث",
-        "مربع",
-        "مستطيل"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea87",
-      "created_date": "2026-07-05T06:51:07.739000",
-      "updated_date": "2026-07-05T06:51:07.739000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "options_ar": [],
+      "id": "6a4a60066ec4f874003baa63",
+      "created_date": "2026-07-05T13:45:42.738000",
+      "updated_date": "2026-07-05T13:45:42.738000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
       "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "2",
-        "4",
-        "7",
-        "8"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Even and Odd Numbers",
-      "explanation_ar": "7 عدد فردي لأنه لا يقسم إلى مجموعات من اثنين بدون باقي.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الأعداد الزوجية والفردية",
-      "matching_pairs_en": [],
-      "question_ar": "أي من الأعداد التالية عدد فردي؟",
-      "explanation_en": "7 is odd because it cannot be split into equal groups of two without a remainder.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Which of the following is an odd number?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "2",
-        "4",
-        "7",
-        "8"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea88",
-      "created_date": "2026-07-05T06:51:07.739000",
-      "updated_date": "2026-07-05T06:51:07.739000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1 riyal",
-        "2 riyals",
-        "3 riyals",
-        "5 riyals"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Coins and Money",
-      "explanation_ar": "5 ناقص 3 يساوي 2. يبقى معك ريالان.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [],
-      "question_ar": "إذا كان معك 5 ريالات واشتريت لعبة ب3 ريالات، كم يبقى معك؟",
-      "explanation_en": "5 minus 3 equals 2. You have 2 riyals left.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "You have 5 riyals and buy a toy for 3 riyals. How much money do you have left?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "1 ريال",
-        "2 ريال",
-        "3 ريال",
-        "5 ريال"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea89",
-      "created_date": "2026-07-05T06:51:07.739000",
-      "updated_date": "2026-07-05T06:51:07.739000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "6 مقسومة على 3 تساوي 2. كل طفل يحصل على قطعتين.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "لديك 6 حلوى توزعها على 3 أطفال بالتساوي. كم يحصل كل طفل؟",
-      "explanation_en": "6 divided by 3 equals 2. Each child gets 2 sweets.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "You have 6 sweets and share them equally between 3 children. How many does each child get?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea8a",
-      "created_date": "2026-07-05T06:51:07.739000",
-      "updated_date": "2026-07-05T06:51:07.739000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "small",
-        "large",
-        "fast",
-        "hot"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Words and Synonyms",
-      "explanation_ar": "كلمة \"ضخم\" تعني كبير، فهي مرادف صحيح لكلمة كبير.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [],
-      "question_ar": "ما مرادف كلمة \"كبير\"؟",
-      "explanation_en": "\"Large\" (ضخم) means big, so it is a correct synonym for big.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "What is a synonym for the word \"big\" (كبير)?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "صغير",
-        "ضخم",
-        "سريع",
-        "ساخن"
-      ],
-      "id": "6a49fedb9177d9ef1c14ea8b",
-      "created_date": "2026-07-05T06:51:07.739000",
-      "updated_date": "2026-07-05T06:51:07.739000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "5 Riyals",
-        "10 Riyals",
-        "15 Riyals",
-        "20 Riyals"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Currency and Money",
-      "explanation_ar": "5 + 5 = 10 ريالات.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [],
-      "question_ar": "قطعتان نقديتان من فئة 5 ريالات، كم تساوي؟",
-      "explanation_en": "5 + 5 = 10 Riyals.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Two 5-riyal coins/notes, how much do they equal?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "5 ريالات",
-        "10 ريالات",
-        "15 ريالاً",
-        "20 ريالاً"
-      ],
-      "id": "6a49fed267bf3e0cd87cc00b",
-      "created_date": "2026-07-05T06:50:58.571000",
-      "updated_date": "2026-07-05T06:50:58.571000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "3 sides",
-        "5 sides",
-        "4 sides",
-        "6 sides"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "المربع له أربعة أضلاع متساوية في الطول.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "كم عدداً للأضلاع في المربع؟",
-      "explanation_en": "A square has four sides of equal length.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "How many sides does a square have?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "3 أضلاع",
-        "5 أضلاع",
-        "4 أضلاع",
-        "6 أضلاع"
-      ],
-      "id": "6a49fed267bf3e0cd87cc00c",
-      "created_date": "2026-07-05T06:50:58.571000",
-      "updated_date": "2026-07-05T06:50:58.571000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "4",
-        "5",
-        "6",
-        "3"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "عند إضافة ٢ إلى ٣ يكون المجموع ٥.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "ما هو ناتج جمع ٢ + ٣؟",
-      "explanation_en": "When adding 2 to 3, the total is 5.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "What is the result of 2 + 3?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "٤",
-        "٥",
-        "٦",
-        "٣"
-      ],
-      "id": "6a49fed267bf3e0cd87cbff1",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "عندما ننقص ٢ من ٥ يتبقى لدينا ٣.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "ما هو ناتج طرح ٥ - ٢؟",
-      "explanation_en": "When we subtract 2 from 5, we are left with 3.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "What is the result of 5 - 2?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "١",
-        "٢",
-        "٣",
-        "٤"
-      ],
-      "id": "6a49fed267bf3e0cd87cbff2",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "مجموعتان من ٢ تعني ٢ + ٢ ويساوي ٤ (مفهوم الضرب الأولي).",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "مجموعتان في كل منها ٢، كم العدد الكلي؟",
-      "explanation_en": "Two groups of 2 means 2 + 2, which equals 4 (basic multiplication concept).",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Two groups of 2 each, what is the total number?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "٢",
-        "٣",
-        "٤",
-        "٥"
-      ],
-      "id": "6a49fed267bf3e0cd87cbff3",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Garden",
-        "School",
-        "House",
-        "Street"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Words and Synonyms",
-      "explanation_ar": "كلمة منزل وكلمة بيت لهما نفس المعنى.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [],
-      "question_ar": "ما مرادف كلمة (منزل)؟",
-      "explanation_en": "The words 'Manzil' and 'Bayt' (House) have the same meaning.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "What is the synonym of the word (Home)?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "حديقة",
-        "مدرسة",
-        "بيت",
-        "شارع"
-      ],
-      "id": "6a49fed267bf3e0cd87cbff4",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Mohammed",
-        "Khalid",
-        "Ahmed",
-        "Saad"
-      ],
-      "correct_answer": "2",
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
       "ordering_items_en": [],
       "topic_en": "Reading and Comprehension",
-      "explanation_ar": "الجملة تذكر بوضوح أن أحمد هو من قام بالأكل.",
+      "explanation_ar": "الاسم يدل على شخص أو مكان أو شيء، والفعل يدل على حدث أو حركة.",
       "test_type": "adaptive",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "topic_ar": "قراءة وفهم",
       "matching_pairs_en": [],
-      "question_ar": "أكل أحمد التفاحة. من الذي أكل التفاحة؟",
-      "explanation_en": "The sentence clearly states that Ahmed is the one who ate.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
+      "question_ar": "صنف الكلمات التالية إلى (أسماء) أو (أفعال):",
+      "explanation_en": "A noun refers to a person, place, or thing, while a verb refers to an action.",
+      "classify_categories_ar": [
+        "أسماء",
+        "أفعال"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "School"
+        },
+        {
+          "correct_category": 1,
+          "item": "Writes"
+        },
+        {
+          "correct_category": 0,
+          "item": "Noura"
+        },
+        {
+          "correct_category": 1,
+          "item": "Jumped"
+        },
+        {
+          "correct_category": 0,
+          "item": "Book"
+        },
+        {
+          "correct_category": 1,
+          "item": "Plays"
+        }
+      ],
       "grade": 1,
       "matching_pairs_ar": [],
-      "question_en": "Ahmed ate the apple. Who ate the apple?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "محمد",
-        "خالد",
-        "أحمد",
-        "سعد"
+      "question_en": "Classify the following words into (Nouns) or (Verbs):",
+      "classify_categories_en": [
+        "Nouns",
+        "Verbs"
       ],
-      "id": "6a49fed267bf3e0cd87cbff5",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "مدرسة"
+        },
+        {
+          "correct_category": 1,
+          "item": "يَكتُبُ"
+        },
+        {
+          "correct_category": 0,
+          "item": "نُورة"
+        },
+        {
+          "correct_category": 1,
+          "item": "قَفَزَ"
+        },
+        {
+          "correct_category": 0,
+          "item": "كِتاب"
+        },
+        {
+          "correct_category": 1,
+          "item": "يَلْعَبُ"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4a60066ec4f874003baa66",
+      "created_date": "2026-07-05T13:45:42.738000",
+      "updated_date": "2026-07-05T13:45:42.738000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
       "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Square",
-        "Triangle",
-        "Circle",
-        "Rectangle"
-      ],
-      "correct_answer": "1",
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
       "ordering_items_en": [],
       "topic_en": "Geometric Shapes",
-      "explanation_ar": "المثلث هو الشكل الهندسي الذي يتميز بوجود ٣ أضلاع.",
+      "explanation_ar": "المجسمات لها أبعاد وخصائص تميزها عن الأشكال المستوية.",
       "test_type": "adaptive",
-      "difficulty": "easy",
+      "difficulty": "hard",
       "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "أي شكل له ٣ أضلاع و ٣ رؤوس؟",
-      "explanation_en": "A triangle is the geometric shape characterized by having 3 sides.",
+      "matching_pairs_en": [
+        {
+          "left": "Cube",
+          "right": "Has 6 square faces"
+        },
+        {
+          "left": "Sphere",
+          "right": "Has no faces or vertices"
+        },
+        {
+          "left": "Cone",
+          "right": "Has one vertex and circular base"
+        },
+        {
+          "left": "Cylinder",
+          "right": "Has two circular bases"
+        }
+      ],
+      "question_ar": "صِل المجسم بخصائصه الصحيحة:",
+      "explanation_en": "3D shapes have dimensions and properties that distinguish them from 2D shapes.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Which shape has 3 sides and 3 vertices?",
+      "matching_pairs_ar": [
+        {
+          "left": "المكعب",
+          "right": "له 6 أوجه مربعة"
+        },
+        {
+          "left": "الكرة",
+          "right": "ليس لها أوجه أو رؤوس"
+        },
+        {
+          "left": "المخروط",
+          "right": "له رأس واحد وقاعدة دائرية"
+        },
+        {
+          "left": "الأسطوانة",
+          "right": "لها قاعدتان دائريتان"
+        }
+      ],
+      "question_en": "Match the 3D shape to its correct properties:",
       "classify_categories_en": [],
       "classify_items_ar": [],
-      "options_ar": [
-        "المربع",
-        "المثلث",
-        "الدائرة",
-        "المستطيل"
-      ],
-      "id": "6a49fed267bf3e0cd87cbff6",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "options_ar": [],
+      "id": "6a4a60066ec4f874003baa5e",
+      "created_date": "2026-07-05T13:45:42.738000",
+      "updated_date": "2026-07-05T13:45:42.738000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Ruler",
-        "Scale",
-        "Clock",
-        "Cup"
-      ],
-      "correct_answer": "0",
-      "ordering_items_en": [],
-      "topic_en": "Units and Measurement",
-      "explanation_ar": "نستخدم المسطرة لقياس الأطوال الصغيرة مثل القلم.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الوحدات والقياس",
-      "matching_pairs_en": [],
-      "question_ar": "ما الأداة التي نستخدمها لقياس طول القلم؟",
-      "explanation_en": "We use a ruler to measure small lengths like a pencil.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Which tool do we use to measure the length of a pencil?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "المسطرة",
-        "الميزان",
-        "الساعة",
-        "الكوب"
-      ],
-      "id": "6a49fed267bf3e0cd87cbff7",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Quarter",
-        "Half",
-        "Third",
-        "Whole"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "النصف هو واحد من جزئين متساويين.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "عند تقسيم الشيء إلى جزئين متساويين، يسمى الجزء الواحد:",
-      "explanation_en": "A half is one of two equal parts.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "When dividing something into two equal parts, one part is called:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "ربع",
-        "نصف",
-        "ثلث",
-        "كل"
-      ],
-      "id": "6a49fed267bf3e0cd87cbff8",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Triangle",
-        "Star",
-        "Circle",
-        "Rectangle"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Patterns and Sequences",
-      "explanation_ar": "النمط يتكرر بين الدائرة والمربع، لذا بعد المربع تأتي الدائرة.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الأنماط والتسلسل",
-      "matching_pairs_en": [],
-      "question_ar": "ما هو الشكل التالي في النمط: (دائرة، مربع، دائرة، مربع، ...)؟",
-      "explanation_en": "The pattern alternates between a circle and a square, so after the square comes a circle.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "What is the next shape in the pattern: (Circle, Square, Circle, Square, ...)?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "مثلث",
-        "نجمة",
-        "دائرة",
-        "مستطيل"
-      ],
-      "id": "6a49fed267bf3e0cd87cbff9",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Odd number",
-        "Even number",
-        "Big number",
-        "Small number"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Even and Odd Numbers",
-      "explanation_ar": "الأعداد التي يمكن تقسيمها إلى زوجين متساويين تسمى أعداداً زوجية، و٢ منها.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الأعداد الزوجية والفردية",
-      "matching_pairs_en": [],
-      "question_ar": "العدد (٢) هو عدد:",
-      "explanation_en": "Numbers that can be divided into two equal pairs are called even numbers, and 2 is one of them.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "The number (2) is an:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "فردي",
-        "زوجي",
-        "كبير",
-        "صغير"
-      ],
-      "id": "6a49fed267bf3e0cd87cbffa",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "One Riyal",
-        "Five Riyals",
-        "Ten Riyals",
-        "Fifty Riyals"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Currency and Money",
-      "explanation_ar": "٥ ريالات منفردة تساوي ورقة واحدة من فئة الخمسة ريالات.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [],
-      "question_ar": "خمس قطع من فئة (ريال واحد) تساوي ورقة من فئة:",
-      "explanation_en": "5 individual riyals are equal to one five-riyal note.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Five pieces of (one riyal) coins equal a bill of:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "ريال واحد",
-        "خمسة ريالات",
-        "عشرة ريالات",
-        "خمسين ريالاً"
-      ],
-      "id": "6a49fed267bf3e0cd87cbffb",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Only Zero",
-        "Only One",
-        "All numbers",
-        "None"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "طرح الصفر من أي عدد لا يغير قيمته.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "أي عدد إذا طرحنا منه صفر يبقى كما هو؟",
-      "explanation_en": "Subtracting zero from any number does not change its value.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Which number remains the same if we subtract zero from it?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "الصفر فقط",
-        "الواحد فقط",
-        "كل الأعداد",
-        "لا يوجد"
-      ],
-      "id": "6a49fed267bf3e0cd87cbffc",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Long",
-        "Huge",
-        "Small",
-        "Wide"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Words and Synonyms",
-      "explanation_ar": "عكس الشيء الكبير هو الشيء الصغير.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [],
-      "question_ar": "ما ضد كلمة (كبير)؟",
-      "explanation_en": "The opposite of something big is something small.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "What is the opposite of the word (Big)?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "طويل",
-        "ضخم",
-        "صغير",
-        "واسع"
-      ],
-      "id": "6a49fed267bf3e0cd87cbffd",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Square",
-        "Rectangle",
-        "Circle",
-        "Triangle"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "الدائرة هي الشكل المنحني الذي يشبه الساعة والعملات.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "شكل يشبه الساعة الدائرية أو العملة المعدنية:",
-      "explanation_en": "The circle is the curved shape that resembles clocks and coins.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "A shape that looks like a round clock or a coin:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "المربع",
-        "المستطيل",
-        "الدائرة",
-        "المثلث"
-      ],
-      "id": "6a49fed267bf3e0cd87cbffe",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "7 apples",
-        "8 apples",
-        "9 apples",
-        "6 apples"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "عملية الجمع هي إضافة 3 إلى 5 (5 + 3 = 8).",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "لدى محمد 5 تفاحات، أعطاه والده 3 تفاحات أخرى. كم تفاحة مع محمد الآن؟",
-      "explanation_en": "The addition process is adding 3 to 5 (5 + 3 = 8).",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Mohamed has 5 apples, his father gave him 3 more. How many apples does Mohamed have now?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "7 تفاحات",
-        "8 تفاحات",
-        "9 تفاحات",
-        "6 تفاحات"
-      ],
-      "id": "6a49fed267bf3e0cd87cbfff",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "5 birds",
-        "4 birds",
-        "6 birds",
-        "7 birds"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "عملية الطرح هي خصم 4 من 10 (10 - 4 = 6).",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "في الحديقة 10 عصافير، طار منها 4 عصافير. كم عصفوراً بقي؟",
-      "explanation_en": "The subtraction process is deducting 4 from 10 (10 - 4 = 6).",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "There are 10 birds in the garden, 4 birds flew away. How many birds are left?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "5 عصافير",
-        "4 عصافير",
-        "6 عصافير",
-        "7 عصافير"
-      ],
-      "id": "6a49fed267bf3e0cd87cc000",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "6 balls",
-        "5 balls",
-        "4 balls",
-        "3 balls"
-      ],
-      "correct_answer": "0",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "الضرب هو جمع متكرر: 2 + 2 + 2 = 6.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "لدينا 3 مجموعات، في كل مجموعة كرتان. ما هو مجموع الكرات؟",
-      "explanation_en": "Multiplication is repeated addition: 2 + 2 + 2 = 6.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "We have 3 groups, each group has 2 balls. What is the total number of balls?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "6 كرات",
-        "5 كرات",
-        "4 كرات",
-        "3 كرات"
-      ],
-      "id": "6a49fed267bf3e0cd87cc001",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "2 sweets",
-        "4 sweets",
-        "3 sweets",
-        "5 sweets"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "القسمة هي توزيع 6 على 2 بالتساوي، فيكون الناتج 3.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [],
-      "question_ar": "تريد نورة توزيع 6 حلويات على صديقتين بالتساوي. كم نصيب كل واحدة؟",
-      "explanation_en": "Division is distributing 6 by 2 equally, so the result is 3.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Nora wants to distribute 6 sweets between 2 friends equally. How much does each one get?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "2 حلويات",
-        "4 حلويات",
-        "3 حلويات",
-        "5 حلويات"
-      ],
-      "id": "6a49fed267bf3e0cd87cc002",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Small",
-        "Beautiful",
-        "Very big",
-        "Fast"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Words and Synonyms",
-      "explanation_ar": "كلمة ضخم تعني كبير جداً في الحجم.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [],
-      "question_ar": "ما هو مرادف كلمة (ضخم)؟",
-      "explanation_en": "The word 'Dhakhim' (Huge) means very big in size.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "What is the synonym of the word (Huge)?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "صغير",
-        "جميل",
-        "كبير جداً",
-        "سريع"
-      ],
-      "id": "6a49fed267bf3e0cd87cc003",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "To the garden",
-        "To the library",
-        "To the market",
-        "To the school"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Reading and Comprehension",
-      "explanation_ar": "حسب النص، المكان الذي ذهب إليه فواز هو المكتبة.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "قراءة وفهم",
-      "matching_pairs_en": [],
-      "question_ar": "ذهب فواز إلى المكتبة واشترى كتاباً مفيداً. أين ذهب فواز؟",
-      "explanation_en": "According to the text, the place Fawaz went to is the library.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Fawaz went to the library and bought a useful book. Where did Fawaz go?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "إلى الحديقة",
-        "إلى المكتبة",
-        "إلى السوق",
-        "إلى المدرسة"
-      ],
-      "id": "6a49fed267bf3e0cd87cc004",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Square",
-        "Triangle",
-        "Circle",
-        "Rectangle"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "الدائرة شكل منحني ليس له أضلاع مستقيمة أو زوايا.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [],
-      "question_ar": "ما هو الشكل الذي ليس له أضلاع ولا رؤوس؟",
-      "explanation_en": "A circle is a curved shape that has no straight sides or corners.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Which shape has no sides and no vertices?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "المربع",
-        "المثلث",
-        "الدائرة",
-        "المستطيل"
-      ],
-      "id": "6a49fed267bf3e0cd87cc005",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Eraser",
-        "Pen",
-        "Ruler",
-        "Paperclip"
-      ],
-      "correct_answer": "2",
-      "ordering_items_en": [],
-      "topic_en": "Units and Measurement",
-      "explanation_ar": "المسطرة عادة ما تكون أطول من القلم والممحاة والمشبك.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الوحدات والقياس",
-      "matching_pairs_en": [],
-      "question_ar": "أي الأداة التالية هي الأطول؟",
-      "explanation_en": "A ruler is usually longer than a pen, eraser, or paperclip.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Which of the following tools is the longest?",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
+      "ordering_items_ar": [
         "الممحاة",
-        "القلم",
-        "المسطرة",
-        "المشبك"
+        "قلم الرصاص",
+        "الكتاب",
+        "المكتب"
       ],
-      "id": "6a49fed267bf3e0cd87cc006",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Quarter",
-        "Half",
-        "Third",
-        "Whole"
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Eraser",
+        "Pencil",
+        "Book",
+        "Desk"
       ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "تقسيم الشيء إلى جزأين متساويين يعطينا النصف.",
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "المقارنة بين الأطوال تتطلب ترتيبها من البداية نفسها لمعرفة الأطول والأقصر.",
       "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الكسور",
+      "difficulty": "hard",
+      "topic_ar": "الوحدات والقياس",
       "matching_pairs_en": [],
-      "question_ar": "إذا قسمنا بيتزا إلى جزأين متساويين، ماذا نسمي الجزء الواحد؟",
-      "explanation_en": "Dividing something into two equal parts gives us a half.",
+      "question_ar": "رتّب الأشياء التالية من الأقصر إلى الأطول:",
+      "explanation_en": "Comparing lengths requires ordering them from the same starting point to see which is longest/shortest.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 1,
       "matching_pairs_ar": [],
-      "question_en": "If we divide a pizza into two equal parts, what do we call one part?",
+      "question_en": "Order the following items from shortest to longest:",
       "classify_categories_en": [],
       "classify_items_ar": [],
-      "options_ar": [
-        "ربع",
-        "نصف",
-        "ثلث",
-        "كامل"
+      "options_ar": [],
+      "id": "6a4a60066ec4f874003baa62",
+      "created_date": "2026-07-05T13:45:42.738000",
+      "updated_date": "2026-07-05T13:45:42.738000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "20",
+        "18",
+        "16",
+        "14",
+        "12"
       ],
-      "id": "6a49fed267bf3e0cd87cc007",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "20",
+        "18",
+        "16",
+        "14",
+        "12"
+      ],
+      "topic_en": "Patterns and Sequences",
+      "explanation_ar": "العد التنازلي بمقدار 2 هو نمط ينقص فيه كل عدد عن الذي قبله بـ 2.",
+      "test_type": "adaptive",
+      "difficulty": "hard",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "رتّب الأعداد التالية لتكوين نمط صحيح بالعد التنازلي:",
+      "explanation_en": "Counting back by 2 is a pattern where each number is 2 less than the previous one.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following numbers to create a correct counting back pattern:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4a60066ec4f874003baa60",
+      "created_date": "2026-07-05T13:45:42.738000",
+      "updated_date": "2026-07-05T13:45:42.738000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "يُحِبُّ",
+        "فَوَّازٌ",
+        "أَنْ",
+        "يَقْرَأَ",
+        "القِصَصَ"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Fawaz",
+        "loves",
+        "to",
+        "read",
+        "stories"
+      ],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "ترتيب الكلمات بشكل منطقي يساعدنا على فهم الجملة.",
+      "test_type": "adaptive",
+      "difficulty": "hard",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "رتّب الكلمات لتكوين جملة صحيحة مما درسته في الوحدة الأولى:",
+      "explanation_en": "Ordering words logically helps us understand the sentence.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the words to form a correct sentence from what you studied in Unit 1:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4a60066ec4f874003baa61",
+      "created_date": "2026-07-05T13:45:42.738000",
+      "updated_date": "2026-07-05T13:45:42.738000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
       "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Circle",
-        "Triangle",
-        "Square",
-        "Star"
-      ],
-      "correct_answer": "2",
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
       "ordering_items_en": [],
+      "topic_en": "Currency and Money",
+      "explanation_ar": "نتعلم كيفية جمع العملات الورقية والمعدنية لمعرفة المبلغ الكلي.",
+      "test_type": "adaptive",
+      "difficulty": "hard",
+      "topic_ar": "العملات والنقود",
+      "matching_pairs_en": [
+        {
+          "left": "One 10 + One 5 + 1 Riyal coin",
+          "right": "16 Riyals"
+        },
+        {
+          "left": "Three 5 Riyal bills",
+          "right": "15 Riyals"
+        },
+        {
+          "left": "Two 10 Riyal bills",
+          "right": "20 Riyals"
+        },
+        {
+          "left": "Four 1 Riyal coins",
+          "right": "4 Riyals"
+        }
+      ],
+      "question_ar": "صِل مجموع العملات بالقيمة الإجمالية الصحيحة بالريال:",
+      "explanation_en": "We learn how to add paper bills and coins to find the total amount.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "ورقة 10 + ورقة 5 + ريال معدني",
+          "right": "16 ريالاً"
+        },
+        {
+          "left": "ثلاث ورقات من فئة 5 ريالات",
+          "right": "15 ريالاً"
+        },
+        {
+          "left": "ورقتان من فئة 10 ريالات",
+          "right": "20 ريالاً"
+        },
+        {
+          "left": "أربعة ريالات معدنية",
+          "right": "4 ريالات"
+        }
+      ],
+      "question_en": "Match the set of coins to the correct total value in Riyals:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4a60066ec4f874003baa5f",
+      "created_date": "2026-07-05T13:45:42.738000",
+      "updated_date": "2026-07-05T13:45:42.738000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "نستخدم المسطرة للأطوال والميزان لمعرفة الثقل (الكتلة/الوزن).",
+      "test_type": "adaptive",
+      "difficulty": "hard",
+      "topic_ar": "الوحدات والقياس",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأشياء حسب الأداة المناسبة لقياسها:",
+      "explanation_en": "We use a ruler for lengths and a balance to determine weight (mass).",
+      "classify_categories_ar": [
+        "قياس الطول (المسطرة)",
+        "قياس الوزن (الميزان)"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Length of a pencil"
+        },
+        {
+          "correct_category": 1,
+          "item": "Weight of an apple"
+        },
+        {
+          "correct_category": 0,
+          "item": "Length of a notebook"
+        },
+        {
+          "correct_category": 1,
+          "item": "Weight of a school bag"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the items according to the appropriate tool to measure them:",
+      "classify_categories_en": [
+        "Measuring Length (Ruler)",
+        "Measuring Weight (Balance/Scale)"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "طول القلم"
+        },
+        {
+          "correct_category": 1,
+          "item": "وزن التفاحة"
+        },
+        {
+          "correct_category": 0,
+          "item": "طول الدفتر"
+        },
+        {
+          "correct_category": 1,
+          "item": "وزن الحقيبة المدرسية"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4a60066ec4f874003baa68",
+      "created_date": "2026-07-05T13:45:42.738000",
+      "updated_date": "2026-07-05T13:45:42.738000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
       "topic_en": "Patterns and Sequences",
-      "explanation_ar": "النمط يتناوب بين المربع والدائرة، وبعد الدائرة يأتي المربع.",
+      "explanation_ar": "العد القفزي اثنينات يعني إضافة 2 في كل مرة.",
+      "test_type": "adaptive",
+      "difficulty": "hard",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "رتّب الأعداد بالعد القفزي اثنينات (بدءاً من 2):",
+      "explanation_en": "Skip counting by twos means adding 2 every time.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the numbers by skip counting by twos (starting from 2):",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4a60066ec4f874003baa69",
+      "created_date": "2026-07-05T13:45:42.738000",
+      "updated_date": "2026-07-05T13:45:42.738000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Fractions",
+      "explanation_ar": "النصف هو جزء واحد من جزئين متطابقين، والربع هو جزء واحد من أربعة أجزاء متطابقة.",
+      "test_type": "adaptive",
+      "difficulty": "hard",
+      "topic_ar": "الكسور",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأشكال بناءً على الجزء المظلل (نصف أم ربع):",
+      "explanation_en": "A half is one of two equal parts, and a quarter is one of four equal parts.",
+      "classify_categories_ar": [
+        "النصف (1/2)",
+        "الربع (1/4)"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Circle split in 2 equal parts, 1 shaded"
+        },
+        {
+          "correct_category": 1,
+          "item": "Square split in 4 equal parts, 1 shaded"
+        },
+        {
+          "correct_category": 0,
+          "item": "Rectangle with exactly half shaded"
+        },
+        {
+          "correct_category": 1,
+          "item": "Pie cut into 4 pieces, 1 piece eaten"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the shapes based on the shaded part (Half or Quarter):",
+      "classify_categories_en": [
+        "Half (1/2)",
+        "Quarter (1/4)"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "دائرة مقسمة لجزئين متطابقين ملون واحد منها"
+        },
+        {
+          "correct_category": 1,
+          "item": "مربع مقسم لـ 4 أجزاء ملون واحد منها"
+        },
+        {
+          "correct_category": 0,
+          "item": "مستطيل ملون نصفه تماماً"
+        },
+        {
+          "correct_category": 1,
+          "item": "فطيرة مقطعة 4 قطع أكلنا قطعة واحدة"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4a60066ec4f874003baa65",
+      "created_date": "2026-07-05T13:45:42.738000",
+      "updated_date": "2026-07-05T13:45:42.738000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Geometric Shapes",
+      "explanation_ar": "المجسمات المستديرة تتدحرج، والمجسمات ذات الأسطح المستوية تنزلق.",
+      "test_type": "adaptive",
+      "difficulty": "easy",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف المجسمات حسب حركتها (تتدحرج) أو (تنزلق):",
+      "explanation_en": "Round solids roll, while solids with flat surfaces slide.",
+      "classify_categories_ar": [
+        "تتدحرج",
+        "تنزلق"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Sphere"
+        },
+        {
+          "correct_category": 0,
+          "item": "Cylinder"
+        },
+        {
+          "correct_category": 1,
+          "item": "Cube"
+        },
+        {
+          "correct_category": 1,
+          "item": "Book"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify solids by their movement (Roll) or (Slide):",
+      "classify_categories_en": [
+        "Roll",
+        "Slide"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "كرة"
+        },
+        {
+          "correct_category": 0,
+          "item": "أسطوانة"
+        },
+        {
+          "correct_category": 1,
+          "item": "مكعب"
+        },
+        {
+          "correct_category": 1,
+          "item": "كتاب"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4a5e1c01995ffdd63b0200",
+      "created_date": "2026-07-05T13:37:32.174000",
+      "updated_date": "2026-07-05T13:37:32.174000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "topic_en": "Numbers and Counting",
+      "explanation_ar": "العد التصاعدي يبدأ من الرقم الأصغر ويتجه نحو الأكبر.",
+      "test_type": "adaptive",
+      "difficulty": "easy",
+      "topic_ar": "الأعداد والعد",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأعداد تصاعدياً من الأصغر إلى الأكبر:",
+      "explanation_en": "Counting upwards starts from the smallest number and moves toward the largest.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the numbers ascendingly from smallest to largest:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4a5e1c01995ffdd63b01fa",
+      "created_date": "2026-07-05T13:37:32.174000",
+      "updated_date": "2026-07-05T13:37:32.174000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Words and Synonyms",
+      "explanation_ar": "المرادفات هي كلمات مختلفة لها نفس المعنى.",
+      "test_type": "adaptive",
+      "difficulty": "medium",
+      "topic_ar": "الكلمات والمرادفات",
+      "matching_pairs_en": [
+        {
+          "left": "Father",
+          "right": "Dad"
+        },
+        {
+          "left": "Mother",
+          "right": "Mom"
+        },
+        {
+          "left": "Woke up",
+          "right": "Got up"
+        },
+        {
+          "left": "Returned",
+          "right": "Came back"
+        }
+      ],
+      "question_ar": "صل الكلمة بمرادفها (المعنى المماثل) من دروس لغتي:",
+      "explanation_en": "Synonyms are different words that have the same meaning.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "أبي",
+          "right": "والدي"
+        },
+        {
+          "left": "أمي",
+          "right": "والدتي"
+        },
+        {
+          "left": "استيقظ",
+          "right": "نهض"
+        },
+        {
+          "left": "عاد",
+          "right": "رجع"
+        }
+      ],
+      "question_en": "Match the word with its synonym from Lughati lessons:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4a5e1c01995ffdd63b01f3",
+      "created_date": "2026-07-05T13:37:32.174000",
+      "updated_date": "2026-07-05T13:37:32.174000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Words and Synonyms",
+      "explanation_ar": "الضد هو الكلمة التي تعطي معنى عكس الكلمة الأخرى.",
+      "test_type": "adaptive",
+      "difficulty": "medium",
+      "topic_ar": "الكلمات والمرادفات",
+      "matching_pairs_en": [
+        {
+          "left": "Tall",
+          "right": "Short"
+        },
+        {
+          "left": "Big",
+          "right": "Small"
+        },
+        {
+          "left": "Up",
+          "right": "Down"
+        },
+        {
+          "left": "Inside",
+          "right": "Outside"
+        }
+      ],
+      "question_ar": "صل الكلمة بضدها (المعنى العكسي):",
+      "explanation_en": "An opposite is a word that gives the reverse meaning of another word.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "طويل",
+          "right": "قصير"
+        },
+        {
+          "left": "كبير",
+          "right": "صغير"
+        },
+        {
+          "left": "فوق",
+          "right": "تحت"
+        },
+        {
+          "left": "داخل",
+          "right": "خارج"
+        }
+      ],
+      "question_en": "Match the word with its opposite:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4a5e1c01995ffdd63b01f6",
+      "created_date": "2026-07-05T13:37:32.174000",
+      "updated_date": "2026-07-05T13:37:32.174000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Addition and Subtraction",
+      "explanation_ar": "نحسب ناتج الطرح أولاً ثم نقارنه بالعدد 5.",
+      "test_type": "adaptive",
+      "difficulty": "easy",
+      "topic_ar": "الجمع والطرح",
+      "matching_pairs_en": [],
+      "question_ar": "صنف نتائج الطرح التالية (أكبر من 5) أو (أصغر من 5):",
+      "explanation_en": "Calculate the subtraction result first, then compare it to the number 5.",
+      "classify_categories_ar": [
+        "أكبر من 5",
+        "أصغر من 5"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "10 - 2"
+        },
+        {
+          "correct_category": 0,
+          "item": "9 - 1"
+        },
+        {
+          "correct_category": 1,
+          "item": "5 - 4"
+        },
+        {
+          "correct_category": 1,
+          "item": "6 - 3"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following subtraction results (Greater than 5) or (Less than 5):",
+      "classify_categories_en": [
+        "Greater than 5",
+        "Less than 5"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "10 - 2"
+        },
+        {
+          "correct_category": 0,
+          "item": "9 - 1"
+        },
+        {
+          "correct_category": 1,
+          "item": "5 - 4"
+        },
+        {
+          "correct_category": 1,
+          "item": "6 - 3"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4a5e1c01995ffdd63b01fe",
+      "created_date": "2026-07-05T13:37:32.174000",
+      "updated_date": "2026-07-05T13:37:32.174000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Multiplication and Division",
+      "explanation_ar": "المجموعات المتساوية هي التي تحتوي على نفس العدد من الأشياء، وهي أساس الضرب.",
+      "test_type": "adaptive",
+      "difficulty": "hard",
+      "topic_ar": "الضرب والقسمة",
+      "matching_pairs_en": [],
+      "question_ar": "صنف المجموعات التالية إلى (مجموعات متساوية) أو (مجموعات غير متساوية):",
+      "explanation_en": "Equal groups contain the same number of objects and are the foundation of multiplication.",
+      "classify_categories_ar": [
+        "مجموعات متساوية",
+        "مجموعات غير متساوية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Two groups with 3 apples each"
+        },
+        {
+          "correct_category": 0,
+          "item": "Three groups with 2 cats each"
+        },
+        {
+          "correct_category": 1,
+          "item": "One group of 1 and one group of 4"
+        },
+        {
+          "correct_category": 1,
+          "item": "One group of 5 and one group of 2"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following groups into (Equal groups) or (Unequal groups):",
+      "classify_categories_en": [
+        "Equal groups",
+        "Unequal groups"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "مجموعتان في كل منها 3 تفاحات"
+        },
+        {
+          "correct_category": 0,
+          "item": "3 مجموعات في كل منها قطتان"
+        },
+        {
+          "correct_category": 1,
+          "item": "مجموعة فيها 1 ومجموعة فيها 4"
+        },
+        {
+          "correct_category": 1,
+          "item": "مجموعة فيها 5 ومجموعة فيها 2"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4a5e1c01995ffdd63b01ff",
+      "created_date": "2026-07-05T13:37:32.174000",
+      "updated_date": "2026-07-05T13:37:32.174000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "أنا",
+        "أحب",
+        "مدرستي",
+        "جداً"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "I",
+        "love",
+        "my school",
+        "very much"
+      ],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "الجملة تبدأ بفاعل أو ضمير وتعبر عن معنى واضح.",
+      "test_type": "adaptive",
+      "difficulty": "medium",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الكلمات لتكوين جملة مفيدة من كتاب لغتي:",
+      "explanation_en": "A sentence starts with a subject or pronoun and conveys a clear meaning.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the words to form a useful sentence from the Lughati book:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4a5e1c01995ffdd63b01f9",
+      "created_date": "2026-07-05T13:37:32.174000",
+      "updated_date": "2026-07-05T13:37:32.174000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Geometric Shapes",
+      "explanation_ar": "الأشكال المستوية لها طول وعرض فقط، بينما المجسمات لها عمق أيضاً.",
+      "test_type": "adaptive",
+      "difficulty": "easy",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأشكال التالية إلى أشكال مستوية وأشكال مجسمة:",
+      "explanation_en": "Flat shapes have only length and width, while solids also have depth.",
+      "classify_categories_ar": [
+        "أشكال مستوية",
+        "أشكال مجسمة"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Circle"
+        },
+        {
+          "correct_category": 0,
+          "item": "Square"
+        },
+        {
+          "correct_category": 1,
+          "item": "Cube"
+        },
+        {
+          "correct_category": 1,
+          "item": "Sphere"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following shapes into flat shapes and solid shapes:",
+      "classify_categories_en": [
+        "Flat Shapes",
+        "Solid Shapes"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "دائرة"
+        },
+        {
+          "correct_category": 0,
+          "item": "مربع"
+        },
+        {
+          "correct_category": 1,
+          "item": "مكعب"
+        },
+        {
+          "correct_category": 1,
+          "item": "كرة"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4a5e1c01995ffdd63b01fc",
+      "created_date": "2026-07-05T13:37:32.174000",
+      "updated_date": "2026-07-05T13:37:32.174000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Fractions",
+      "explanation_ar": "الكسر يعبر عن أجزاء متطابقة من شكل واحد.",
+      "test_type": "adaptive",
+      "difficulty": "easy",
+      "topic_ar": "الكسور",
+      "matching_pairs_en": [
+        {
+          "left": "Half",
+          "right": "One of two equal parts"
+        },
+        {
+          "left": "Quarter",
+          "right": "One of four equal parts"
+        },
+        {
+          "left": "Whole",
+          "right": "All equal parts together"
+        }
+      ],
+      "question_ar": "صل الكلمة بما يعبر عنها من أجزاء متطابقة:",
+      "explanation_en": "A fraction represents equal parts of a single shape.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "النصف",
+          "right": "جزء واحد من جزأين متطابقين"
+        },
+        {
+          "left": "الربع",
+          "right": "جزء واحد من 4 أجزاء متطابقة"
+        },
+        {
+          "left": "الكل",
+          "right": "جميع الأجزاء المتطابقة معاً"
+        }
+      ],
+      "question_en": "Match the word with its description of equal parts:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4a5e1c01995ffdd63b01f5",
+      "created_date": "2026-07-05T13:37:32.174000",
+      "updated_date": "2026-07-05T13:37:32.174000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "ممحاة",
+        "قلم رصاص",
+        "مسطرة"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Eraser",
+        "Pencil",
+        "Ruler"
+      ],
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "نقارن الأطوال بوضع الأشياء بجانب بعضها لتعرف الأقصر والأطول.",
+      "test_type": "adaptive",
+      "difficulty": "hard",
+      "topic_ar": "الوحدات والقياس",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأدوات المدرسية من الأقصر إلى الأطول:",
+      "explanation_en": "We compare lengths by placing objects side by side to identify the shortest and longest.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the school supplies from shortest to longest:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4a5e1c01995ffdd63b01f8",
+      "created_date": "2026-07-05T13:37:32.174000",
+      "updated_date": "2026-07-05T13:37:32.174000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Even and Odd Numbers",
+      "explanation_ar": "الأعداد الزوجية يمكن تقسيمها لزوجين متساويين، أما الفردية فيبقى واحد وحيد.",
+      "test_type": "adaptive",
+      "difficulty": "medium",
+      "topic_ar": "الأعداد الزوجية والفردية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأعداد التالية إلى زوجية وفردية:",
+      "explanation_en": "Even numbers can be split into two equal pairs, while odd numbers always have one left over.",
+      "classify_categories_ar": [
+        "أعداد زوجية",
+        "أعداد فردية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "2"
+        },
+        {
+          "correct_category": 0,
+          "item": "4"
+        },
+        {
+          "correct_category": 1,
+          "item": "1"
+        },
+        {
+          "correct_category": 1,
+          "item": "3"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following numbers into even and odd:",
+      "classify_categories_en": [
+        "Even Numbers",
+        "Odd Numbers"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "2"
+        },
+        {
+          "correct_category": 0,
+          "item": "4"
+        },
+        {
+          "correct_category": 1,
+          "item": "1"
+        },
+        {
+          "correct_category": 1,
+          "item": "3"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4a5e1c01995ffdd63b01fd",
+      "created_date": "2026-07-05T13:37:32.174000",
+      "updated_date": "2026-07-05T13:37:32.174000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Currency and Money",
+      "explanation_ar": "تتكون العملات السعودية من فئات الريال، والريالين، والخمسة ريالات، والعشرة ريالات.",
+      "test_type": "adaptive",
+      "difficulty": "hard",
+      "topic_ar": "العملات والنقود",
+      "matching_pairs_en": [
+        {
+          "left": "Green note",
+          "right": "1 Riyal"
+        },
+        {
+          "left": "Note with number 5",
+          "right": "5 Riyals"
+        },
+        {
+          "left": "Note with number 10",
+          "right": "10 Riyals"
+        },
+        {
+          "left": "Silver and gold coin",
+          "right": "2 Riyals"
+        }
+      ],
+      "question_ar": "صل كل عملة ورقية سعودية بقيمتها الصحيحة:",
+      "explanation_en": "Saudi currency consists of categories: 1 Riyal, 2 Riyals, 5 Riyals, and 10 Riyals.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "ورقة خضراء",
+          "right": "1 ريال"
+        },
+        {
+          "left": "ورقة عليها رقم 5",
+          "right": "5 ريالات"
+        },
+        {
+          "left": "ورقة عليها رقم 10",
+          "right": "10 ريالات"
+        },
+        {
+          "left": "عملة معدنية فضية وذهبية",
+          "right": "ريالان"
+        }
+      ],
+      "question_en": "Match each Saudi banknote with its correct value:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4a5e1c01995ffdd63b01f4",
+      "created_date": "2026-07-05T13:37:32.174000",
+      "updated_date": "2026-07-05T13:37:32.174000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "الاستيقاظ من النوم",
+        "الذهاب للمدرسة",
+        "العودة للمنزل"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Waking up",
+        "Going to school",
+        "Returning home"
+      ],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "الأحداث تتبع تسلسلاً زمنياً منطقياً في اليوم.",
+      "test_type": "adaptive",
+      "difficulty": "medium",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "رتب أحداث اليوم الدراسي بالترتيب الصحيح:",
+      "explanation_en": "Events follow a logical chronological sequence throughout the day.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the school day events in the correct sequence:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4a5e1c01995ffdd63b01fb",
+      "created_date": "2026-07-05T13:37:32.174000",
+      "updated_date": "2026-07-05T13:37:32.174000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Addition and Subtraction",
+      "explanation_ar": "الجمع هو ضم مجموعتين من الأشياء معاً لإيجاد العدد الكلي.",
+      "test_type": "adaptive",
+      "difficulty": "medium",
+      "topic_ar": "الجمع والطرح",
+      "matching_pairs_en": [
+        {
+          "left": "3 + 2",
+          "right": "5"
+        },
+        {
+          "left": "4 + 4",
+          "right": "8"
+        },
+        {
+          "left": "7 + 3",
+          "right": "10"
+        },
+        {
+          "left": "1 + 5",
+          "right": "6"
+        }
+      ],
+      "question_ar": "صل كل جملة جمع بناتجها الصحيح:",
+      "explanation_en": "Addition is joining two groups of objects together to find the total number.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "3 + 2",
+          "right": "5"
+        },
+        {
+          "left": "4 + 4",
+          "right": "8"
+        },
+        {
+          "left": "7 + 3",
+          "right": "10"
+        },
+        {
+          "left": "1 + 5",
+          "right": "6"
+        }
+      ],
+      "question_en": "Match each addition sentence with its correct result:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4a5e1c01995ffdd63b01f2",
+      "created_date": "2026-07-05T13:37:32.174000",
+      "updated_date": "2026-07-05T13:37:32.174000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "أحمر",
+        "أزرق",
+        "أحمر",
+        "أزرق"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Red",
+        "Blue",
+        "Red",
+        "Blue"
+      ],
+      "topic_en": "Patterns and Sequences",
+      "explanation_ar": "النمط هو ترتيب من الأشكال أو الألوان يتكرر بانتظام.",
       "test_type": "adaptive",
       "difficulty": "medium",
       "topic_ar": "الأنماط والتسلسل",
       "matching_pairs_en": [],
-      "question_ar": "ما هو الشكل التالي في النمط: مربع، دائرة، مربع، دائرة، ....؟",
-      "explanation_en": "The pattern alternates between square and circle; after the circle comes the square.",
+      "question_ar": "رتب الألوان لتكوين نمط صحيح (أحمر، أزرق، أحمر، أزرق):",
+      "explanation_en": "A pattern is an arrangement of shapes or colors that repeats regularly.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 1,
       "matching_pairs_ar": [],
-      "question_en": "What is the next shape in the pattern: Square, Circle, Square, Circle, ....?",
+      "question_en": "Order the colors to form a correct pattern (Red, Blue, Red, Blue):",
       "classify_categories_en": [],
       "classify_items_ar": [],
-      "options_ar": [
-        "دائرة",
-        "مثلث",
-        "مربع",
-        "نجمة"
-      ],
-      "id": "6a49fed267bf3e0cd87cc008",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "options_ar": [],
+      "id": "6a4a5e1c01995ffdd63b01f7",
+      "created_date": "2026-07-05T13:37:32.174000",
+      "updated_date": "2026-07-05T13:37:32.174000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "1",
-        "3",
-        "5",
-        "4"
+      "ordering_items_ar": [
+        "٩٨",
+        "٨٩",
+        "٤٥",
+        "١٧"
       ],
-      "correct_answer": "3",
-      "ordering_items_en": [],
-      "topic_en": "Even and Odd Numbers",
-      "explanation_ar": "الأعداد الزوجية هي التي يمكن تقسيمها إلى مجموعتين متساويتين، مثل العدد 4.",
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "98",
+        "89",
+        "45",
+        "17"
+      ],
+      "topic_en": "Numbers and Counting",
+      "explanation_ar": "عند المقارنة بين الأعداد، ننظر أولاً إلى منزلة العشرات. العدد ٩٨ هو الأكبر لأن عشراته ٩، والعدد ١٧ هو الأصغر لأن عشراته ١.",
       "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأعداد الزوجية والفردية",
+      "difficulty": "hard",
+      "topic_ar": "الأعداد والعد",
       "matching_pairs_en": [],
-      "question_ar": "أي من الأعداد التالية هو عدد زوجي؟",
-      "explanation_en": "Even numbers are those that can be divided into two equal groups, like the number 4.",
+      "question_ar": "رتب الأعداد التالية من الأكبر إلى الأصغر (تنازلياً).",
+      "explanation_en": "When comparing numbers, we first look at the tens place. 98 is the largest because its tens digit is 9, and 17 is the smallest because its tens digit is 1.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 1,
       "matching_pairs_ar": [],
-      "question_en": "Which of the following numbers is an even number?",
+      "question_en": "Order the following numbers from the largest to the smallest (descending).",
       "classify_categories_en": [],
       "classify_items_ar": [],
-      "options_ar": [
-        "1",
-        "3",
-        "5",
-        "4"
-      ],
-      "id": "6a49fed267bf3e0cd87cc009",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "multiple_choice",
-      "options_en": [
-        "Even",
-        "Odd",
-        "Zero",
-        "Large"
-      ],
-      "correct_answer": "1",
-      "ordering_items_en": [],
-      "topic_en": "Even and Odd Numbers",
-      "explanation_ar": "العدد 7 لا يمكن تقسيمه إلى مجموعتين متساويتين تماماً، لذا هو فردي.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأعداد الزوجية والفردية",
-      "matching_pairs_en": [],
-      "question_ar": "العدد 7 هو عدد:",
-      "explanation_en": "The number 7 cannot be divided into two exactly equal groups, so it is odd.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "The number 7 is an ______ number:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [
-        "زوجي",
-        "فردي",
-        "صفري",
-        "كبير"
-      ],
-      "id": "6a49fed267bf3e0cd87cc00a",
-      "created_date": "2026-07-05T06:50:58.570000",
-      "updated_date": "2026-07-05T06:50:58.570000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "options_ar": [],
+      "id": "6a499c17b50bc2e65478b119",
+      "created_date": "2026-07-04T23:49:43.302000",
+      "updated_date": "2026-07-04T23:49:43.302000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
@@ -2720,44 +1744,6 @@
       "classify_items_ar": [],
       "options_ar": [],
       "id": "6a499c17b50bc2e65478b118",
-      "created_date": "2026-07-04T23:49:43.302000",
-      "updated_date": "2026-07-04T23:49:43.302000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "٩٨",
-        "٨٩",
-        "٤٥",
-        "١٧"
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "98",
-        "89",
-        "45",
-        "17"
-      ],
-      "topic_en": "Numbers and Counting",
-      "explanation_ar": "عند المقارنة بين الأعداد، ننظر أولاً إلى منزلة العشرات. العدد ٩٨ هو الأكبر لأن عشراته ٩، والعدد ١٧ هو الأصغر لأن عشراته ١.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الأعداد والعد",
-      "matching_pairs_en": [],
-      "question_ar": "رتب الأعداد التالية من الأكبر إلى الأصغر (تنازلياً).",
-      "explanation_en": "When comparing numbers, we first look at the tens place. 98 is the largest because its tens digit is 9, and 17 is the smallest because its tens digit is 1.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Order the following numbers from the largest to the smallest (descending).",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499c17b50bc2e65478b119",
       "created_date": "2026-07-04T23:49:43.302000",
       "updated_date": "2026-07-04T23:49:43.302000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -2871,100 +1857,6 @@
     },
     {
       "ordering_items_ar": [],
-      "question_type": "matching",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Currency and Money",
-      "explanation_ar": "في المنهج السعودي للصف الأول، يتعرف الطالب على العملات الورقية والمعدنية (١، ٥، ١٠) ريالات.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [
-        {
-          "left": "1",
-          "right": "One Riyal"
-        },
-        {
-          "left": "5",
-          "right": "Five Riyals"
-        },
-        {
-          "left": "10",
-          "right": "Ten Riyals"
-        }
-      ],
-      "question_ar": "صل بين العملة النقدية وقيمتها الصحيحة:",
-      "explanation_en": "In the Saudi curriculum for grade 1, students learn to identify banknotes and coins (1, 5, 10) Riyals.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [
-        {
-          "left": "١",
-          "right": "ريال واحد"
-        },
-        {
-          "left": "٥",
-          "right": "خمسة ريالات"
-        },
-        {
-          "left": "١٠",
-          "right": "عشرة ريالات"
-        }
-      ],
-      "question_en": "Match the coin/note to its correct value:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499c0a8f8fe62b67bab8b5",
-      "created_date": "2026-07-04T23:49:30.860000",
-      "updated_date": "2026-07-04T23:49:30.860000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "١",
-        "٢",
-        "٣",
-        "٤",
-        "٥"
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "topic_en": "Patterns and Sequences",
-      "explanation_ar": "ترتيب الأعداد يساعد الطالب على فهم تسلسل الأرقام وقيمتها النسبية.",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الأنماط والتسلسل",
-      "matching_pairs_en": [],
-      "question_ar": "رتب الأعداد التالية من الأصغر إلى الأكبر:",
-      "explanation_en": "Ordering numbers helps students understand the sequence of numbers and their relative values.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Order the following numbers from smallest to largest:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499c0a8f8fe62b67bab8b6",
-      "created_date": "2026-07-04T23:49:30.860000",
-      "updated_date": "2026-07-04T23:49:30.860000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
       "question_type": "classify",
       "options_en": [],
       "correct_answer": null,
@@ -3032,6 +1924,100 @@
       "is_sample": false
     },
     {
+      "ordering_items_ar": [
+        "١",
+        "٢",
+        "٣",
+        "٤",
+        "٥"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "topic_en": "Patterns and Sequences",
+      "explanation_ar": "ترتيب الأعداد يساعد الطالب على فهم تسلسل الأرقام وقيمتها النسبية.",
+      "test_type": "adaptive",
+      "difficulty": "easy",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأعداد التالية من الأصغر إلى الأكبر:",
+      "explanation_en": "Ordering numbers helps students understand the sequence of numbers and their relative values.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following numbers from smallest to largest:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499c0a8f8fe62b67bab8b6",
+      "created_date": "2026-07-04T23:49:30.860000",
+      "updated_date": "2026-07-04T23:49:30.860000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Currency and Money",
+      "explanation_ar": "في المنهج السعودي للصف الأول، يتعرف الطالب على العملات الورقية والمعدنية (١، ٥، ١٠) ريالات.",
+      "test_type": "adaptive",
+      "difficulty": "easy",
+      "topic_ar": "العملات والنقود",
+      "matching_pairs_en": [
+        {
+          "left": "1",
+          "right": "One Riyal"
+        },
+        {
+          "left": "5",
+          "right": "Five Riyals"
+        },
+        {
+          "left": "10",
+          "right": "Ten Riyals"
+        }
+      ],
+      "question_ar": "صل بين العملة النقدية وقيمتها الصحيحة:",
+      "explanation_en": "In the Saudi curriculum for grade 1, students learn to identify banknotes and coins (1, 5, 10) Riyals.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "١",
+          "right": "ريال واحد"
+        },
+        {
+          "left": "٥",
+          "right": "خمسة ريالات"
+        },
+        {
+          "left": "١٠",
+          "right": "عشرة ريالات"
+        }
+      ],
+      "question_en": "Match the coin/note to its correct value:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499c0a8f8fe62b67bab8b5",
+      "created_date": "2026-07-04T23:49:30.860000",
+      "updated_date": "2026-07-04T23:49:30.860000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
       "ordering_items_ar": [],
       "question_type": "matching",
       "options_en": [],
@@ -3086,68 +2072,6 @@
       "is_sample": false
     },
     {
-      "ordering_items_ar": [],
-      "question_type": "matching",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "الكرة تشبه البرتقالة، والمكعب يشبه صندوق الهدايا، والمخروط يشبه قبعة الحفلات، والأسطوانة تشبه علبة الدهان.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [
-        {
-          "left": "Sphere",
-          "right": "Orange"
-        },
-        {
-          "left": "Cube",
-          "right": "Gift Box"
-        },
-        {
-          "left": "Cone",
-          "right": "Party Hat"
-        },
-        {
-          "left": "Cylinder",
-          "right": "Paint Can"
-        }
-      ],
-      "question_ar": "صل كل شكل هندسي بالشيء الذي يشبهه في الواقع.",
-      "explanation_en": "A sphere resembles an orange, a cube resembles a gift box, a cone resembles a party hat, and a cylinder resembles a paint can.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [
-        {
-          "left": "كرة",
-          "right": "برتقالة"
-        },
-        {
-          "left": "مكعب",
-          "right": "صندوق هدايا"
-        },
-        {
-          "left": "مخروط",
-          "right": "قبعة حفلات"
-        },
-        {
-          "left": "أسطوانة",
-          "right": "علبة دهان"
-        }
-      ],
-      "question_en": "Match each geometric shape with the real-life object that resembles it.",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499c09d49a8b0beef51306",
-      "created_date": "2026-07-04T23:49:29.169000",
-      "updated_date": "2026-07-04T23:49:29.169000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
       "ordering_items_ar": [
         "٤",
         "٩",
@@ -3182,74 +2106,6 @@
       "classify_items_ar": [],
       "options_ar": [],
       "id": "6a499c09d49a8b0beef51307",
-      "created_date": "2026-07-04T23:49:29.169000",
-      "updated_date": "2026-07-04T23:49:29.169000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "classify",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "المسائل (4+3) و (6+1) ناتجها 7، بينما المسائل (5+5) و (8+2) ناتجها 10.",
-      "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "صنف المسائل الحسابية التالية حسب ناتج الجمع.",
-      "explanation_en": "The problems (4+3) and (6+1) result in 7, while (5+5) and (8+2) result in 10.",
-      "classify_categories_ar": [
-        "الناتج يساوي 7",
-        "الناتج يساوي 10"
-      ],
-      "classify_items_en": [
-        {
-          "correct_category": 0,
-          "item": "4 + 3"
-        },
-        {
-          "correct_category": 1,
-          "item": "5 + 5"
-        },
-        {
-          "correct_category": 0,
-          "item": "6 + 1"
-        },
-        {
-          "correct_category": 1,
-          "item": "8 + 2"
-        }
-      ],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Classify the following arithmetic problems based on their sum.",
-      "classify_categories_en": [
-        "Sum equals 7",
-        "Sum equals 10"
-      ],
-      "classify_items_ar": [
-        {
-          "correct_category": 0,
-          "item": "4 + 3"
-        },
-        {
-          "correct_category": 1,
-          "item": "5 + 5"
-        },
-        {
-          "correct_category": 0,
-          "item": "6 + 1"
-        },
-        {
-          "correct_category": 1,
-          "item": "8 + 2"
-        }
-      ],
-      "options_ar": [],
-      "id": "6a499c09d49a8b0beef51308",
       "created_date": "2026-07-04T23:49:29.169000",
       "updated_date": "2026-07-04T23:49:29.169000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -3325,95 +2181,131 @@
     },
     {
       "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Addition and Subtraction",
+      "explanation_ar": "المسائل (4+3) و (6+1) ناتجها 7، بينما المسائل (5+5) و (8+2) ناتجها 10.",
+      "test_type": "adaptive",
+      "difficulty": "medium",
+      "topic_ar": "الجمع والطرح",
+      "matching_pairs_en": [],
+      "question_ar": "صنف المسائل الحسابية التالية حسب ناتج الجمع.",
+      "explanation_en": "The problems (4+3) and (6+1) result in 7, while (5+5) and (8+2) result in 10.",
+      "classify_categories_ar": [
+        "الناتج يساوي 7",
+        "الناتج يساوي 10"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "4 + 3"
+        },
+        {
+          "correct_category": 1,
+          "item": "5 + 5"
+        },
+        {
+          "correct_category": 0,
+          "item": "6 + 1"
+        },
+        {
+          "correct_category": 1,
+          "item": "8 + 2"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following arithmetic problems based on their sum.",
+      "classify_categories_en": [
+        "Sum equals 7",
+        "Sum equals 10"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "4 + 3"
+        },
+        {
+          "correct_category": 1,
+          "item": "5 + 5"
+        },
+        {
+          "correct_category": 0,
+          "item": "6 + 1"
+        },
+        {
+          "correct_category": 1,
+          "item": "8 + 2"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499c09d49a8b0beef51308",
+      "created_date": "2026-07-04T23:49:29.169000",
+      "updated_date": "2026-07-04T23:49:29.169000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
       "question_type": "matching",
       "options_en": [],
       "correct_answer": null,
       "ordering_items_en": [],
       "topic_en": "Geometric Shapes",
-      "explanation_ar": "المربع له ٤ أضلاع متطابقة، والمثلث له ٣ أضلاع، أما الدائرة فهي منحنى مغلق ليس له أضلاع.",
+      "explanation_ar": "الكرة تشبه البرتقالة، والمكعب يشبه صندوق الهدايا، والمخروط يشبه قبعة الحفلات، والأسطوانة تشبه علبة الدهان.",
       "test_type": "adaptive",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "topic_ar": "الأشكال الهندسية",
       "matching_pairs_en": [
         {
-          "left": "Square",
-          "right": "Has 4 equal sides"
+          "left": "Sphere",
+          "right": "Orange"
         },
         {
-          "left": "Triangle",
-          "right": "Has 3 sides and 3 vertices"
+          "left": "Cube",
+          "right": "Gift Box"
         },
         {
-          "left": "Circle",
-          "right": "A round shape with no sides"
+          "left": "Cone",
+          "right": "Party Hat"
+        },
+        {
+          "left": "Cylinder",
+          "right": "Paint Can"
         }
       ],
-      "question_ar": "صل كل شكل هندسي بالوصف الصحيح له.",
-      "explanation_en": "A square has 4 equal sides, a triangle has 3 sides, and a circle is a closed curve with no sides.",
+      "question_ar": "صل كل شكل هندسي بالشيء الذي يشبهه في الواقع.",
+      "explanation_en": "A sphere resembles an orange, a cube resembles a gift box, a cone resembles a party hat, and a cylinder resembles a paint can.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 1,
       "matching_pairs_ar": [
         {
-          "left": "المربع",
-          "right": "له ٤ أضلاع متساوية"
+          "left": "كرة",
+          "right": "برتقالة"
         },
         {
-          "left": "المثلث",
-          "right": "له ٣ أضلاع و٣ رؤوس"
+          "left": "مكعب",
+          "right": "صندوق هدايا"
         },
         {
-          "left": "الدائرة",
-          "right": "شكل مستدير ليس له أضلاع"
+          "left": "مخروط",
+          "right": "قبعة حفلات"
+        },
+        {
+          "left": "أسطوانة",
+          "right": "علبة دهان"
         }
       ],
-      "question_en": "Match each geometric shape with its correct description.",
+      "question_en": "Match each geometric shape with the real-life object that resembles it.",
       "classify_categories_en": [],
       "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499b8b792e2b49fb8997e8",
-      "created_date": "2026-07-04T23:47:23.525000",
-      "updated_date": "2026-07-04T23:47:23.525000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "١",
-        "٢",
-        "٣",
-        "٤",
-        "٥"
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "topic_en": "Ordering Numbers",
-      "explanation_ar": "العد التصاعدي يبدأ من الرقم الأصغر (١) صعوداً إلى الرقم الأكبر (٥).",
-      "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "ترتيب الأعداد",
-      "matching_pairs_en": [],
-      "question_ar": "رتب الأعداد التالية من الأصغر إلى الأكبر.",
-      "explanation_en": "Counting up starts from the smallest number (1) up to the largest number (5).",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Order the following numbers from smallest to largest.",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b8b792e2b49fb8997e9",
-      "created_date": "2026-07-04T23:47:23.525000",
-      "updated_date": "2026-07-04T23:47:23.525000",
+      "id": "6a499c09d49a8b0beef51306",
+      "created_date": "2026-07-04T23:49:29.169000",
+      "updated_date": "2026-07-04T23:49:29.169000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
@@ -3486,6 +2378,140 @@
       "is_sample": false
     },
     {
+      "ordering_items_ar": [
+        "١",
+        "٢",
+        "٣",
+        "٤",
+        "٥"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "topic_en": "Ordering Numbers",
+      "explanation_ar": "العد التصاعدي يبدأ من الرقم الأصغر (١) صعوداً إلى الرقم الأكبر (٥).",
+      "test_type": "adaptive",
+      "difficulty": "easy",
+      "topic_ar": "ترتيب الأعداد",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأعداد التالية من الأصغر إلى الأكبر.",
+      "explanation_en": "Counting up starts from the smallest number (1) up to the largest number (5).",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following numbers from smallest to largest.",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b8b792e2b49fb8997e9",
+      "created_date": "2026-07-04T23:47:23.525000",
+      "updated_date": "2026-07-04T23:47:23.525000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "١٠",
+        "٢٠",
+        "٣٠",
+        "٤٠",
+        "٥٠"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "10",
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "topic_en": "Patterns and Sequences",
+      "explanation_ar": "في هذا النمط نقوم بإضافة ١٠ في كل مرة (العد بالعشرات): ١٠، ٢٠، ٣٠، ٤٠، ٥٠.",
+      "test_type": "adaptive",
+      "difficulty": "easy",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "أكمل النمط بالعد عشرات ورتب الأعداد تصاعدياً.",
+      "explanation_en": "In this pattern, we add 10 each time (counting by tens): 10, 20, 30, 40, 50.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Complete the pattern by counting in tens and ordering the numbers ascendingly.",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b8b792e2b49fb8997ec",
+      "created_date": "2026-07-04T23:47:23.525000",
+      "updated_date": "2026-07-04T23:47:23.525000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Geometric Shapes",
+      "explanation_ar": "المربع له ٤ أضلاع متطابقة، والمثلث له ٣ أضلاع، أما الدائرة فهي منحنى مغلق ليس له أضلاع.",
+      "test_type": "adaptive",
+      "difficulty": "easy",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [
+        {
+          "left": "Square",
+          "right": "Has 4 equal sides"
+        },
+        {
+          "left": "Triangle",
+          "right": "Has 3 sides and 3 vertices"
+        },
+        {
+          "left": "Circle",
+          "right": "A round shape with no sides"
+        }
+      ],
+      "question_ar": "صل كل شكل هندسي بالوصف الصحيح له.",
+      "explanation_en": "A square has 4 equal sides, a triangle has 3 sides, and a circle is a closed curve with no sides.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "المربع",
+          "right": "له ٤ أضلاع متساوية"
+        },
+        {
+          "left": "المثلث",
+          "right": "له ٣ أضلاع و٣ رؤوس"
+        },
+        {
+          "left": "الدائرة",
+          "right": "شكل مستدير ليس له أضلاع"
+        }
+      ],
+      "question_en": "Match each geometric shape with its correct description.",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b8b792e2b49fb8997e8",
+      "created_date": "2026-07-04T23:47:23.525000",
+      "updated_date": "2026-07-04T23:47:23.525000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
       "ordering_items_ar": [],
       "question_type": "matching",
       "options_en": [],
@@ -3541,41 +2567,41 @@
     },
     {
       "ordering_items_ar": [
-        "١٠",
-        "٢٠",
-        "٣٠",
-        "٤٠",
-        "٥٠"
+        "استيقظ من النوم مبكراً",
+        "أتوضأ وأصلي صلاة الفجر",
+        "أتناول وجبة الإفطار الصحي",
+        "ألبس ملابسي المدرسية",
+        "أذهب إلى المدرسة بانتظام"
       ],
       "question_type": "ordering",
       "options_en": [],
       "correct_answer": null,
       "ordering_items_en": [
-        "10",
-        "20",
-        "30",
-        "40",
-        "50"
+        "Wake up early",
+        "Perform Wudu and pray Fajr",
+        "Eat a healthy breakfast",
+        "Put on school clothes",
+        "Go to school regularly"
       ],
-      "topic_en": "Patterns and Sequences",
-      "explanation_ar": "في هذا النمط نقوم بإضافة ١٠ في كل مرة (العد بالعشرات): ١٠، ٢٠، ٣٠، ٤٠، ٥٠.",
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "يبدأ يومنا بالاستيقاظ ثم الصلاة وتناول الإفطار للاستعداد ليوم دراسي مفيد.",
       "test_type": "adaptive",
-      "difficulty": "easy",
-      "topic_ar": "الأنماط والتسلسل",
+      "difficulty": "medium",
+      "topic_ar": "قراءة وفهم",
       "matching_pairs_en": [],
-      "question_ar": "أكمل النمط بالعد عشرات ورتب الأعداد تصاعدياً.",
-      "explanation_en": "In this pattern, we add 10 each time (counting by tens): 10, 20, 30, 40, 50.",
+      "question_ar": "رتب خطوات الروتين الصباحي للطالب بالترتيب الصحيح:",
+      "explanation_en": "Our day starts with waking up, then praying and eating breakfast to prepare for a productive school day.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 1,
       "matching_pairs_ar": [],
-      "question_en": "Complete the pattern by counting in tens and ordering the numbers ascendingly.",
+      "question_en": "Order the student's morning routine steps in the correct sequence:",
       "classify_categories_en": [],
       "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499b8b792e2b49fb8997ec",
-      "created_date": "2026-07-04T23:47:23.525000",
-      "updated_date": "2026-07-04T23:47:23.525000",
+      "id": "6a499b8a463235fec95934f9",
+      "created_date": "2026-07-04T23:47:22.085000",
+      "updated_date": "2026-07-04T23:47:22.085000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
@@ -3829,41 +2855,125 @@
     },
     {
       "ordering_items_ar": [
-        "استيقظ من النوم مبكراً",
-        "أتوضأ وأصلي صلاة الفجر",
-        "أتناول وجبة الإفطار الصحي",
-        "ألبس ملابسي المدرسية",
-        "أذهب إلى المدرسة بانتظام"
+        "95",
+        "82",
+        "67",
+        "43",
+        "19"
       ],
       "question_type": "ordering",
       "options_en": [],
       "correct_answer": null,
       "ordering_items_en": [
-        "Wake up early",
-        "Perform Wudu and pray Fajr",
-        "Eat a healthy breakfast",
-        "Put on school clothes",
-        "Go to school regularly"
+        "95",
+        "82",
+        "67",
+        "43",
+        "19"
       ],
-      "topic_en": "Reading and Comprehension",
-      "explanation_ar": "يبدأ يومنا بالاستيقاظ ثم الصلاة وتناول الإفطار للاستعداد ليوم دراسي مفيد.",
+      "topic_en": "Patterns and Sequences",
+      "explanation_ar": "الترتيب التنازلي يبدأ بالعدد الأكبر (الذي منزلة عشراته أكبر) وينتهي بالعدد الأصغر.",
       "test_type": "adaptive",
-      "difficulty": "medium",
-      "topic_ar": "قراءة وفهم",
+      "difficulty": "hard",
+      "topic_ar": "الأنماط والتسلسل",
       "matching_pairs_en": [],
-      "question_ar": "رتب خطوات الروتين الصباحي للطالب بالترتيب الصحيح:",
-      "explanation_en": "Our day starts with waking up, then praying and eating breakfast to prepare for a productive school day.",
+      "question_ar": "رتب الأعداد التالية تنازلياً (من الأكبر إلى الأصغر):",
+      "explanation_en": "Descending order starts with the largest number (higher tens place) and ends with the smallest number.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 1,
       "matching_pairs_ar": [],
-      "question_en": "Order the student's morning routine steps in the correct sequence:",
+      "question_en": "Order the following numbers in descending order (from largest to smallest):",
       "classify_categories_en": [],
       "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499b8a463235fec95934f9",
-      "created_date": "2026-07-04T23:47:22.085000",
-      "updated_date": "2026-07-04T23:47:22.085000",
+      "id": "6a499b88ee51e2371e8c22c9",
+      "created_date": "2026-07-04T23:47:20.870000",
+      "updated_date": "2026-07-04T23:47:20.870000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Even and Odd Numbers",
+      "explanation_ar": "العدد الزوجي هو الذي يمكن تقسيمه إلى مجموعتين متساويتين وينتهي بـ (0، 2، 4، 6، 8)، أما العدد الفردي فينتهي بـ (1، 3، 5، 7، 9).",
+      "test_type": "adaptive",
+      "difficulty": "hard",
+      "topic_ar": "الأعداد الزوجية والفردية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأعداد التالية إلى زوجية أو فردية:",
+      "explanation_en": "An even number can be divided into two equal groups and ends in (0, 2, 4, 6, 8), while an odd number ends in (1, 3, 5, 7, 9).",
+      "classify_categories_ar": [
+        "أعداد زوجية",
+        "أعداد فردية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "2"
+        },
+        {
+          "correct_category": 1,
+          "item": "7"
+        },
+        {
+          "correct_category": 0,
+          "item": "10"
+        },
+        {
+          "correct_category": 1,
+          "item": "13"
+        },
+        {
+          "correct_category": 0,
+          "item": "18"
+        },
+        {
+          "correct_category": 1,
+          "item": "21"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following numbers into Even or Odd:",
+      "classify_categories_en": [
+        "Even Numbers",
+        "Odd Numbers"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "2"
+        },
+        {
+          "correct_category": 1,
+          "item": "7"
+        },
+        {
+          "correct_category": 0,
+          "item": "10"
+        },
+        {
+          "correct_category": 1,
+          "item": "13"
+        },
+        {
+          "correct_category": 0,
+          "item": "18"
+        },
+        {
+          "correct_category": 1,
+          "item": "21"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499b88ee51e2371e8c22ca",
+      "created_date": "2026-07-04T23:47:20.870000",
+      "updated_date": "2026-07-04T23:47:20.870000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
@@ -4048,130 +3158,6 @@
       "classify_items_ar": [],
       "options_ar": [],
       "id": "6a499b88ee51e2371e8c22c8",
-      "created_date": "2026-07-04T23:47:20.870000",
-      "updated_date": "2026-07-04T23:47:20.870000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "95",
-        "82",
-        "67",
-        "43",
-        "19"
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "95",
-        "82",
-        "67",
-        "43",
-        "19"
-      ],
-      "topic_en": "Patterns and Sequences",
-      "explanation_ar": "الترتيب التنازلي يبدأ بالعدد الأكبر (الذي منزلة عشراته أكبر) وينتهي بالعدد الأصغر.",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الأنماط والتسلسل",
-      "matching_pairs_en": [],
-      "question_ar": "رتب الأعداد التالية تنازلياً (من الأكبر إلى الأصغر):",
-      "explanation_en": "Descending order starts with the largest number (higher tens place) and ends with the smallest number.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Order the following numbers in descending order (from largest to smallest):",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b88ee51e2371e8c22c9",
-      "created_date": "2026-07-04T23:47:20.870000",
-      "updated_date": "2026-07-04T23:47:20.870000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "classify",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Even and Odd Numbers",
-      "explanation_ar": "العدد الزوجي هو الذي يمكن تقسيمه إلى مجموعتين متساويتين وينتهي بـ (0، 2، 4، 6، 8)، أما العدد الفردي فينتهي بـ (1، 3، 5، 7، 9).",
-      "test_type": "adaptive",
-      "difficulty": "hard",
-      "topic_ar": "الأعداد الزوجية والفردية",
-      "matching_pairs_en": [],
-      "question_ar": "صنف الأعداد التالية إلى زوجية أو فردية:",
-      "explanation_en": "An even number can be divided into two equal groups and ends in (0, 2, 4, 6, 8), while an odd number ends in (1, 3, 5, 7, 9).",
-      "classify_categories_ar": [
-        "أعداد زوجية",
-        "أعداد فردية"
-      ],
-      "classify_items_en": [
-        {
-          "correct_category": 0,
-          "item": "2"
-        },
-        {
-          "correct_category": 1,
-          "item": "7"
-        },
-        {
-          "correct_category": 0,
-          "item": "10"
-        },
-        {
-          "correct_category": 1,
-          "item": "13"
-        },
-        {
-          "correct_category": 0,
-          "item": "18"
-        },
-        {
-          "correct_category": 1,
-          "item": "21"
-        }
-      ],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Classify the following numbers into Even or Odd:",
-      "classify_categories_en": [
-        "Even Numbers",
-        "Odd Numbers"
-      ],
-      "classify_items_ar": [
-        {
-          "correct_category": 0,
-          "item": "2"
-        },
-        {
-          "correct_category": 1,
-          "item": "7"
-        },
-        {
-          "correct_category": 0,
-          "item": "10"
-        },
-        {
-          "correct_category": 1,
-          "item": "13"
-        },
-        {
-          "correct_category": 0,
-          "item": "18"
-        },
-        {
-          "correct_category": 1,
-          "item": "21"
-        }
-      ],
-      "options_ar": [],
-      "id": "6a499b88ee51e2371e8c22ca",
       "created_date": "2026-07-04T23:47:20.870000",
       "updated_date": "2026-07-04T23:47:20.870000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
