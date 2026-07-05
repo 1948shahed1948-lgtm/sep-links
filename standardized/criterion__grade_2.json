@@ -5,44 +5,6 @@
   "questions": [
     {
       "ordering_items_ar": [
-        "5",
-        "10",
-        "15",
-        "20"
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "5",
-        "10",
-        "15",
-        "20"
-      ],
-      "topic_en": "Patterns and Sequence",
-      "explanation_ar": "فهم الأنماط العددية يمهد الطريق لتعلم الضرب والعد القفزي.",
-      "test_type": "criterion",
-      "difficulty": "medium",
-      "topic_ar": "الأنماط والتسلسل",
-      "matching_pairs_en": [],
-      "question_ar": "رتب الأعداد التالية لتكوين نمط صحيح بزيادة 5 في كل مرة",
-      "explanation_en": "Understanding numerical patterns paves the way for learning multiplication and skip counting.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 2,
-      "matching_pairs_ar": [],
-      "question_en": "Order the following numbers to form a correct pattern increasing by 5 each time",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499292e25dc98dd762d323",
-      "created_date": "2026-07-04T23:09:06.798000",
-      "updated_date": "2026-07-04T23:09:06.798000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
         "120",
         "250",
         "430",
@@ -74,74 +36,6 @@
       "classify_items_ar": [],
       "options_ar": [],
       "id": "6a499292e25dc98dd762d324",
-      "created_date": "2026-07-04T23:09:06.798000",
-      "updated_date": "2026-07-04T23:09:06.798000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "classify",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Even and Odd Numbers",
-      "explanation_ar": "العدد الزوجي هو الذي يمكن تقسيمه إلى مجموعتين متساويتين، بينما الفردي يتبقى منه واحد.",
-      "test_type": "criterion",
-      "difficulty": "medium",
-      "topic_ar": "الأعداد الزوجية والفردية",
-      "matching_pairs_en": [],
-      "question_ar": "صنف الأعداد التالية إلى أعداد زوجية أو أعداد فردية",
-      "explanation_en": "An even number can be divided into two equal groups, while an odd number leaves one remainder.",
-      "classify_categories_ar": [
-        "أعداد زوجية",
-        "أعداد فردية"
-      ],
-      "classify_items_en": [
-        {
-          "correct_category": 0,
-          "item": "8"
-        },
-        {
-          "correct_category": 1,
-          "item": "5"
-        },
-        {
-          "correct_category": 0,
-          "item": "12"
-        },
-        {
-          "correct_category": 1,
-          "item": "17"
-        }
-      ],
-      "grade": 2,
-      "matching_pairs_ar": [],
-      "question_en": "Classify the following numbers into even or odd numbers",
-      "classify_categories_en": [
-        "Even Numbers",
-        "Odd Numbers"
-      ],
-      "classify_items_ar": [
-        {
-          "correct_category": 0,
-          "item": "8"
-        },
-        {
-          "correct_category": 1,
-          "item": "5"
-        },
-        {
-          "correct_category": 0,
-          "item": "12"
-        },
-        {
-          "correct_category": 1,
-          "item": "17"
-        }
-      ],
-      "options_ar": [],
-      "id": "6a499292e25dc98dd762d325",
       "created_date": "2026-07-04T23:09:06.798000",
       "updated_date": "2026-07-04T23:09:06.798000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -221,6 +115,112 @@
       "options_en": [],
       "correct_answer": null,
       "ordering_items_en": [],
+      "topic_en": "Solar and Lunar Al",
+      "explanation_ar": "ال القمرية تُكتب وتُنطق، أما ال الشمسية فتُكتب ولا تُنطق ويأتي بعدها حرف مشدد.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "ال الشمسية وال القمرية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الكلمات التالية إلى كلمات تبدأ بـ (ال) الشمسية أو (ال) القمرية",
+      "explanation_en": "Lunar 'Al' is written and pronounced, while Solar 'Al' is written but not pronounced and followed by a stressed letter.",
+      "classify_categories_ar": [
+        "ال القمرية",
+        "ال الشمسية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Al-Madrasa (School)"
+        },
+        {
+          "correct_category": 1,
+          "item": "Al-Sidq (Honesty)"
+        },
+        {
+          "correct_category": 0,
+          "item": "Al-Jamal (Camel)"
+        },
+        {
+          "correct_category": 1,
+          "item": "Al-Thawb (Dress)"
+        }
+      ],
+      "grade": 2,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following words into those starting with Solar (Al) or Lunar (Al)",
+      "classify_categories_en": [
+        "Lunar Al",
+        "Solar Al"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "المدرسة"
+        },
+        {
+          "correct_category": 1,
+          "item": "الصدق"
+        },
+        {
+          "correct_category": 0,
+          "item": "الجمل"
+        },
+        {
+          "correct_category": 1,
+          "item": "الثوب"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499292e25dc98dd762d328",
+      "created_date": "2026-07-04T23:09:06.798000",
+      "updated_date": "2026-07-04T23:09:06.798000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "topic_en": "Patterns and Sequence",
+      "explanation_ar": "فهم الأنماط العددية يمهد الطريق لتعلم الضرب والعد القفزي.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأعداد التالية لتكوين نمط صحيح بزيادة 5 في كل مرة",
+      "explanation_en": "Understanding numerical patterns paves the way for learning multiplication and skip counting.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following numbers to form a correct pattern increasing by 5 each time",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499292e25dc98dd762d323",
+      "created_date": "2026-07-04T23:09:06.798000",
+      "updated_date": "2026-07-04T23:09:06.798000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
       "topic_en": "Multiplication and Division",
       "explanation_ar": "يتم تقديم الضرب كجمع متكرر والقسمة كتوزيع بالتساوي في نهاية الصف الثاني الابتدائي.",
       "test_type": "criterion",
@@ -289,125 +289,139 @@
       "options_en": [],
       "correct_answer": null,
       "ordering_items_en": [],
-      "topic_en": "Solar and Lunar Al",
-      "explanation_ar": "ال القمرية تُكتب وتُنطق، أما ال الشمسية فتُكتب ولا تُنطق ويأتي بعدها حرف مشدد.",
+      "topic_en": "Even and Odd Numbers",
+      "explanation_ar": "العدد الزوجي هو الذي يمكن تقسيمه إلى مجموعتين متساويتين، بينما الفردي يتبقى منه واحد.",
       "test_type": "criterion",
       "difficulty": "medium",
-      "topic_ar": "ال الشمسية وال القمرية",
+      "topic_ar": "الأعداد الزوجية والفردية",
       "matching_pairs_en": [],
-      "question_ar": "صنف الكلمات التالية إلى كلمات تبدأ بـ (ال) الشمسية أو (ال) القمرية",
-      "explanation_en": "Lunar 'Al' is written and pronounced, while Solar 'Al' is written but not pronounced and followed by a stressed letter.",
+      "question_ar": "صنف الأعداد التالية إلى أعداد زوجية أو أعداد فردية",
+      "explanation_en": "An even number can be divided into two equal groups, while an odd number leaves one remainder.",
       "classify_categories_ar": [
-        "ال القمرية",
-        "ال الشمسية"
+        "أعداد زوجية",
+        "أعداد فردية"
       ],
       "classify_items_en": [
         {
           "correct_category": 0,
-          "item": "Al-Madrasa (School)"
+          "item": "8"
         },
         {
           "correct_category": 1,
-          "item": "Al-Sidq (Honesty)"
+          "item": "5"
         },
         {
           "correct_category": 0,
-          "item": "Al-Jamal (Camel)"
+          "item": "12"
         },
         {
           "correct_category": 1,
-          "item": "Al-Thawb (Dress)"
+          "item": "17"
         }
       ],
       "grade": 2,
       "matching_pairs_ar": [],
-      "question_en": "Classify the following words into those starting with Solar (Al) or Lunar (Al)",
+      "question_en": "Classify the following numbers into even or odd numbers",
       "classify_categories_en": [
-        "Lunar Al",
-        "Solar Al"
+        "Even Numbers",
+        "Odd Numbers"
       ],
       "classify_items_ar": [
         {
           "correct_category": 0,
-          "item": "المدرسة"
+          "item": "8"
         },
         {
           "correct_category": 1,
-          "item": "الصدق"
+          "item": "5"
         },
         {
           "correct_category": 0,
-          "item": "الجمل"
+          "item": "12"
         },
         {
           "correct_category": 1,
-          "item": "الثوب"
+          "item": "17"
         }
       ],
       "options_ar": [],
-      "id": "6a499292e25dc98dd762d328",
+      "id": "6a499292e25dc98dd762d325",
       "created_date": "2026-07-04T23:09:06.798000",
       "updated_date": "2026-07-04T23:09:06.798000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
     {
-      "ordering_items_ar": [],
-      "question_type": "matching",
+      "ordering_items_ar": [
+        "خمسون ريالاً",
+        "عشرة ريالات",
+        "خمسة ريالات",
+        "ريال واحد"
+      ],
+      "question_type": "ordering",
       "options_en": [],
       "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Vocabulary and Synonyms",
-      "explanation_ar": "هذا السؤال يختبر مهارة الطالب في فهم مفردات اللغة العربية من كتاب لغتي للصف الثاني الابتدائي.",
+      "ordering_items_en": [
+        "Fifty Riyals",
+        "Ten Riyals",
+        "Five Riyals",
+        "One Riyal"
+      ],
+      "topic_en": "Currency and Money",
+      "explanation_ar": "يعد تمييز فئات النقود وترتيبها حسب القيمة مهارة حياتية ورياضية أساسية في الصف الثاني.",
       "test_type": "criterion",
       "difficulty": "medium",
-      "topic_ar": "الكلمات والمرادفات",
-      "matching_pairs_en": [
-        {
-          "left": "Pure",
-          "right": "Clean"
-        },
-        {
-          "left": "Guided",
-          "right": "Directed"
-        },
-        {
-          "left": "Jogged",
-          "right": "Ran fast"
-        },
-        {
-          "left": "Watched",
-          "right": "Saw"
-        }
-      ],
-      "question_ar": "صل كل كلمة بمعناها الصحيح من نص (صديقي)",
-      "explanation_en": "This question tests the student's ability to understand Arabic vocabulary from the Lughati book for Grade 2.",
+      "topic_ar": "العملات والنقود",
+      "matching_pairs_en": [],
+      "question_ar": "رتب العملات الورقية السعودية من القيمة الأكبر إلى القيمة الأصغر",
+      "explanation_en": "Distinguishing currency denominations and ordering them by value is a key life and math skill in Grade 2.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 2,
-      "matching_pairs_ar": [
-        {
-          "left": "نقية",
-          "right": "نظيفة"
-        },
-        {
-          "left": "أرشد",
-          "right": "وجه"
-        },
-        {
-          "left": "هرول",
-          "right": "أسرع"
-        },
-        {
-          "left": "شاهد",
-          "right": "رأى"
-        }
-      ],
-      "question_en": "Match each word with its correct meaning from the text (My Friend)",
+      "matching_pairs_ar": [],
+      "question_en": "Order the Saudi paper currencies from highest to lowest value",
       "classify_categories_en": [],
       "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499292e25dc98dd762d31d",
+      "id": "6a499292e25dc98dd762d321",
+      "created_date": "2026-07-04T23:09:06.797000",
+      "updated_date": "2026-07-04T23:09:06.797000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "استيقظ فواز من النوم مبكراً",
+        "توضأ وصلى الفجر",
+        "لبس ملابس المدرسة",
+        "ركب حافلة المدرسة"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Fawaz woke up early",
+        "Performed Wudu and prayed",
+        "Dressed in school clothes",
+        "Rode the school bus"
+      ],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "يساعد ترتيب الأحداث على تنمية مهارة التسلسل المنطقي وفهم المقروء.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "رتب أحداث يوم فواز المدرسي بالترتيب الصحيح",
+      "explanation_en": "Ordering events helps develop logical sequencing and reading comprehension skills.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [],
+      "question_en": "Order the events of Fawaz's school day in the correct sequence",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499292e25dc98dd762d322",
       "created_date": "2026-07-04T23:09:06.797000",
       "updated_date": "2026-07-04T23:09:06.797000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -600,76 +614,62 @@
       "is_sample": false
     },
     {
-      "ordering_items_ar": [
-        "خمسون ريالاً",
-        "عشرة ريالات",
-        "خمسة ريالات",
-        "ريال واحد"
-      ],
-      "question_type": "ordering",
+      "ordering_items_ar": [],
+      "question_type": "matching",
       "options_en": [],
       "correct_answer": null,
-      "ordering_items_en": [
-        "Fifty Riyals",
-        "Ten Riyals",
-        "Five Riyals",
-        "One Riyal"
-      ],
-      "topic_en": "Currency and Money",
-      "explanation_ar": "يعد تمييز فئات النقود وترتيبها حسب القيمة مهارة حياتية ورياضية أساسية في الصف الثاني.",
+      "ordering_items_en": [],
+      "topic_en": "Vocabulary and Synonyms",
+      "explanation_ar": "هذا السؤال يختبر مهارة الطالب في فهم مفردات اللغة العربية من كتاب لغتي للصف الثاني الابتدائي.",
       "test_type": "criterion",
       "difficulty": "medium",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [],
-      "question_ar": "رتب العملات الورقية السعودية من القيمة الأكبر إلى القيمة الأصغر",
-      "explanation_en": "Distinguishing currency denominations and ordering them by value is a key life and math skill in Grade 2.",
+      "topic_ar": "الكلمات والمرادفات",
+      "matching_pairs_en": [
+        {
+          "left": "Pure",
+          "right": "Clean"
+        },
+        {
+          "left": "Guided",
+          "right": "Directed"
+        },
+        {
+          "left": "Jogged",
+          "right": "Ran fast"
+        },
+        {
+          "left": "Watched",
+          "right": "Saw"
+        }
+      ],
+      "question_ar": "صل كل كلمة بمعناها الصحيح من نص (صديقي)",
+      "explanation_en": "This question tests the student's ability to understand Arabic vocabulary from the Lughati book for Grade 2.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 2,
-      "matching_pairs_ar": [],
-      "question_en": "Order the Saudi paper currencies from highest to lowest value",
+      "matching_pairs_ar": [
+        {
+          "left": "نقية",
+          "right": "نظيفة"
+        },
+        {
+          "left": "أرشد",
+          "right": "وجه"
+        },
+        {
+          "left": "هرول",
+          "right": "أسرع"
+        },
+        {
+          "left": "شاهد",
+          "right": "رأى"
+        }
+      ],
+      "question_en": "Match each word with its correct meaning from the text (My Friend)",
       "classify_categories_en": [],
       "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499292e25dc98dd762d321",
-      "created_date": "2026-07-04T23:09:06.797000",
-      "updated_date": "2026-07-04T23:09:06.797000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "استيقظ فواز من النوم مبكراً",
-        "توضأ وصلى الفجر",
-        "لبس ملابس المدرسة",
-        "ركب حافلة المدرسة"
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "Fawaz woke up early",
-        "Performed Wudu and prayed",
-        "Dressed in school clothes",
-        "Rode the school bus"
-      ],
-      "topic_en": "Reading and Comprehension",
-      "explanation_ar": "يساعد ترتيب الأحداث على تنمية مهارة التسلسل المنطقي وفهم المقروء.",
-      "test_type": "criterion",
-      "difficulty": "medium",
-      "topic_ar": "قراءة وفهم",
-      "matching_pairs_en": [],
-      "question_ar": "رتب أحداث يوم فواز المدرسي بالترتيب الصحيح",
-      "explanation_en": "Ordering events helps develop logical sequencing and reading comprehension skills.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 2,
-      "matching_pairs_ar": [],
-      "question_en": "Order the events of Fawaz's school day in the correct sequence",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499292e25dc98dd762d322",
+      "id": "6a499292e25dc98dd762d31d",
       "created_date": "2026-07-04T23:09:06.797000",
       "updated_date": "2026-07-04T23:09:06.797000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
