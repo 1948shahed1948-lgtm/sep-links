@@ -42,112 +42,68 @@
       "is_sample": false
     },
     {
-      "ordering_items_ar": [
-        "2",
-        "4",
-        "6",
-        "8"
-      ],
-      "question_type": "ordering",
+      "ordering_items_ar": [],
+      "question_type": "classify",
       "options_en": [],
       "correct_answer": null,
-      "ordering_items_en": [
-        "2",
-        "4",
-        "6",
-        "8"
-      ],
-      "topic_en": "Patterns and Sequences",
-      "explanation_ar": "العد القفزي باثنين مهارة أساسية لتمهيد مفهوم الأعداد الزوجية والضرب لاحقاً.",
-      "test_type": "diagnostic",
-      "difficulty": "medium",
-      "topic_ar": "الأنماط والتسلسل",
-      "matching_pairs_en": [],
-      "question_ar": "رتب الأعداد لتكمل نمط القفز باثنين (العد القفزي):",
-      "explanation_en": "Skip counting by twos is a fundamental skill to prepare for the concept of even numbers and multiplication later.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Order the numbers to complete the skip counting by two pattern:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b937ef04f371b660aa5",
-      "created_date": "2026-07-04T23:47:31.459000",
-      "updated_date": "2026-07-04T23:47:31.459000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "يستيقظ أحمد من النوم مبكراً",
-        "يذهب أحمد إلى المدرسة",
-        "يدرس أحمد في الفصل مع زملائه",
-        "يعود أحمد إلى البيت سعيداً"
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "Ahmad wakes up early",
-        "Ahmad goes to school",
-        "Ahmad studies in the classroom with his classmates",
-        "Ahmad returns home happy"
-      ],
-      "topic_en": "Reading and Comprehension",
-      "explanation_ar": "ترتيب الأحداث يساعد الطالب على فهم التسلسل الزمني في القصص القصيرة.",
+      "ordering_items_en": [],
+      "topic_en": "Reading and Comprehension (Word Types)",
+      "explanation_ar": "الاسم يدل على إنسان أو حيوان أو جماد، والفعل يدل على عمل نقوم به.",
       "test_type": "diagnostic",
       "difficulty": "easy",
-      "topic_ar": "قراءة وفهم",
+      "topic_ar": "قراءة وفهم (أنواع الكلمات)",
       "matching_pairs_en": [],
-      "question_ar": "رتب أحداث يوم أحمد الدراسي بالترتيب الصحيح:",
-      "explanation_en": "Ordering events helps the student understand chronological sequence in short stories.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
+      "question_ar": "صنف الكلمات التالية إلى (اسم) أو (فعل) حسب دروس لغتي:",
+      "explanation_en": "A noun refers to a person, animal, or object, and a verb refers to an action we perform.",
+      "classify_categories_ar": [
+        "اسم",
+        "فعل"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Book"
+        },
+        {
+          "correct_category": 1,
+          "item": "Reads"
+        },
+        {
+          "correct_category": 0,
+          "item": "School"
+        },
+        {
+          "correct_category": 1,
+          "item": "Plays"
+        }
+      ],
       "grade": 1,
       "matching_pairs_ar": [],
-      "question_en": "Order the events of Ahmad's school day in the correct sequence:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b937ef04f371b660aa6",
-      "created_date": "2026-07-04T23:47:31.459000",
-      "updated_date": "2026-07-04T23:47:31.459000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "الربع",
-        "النصف",
-        "الكل (الواحد الكامل)"
+      "question_en": "Classify the following words into (Noun) or (Verb) according to Lughati lessons:",
+      "classify_categories_en": [
+        "Noun",
+        "Verb"
       ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "Quarter",
-        "Half",
-        "Whole"
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "كتاب"
+        },
+        {
+          "correct_category": 1,
+          "item": "يقرأ"
+        },
+        {
+          "correct_category": 0,
+          "item": "مدرسة"
+        },
+        {
+          "correct_category": 1,
+          "item": "يلعب"
+        }
       ],
-      "topic_en": "Fractions",
-      "explanation_ar": "في الصف الأول، يركز الطالب على مفهوم النصف والربع كأجزاء من الكل.",
-      "test_type": "diagnostic",
-      "difficulty": "hard",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [],
-      "question_ar": "رتب أجزاء الشكل الملونة من الأصغر كمية إلى الأكبر:",
-      "explanation_en": "In first grade, the student focuses on the concept of half and quarter as parts of a whole.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Order the colored parts of the shape from the smallest amount to the largest:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499b937ef04f371b660aa7",
+      "id": "6a499b937ef04f371b660aab",
       "created_date": "2026-07-04T23:47:31.459000",
       "updated_date": "2026-07-04T23:47:31.459000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -222,6 +178,44 @@
       "is_sample": false
     },
     {
+      "ordering_items_ar": [
+        "يستيقظ أحمد من النوم مبكراً",
+        "يذهب أحمد إلى المدرسة",
+        "يدرس أحمد في الفصل مع زملائه",
+        "يعود أحمد إلى البيت سعيداً"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Ahmad wakes up early",
+        "Ahmad goes to school",
+        "Ahmad studies in the classroom with his classmates",
+        "Ahmad returns home happy"
+      ],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "ترتيب الأحداث يساعد الطالب على فهم التسلسل الزمني في القصص القصيرة.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "رتب أحداث يوم أحمد الدراسي بالترتيب الصحيح:",
+      "explanation_en": "Ordering events helps the student understand chronological sequence in short stories.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the events of Ahmad's school day in the correct sequence:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b937ef04f371b660aa6",
+      "created_date": "2026-07-04T23:47:31.459000",
+      "updated_date": "2026-07-04T23:47:31.459000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
       "ordering_items_ar": [],
       "question_type": "classify",
       "options_en": [],
@@ -276,6 +270,44 @@
       ],
       "options_ar": [],
       "id": "6a499b937ef04f371b660aa9",
+      "created_date": "2026-07-04T23:47:31.459000",
+      "updated_date": "2026-07-04T23:47:31.459000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "topic_en": "Patterns and Sequences",
+      "explanation_ar": "العد القفزي باثنين مهارة أساسية لتمهيد مفهوم الأعداد الزوجية والضرب لاحقاً.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأعداد لتكمل نمط القفز باثنين (العد القفزي):",
+      "explanation_en": "Skip counting by twos is a fundamental skill to prepare for the concept of even numbers and multiplication later.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the numbers to complete the skip counting by two pattern:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b937ef04f371b660aa5",
       "created_date": "2026-07-04T23:47:31.459000",
       "updated_date": "2026-07-04T23:47:31.459000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -350,124 +382,38 @@
       "is_sample": false
     },
     {
-      "ordering_items_ar": [],
-      "question_type": "classify",
+      "ordering_items_ar": [
+        "الربع",
+        "النصف",
+        "الكل (الواحد الكامل)"
+      ],
+      "question_type": "ordering",
       "options_en": [],
       "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Reading and Comprehension (Word Types)",
-      "explanation_ar": "الاسم يدل على إنسان أو حيوان أو جماد، والفعل يدل على عمل نقوم به.",
+      "ordering_items_en": [
+        "Quarter",
+        "Half",
+        "Whole"
+      ],
+      "topic_en": "Fractions",
+      "explanation_ar": "في الصف الأول، يركز الطالب على مفهوم النصف والربع كأجزاء من الكل.",
       "test_type": "diagnostic",
-      "difficulty": "easy",
-      "topic_ar": "قراءة وفهم (أنواع الكلمات)",
+      "difficulty": "hard",
+      "topic_ar": "الكسور",
       "matching_pairs_en": [],
-      "question_ar": "صنف الكلمات التالية إلى (اسم) أو (فعل) حسب دروس لغتي:",
-      "explanation_en": "A noun refers to a person, animal, or object, and a verb refers to an action we perform.",
-      "classify_categories_ar": [
-        "اسم",
-        "فعل"
-      ],
-      "classify_items_en": [
-        {
-          "correct_category": 0,
-          "item": "Book"
-        },
-        {
-          "correct_category": 1,
-          "item": "Reads"
-        },
-        {
-          "correct_category": 0,
-          "item": "School"
-        },
-        {
-          "correct_category": 1,
-          "item": "Plays"
-        }
-      ],
-      "grade": 1,
-      "matching_pairs_ar": [],
-      "question_en": "Classify the following words into (Noun) or (Verb) according to Lughati lessons:",
-      "classify_categories_en": [
-        "Noun",
-        "Verb"
-      ],
-      "classify_items_ar": [
-        {
-          "correct_category": 0,
-          "item": "كتاب"
-        },
-        {
-          "correct_category": 1,
-          "item": "يقرأ"
-        },
-        {
-          "correct_category": 0,
-          "item": "مدرسة"
-        },
-        {
-          "correct_category": 1,
-          "item": "يلعب"
-        }
-      ],
-      "options_ar": [],
-      "id": "6a499b937ef04f371b660aab",
-      "created_date": "2026-07-04T23:47:31.459000",
-      "updated_date": "2026-07-04T23:47:31.459000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "matching",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Money and Currency",
-      "explanation_ar": "يتعلم الطالب في الصف الأول التمييز بين فئات العملات السعودية الورقية والمعدنية (1، 2، 5، 10).",
-      "test_type": "diagnostic",
-      "difficulty": "medium",
-      "topic_ar": "النقود والعملات",
-      "matching_pairs_en": [
-        {
-          "left": "Banknote with 10 written on it",
-          "right": "Ten Riyals"
-        },
-        {
-          "left": "Banknote with 5 written on it",
-          "right": "Five Riyals"
-        },
-        {
-          "left": "Coin with 2 written on it",
-          "right": "Two Riyals"
-        }
-      ],
-      "question_ar": "صل العملة السعودية بقيمتها الصحيحة:",
-      "explanation_en": "First-grade students learn to distinguish between Saudi paper and coin denominations (1, 2, 5, 10).",
+      "question_ar": "رتب أجزاء الشكل الملونة من الأصغر كمية إلى الأكبر:",
+      "explanation_en": "In first grade, the student focuses on the concept of half and quarter as parts of a whole.",
       "classify_categories_ar": [],
       "classify_items_en": [],
       "grade": 1,
-      "matching_pairs_ar": [
-        {
-          "left": "ورقة نقدية مكتوب عليها 10",
-          "right": "عشرة ريالات"
-        },
-        {
-          "left": "ورقة نقدية مكتوب عليها 5",
-          "right": "خمسة ريالات"
-        },
-        {
-          "left": "عملة معدنية مكتوب عليها 2",
-          "right": "ريالان"
-        }
-      ],
-      "question_en": "Match the Saudi currency with its correct value:",
+      "matching_pairs_ar": [],
+      "question_en": "Order the colored parts of the shape from the smallest amount to the largest:",
       "classify_categories_en": [],
       "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499b937ef04f371b660aa0",
-      "created_date": "2026-07-04T23:47:31.458000",
-      "updated_date": "2026-07-04T23:47:31.458000",
+      "id": "6a499b937ef04f371b660aa7",
+      "created_date": "2026-07-04T23:47:31.459000",
+      "updated_date": "2026-07-04T23:47:31.459000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
@@ -628,6 +574,60 @@
       "classify_items_ar": [],
       "options_ar": [],
       "id": "6a499b937ef04f371b660aa3",
+      "created_date": "2026-07-04T23:47:31.458000",
+      "updated_date": "2026-07-04T23:47:31.458000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Money and Currency",
+      "explanation_ar": "يتعلم الطالب في الصف الأول التمييز بين فئات العملات السعودية الورقية والمعدنية (1، 2، 5، 10).",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "النقود والعملات",
+      "matching_pairs_en": [
+        {
+          "left": "Banknote with 10 written on it",
+          "right": "Ten Riyals"
+        },
+        {
+          "left": "Banknote with 5 written on it",
+          "right": "Five Riyals"
+        },
+        {
+          "left": "Coin with 2 written on it",
+          "right": "Two Riyals"
+        }
+      ],
+      "question_ar": "صل العملة السعودية بقيمتها الصحيحة:",
+      "explanation_en": "First-grade students learn to distinguish between Saudi paper and coin denominations (1, 2, 5, 10).",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "ورقة نقدية مكتوب عليها 10",
+          "right": "عشرة ريالات"
+        },
+        {
+          "left": "ورقة نقدية مكتوب عليها 5",
+          "right": "خمسة ريالات"
+        },
+        {
+          "left": "عملة معدنية مكتوب عليها 2",
+          "right": "ريالان"
+        }
+      ],
+      "question_en": "Match the Saudi currency with its correct value:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b937ef04f371b660aa0",
       "created_date": "2026-07-04T23:47:31.458000",
       "updated_date": "2026-07-04T23:47:31.458000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
