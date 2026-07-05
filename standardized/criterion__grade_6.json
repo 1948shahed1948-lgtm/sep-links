@@ -1,0 +1,703 @@
+{
+  "test_type": "criterion",
+  "grade": 6,
+  "count": 12,
+  "questions": [
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Words and Synonyms",
+      "explanation_ar": "هذه الكلمات مستمدة من نصوص مادة لغتي الجميلة للصف السادس، حيث يتعلم الطالب مفردات لغوية تزيد من حصيلته اللغوية.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الكلمات والمرادفات",
+      "matching_pairs_en": [
+        {
+          "left": "Altruism",
+          "right": "Preferring others over oneself"
+        },
+        {
+          "left": "Veneration",
+          "right": "Respect and glorification"
+        },
+        {
+          "left": "Parsimony",
+          "right": "Extreme stinginess"
+        },
+        {
+          "left": "Departs (early)",
+          "right": "Goes in the morning"
+        }
+      ],
+      "question_ar": "صِل الكلمة من العمود الأول بمرادفها الصحيح من العمود الثاني.",
+      "explanation_en": "These words are derived from the 6th-grade Arabic language curriculum (Lughati), helping students expand their vocabulary.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [
+        {
+          "left": "إيثار",
+          "right": "تفضيل الغير على النفس"
+        },
+        {
+          "left": "توقير",
+          "right": "احترام وإجلال"
+        },
+        {
+          "left": "شح",
+          "right": "بخل شديد"
+        },
+        {
+          "left": "يغدو",
+          "right": "يذهب صباحاً"
+        }
+      ],
+      "question_en": "Match the word in the first column with its correct synonym in the second column.",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a49934539ead10de3921b2e",
+      "created_date": "2026-07-04T23:12:05.047000",
+      "updated_date": "2026-07-04T23:12:05.047000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Geometry and Shapes",
+      "explanation_ar": "في الفصل الدراسي الثاني، يدرس طلاب الصف السادس خصائص المضلعات والأشكال الرباعية.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [
+        {
+          "left": "Triangle",
+          "right": "A polygon with 3 sides and 3 angles"
+        },
+        {
+          "left": "Square",
+          "right": "4 equal sides and 4 right angles"
+        },
+        {
+          "left": "Rectangle",
+          "right": "Opposite sides are equal and angles are right"
+        },
+        {
+          "left": "Rhombus",
+          "right": "4 equal sides and opposite angles are equal"
+        }
+      ],
+      "question_ar": "صِل الشكل الهندسي بخصائصه الصحيحة.",
+      "explanation_en": "In the second semester, 6th-grade students study the properties of polygons and quadrilaterals.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [
+        {
+          "left": "المثلث",
+          "right": "مضلع له ٣ أضلاع و٣ زوايا"
+        },
+        {
+          "left": "المربع",
+          "right": "٤ أضلاع متساوية و٤ زوايا قائمة"
+        },
+        {
+          "left": "المستطيل",
+          "right": "كل ضلعين متقابلين متساويان وزواياه قائمة"
+        },
+        {
+          "left": "المعين",
+          "right": "٤ أضلاع متساوية وزواياه المتقابلة متساوية"
+        }
+      ],
+      "question_en": "Match the geometric shape with its correct properties.",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a49934539ead10de3921b2f",
+      "created_date": "2026-07-04T23:12:05.047000",
+      "updated_date": "2026-07-04T23:12:05.047000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "النظام المتري هو المعتمد في منهج الرياضيات والعلوم لتقدير القياسات المختلفة.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الوحدات والقياس",
+      "matching_pairs_en": [
+        {
+          "left": "Length",
+          "right": "Meter"
+        },
+        {
+          "left": "Mass",
+          "right": "Gram"
+        },
+        {
+          "left": "Capacity",
+          "right": "Liter"
+        },
+        {
+          "left": "Time",
+          "right": "Second"
+        }
+      ],
+      "question_ar": "صِل نوع القياس بالوحدة الأساسية المناسبة له في النظام المتري.",
+      "explanation_en": "The metric system is adopted in the math and science curriculum for estimating various measurements.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [
+        {
+          "left": "الطول",
+          "right": "المتر"
+        },
+        {
+          "left": "الكتلة",
+          "right": "الجرام"
+        },
+        {
+          "left": "السعة",
+          "right": "اللتر"
+        },
+        {
+          "left": "الزمن",
+          "right": "الثانية"
+        }
+      ],
+      "question_en": "Match the type of measurement with its appropriate base unit in the metric system.",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a49934539ead10de3921b30",
+      "created_date": "2026-07-04T23:12:05.047000",
+      "updated_date": "2026-07-04T23:12:05.047000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Fractions",
+      "explanation_ar": "يتعلم الطلاب التمييز بين أنواع الكسور المختلفة وطرق تحويلها.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الكسور",
+      "matching_pairs_en": [
+        {
+          "left": "2/5",
+          "right": "Proper Fraction"
+        },
+        {
+          "left": "9/4",
+          "right": "Improper Fraction"
+        },
+        {
+          "left": "5 1/3",
+          "right": "Mixed Number"
+        },
+        {
+          "left": "0.75",
+          "right": "Decimal Fraction"
+        }
+      ],
+      "question_ar": "صِل كل عدد بنوع الكسر الذي يمثله.",
+      "explanation_en": "Students learn to distinguish between different types of fractions and how to convert them.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [
+        {
+          "left": "٢/٥",
+          "right": "كسر فعلي"
+        },
+        {
+          "left": "٩/٤",
+          "right": "كسر غير فعلي"
+        },
+        {
+          "left": "٥ ١/٣",
+          "right": "عدد كسري"
+        },
+        {
+          "left": "٠.٧٥",
+          "right": "كسر عشري"
+        }
+      ],
+      "question_en": "Match each number with the type of fraction it represents.",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a49934539ead10de3921b31",
+      "created_date": "2026-07-04T23:12:05.047000",
+      "updated_date": "2026-07-04T23:12:05.047000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "إجراء العمليات داخل الأقواس",
+        "إيجاد قيم القوى (الأسس)",
+        "الضرب والقسمة من اليمين إلى اليسار",
+        "الجمع والطرح من اليمين إلى اليسار"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Perform operations inside parentheses",
+        "Find values of exponents",
+        "Multiply and divide from right to left",
+        "Add and subtract from right to left"
+      ],
+      "topic_en": "Addition and Subtraction",
+      "explanation_ar": "قاعدة ترتيب العمليات أساسية لحل المسائل الحسابية المعقدة في الصف السادس.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الجمع والطرح",
+      "matching_pairs_en": [],
+      "question_ar": "رتب خطوات \"ترتيب العمليات\" الرياضية من البداية إلى النهاية.",
+      "explanation_en": "The order of operations rule is essential for solving complex arithmetic problems in 6th grade.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Order the mathematical 'Order of Operations' steps from start to finish.",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a49934539ead10de3921b32",
+      "created_date": "2026-07-04T23:12:05.047000",
+      "updated_date": "2026-07-04T23:12:05.047000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "٣",
+        "٩",
+        "٢٧",
+        "٨١",
+        "٢٤٣"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "3",
+        "9",
+        "27",
+        "81",
+        "243"
+      ],
+      "topic_en": "Patterns and Sequences",
+      "explanation_ar": "الأنماط العددية تعتمد على اكتشاف القاعدة وتطبيقها، وهنا القاعدة هي الضرب في العدد ٣.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "أكمل النمط العددي التالي بترتيب الأعداد من الأصغر إلى الأكبر (قاعدة النمط: الضرب في ٣).",
+      "explanation_en": "Numerical patterns depend on discovering the rule and applying it; here the rule is multiplying by the number 3.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Complete the following numerical pattern by ordering the numbers from smallest to largest (Pattern rule: Multiply by 3).",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a49934539ead10de3921b33",
+      "created_date": "2026-07-04T23:12:05.047000",
+      "updated_date": "2026-07-04T23:12:05.047000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "تحديد الفكرة والزمان والمكان",
+        "وصف الشخصيات والبداية",
+        "تصاعد الأحداث (العقدة)",
+        "الحل والنهاية"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Determine the idea, time, and place",
+        "Describe characters and the beginning",
+        "Rising action (the plot/climax)",
+        "Solution and ending"
+      ],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "فهم بنية النص السردي يساعد الطالب على تحليل القصص وكتابتها بشكل منظم.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "رتب خطوات كتابة نص سردي (قصة) حسب ما درسته في بنية النص.",
+      "explanation_en": "Understanding the structure of narrative text helps the student analyze and write stories in an organized manner.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Order the steps for writing a narrative text (story) according to what you studied in text structure.",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a49934539ead10de3921b34",
+      "created_date": "2026-07-04T23:12:05.047000",
+      "updated_date": "2026-07-04T23:12:05.047000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "خمسة ريالات",
+        "عشرة ريالات",
+        "خمسون ريالاً",
+        "مئة ريال",
+        "خمس مئة ريال"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Five Riyals",
+        "Ten Riyals",
+        "Fifty Riyals",
+        "One Hundred Riyals",
+        "Five Hundred Riyals"
+      ],
+      "topic_en": "Currency and Money",
+      "explanation_ar": "التعرف على العملات الوطنية جزء من الثقافة المالية والمهارات الحياتية في المنهج.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "العملات والنقود",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الفئات النقدية الورقية السعودية الحالية من الأصغر قيمة إلى الأكبر قيمة.",
+      "explanation_en": "Recognizing national currencies is part of financial literacy and life skills in the curriculum.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Order the current Saudi paper currency denominations from lowest to highest value.",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a49934539ead10de3921b35",
+      "created_date": "2026-07-04T23:12:05.047000",
+      "updated_date": "2026-07-04T23:12:05.047000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Even and Odd Numbers",
+      "explanation_ar": "العدد الزوجي يقبل القسمة على ٢ بدون باقٍ، بينما العدد الفردي يتبقى منه ١.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأعداد الزوجية والفردية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأعداد التالية إلى زوجية أو فردية.",
+      "explanation_en": "An even number is divisible by 2 without a remainder, while an odd number leaves a remainder of 1.",
+      "classify_categories_ar": [
+        "أعداد زوجية",
+        "أعداد فردية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "24"
+        },
+        {
+          "correct_category": 1,
+          "item": "15"
+        },
+        {
+          "correct_category": 0,
+          "item": "8"
+        },
+        {
+          "correct_category": 1,
+          "item": "33"
+        }
+      ],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following numbers into even or odd.",
+      "classify_categories_en": [
+        "Even Numbers",
+        "Odd Numbers"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "٢٤"
+        },
+        {
+          "correct_category": 1,
+          "item": "١٥"
+        },
+        {
+          "correct_category": 0,
+          "item": "٨"
+        },
+        {
+          "correct_category": 1,
+          "item": "٣٣"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a49934539ead10de3921b36",
+      "created_date": "2026-07-04T23:12:05.047000",
+      "updated_date": "2026-07-04T23:12:05.047000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Multiplication and Division",
+      "explanation_ar": "الضرب والقسمة عمليتان متعاكستان، ولكل منهما مصطلحات خاصة تميز عناصرها.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الضرب والقسمة",
+      "matching_pairs_en": [],
+      "question_ar": "اسحب المفاهيم إلى العملية الحسابية الصحيحة التي تنتمي إليها.",
+      "explanation_en": "Multiplication and division are inverse operations, and each has specific terms that distinguish its elements.",
+      "classify_categories_ar": [
+        "عملية الضرب",
+        "عملية القسمة"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Its result is called 'Product'"
+        },
+        {
+          "correct_category": 0,
+          "item": "Uses the (×) sign"
+        },
+        {
+          "correct_category": 1,
+          "item": "Its result is called 'Quotient'"
+        },
+        {
+          "correct_category": 1,
+          "item": "Consists of dividend and divisor"
+        }
+      ],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Drag the concepts to the correct mathematical operation they belong to.",
+      "classify_categories_en": [
+        "Multiplication",
+        "Division"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "ناتجها يسمى \"حاصل الضرب\""
+        },
+        {
+          "correct_category": 0,
+          "item": "تستخدم علامة (×)"
+        },
+        {
+          "correct_category": 1,
+          "item": "ناتجها يسمى \"خارج القسمة\""
+        },
+        {
+          "correct_category": 1,
+          "item": "تتكون من مقسوم ومقسوم عليه"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a49934539ead10de3921b37",
+      "created_date": "2026-07-04T23:12:05.047000",
+      "updated_date": "2026-07-04T23:12:05.047000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Types of Angles",
+      "explanation_ar": "الزاوية القائمة قياسها ٩٠ درجة، والحادة أقل منها، والمنفرجة أكبر منها وأقل من ١٨٠ درجة.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "أنواع الزوايا",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الزوايا التالية حسب قياسها بالدرجات.",
+      "explanation_en": "A right angle measures 90 degrees, acute is less than that, and obtuse is more than that and less than 180 degrees.",
+      "classify_categories_ar": [
+        "زاوية حادة",
+        "زاوية قائمة",
+        "زاوية منفرجة"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "45 Degrees"
+        },
+        {
+          "correct_category": 1,
+          "item": "90 Degrees"
+        },
+        {
+          "correct_category": 2,
+          "item": "130 Degrees"
+        },
+        {
+          "correct_category": 0,
+          "item": "89 Degrees"
+        }
+      ],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following angles according to their measurement in degrees.",
+      "classify_categories_en": [
+        "Acute Angle",
+        "Right Angle",
+        "Obtuse Angle"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "٤٥ درجة"
+        },
+        {
+          "correct_category": 1,
+          "item": "٩٠ درجة"
+        },
+        {
+          "correct_category": 2,
+          "item": "١٣٠ درجة"
+        },
+        {
+          "correct_category": 0,
+          "item": "٨٩ درجة"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a49934539ead10de3921b38",
+      "created_date": "2026-07-04T23:12:05.047000",
+      "updated_date": "2026-07-04T23:12:05.047000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Parts of Speech",
+      "explanation_ar": "الكلمة في اللغة العربية لا تخرج عن ثلاثة أنواع: اسم يدل على معنى، فعل يدل على حدث وزمن، وحرف يربط بين الكلمات.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "أقسام الكلمة",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الكلمات التالية إلى (اسم، فعل، حرف) حسب نوعها.",
+      "explanation_en": "A word in the Arabic language falls into three types: a Noun representing a meaning, a Verb representing an action and time, and a Letter/Particle that connects words.",
+      "classify_categories_ar": [
+        "اسم",
+        "فعل",
+        "حرف"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "School"
+        },
+        {
+          "correct_category": 1,
+          "item": "Studies"
+        },
+        {
+          "correct_category": 2,
+          "item": "In"
+        },
+        {
+          "correct_category": 1,
+          "item": "Wrote"
+        },
+        {
+          "correct_category": 2,
+          "item": "To"
+        },
+        {
+          "correct_category": 0,
+          "item": "Mohammed"
+        }
+      ],
+      "grade": 6,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following words into (Noun, Verb, Letter/Particle) according to their type.",
+      "classify_categories_en": [
+        "Noun",
+        "Verb",
+        "Letter/Particle"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "مدرسة"
+        },
+        {
+          "correct_category": 1,
+          "item": "يذاكر"
+        },
+        {
+          "correct_category": 2,
+          "item": "في"
+        },
+        {
+          "correct_category": 1,
+          "item": "كتب"
+        },
+        {
+          "correct_category": 2,
+          "item": "إلى"
+        },
+        {
+          "correct_category": 0,
+          "item": "محمد"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a49934539ead10de3921b39",
+      "created_date": "2026-07-04T23:12:05.047000",
+      "updated_date": "2026-07-04T23:12:05.047000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    }
+  ]
+}
