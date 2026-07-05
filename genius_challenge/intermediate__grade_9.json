@@ -106,6 +106,40 @@
       "is_sample": false
     },
     {
+      "golden_rule_en": "Find the function rule first, then apply it to the required value.",
+      "options_en": [
+        "21",
+        "25",
+        "31",
+        "33"
+      ],
+      "common_mistake_en": "Students might try to guess the increment (adding 6 every 2 units) but miscount the steps, or make a sign error when solving for 'b'.",
+      "correct_answer": "2",
+      "topic_en": "Linear Functions and Substitution",
+      "subject_ar": "الرياضيات",
+      "explanation_ar": "أولاً، نجد الميل (أ) باستخدام قانون الميل: أ = (د(4) - د(2)) / (4 - 2) = (13 - 7) / 2 = 6 / 2 = 3. ثانياً، نجد (ب) بالتعويض في د(2): 7 = 3(2) + ب => 7 = 6 + ب => ب = 1. إذاً الدالة هي د(س) = 3س + 1. ثالثاً، نجد د(10): 3(10) + 1 = 30 + 1 = 31.",
+      "golden_rule_ar": "أوجد قاعدة الدالة أولاً ثم طبقها على أي قيمة مطلوبة.",
+      "topic_ar": "الدوال الخطية والتعويض",
+      "subject_en": "Mathematics",
+      "question_ar": "إذا كانت د(س) = أ س + ب، وكانت د(2) = 7، و د(4) = 13. فما هي قيمة د(10)؟",
+      "explanation_en": "First, find the slope (a) using the slope formula: a = (f(4) - f(2)) / (4 - 2) = (13 - 7) / 2 = 6 / 2 = 3. Second, find (b) by substituting into f(2): 7 = 3(2) + b => 7 = 6 + b => b = 1. So the function is f(x) = 3x + 1. Third, find f(10): 3(10) + 1 = 30 + 1 = 31.",
+      "stage": "intermediate",
+      "grade": 9,
+      "question_en": "If f(x) = ax + b, and f(2) = 7, and f(4) = 13, what is the value of f(10)?",
+      "options_ar": [
+        "21",
+        "25",
+        "31",
+        "33"
+      ],
+      "common_mistake_ar": "قد يحاول الطالب التخمين بالزيادة (إضافة 6 كل مرتين) ولكن يخطئ في حساب القفزات، أو يخطئ في إشارة (ب) أثناء حل المعادلة.",
+      "id": "6a49a5c28bb6a6609024de45",
+      "created_date": "2026-07-05T00:30:58.431000",
+      "updated_date": "2026-07-05T00:30:58.431000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
       "golden_rule_en": "Always determine the types of gametes for each parent accurately before starting a Punnett square.",
       "options_en": [
         "9/16 (56.25%)",
@@ -174,40 +208,6 @@
       "is_sample": false
     },
     {
-      "golden_rule_en": "Find the function rule first, then apply it to the required value.",
-      "options_en": [
-        "21",
-        "25",
-        "31",
-        "33"
-      ],
-      "common_mistake_en": "Students might try to guess the increment (adding 6 every 2 units) but miscount the steps, or make a sign error when solving for 'b'.",
-      "correct_answer": "2",
-      "topic_en": "Linear Functions and Substitution",
-      "subject_ar": "الرياضيات",
-      "explanation_ar": "أولاً، نجد الميل (أ) باستخدام قانون الميل: أ = (د(4) - د(2)) / (4 - 2) = (13 - 7) / 2 = 6 / 2 = 3. ثانياً، نجد (ب) بالتعويض في د(2): 7 = 3(2) + ب => 7 = 6 + ب => ب = 1. إذاً الدالة هي د(س) = 3س + 1. ثالثاً، نجد د(10): 3(10) + 1 = 30 + 1 = 31.",
-      "golden_rule_ar": "أوجد قاعدة الدالة أولاً ثم طبقها على أي قيمة مطلوبة.",
-      "topic_ar": "الدوال الخطية والتعويض",
-      "subject_en": "Mathematics",
-      "question_ar": "إذا كانت د(س) = أ س + ب، وكانت د(2) = 7، و د(4) = 13. فما هي قيمة د(10)؟",
-      "explanation_en": "First, find the slope (a) using the slope formula: a = (f(4) - f(2)) / (4 - 2) = (13 - 7) / 2 = 6 / 2 = 3. Second, find (b) by substituting into f(2): 7 = 3(2) + b => 7 = 6 + b => b = 1. So the function is f(x) = 3x + 1. Third, find f(10): 3(10) + 1 = 30 + 1 = 31.",
-      "stage": "intermediate",
-      "grade": 9,
-      "question_en": "If f(x) = ax + b, and f(2) = 7, and f(4) = 13, what is the value of f(10)?",
-      "options_ar": [
-        "21",
-        "25",
-        "31",
-        "33"
-      ],
-      "common_mistake_ar": "قد يحاول الطالب التخمين بالزيادة (إضافة 6 كل مرتين) ولكن يخطئ في حساب القفزات، أو يخطئ في إشارة (ب) أثناء حل المعادلة.",
-      "id": "6a49a5c28bb6a6609024de45",
-      "created_date": "2026-07-05T00:30:58.431000",
-      "updated_date": "2026-07-05T00:30:58.431000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
       "golden_rule_en": "In mixed circuits, removing a parallel branch increases total resistance and decreases the main current.",
       "options_en": [
         "Brightness increases because the current finds only one path",
@@ -238,6 +238,40 @@
       "id": "6a49a5c28bb6a6609024de3f",
       "created_date": "2026-07-05T00:30:58.430000",
       "updated_date": "2026-07-05T00:30:58.430000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "golden_rule_en": "Velocity depends on displacement; if you return to the start, your average velocity is zero.",
+      "options_en": [
+        "8 m/s",
+        "0 m/s",
+        "20000 m/s",
+        "4 m/s"
+      ],
+      "common_mistake_en": "Students often divide distance (400m) by time (50s) to get 8 m/s, which is the average speed, not the average velocity.",
+      "correct_answer": "1",
+      "topic_en": "Displacement and Velocity",
+      "subject_ar": "العلوم (فيزياء)",
+      "explanation_ar": "هناك فرق جوهري بين 'السرعة القياسية المتوسطة' و'السرعة المتجهة المتوسطة'. السرعة المتجهة المتوسطة = الإزاحة الكلية ÷ الزمن. بما أن العداء أكمل دورة كاملة وعاد لنقطة البداية، فإن إزاحته تساوي صفراً. وبالتالي، السرعة المتجهة = 0 ÷ 50 = 0 م/ث.",
+      "golden_rule_ar": "السرعة المتجهة تعتمد على الإزاحة؛ إذا عدت لنقطة البداية، فسرعتك المتجهة المتوسطة هي صفر.",
+      "topic_ar": "الإزاحة والسرعة المتجهة",
+      "subject_en": "Science (Physics)",
+      "question_ar": "ركض عداء في مضمار دائري محيطه 400 متر. إذا أكمل العداء دورة كاملة في زمن قدره 50 ثانية، فما هي سرعته المتجهة المتوسطة؟",
+      "explanation_en": "There is a fundamental difference between 'average speed' and 'average velocity'. Average velocity = total displacement / time. Since the runner completed one full lap and returned to the starting point, his displacement is zero. Therefore, average velocity = 0 / 50 = 0 m/s.",
+      "stage": "intermediate",
+      "grade": 9,
+      "question_en": "A runner ran on a circular track with a circumference of 400 meters. If the runner completed one full lap in 50 seconds, what is his average velocity?",
+      "options_ar": [
+        "8 م/ث",
+        "0 م/ث",
+        "20000 م/ث",
+        "4 م/ث"
+      ],
+      "common_mistake_ar": "يقسم الطلاب المسافة (400م) على الزمن (50ث) فيحصلون على 8 م/ث، وهي السرعة القياسية المتوسطة وليست المتجهة.",
+      "id": "6a49a5bca5c794f9de3abe8d",
+      "created_date": "2026-07-05T00:30:52.018000",
+      "updated_date": "2026-07-05T00:30:52.018000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
       "is_sample": false
     },
@@ -304,40 +338,6 @@
       ],
       "common_mistake_ar": "يعتقد الطلاب أن الاحتراق دائماً يقلل الكتلة (بناءً على مشاهدة حرق الخشب)، أو يظنون أن زيادة الكتلة تعني خلق مادة جديدة من العدم.",
       "id": "6a49a5bca5c794f9de3abe8c",
-      "created_date": "2026-07-05T00:30:52.018000",
-      "updated_date": "2026-07-05T00:30:52.018000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "golden_rule_en": "Velocity depends on displacement; if you return to the start, your average velocity is zero.",
-      "options_en": [
-        "8 m/s",
-        "0 m/s",
-        "20000 m/s",
-        "4 m/s"
-      ],
-      "common_mistake_en": "Students often divide distance (400m) by time (50s) to get 8 m/s, which is the average speed, not the average velocity.",
-      "correct_answer": "1",
-      "topic_en": "Displacement and Velocity",
-      "subject_ar": "العلوم (فيزياء)",
-      "explanation_ar": "هناك فرق جوهري بين 'السرعة القياسية المتوسطة' و'السرعة المتجهة المتوسطة'. السرعة المتجهة المتوسطة = الإزاحة الكلية ÷ الزمن. بما أن العداء أكمل دورة كاملة وعاد لنقطة البداية، فإن إزاحته تساوي صفراً. وبالتالي، السرعة المتجهة = 0 ÷ 50 = 0 م/ث.",
-      "golden_rule_ar": "السرعة المتجهة تعتمد على الإزاحة؛ إذا عدت لنقطة البداية، فسرعتك المتجهة المتوسطة هي صفر.",
-      "topic_ar": "الإزاحة والسرعة المتجهة",
-      "subject_en": "Science (Physics)",
-      "question_ar": "ركض عداء في مضمار دائري محيطه 400 متر. إذا أكمل العداء دورة كاملة في زمن قدره 50 ثانية، فما هي سرعته المتجهة المتوسطة؟",
-      "explanation_en": "There is a fundamental difference between 'average speed' and 'average velocity'. Average velocity = total displacement / time. Since the runner completed one full lap and returned to the starting point, his displacement is zero. Therefore, average velocity = 0 / 50 = 0 m/s.",
-      "stage": "intermediate",
-      "grade": 9,
-      "question_en": "A runner ran on a circular track with a circumference of 400 meters. If the runner completed one full lap in 50 seconds, what is his average velocity?",
-      "options_ar": [
-        "8 م/ث",
-        "0 م/ث",
-        "20000 م/ث",
-        "4 م/ث"
-      ],
-      "common_mistake_ar": "يقسم الطلاب المسافة (400م) على الزمن (50ث) فيحصلون على 8 م/ث، وهي السرعة القياسية المتوسطة وليست المتجهة.",
-      "id": "6a49a5bca5c794f9de3abe8d",
       "created_date": "2026-07-05T00:30:52.018000",
       "updated_date": "2026-07-05T00:30:52.018000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
