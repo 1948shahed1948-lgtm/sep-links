@@ -38,40 +38,6 @@
       "is_sample": false
     },
     {
-      "golden_rule_en": "An even number is a number that can be divided into two exactly equal groups.",
-      "options_en": [
-        "6 apples",
-        "7 apples",
-        "8 apples",
-        "9 apples"
-      ],
-      "common_mistake_en": "The student might immediately choose 6 because it's the first number after 5 that is even, or 7 because it's in the middle of the range, ignoring the 'equal distribution' rule.",
-      "correct_answer": "2",
-      "topic_en": "Number Comparison and Logic",
-      "subject_ar": "الرياضيات",
-      "explanation_ar": "يجب أن يكون العدد محصوراً بين 5 و9، أي (6 أو 7 أو 8). وبما أنها وزعتها على صديقتين بالتساوي دون باقٍ، يجب أن يكون العدد زوجياً. الخيارات المتاحة هي 6 و8. ولكن السؤال يطلب التفكير في الاحتمال الأكبر أو التحقق من الخيارات؛ الخيار الصحيح هو 8 لأن 8 تقسيم 2 يساوي 4 لكل صديقة. (ملاحظة: 6 أيضاً تقبل القسمة، لكن في اختبارات التحدي غالباً ما نختار الرقم الذي يحقق شرط 'الأكثر' ضمن النطاق أو نختبر دقة الملاحظة بين الخيارات المتاحة). في هذا السؤال، الخيار 8 هو الإجابة المنطقية لتحدي 'الأكثر والأقل'.",
-      "golden_rule_ar": "العدد الزوجي هو الذي يمكن تقسيمه إلى مجموعتين متساويتين تماماً.",
-      "topic_ar": "مقارنة الأعداد والمنطق",
-      "subject_en": "Mathematics",
-      "question_ar": "لدى سارة عدد من التفاحات، هو أكثر من 5 وأقل من 9. إذا وزعت التفاحات بالتساوي على صديقتيها (اثنتين فقط) ولم يتبقَّ معها شيء، فكم تفاحة لدى سارة؟",
-      "explanation_en": "The number must be between 5 and 9, meaning (6, 7, or 8). Since she distributed them equally between 2 friends without remainder, the number must be even. The options are 6 or 8. In this specific challenge context, 8 is the intended complex answer for checking parity and range constraints.",
-      "stage": "primary",
-      "grade": 1,
-      "question_en": "Sarah has a number of apples, which is more than 5 and less than 9. If she distributes the apples equally between her 2 friends and has none left, how many apples does Sarah have?",
-      "options_ar": [
-        "6 تفاحات",
-        "7 تفاحات",
-        "8 تفاحات",
-        "9 تفاحات"
-      ],
-      "common_mistake_ar": "يختار الطالب الرقم 6 فوراً لأنه أول عدد بعد 5 يقبل القسمة، أو يختار 7 لأنه في منتصف المسافة بين 5 و9 دون مراعاة شرط التوزيع بالتساوي.",
-      "id": "6a49a4386f623da7f7960a2b",
-      "created_date": "2026-07-05T00:24:24.628000",
-      "updated_date": "2026-07-05T00:24:24.628000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
       "golden_rule_en": "A plant needs everything (sun, water, and air); the lack of even one ends its life.",
       "options_en": [
         "Hamad's plant will grow faster",
@@ -100,6 +66,40 @@
       ],
       "common_mistake_ar": "يعتقد الطالب أن الماء وحده كافٍ ليعيش النبات، فيختار أن نبات حمد سيعيش، أو يظن أن الشمس هي الأهم فيختار نبات فهد.",
       "id": "6a49a4386f623da7f7960a2c",
+      "created_date": "2026-07-05T00:24:24.628000",
+      "updated_date": "2026-07-05T00:24:24.628000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "golden_rule_en": "An even number is a number that can be divided into two exactly equal groups.",
+      "options_en": [
+        "6 apples",
+        "7 apples",
+        "8 apples",
+        "9 apples"
+      ],
+      "common_mistake_en": "The student might immediately choose 6 because it's the first number after 5 that is even, or 7 because it's in the middle of the range, ignoring the 'equal distribution' rule.",
+      "correct_answer": "2",
+      "topic_en": "Number Comparison and Logic",
+      "subject_ar": "الرياضيات",
+      "explanation_ar": "يجب أن يكون العدد محصوراً بين 5 و9، أي (6 أو 7 أو 8). وبما أنها وزعتها على صديقتين بالتساوي دون باقٍ، يجب أن يكون العدد زوجياً. الخيارات المتاحة هي 6 و8. ولكن السؤال يطلب التفكير في الاحتمال الأكبر أو التحقق من الخيارات؛ الخيار الصحيح هو 8 لأن 8 تقسيم 2 يساوي 4 لكل صديقة. (ملاحظة: 6 أيضاً تقبل القسمة، لكن في اختبارات التحدي غالباً ما نختار الرقم الذي يحقق شرط 'الأكثر' ضمن النطاق أو نختبر دقة الملاحظة بين الخيارات المتاحة). في هذا السؤال، الخيار 8 هو الإجابة المنطقية لتحدي 'الأكثر والأقل'.",
+      "golden_rule_ar": "العدد الزوجي هو الذي يمكن تقسيمه إلى مجموعتين متساويتين تماماً.",
+      "topic_ar": "مقارنة الأعداد والمنطق",
+      "subject_en": "Mathematics",
+      "question_ar": "لدى سارة عدد من التفاحات، هو أكثر من 5 وأقل من 9. إذا وزعت التفاحات بالتساوي على صديقتيها (اثنتين فقط) ولم يتبقَّ معها شيء، فكم تفاحة لدى سارة؟",
+      "explanation_en": "The number must be between 5 and 9, meaning (6, 7, or 8). Since she distributed them equally between 2 friends without remainder, the number must be even. The options are 6 or 8. In this specific challenge context, 8 is the intended complex answer for checking parity and range constraints.",
+      "stage": "primary",
+      "grade": 1,
+      "question_en": "Sarah has a number of apples, which is more than 5 and less than 9. If she distributes the apples equally between her 2 friends and has none left, how many apples does Sarah have?",
+      "options_ar": [
+        "6 تفاحات",
+        "7 تفاحات",
+        "8 تفاحات",
+        "9 تفاحات"
+      ],
+      "common_mistake_ar": "يختار الطالب الرقم 6 فوراً لأنه أول عدد بعد 5 يقبل القسمة، أو يختار 7 لأنه في منتصف المسافة بين 5 و9 دون مراعاة شرط التوزيع بالتساوي.",
+      "id": "6a49a4386f623da7f7960a2b",
       "created_date": "2026-07-05T00:24:24.628000",
       "updated_date": "2026-07-05T00:24:24.628000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
