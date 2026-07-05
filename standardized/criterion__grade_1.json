@@ -1,0 +1,681 @@
+{
+  "test_type": "criterion",
+  "grade": 1,
+  "count": 12,
+  "questions": [
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Addition",
+      "explanation_ar": "الجمع هو إضافة الأعداد معاً للحصول على المجموع الكلي.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الجمع",
+      "matching_pairs_en": [
+        {
+          "left": "5 + 3",
+          "right": "8"
+        },
+        {
+          "left": "10 + 2",
+          "right": "12"
+        },
+        {
+          "left": "7 + 7",
+          "right": "14"
+        },
+        {
+          "left": "4 + 6",
+          "right": "10"
+        }
+      ],
+      "question_ar": "صِلْ عَمَلِيَّةَ الْجَمْعِ بِالنَّاتِجِ الصَّحِيحِ:",
+      "explanation_en": "Addition is adding numbers together to get the total sum.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "5 + 3",
+          "right": "8"
+        },
+        {
+          "left": "10 + 2",
+          "right": "12"
+        },
+        {
+          "left": "7 + 7",
+          "right": "14"
+        },
+        {
+          "left": "4 + 6",
+          "right": "10"
+        }
+      ],
+      "question_en": "Match the addition equation with the correct sum:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c733e3995174a92362",
+      "created_date": "2026-07-04T23:09:59.228000",
+      "updated_date": "2026-07-04T23:09:59.228000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Words and Synonyms",
+      "explanation_ar": "المرادف هو كلمة تعطي نفس المعنى لكلمة أخرى.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الكلمات والمرادفات",
+      "matching_pairs_en": [
+        {
+          "left": "Happy",
+          "right": "Joyful"
+        },
+        {
+          "left": "Huge",
+          "right": "Very big"
+        },
+        {
+          "left": "Love",
+          "right": "Like"
+        },
+        {
+          "left": "Smart",
+          "right": "Clever"
+        }
+      ],
+      "question_ar": "صِلِ الْكَلِمَةَ بِمَعْنَاهَا (مُرَادِفِهَا) الصَّحِيحِ:",
+      "explanation_en": "A synonym is a word that has the same meaning as another word.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "مَسْرُور",
+          "right": "فَرِح"
+        },
+        {
+          "left": "ضَخْم",
+          "right": "كَبِير جِدًّا"
+        },
+        {
+          "left": "أَهْوَى",
+          "right": "أُحِبُّ"
+        },
+        {
+          "left": "ذَكِيّ",
+          "right": "فَطِين"
+        }
+      ],
+      "question_en": "Match the word with its correct synonym (meaning):",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c733e3995174a92363",
+      "created_date": "2026-07-04T23:09:59.228000",
+      "updated_date": "2026-07-04T23:09:59.228000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Geometric Shapes",
+      "explanation_ar": "المجسمات هي أشكال لها طول وعرض وارتفاع، ونراها في الأشياء من حولنا.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [
+        {
+          "left": "Sphere",
+          "right": "Football"
+        },
+        {
+          "left": "Cube",
+          "right": "Gift box"
+        },
+        {
+          "left": "Cylinder",
+          "right": "Salt shaker"
+        },
+        {
+          "left": "Cone",
+          "right": "Party hat"
+        }
+      ],
+      "question_ar": "صِلِ اسْمَ الْمُجَسَّمِ بِالشَّيْءِ الَّذِي يُشْبِهُهُ فِي الْوَاقِعِ:",
+      "explanation_en": "3D shapes have length, width, and height, and we see them in objects around us.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "كُرَة",
+          "right": "كُرَةُ الْقَدَمِ"
+        },
+        {
+          "left": "مُكَعَّب",
+          "right": "عُلْبَةُ هَدِيَّةٍ"
+        },
+        {
+          "left": "أُسْطُوانَة",
+          "right": "عُلْبَةُ مِلْحٍ"
+        },
+        {
+          "left": "مَخْرُوط",
+          "right": "قُبَّعَةُ الْعِيدِ"
+        }
+      ],
+      "question_en": "Match the 3D shape name with the object that looks like it:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c733e3995174a92364",
+      "created_date": "2026-07-04T23:09:59.228000",
+      "updated_date": "2026-07-04T23:09:59.228000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Currency and Money",
+      "explanation_ar": "تتميز العملات السعودية بألوانها وفئاتها المختلفة مثل الريال والخمسة والعشرة.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "العملات والنقود",
+      "matching_pairs_en": [
+        {
+          "left": "Green note with King Salman's photo",
+          "right": "100 Riyals"
+        },
+        {
+          "left": "Purple note",
+          "right": "5 Riyals"
+        },
+        {
+          "left": "Brown note",
+          "right": "10 Riyals"
+        },
+        {
+          "left": "Silver and Gold coin",
+          "right": "2 Riyals"
+        }
+      ],
+      "question_ar": "صِلْ بَيْنَ الْعُمْلَةِ السُّعُودِيَّةِ وَقِيمَتِهَا:",
+      "explanation_en": "Saudi currencies are distinguished by their colors and denominations like Riyal, 5, and 10.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [
+        {
+          "left": "وَرَقَةٌ خَضْرَاءُ بِرَسْمِ الْمَلِكِ سَلْمَان",
+          "right": "100 رِيَال"
+        },
+        {
+          "left": "وَرَقَةٌ بَنَفْسَجِيَّة",
+          "right": "5 رِيَالات"
+        },
+        {
+          "left": "وَرَقَةٌ بُنِّيَّة",
+          "right": "10 رِيَالات"
+        },
+        {
+          "left": "عُمْلَةٌ مَعْدِنِيَّةٌ فِضِّيَّةٌ وَذَهَبِيَّة",
+          "right": "رِيَالان"
+        }
+      ],
+      "question_en": "Match the Saudi currency with its value:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c733e3995174a92365",
+      "created_date": "2026-07-04T23:09:59.228000",
+      "updated_date": "2026-07-04T23:09:59.228000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "15",
+        "29",
+        "42",
+        "50",
+        "87"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "15",
+        "29",
+        "42",
+        "50",
+        "87"
+      ],
+      "topic_en": "Ordering Numbers",
+      "explanation_ar": "عند ترتيب الأعداد، نبدأ بالعدد الذي له القيمة الأقل.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "ترتيب الأعداد",
+      "matching_pairs_en": [],
+      "question_ar": "رَتِّبِ الأَعْدَادَ التَّالِيَةَ مِنَ الأَصْغَرِ إِلَى الأَكْبَرِ:",
+      "explanation_en": "When ordering numbers, we start with the number that has the lowest value.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following numbers from smallest to largest:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c733e3995174a92366",
+      "created_date": "2026-07-04T23:09:59.228000",
+      "updated_date": "2026-07-04T23:09:59.228000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "مُثَلَّث",
+        "دَائِرَة",
+        "مُثَلَّث",
+        "دَائِرَة"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Triangle",
+        "Circle",
+        "Triangle",
+        "Circle"
+      ],
+      "topic_en": "Patterns and Sequence",
+      "explanation_ar": "النمط هو تكرار منتظم للأشكال أو الأعداد.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "أَكْمِلِ النَّمَطَ التَّالِيَ بِتَرْتِيبِ الأَشْكَالِ الصَّحِيحَةِ:",
+      "explanation_en": "A pattern is a regular repetition of shapes or numbers.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Complete the following pattern by ordering the correct shapes:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c733e3995174a92367",
+      "created_date": "2026-07-04T23:09:59.228000",
+      "updated_date": "2026-07-04T23:09:59.228000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "مِمْحَاة",
+        "قَلَمُ رَصَاص",
+        "مِسْطَرَة",
+        "كِتَاب"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Eraser",
+        "Pencil",
+        "Ruler",
+        "Book"
+      ],
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "المقارنة تساعدنا في معرفة الفرق بين أطوال الأشياء.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الوحدات والقياس",
+      "matching_pairs_en": [],
+      "question_ar": "رَتِّبِ الأَشْيَاءَ التَّالِيَةَ مِنْ الأَقْصَرِ إِلَى الأَطْوَلِ:",
+      "explanation_en": "Comparison helps us understand the difference between the lengths of objects.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following items from shortest to longest:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c733e3995174a92368",
+      "created_date": "2026-07-04T23:09:59.228000",
+      "updated_date": "2026-07-04T23:09:59.228000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "الاسْتِيْقَاظُ مِنَ النَّوْمِ",
+        "الذَّهَابُ إِلَى الْمَدْرَسَةِ",
+        "حُضُورُ الْحِصَصِ الدِّرَاسِيَّةِ",
+        "تَنَاوُلُ طَعَامِ الْغَدَاءِ"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Waking up from sleep",
+        "Going to school",
+        "Attending classes",
+        "Eating lunch"
+      ],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "ترتيب الأحداث يساعدنا على فهم القصة وتسلسل الزمان.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "رَتِّبْ أَحْدَاثَ يَوْمِ نُورَةَ فِي الْمَدْرَسَةِ:",
+      "explanation_en": "Ordering events helps us understand the story and the sequence of time.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Order the events of Nora's school day:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a4992c733e3995174a92369",
+      "created_date": "2026-07-04T23:09:59.228000",
+      "updated_date": "2026-07-04T23:09:59.228000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Subtraction",
+      "explanation_ar": "الطرح هو إنقاص عدد من عدد آخر لمعرفة الباقي.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الطرح",
+      "matching_pairs_en": [],
+      "question_ar": "صَنِّفْ مَسَائِلَ الطَّرْحِ حَسَبَ النَّاتِجِ:",
+      "explanation_en": "Subtraction is taking a number away from another to find the remainder.",
+      "classify_categories_ar": [
+        "النَّاتِجُ هُوَ 5",
+        "النَّاتِجُ هُوَ 2"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "10 - 5"
+        },
+        {
+          "correct_category": 1,
+          "item": "6 - 4"
+        },
+        {
+          "correct_category": 0,
+          "item": "8 - 3"
+        },
+        {
+          "correct_category": 1,
+          "item": "5 - 3"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the subtraction problems according to the result:",
+      "classify_categories_en": [
+        "Result is 5",
+        "Result is 2"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "10 - 5"
+        },
+        {
+          "correct_category": 1,
+          "item": "6 - 4"
+        },
+        {
+          "correct_category": 0,
+          "item": "8 - 3"
+        },
+        {
+          "correct_category": 1,
+          "item": "5 - 3"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4992c733e3995174a9236a",
+      "created_date": "2026-07-04T23:09:59.228000",
+      "updated_date": "2026-07-04T23:09:59.228000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Fractions",
+      "explanation_ar": "الكسور تعبر عن أجزاء من شيء كامل، النصف هو جزء من جزأين، والربع هو جزء من أربعة.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الكسور",
+      "matching_pairs_en": [],
+      "question_ar": "صَنِّفِ الأَشْكَالَ حَسَبَ الْجُزْءِ الْمُلَوَّنِ:",
+      "explanation_en": "Fractions represent parts of a whole; half is 1 of 2 parts, and quarter is 1 of 4.",
+      "classify_categories_ar": [
+        "النِّصْف (1/2)",
+        "الرُّبْع (1/4)"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Circle divided into 2 parts, one is colored"
+        },
+        {
+          "correct_category": 1,
+          "item": "Square divided into 4 parts, one is colored"
+        },
+        {
+          "correct_category": 0,
+          "item": "Rectangle with half colored"
+        },
+        {
+          "correct_category": 1,
+          "item": "Pie with one out of four equal parts taken"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the shapes based on the colored part:",
+      "classify_categories_en": [
+        "Half (1/2)",
+        "Quarter (1/4)"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "دَائِرَةٌ مُقَسَّمَةٌ لِجُزْأَيْنِ مُلَوَّنٌ وَاحِدٌ مِنْهُمَا"
+        },
+        {
+          "correct_category": 1,
+          "item": "مُرَبَّعٌ مُقَسَّمٌ لِأَرْبَعَةِ أَجْزَاءٍ مُلَوَّنٌ وَاحِدٌ مِنْهَا"
+        },
+        {
+          "correct_category": 0,
+          "item": "مُسْتَطِيلٌ لُوِّنَ نِصْفُهُ"
+        },
+        {
+          "correct_category": 1,
+          "item": "فَطِيرَةٌ أُخِذَ جُزْءٌ مِنْ أَرْبَعَةِ أَجْزَاءٍ مُتَطَابِقَةٍ"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4992c733e3995174a9236b",
+      "created_date": "2026-07-04T23:09:59.228000",
+      "updated_date": "2026-07-04T23:09:59.228000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Even and Odd Numbers",
+      "explanation_ar": "العدد الزوجي يمكن تقسيمه إلى مجموعتين متساويتين، أما الفردي فيبقى منه واحد.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الأعداد الزوجية والفردية",
+      "matching_pairs_en": [],
+      "question_ar": "صَنِّفِ الأَعْدَادَ التَّالِيَةَ إِلَى زَوْجِيَّةٍ أَوْ فَرْدِيَّةٍ:",
+      "explanation_en": "Even numbers can be split into two equal groups, while odd numbers have one left over.",
+      "classify_categories_ar": [
+        "عَدَدٌ زَوْجِيٌّ",
+        "عَدَدٌ فَرْدِيٌّ"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "2"
+        },
+        {
+          "correct_category": 1,
+          "item": "5"
+        },
+        {
+          "correct_category": 0,
+          "item": "8"
+        },
+        {
+          "correct_category": 1,
+          "item": "3"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following numbers into even or odd:",
+      "classify_categories_en": [
+        "Even Number",
+        "Odd Number"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "2"
+        },
+        {
+          "correct_category": 1,
+          "item": "5"
+        },
+        {
+          "correct_category": 0,
+          "item": "8"
+        },
+        {
+          "correct_category": 1,
+          "item": "3"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4992c733e3995174a9236c",
+      "created_date": "2026-07-04T23:09:59.228000",
+      "updated_date": "2026-07-04T23:09:59.228000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Multiplication and Division",
+      "explanation_ar": "الضرب هو مجموعات متكررة متساوية، والقسمة هي توزيع الكل على أجزاء متساوية.",
+      "test_type": "criterion",
+      "difficulty": "medium",
+      "topic_ar": "الضرب والقسمة",
+      "matching_pairs_en": [],
+      "question_ar": "صَنِّفِ الْمَجْمُوعَاتِ التَّالِيَةَ:",
+      "explanation_en": "Multiplication is repeated equal groups, and division is sharing the whole into equal parts.",
+      "classify_categories_ar": [
+        "مَجْمُوعَاتٌ مُتَسَاوِيَةٌ (ضَرْب)",
+        "تَوْزِيْعٌ بِالتَّسَاوِي (قِسْمَة)"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "3 groups with 2 birds each"
+        },
+        {
+          "correct_category": 1,
+          "item": "Sharing 6 apples among 3 plates equally"
+        },
+        {
+          "correct_category": 0,
+          "item": "Two groups of 2 balloons"
+        },
+        {
+          "correct_category": 1,
+          "item": "Dividing 4 candies between 2 friends"
+        }
+      ],
+      "grade": 1,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following groups:",
+      "classify_categories_en": [
+        "Equal Groups (Multiplication)",
+        "Equal Sharing (Division)"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "3 مَجْمُوعَاتٍ فِي كُلٍّ مِنْهَا 2 عُصْفُور"
+        },
+        {
+          "correct_category": 1,
+          "item": "تَوْزِيْعُ 6 تُفَّاحَاتٍ عَلَى 3 أَطْبَاقٍ بِالتَّسَاوِي"
+        },
+        {
+          "correct_category": 0,
+          "item": "مَجْمُوعَتَانِ مِنْ بَالُونَيْنِ"
+        },
+        {
+          "correct_category": 1,
+          "item": "تَقْسِيمُ 4 قِطَعِ حَلْوَى بَيْنَ صَدِيقَيْنِ"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a4992c733e3995174a9236d",
+      "created_date": "2026-07-04T23:09:59.228000",
+      "updated_date": "2026-07-04T23:09:59.228000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    }
+  ]
+}
