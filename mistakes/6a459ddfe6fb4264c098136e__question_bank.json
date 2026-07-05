@@ -1,0 +1,109 @@
+{
+  "user_id": "6a459ddfe6fb4264c098136e",
+  "source": "question_bank",
+  "count": 3,
+  "questions": [
+    {
+      "reason": null,
+      "options_en": [
+        "For plural",
+        "For emphasis",
+        "For magnification",
+        "For silence"
+      ],
+      "confidence": 0,
+      "correct_answer": "2",
+      "review_count": 0,
+      "explanation_ar": "حرف الألف يمكن أن يُستخدم للتعظيم في بعض الكلمات العربية.",
+      "source": "question_bank",
+      "next_review_date": "2026-07-05",
+      "user_answer": "3",
+      "question_ar": "ما هو المعنى الذي يعبر عنه حرف الألف في بعض الكلمات؟",
+      "explanation_en": "The letter Alif can be used for magnification in some Arabic words.",
+      "user_id": "6a459ddfe6fb4264c098136e",
+      "is_resolved": false,
+      "grade": "grade_1",
+      "subject_name": "اللغة العربية",
+      "question_en": "What meaning does the letter Alif express in some words?",
+      "options_ar": [
+        "للجمع",
+        "للتوكيد",
+        "للتعظيم",
+        "للسكون"
+      ],
+      "id": "6a4895bd97b643d0581c5e71",
+      "created_date": "2026-07-04T05:10:21.126000",
+      "updated_date": "2026-07-04T05:10:21.126000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "reason": null,
+      "options_en": [
+        "Book",
+        "House",
+        "Friend",
+        "Milk"
+      ],
+      "confidence": 0,
+      "correct_answer": "3",
+      "review_count": 0,
+      "explanation_ar": "كلمة 'حليب' تحتوي على حرف الألف في وسطها.",
+      "source": "question_bank",
+      "next_review_date": "2026-07-05",
+      "user_answer": "0",
+      "question_ar": "أي من هذه الكلمات تحتوي على حرف الألف في وسطها؟",
+      "explanation_en": "The word 'Milk' contains the letter Alif in the middle.",
+      "user_id": "6a459ddfe6fb4264c098136e",
+      "is_resolved": false,
+      "grade": "grade_1",
+      "subject_name": "اللغة العربية",
+      "question_en": "Which of these words contains the letter Alif in the middle?",
+      "options_ar": [
+        "كتاب",
+        "بيت",
+        "صديق",
+        "حليب"
+      ],
+      "id": "6a4895a45924ac5da6640bd0",
+      "created_date": "2026-07-04T05:09:56.028000",
+      "updated_date": "2026-07-04T05:09:56.028000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    },
+    {
+      "reason": null,
+      "options_en": [
+        "Octopus",
+        "Lion",
+        "Moon",
+        "Bird"
+      ],
+      "confidence": 0,
+      "correct_answer": "1",
+      "review_count": 0,
+      "explanation_ar": "كلمة 'أسد' تبدأ بحرف الألف ولا تحتوي على تنوين.",
+      "source": "question_bank",
+      "next_review_date": "2026-07-05",
+      "user_answer": "3",
+      "question_ar": "اختر كلمة تبدأ بحرف الألف ولا تحتوي على تنوين.",
+      "explanation_en": "The word 'Lion' starts with the letter Alif and does not contain tanween.",
+      "user_id": "6a459ddfe6fb4264c098136e",
+      "is_resolved": false,
+      "grade": "grade_1",
+      "subject_name": "اللغة العربية",
+      "question_en": "Choose a word that starts with the letter Alif and does not have tanween.",
+      "options_ar": [
+        "أخطبوط",
+        "أسد",
+        "قمر",
+        "عصفور"
+      ],
+      "id": "6a48959f8c91784012afd5e6",
+      "created_date": "2026-07-04T05:09:51.645000",
+      "updated_date": "2026-07-04T05:09:51.645000",
+      "created_by_id": "6a459ddfe6fb4264c098136e",
+      "is_sample": false
+    }
+  ]
+}
