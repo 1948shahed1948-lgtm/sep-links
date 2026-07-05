@@ -4,6 +4,40 @@
   "count": 13,
   "questions": [
     {
+      "golden_rule_en": "Pressure in static liquids depends on depth and type, not on container shape or total liquid volume.",
+      "options_en": [
+        "The container wider at the top (more water)",
+        "The container narrower at the top (force concentration)",
+        "The container with a regular cylindrical shape",
+        "All containers exert the same pressure"
+      ],
+      "common_mistake_en": "Students usually link pressure to the total weight of the liquid, believing the container with more water will generate more pressure on the base.",
+      "correct_answer": "3",
+      "topic_en": "Pressure in Liquids",
+      "subject_ar": "العلوم (الفيزياء)",
+      "explanation_ar": "ضغط السائل عند نقطة يعتمد فقط على عمق النقطة (h) وكثافة السائل (ρ) وتسارع الجاذبية (g) حسب العلاقة P = ρgh. بما أن الارتفاع متساوٍ والسائل هو نفسه (ماء)، فإن الضغط عند القاعدة سيكون متساوياً تماماً لجميع الأوعية بغض النظر عن كمية الماء الإجمالية أو شكل الوعاء. يُعرف هذا بـ 'تناقض الهيدروستاتيكا'.",
+      "golden_rule_ar": "الضغط في السوائل الساكنة يعتمد على العمق والنوع، وليس على شكل الوعاء أو كمية السائل.",
+      "topic_ar": "الضغط في السوائل",
+      "subject_en": "Science (Physics)",
+      "question_ar": "ثلاثة أوعية (أ، ب، ج) لها أشكال مختلفة ولكن لها نفس مساحة القاعدة ونفس الارتفاع. إذا ملئت جميعها بالماء إلى الحافة، فأي وعاء يؤثر بأكبر ضغط على قاعدته؟",
+      "explanation_en": "Liquid pressure at a point depends only on the depth (h), density (ρ), and gravitational acceleration (g) according to P = ρgh. Since the height is the same and the liquid is the same (water), the pressure at the base will be identical for all containers regardless of the total amount of water or the shape. This is known as the 'Hydrostatic Paradox'.",
+      "stage": "intermediate",
+      "grade": 8,
+      "question_en": "Three containers (A, B, C) have different shapes but the same base area and the same height. If they are all filled with water to the brim, which container exerts the greatest pressure on its base?",
+      "options_ar": [
+        "الوعاء الأوسع من الأعلى (لأنه يحوي ماء أكثر)",
+        "الوعاء الأضيق من الأعلى (لأن تركيز القوة أكبر)",
+        "الوعاء ذو الشكل الأسطواني المنتظم",
+        "جميع الأوعية تؤثر بنفس الضغط"
+      ],
+      "common_mistake_ar": "يربط الطلاب عادة بين الضغط والوزن الكلي للسائل، فيعتقدون أن الوعاء الذي يحتوي على كمية أكبر من الماء سيولد ضغطاً أكبر على القاعدة.",
+      "id": "6a49a5fa2db9fde66a6c6abf",
+      "created_date": "2026-07-05T00:31:54.887000",
+      "updated_date": "2026-07-05T00:31:54.887000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
       "golden_rule_en": "Average atomic mass is a weighted average; when mixing two equal quantities, the result is the arithmetic mean of the two quantities' averages.",
       "options_en": [
         "11.0",
@@ -72,40 +106,6 @@
       "is_sample": false
     },
     {
-      "golden_rule_en": "Pressure in static liquids depends on depth and type, not on container shape or total liquid volume.",
-      "options_en": [
-        "The container wider at the top (more water)",
-        "The container narrower at the top (force concentration)",
-        "The container with a regular cylindrical shape",
-        "All containers exert the same pressure"
-      ],
-      "common_mistake_en": "Students usually link pressure to the total weight of the liquid, believing the container with more water will generate more pressure on the base.",
-      "correct_answer": "3",
-      "topic_en": "Pressure in Liquids",
-      "subject_ar": "العلوم (الفيزياء)",
-      "explanation_ar": "ضغط السائل عند نقطة يعتمد فقط على عمق النقطة (h) وكثافة السائل (ρ) وتسارع الجاذبية (g) حسب العلاقة P = ρgh. بما أن الارتفاع متساوٍ والسائل هو نفسه (ماء)، فإن الضغط عند القاعدة سيكون متساوياً تماماً لجميع الأوعية بغض النظر عن كمية الماء الإجمالية أو شكل الوعاء. يُعرف هذا بـ 'تناقض الهيدروستاتيكا'.",
-      "golden_rule_ar": "الضغط في السوائل الساكنة يعتمد على العمق والنوع، وليس على شكل الوعاء أو كمية السائل.",
-      "topic_ar": "الضغط في السوائل",
-      "subject_en": "Science (Physics)",
-      "question_ar": "ثلاثة أوعية (أ، ب، ج) لها أشكال مختلفة ولكن لها نفس مساحة القاعدة ونفس الارتفاع. إذا ملئت جميعها بالماء إلى الحافة، فأي وعاء يؤثر بأكبر ضغط على قاعدته؟",
-      "explanation_en": "Liquid pressure at a point depends only on the depth (h), density (ρ), and gravitational acceleration (g) according to P = ρgh. Since the height is the same and the liquid is the same (water), the pressure at the base will be identical for all containers regardless of the total amount of water or the shape. This is known as the 'Hydrostatic Paradox'.",
-      "stage": "intermediate",
-      "grade": 8,
-      "question_en": "Three containers (A, B, C) have different shapes but the same base area and the same height. If they are all filled with water to the brim, which container exerts the greatest pressure on its base?",
-      "options_ar": [
-        "الوعاء الأوسع من الأعلى (لأنه يحوي ماء أكثر)",
-        "الوعاء الأضيق من الأعلى (لأن تركيز القوة أكبر)",
-        "الوعاء ذو الشكل الأسطواني المنتظم",
-        "جميع الأوعية تؤثر بنفس الضغط"
-      ],
-      "common_mistake_ar": "يربط الطلاب عادة بين الضغط والوزن الكلي للسائل، فيعتقدون أن الوعاء الذي يحتوي على كمية أكبر من الماء سيولد ضغطاً أكبر على القاعدة.",
-      "id": "6a49a5fa2db9fde66a6c6abf",
-      "created_date": "2026-07-05T00:31:54.887000",
-      "updated_date": "2026-07-05T00:31:54.887000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
       "golden_rule_en": "The diagonal of a box = square root of the sum of the squares of its three dimensions.",
       "options_en": [
         "19 meters",
@@ -140,40 +140,6 @@
       "is_sample": false
     },
     {
-      "golden_rule_en": "Reflex Arc: A fast path through the spinal cord to protect the body.",
-      "options_en": [
-        "Because the brain processes motor commands faster than pain",
-        "Because the signal reached the spinal cord, which ordered movement without waiting for the brain",
-        "Because sensory nerves in the foot were temporarily disabled by the injury",
-        "Because the nail cut only the nerves responsible for transmitting pain"
-      ],
-      "common_mistake_en": "Students assume the brain is the only source for all motor commands and fail to realize the spinal cord acts as an independent control center in emergencies.",
-      "correct_answer": "1",
-      "topic_en": "Nervous System and Reflex Arc",
-      "subject_ar": "العلوم",
-      "explanation_ar": "هذا ما يسمى 'رد الفعل المنعكس'. عندما يتم تنبيه مستقبلات الألم، تنتقل الإشارة عبر عصب حسي إلى النخاع الشوكي. بدلاً من انتظار معالجة الدماغ للإشارة (وهي عملية تأخذ وقتاً أطول)، يقوم النخاع الشوكي مباشرة بإرسال أمر عبر عصب حركي للعضلات لتنقبض وتبتعد عن الخطر. تصل الإشارة للدماغ لاحقاً، مما يفسر سبب الشعور بالألم بعد حدوث الحركة الفعلية.",
-      "golden_rule_ar": "رد الفعل المنعكس: مسار سريع يمر عبر النخاع الشوكي لحماية الجسم.",
-      "topic_ar": "الجهاز العصبي ورد الفعل المنعكس",
-      "subject_en": "Science",
-      "question_ar": "أثناء المشي حافياً، داس أحمد على مسمار حاد، فسحب قدمه فوراً قبل أن يشعر بالألم بثانية واحدة. ما هو التفسير العلمي الصحيح لسبق الحركة للشعور بالألم؟",
-      "explanation_en": "This is called a 'reflex arc'. When pain receptors are stimulated, the signal travels via a sensory neuron to the spinal cord. Instead of waiting for the brain to process the signal (which takes longer), the spinal cord immediately sends a command via a motor neuron to the muscles to contract and move away from danger. The signal reaches the brain later, explaining why pain is felt after the actual movement occurs.",
-      "stage": "intermediate",
-      "grade": 8,
-      "question_en": "While walking barefoot, Ahmed stepped on a sharp nail and immediately pulled his foot back a second before feeling the pain. What is the correct scientific explanation for the movement preceding the sensation of pain?",
-      "options_ar": [
-        "لأن الدماغ يعالج أوامر الحركة أسرع من معالجة الألم",
-        "لأن الإشارة انتقلت للنخاع الشوكي وأصدر أمر الحركة دون انتظار وصولها للدماغ",
-        "لأن الأعصاب الحسية في القدم تعطلت مؤقتاً بسبب الإصابة",
-        "لأن المسمار قطع الأعصاب المسؤولة عن نقل الألم فقط"
-      ],
-      "common_mistake_ar": "يعتقد الطلاب أن الدماغ هو المصدر الوحيد لجميع الأوامر الحركية في الجسم، ولا يدركون دور النخاع الشوكي كمركز تحكم مستقل في حالات الطوارئ.",
-      "id": "6a49a5c28bb6a6609024de44",
-      "created_date": "2026-07-05T00:30:58.431000",
-      "updated_date": "2026-07-05T00:30:58.431000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
       "golden_rule_en": "When dealing with areas in scale drawings, always square the ratio.",
       "options_en": [
         "8 cm²",
@@ -202,6 +168,40 @@
       ],
       "common_mistake_ar": "استخدام مقياس الطول مباشرة للمساحة دون تربيعه، أو الخطأ في تحويل الوحدات من كم² إلى سم² (ينسون تربيع الـ 100,000).",
       "id": "6a49a5c28bb6a6609024de47",
+      "created_date": "2026-07-05T00:30:58.431000",
+      "updated_date": "2026-07-05T00:30:58.431000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "golden_rule_en": "Reflex Arc: A fast path through the spinal cord to protect the body.",
+      "options_en": [
+        "Because the brain processes motor commands faster than pain",
+        "Because the signal reached the spinal cord, which ordered movement without waiting for the brain",
+        "Because sensory nerves in the foot were temporarily disabled by the injury",
+        "Because the nail cut only the nerves responsible for transmitting pain"
+      ],
+      "common_mistake_en": "Students assume the brain is the only source for all motor commands and fail to realize the spinal cord acts as an independent control center in emergencies.",
+      "correct_answer": "1",
+      "topic_en": "Nervous System and Reflex Arc",
+      "subject_ar": "العلوم",
+      "explanation_ar": "هذا ما يسمى 'رد الفعل المنعكس'. عندما يتم تنبيه مستقبلات الألم، تنتقل الإشارة عبر عصب حسي إلى النخاع الشوكي. بدلاً من انتظار معالجة الدماغ للإشارة (وهي عملية تأخذ وقتاً أطول)، يقوم النخاع الشوكي مباشرة بإرسال أمر عبر عصب حركي للعضلات لتنقبض وتبتعد عن الخطر. تصل الإشارة للدماغ لاحقاً، مما يفسر سبب الشعور بالألم بعد حدوث الحركة الفعلية.",
+      "golden_rule_ar": "رد الفعل المنعكس: مسار سريع يمر عبر النخاع الشوكي لحماية الجسم.",
+      "topic_ar": "الجهاز العصبي ورد الفعل المنعكس",
+      "subject_en": "Science",
+      "question_ar": "أثناء المشي حافياً، داس أحمد على مسمار حاد، فسحب قدمه فوراً قبل أن يشعر بالألم بثانية واحدة. ما هو التفسير العلمي الصحيح لسبق الحركة للشعور بالألم؟",
+      "explanation_en": "This is called a 'reflex arc'. When pain receptors are stimulated, the signal travels via a sensory neuron to the spinal cord. Instead of waiting for the brain to process the signal (which takes longer), the spinal cord immediately sends a command via a motor neuron to the muscles to contract and move away from danger. The signal reaches the brain later, explaining why pain is felt after the actual movement occurs.",
+      "stage": "intermediate",
+      "grade": 8,
+      "question_en": "While walking barefoot, Ahmed stepped on a sharp nail and immediately pulled his foot back a second before feeling the pain. What is the correct scientific explanation for the movement preceding the sensation of pain?",
+      "options_ar": [
+        "لأن الدماغ يعالج أوامر الحركة أسرع من معالجة الألم",
+        "لأن الإشارة انتقلت للنخاع الشوكي وأصدر أمر الحركة دون انتظار وصولها للدماغ",
+        "لأن الأعصاب الحسية في القدم تعطلت مؤقتاً بسبب الإصابة",
+        "لأن المسمار قطع الأعصاب المسؤولة عن نقل الألم فقط"
+      ],
+      "common_mistake_ar": "يعتقد الطلاب أن الدماغ هو المصدر الوحيد لجميع الأوامر الحركية في الجسم، ولا يدركون دور النخاع الشوكي كمركز تحكم مستقل في حالات الطوارئ.",
+      "id": "6a49a5c28bb6a6609024de44",
       "created_date": "2026-07-05T00:30:58.431000",
       "updated_date": "2026-07-05T00:30:58.431000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -310,40 +310,6 @@
       "is_sample": false
     },
     {
-      "golden_rule_en": "In a pyramid, the slant height is the hypotenuse of a triangle whose other leg is half the base.",
-      "options_en": [
-        "5 meters",
-        "7 meters",
-        "10 meters",
-        "4.5 meters"
-      ],
-      "common_mistake_en": "Using the full base side length (6) instead of its half (3) in the Pythagorean equation, leading to incorrect results.",
-      "correct_answer": "0",
-      "topic_en": "Pythagorean Theorem",
-      "subject_ar": "الرياضيات",
-      "explanation_ar": "لحساب الارتفاع الجانبي، نشكل مثلثاً قائماً داخل الهرم. أضلاع هذا المثلث هي: الارتفاع الرأسي (4م)، ونصف طول ضلع القاعدة (6 ÷ 2 = 3م). الوتر هو الارتفاع الجانبي. باستخدام فيثاغورس: ج^2 = 4^2 + 3^2 = 16 + 9 = 25. إذن ج = 5 أمتار.",
-      "golden_rule_ar": "في الهرم، الارتفاع الجانبي هو وتر لمثلث ضلعه الآخر هو نصف القاعدة.",
-      "topic_ar": "نظرية فيثاغورس",
-      "subject_en": "Mathematics",
-      "question_ar": "خيمة على شكل هرم رباعي منتظم، طول ضلع قاعدتها المربعة 6 أمتار، وارتفاعها الرأسي 4 أمتار. ما هو طول العمود المائل (الارتفاع الجانبي) من قمة الخيمة إلى منتصف أحد أضلاع القاعدة؟",
-      "explanation_en": "To calculate the slant height, we form a right-angled triangle inside the pyramid. The sides are: vertical height (4m) and half the base side length (6 / 2 = 3m). The slant height is the hypotenuse. Using Pythagoras: c^2 = 4^2 + 3^2 = 16 + 9 = 25. Thus, c = 5 meters.",
-      "stage": "intermediate",
-      "grade": 8,
-      "question_en": "A tent is in the shape of a regular square pyramid with a base side length of 6 meters and a vertical height of 4 meters. What is the slant height from the apex to the midpoint of one of the base sides?",
-      "options_ar": [
-        "5 أمتار",
-        "7 أمتار",
-        "10 أمتار",
-        "4.5 متر"
-      ],
-      "common_mistake_ar": "استخدام طول ضلع القاعدة كاملاً (6) بدلاً من نصفه (3) في معادلة فيثاغورس، مما يؤدي لنتائج خاطئة.",
-      "id": "6a49a42fa6b8c5d77fb9047e",
-      "created_date": "2026-07-05T00:24:15.191000",
-      "updated_date": "2026-07-05T00:24:15.191000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
       "golden_rule_en": "Angles of incidence and reflection are always measured from the 'Normal'.",
       "options_en": [
         "30 degrees",
@@ -406,6 +372,40 @@
       ],
       "common_mistake_ar": "الاعتقاد بأن فقدان إلكترون يجعله يشبه الغاز الخامل التالي (الأرجون)، بينما الفقد يجعله يعود للخلف في الجدول الدوري، والاكتساب هو ما يوصله للغاز الخامل.",
       "id": "6a49a42fa6b8c5d77fb90480",
+      "created_date": "2026-07-05T00:24:15.191000",
+      "updated_date": "2026-07-05T00:24:15.191000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "golden_rule_en": "In a pyramid, the slant height is the hypotenuse of a triangle whose other leg is half the base.",
+      "options_en": [
+        "5 meters",
+        "7 meters",
+        "10 meters",
+        "4.5 meters"
+      ],
+      "common_mistake_en": "Using the full base side length (6) instead of its half (3) in the Pythagorean equation, leading to incorrect results.",
+      "correct_answer": "0",
+      "topic_en": "Pythagorean Theorem",
+      "subject_ar": "الرياضيات",
+      "explanation_ar": "لحساب الارتفاع الجانبي، نشكل مثلثاً قائماً داخل الهرم. أضلاع هذا المثلث هي: الارتفاع الرأسي (4م)، ونصف طول ضلع القاعدة (6 ÷ 2 = 3م). الوتر هو الارتفاع الجانبي. باستخدام فيثاغورس: ج^2 = 4^2 + 3^2 = 16 + 9 = 25. إذن ج = 5 أمتار.",
+      "golden_rule_ar": "في الهرم، الارتفاع الجانبي هو وتر لمثلث ضلعه الآخر هو نصف القاعدة.",
+      "topic_ar": "نظرية فيثاغورس",
+      "subject_en": "Mathematics",
+      "question_ar": "خيمة على شكل هرم رباعي منتظم، طول ضلع قاعدتها المربعة 6 أمتار، وارتفاعها الرأسي 4 أمتار. ما هو طول العمود المائل (الارتفاع الجانبي) من قمة الخيمة إلى منتصف أحد أضلاع القاعدة؟",
+      "explanation_en": "To calculate the slant height, we form a right-angled triangle inside the pyramid. The sides are: vertical height (4m) and half the base side length (6 / 2 = 3m). The slant height is the hypotenuse. Using Pythagoras: c^2 = 4^2 + 3^2 = 16 + 9 = 25. Thus, c = 5 meters.",
+      "stage": "intermediate",
+      "grade": 8,
+      "question_en": "A tent is in the shape of a regular square pyramid with a base side length of 6 meters and a vertical height of 4 meters. What is the slant height from the apex to the midpoint of one of the base sides?",
+      "options_ar": [
+        "5 أمتار",
+        "7 أمتار",
+        "10 أمتار",
+        "4.5 متر"
+      ],
+      "common_mistake_ar": "استخدام طول ضلع القاعدة كاملاً (6) بدلاً من نصفه (3) في معادلة فيثاغورس، مما يؤدي لنتائج خاطئة.",
+      "id": "6a49a42fa6b8c5d77fb9047e",
       "created_date": "2026-07-05T00:24:15.191000",
       "updated_date": "2026-07-05T00:24:15.191000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
