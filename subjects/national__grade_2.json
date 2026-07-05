@@ -1,0 +1,91 @@
+{
+  "curriculum": "national",
+  "grade": "grade_2",
+  "count": 6,
+  "questions": [
+    {
+      "color": "#20B2AA",
+      "name_ar": "التربية البدنية",
+      "grade": "grade_2",
+      "icon": "running",
+      "curriculum": "national",
+      "name_en": "Physical Education",
+      "order": 0,
+      "id": "6a484372eaf9268a495da55a",
+      "created_date": "2026-07-03T23:19:14.283000",
+      "updated_date": "2026-07-03T23:19:14.283000",
+      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "is_sample": false
+    },
+    {
+      "color": "#FF69B4",
+      "name_ar": "التربية الفنية",
+      "grade": "grade_2",
+      "icon": "paint-brush",
+      "curriculum": "national",
+      "name_en": "Art Education",
+      "order": 0,
+      "id": "6a484371abc74a663c278470",
+      "created_date": "2026-07-03T23:19:13.722000",
+      "updated_date": "2026-07-03T23:19:13.722000",
+      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "is_sample": false
+    },
+    {
+      "color": "#1E90FF",
+      "name_ar": "العلوم",
+      "grade": "grade_2",
+      "icon": "flask",
+      "curriculum": "national",
+      "name_en": "Science",
+      "order": 0,
+      "id": "6a48437145d86b77eb72b53f",
+      "created_date": "2026-07-03T23:19:13.091000",
+      "updated_date": "2026-07-03T23:19:13.091000",
+      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "is_sample": false
+    },
+    {
+      "color": "#32CD32",
+      "name_ar": "التربية الإسلامية",
+      "grade": "grade_2",
+      "icon": "pray",
+      "curriculum": "national",
+      "name_en": "Islamic Education",
+      "order": 0,
+      "id": "6a4843701cd91dd13228268b",
+      "created_date": "2026-07-03T23:19:12.509000",
+      "updated_date": "2026-07-03T23:19:12.509000",
+      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "is_sample": false
+    },
+    {
+      "color": "#3B82F6",
+      "name_ar": "الرياضيات",
+      "grade": "grade_2",
+      "icon": "Calculator",
+      "curriculum": "national",
+      "name_en": "Mathematics",
+      "order": 1,
+      "id": "6a483f3c96e05821ffa066e4",
+      "created_date": "2026-07-03T23:01:16.118000",
+      "updated_date": "2026-07-03T23:01:16.118000",
+      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "is_sample": false
+    },
+    {
+      "color": "#10B981",
+      "name_ar": "اللغة العربية",
+      "grade": "grade_2",
+      "icon": "BookOpen",
+      "curriculum": "national",
+      "name_en": "Arabic Language",
+      "order": 2,
+      "id": "6a483f3c96e05821ffa066e5",
+      "created_date": "2026-07-03T23:01:16.118000",
+      "updated_date": "2026-07-03T23:01:16.118000",
+      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "is_sample": false
+    }
+  ]
+}
