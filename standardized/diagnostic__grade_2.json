@@ -5,369 +5,67 @@
   "questions": [
     {
       "ordering_items_ar": [],
-      "question_type": "matching",
+      "question_type": "classify",
       "options_en": [],
       "correct_answer": null,
       "ordering_items_en": [],
-      "topic_en": "Fractions",
-      "explanation_ar": "في الصف الثاني، نتعلم أن الكسر هو جزء من الكل، 1/2 يعني جزء واحد من جزئين متطابقين.",
-      "test_type": "diagnostic",
-      "difficulty": "medium",
-      "topic_ar": "الكسور",
-      "matching_pairs_en": [
-        {
-          "left": "1/2",
-          "right": "Half"
-        },
-        {
-          "left": "1/4",
-          "right": "Quarter"
-        },
-        {
-          "left": "1/3",
-          "right": "Third"
-        }
-      ],
-      "question_ar": "صل كل كسر بالكلمة التي تعبر عنه بشكل صحيح:",
-      "explanation_en": "In grade 2, we learn that a fraction is a part of a whole; 1/2 means one part of two equal parts.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 2,
-      "matching_pairs_ar": [
-        {
-          "left": "1/2",
-          "right": "نصف"
-        },
-        {
-          "left": "1/4",
-          "right": "ربع"
-        },
-        {
-          "left": "1/3",
-          "right": "ثلث"
-        }
-      ],
-      "question_en": "Match each fraction with the correct word that describes it:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b98db2bae8633c99772",
-      "created_date": "2026-07-04T23:47:36.315000",
-      "updated_date": "2026-07-04T23:47:36.315000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "matching",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Geometric Shapes",
-      "explanation_ar": "تتميز الأشكال المستوية بعدد أضلاعها ورؤوسها؛ المربع له 4 والمثلث له 3.",
-      "test_type": "diagnostic",
-      "difficulty": "medium",
-      "topic_ar": "الأشكال الهندسية",
-      "matching_pairs_en": [
-        {
-          "left": "Square",
-          "right": "Has 4 equal sides"
-        },
-        {
-          "left": "Triangle",
-          "right": "Has 3 sides and 3 vertices"
-        },
-        {
-          "left": "Circle",
-          "right": "Has no sides or vertices"
-        }
-      ],
-      "question_ar": "صل الشكل الهندسي بوصفه الصحيح:",
-      "explanation_en": "Plane shapes are identified by their number of sides and vertices; a square has 4 and a triangle has 3.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 2,
-      "matching_pairs_ar": [
-        {
-          "left": "المربع",
-          "right": "له 4 أضلاع متساوية"
-        },
-        {
-          "left": "المثلث",
-          "right": "له 3 أضلاع و3 رؤوس"
-        },
-        {
-          "left": "الدائرة",
-          "right": "ليس لها أضلاع أو رؤوس"
-        }
-      ],
-      "question_en": "Match the geometric shape to its correct description:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b98db2bae8633c99773",
-      "created_date": "2026-07-04T23:47:36.315000",
-      "updated_date": "2026-07-04T23:47:36.315000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "matching",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Currency and Money",
-      "explanation_ar": "العملات الورقية السعودية لها ألوان محددة تساعدنا في التمييز بينها بسرعة.",
-      "test_type": "diagnostic",
-      "difficulty": "easy",
-      "topic_ar": "العملات والنقود",
-      "matching_pairs_en": [
-        {
-          "left": "Fifty Riyals",
-          "right": "Green Color"
-        },
-        {
-          "left": "Ten Riyals",
-          "right": "Brown Color"
-        },
-        {
-          "left": "Five Riyals",
-          "right": "Violet Color"
-        }
-      ],
-      "question_ar": "صل كل ورقة نقدية سعودية بلونها المميز:",
-      "explanation_en": "Saudi banknotes have specific colors to help us distinguish them quickly.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 2,
-      "matching_pairs_ar": [
-        {
-          "left": "خمسون ريالاً",
-          "right": "اللون الأخضر"
-        },
-        {
-          "left": "عشرة ريالات",
-          "right": "اللون البني"
-        },
-        {
-          "left": "خمسة ريالات",
-          "right": "اللون البنفسجي"
-        }
-      ],
-      "question_en": "Match each Saudi banknote to its distinct color:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b98db2bae8633c99774",
-      "created_date": "2026-07-04T23:47:36.315000",
-      "updated_date": "2026-07-04T23:47:36.315000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [],
-      "question_type": "matching",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [],
-      "topic_en": "Multiplication and Division",
-      "explanation_ar": "الضرب هو عملية جمع متكرر لنفس العدد؛ 2+2+2 تعني أن الرقم 2 تكرر 3 مرات.",
-      "test_type": "diagnostic",
-      "difficulty": "easy",
-      "topic_ar": "الضرب والقسمة",
-      "matching_pairs_en": [
-        {
-          "left": "2 + 2 + 2",
-          "right": "3 × 2"
-        },
-        {
-          "left": "5 + 5",
-          "right": "2 × 5"
-        },
-        {
-          "left": "4 + 4 + 4 + 4",
-          "right": "4 × 4"
-        }
-      ],
-      "question_ar": "صل الجمع المتكرر بجملة الضرب المناسبة له:",
-      "explanation_en": "Multiplication is repeated addition of the same number; 2+2+2 means the number 2 is repeated 3 times.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 2,
-      "matching_pairs_ar": [
-        {
-          "left": "2 + 2 + 2",
-          "right": "3 × 2"
-        },
-        {
-          "left": "5 + 5",
-          "right": "2 × 5"
-        },
-        {
-          "left": "4 + 4 + 4 + 4",
-          "right": "4 × 4"
-        }
-      ],
-      "question_en": "Match the repeated addition to its corresponding multiplication sentence:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b98db2bae8633c99775",
-      "created_date": "2026-07-04T23:47:36.315000",
-      "updated_date": "2026-07-04T23:47:36.315000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "2",
-        "4",
-        "6",
-        "8",
-        "10"
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "2",
-        "4",
-        "6",
-        "8",
-        "10"
-      ],
-      "topic_en": "Patterns and Sequences",
-      "explanation_ar": "العد القفزي يعني إضافة نفس القيمة في كل مرة، وهنا نضيف 2 في كل خطوة.",
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "نستخدم السنتيمتر والمتر للطول، بينما نستخدم الجرام والكيلوجرام لوزن الأشياء (الكتلة).",
       "test_type": "diagnostic",
       "difficulty": "hard",
-      "topic_ar": "الأنماط والتسلسل",
-      "matching_pairs_en": [],
-      "question_ar": "رتب الأعداد التالية لتكون نمطاً صحيحاً (العد القفزي بـ 2):",
-      "explanation_en": "Skip counting means adding the same value each time; here we add 2 at every step.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 2,
-      "matching_pairs_ar": [],
-      "question_en": "Order the following numbers to form a correct pattern (skip counting by 2s):",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b98db2bae8633c99776",
-      "created_date": "2026-07-04T23:47:36.315000",
-      "updated_date": "2026-07-04T23:47:36.315000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "5 + 2",
-        "10 + 5",
-        "20 + 10",
-        "50 + 20"
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "5 + 2",
-        "10 + 5",
-        "20 + 10",
-        "50 + 20"
-      ],
-      "topic_en": "Addition and Subtraction",
-      "explanation_ar": "النواتج هي: 7، 15، 30، 70. الترتيب يبدأ من أصغر ناتج إلى أكبرها.",
-      "test_type": "diagnostic",
-      "difficulty": "easy",
-      "topic_ar": "الجمع والطرح",
-      "matching_pairs_en": [],
-      "question_ar": "رتب العمليات الحسابية التالية من الأصغر ناتجاً إلى الأكبر ناتجاً:",
-      "explanation_en": "The results are: 7, 15, 30, 70. The order starts from the smallest result to the largest.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 2,
-      "matching_pairs_ar": [],
-      "question_en": "Order the following operations from smallest result to largest result:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b98db2bae8633c99777",
-      "created_date": "2026-07-04T23:47:36.315000",
-      "updated_date": "2026-07-04T23:47:36.315000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "شاهدت فاطمة عصفوراً مبللاً من المطر.",
-        "قررت فاطمة بناء عش صغير ليحمي العصفور.",
-        "استخدمت فاطمة الخشب والمطرقة لصنع العش.",
-        "علقت فاطمة العش على جذع الشجرة."
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "Fatima saw a bird wet from the rain.",
-        "Fatima decided to build a small nest to protect the bird.",
-        "Fatima used wood and a hammer to make the nest.",
-        "Fatima hung the nest on the tree trunk."
-      ],
-      "topic_en": "Reading and Comprehension",
-      "explanation_ar": "ترتيب الأحداث يساعدنا على فهم القصة، تبدأ القصة بالمشكلة ثم الحل.",
-      "test_type": "diagnostic",
-      "difficulty": "medium",
-      "topic_ar": "قراءة وفهم",
-      "matching_pairs_en": [],
-      "question_ar": "رتب أحداث قصة (فاطمة والعصفور) حسب تسلسلها الصحيح:",
-      "explanation_en": "Ordering events helps us understand the story; it starts with the problem and leads to the solution.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
-      "grade": 2,
-      "matching_pairs_ar": [],
-      "question_en": "Order the events of the story (Fatima and the Bird) in the correct sequence:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
-      "options_ar": [],
-      "id": "6a499b98db2bae8633c99778",
-      "created_date": "2026-07-04T23:47:36.315000",
-      "updated_date": "2026-07-04T23:47:36.315000",
-      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
-      "is_sample": false
-    },
-    {
-      "ordering_items_ar": [
-        "أستيقظ من النوم مبكراً.",
-        "أنظف أسناني بالفرشاة.",
-        "أتناول وجبة الإفطار.",
-        "أذهب إلى المدرسة بنشاط."
-      ],
-      "question_type": "ordering",
-      "options_en": [],
-      "correct_answer": null,
-      "ordering_items_en": [
-        "I wake up early from sleep.",
-        "I brush my teeth.",
-        "I eat my breakfast.",
-        "I go to school energetically."
-      ],
-      "topic_en": "Units and Measurement",
-      "explanation_ar": "ترتيب الأعمال اليومية جزء من مهارات تنظيم الوقت في مادة الرياضيات والعلوم.",
-      "test_type": "diagnostic",
-      "difficulty": "easy",
       "topic_ar": "الوحدات والقياس",
       "matching_pairs_en": [],
-      "question_ar": "رتب روتينك الصباحي المدرسي بالترتيب الصحيح:",
-      "explanation_en": "Ordering daily tasks is part of time management skills in math and science.",
-      "classify_categories_ar": [],
-      "classify_items_en": [],
+      "question_ar": "صنف وحدات القياس حسب استخدامها:",
+      "explanation_en": "We use centimeters and meters for length, while we use grams and kilograms for weighing objects (mass).",
+      "classify_categories_ar": [
+        "قياس الطول",
+        "قياس الكتلة"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Centimeter"
+        },
+        {
+          "correct_category": 0,
+          "item": "Meter"
+        },
+        {
+          "correct_category": 1,
+          "item": "Gram"
+        },
+        {
+          "correct_category": 1,
+          "item": "Kilogram"
+        }
+      ],
       "grade": 2,
       "matching_pairs_ar": [],
-      "question_en": "Order your school morning routine in the correct sequence:",
-      "classify_categories_en": [],
-      "classify_items_ar": [],
+      "question_en": "Classify the measurement units according to their use:",
+      "classify_categories_en": [
+        "Measuring Length",
+        "Measuring Mass"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "سنتيمتر"
+        },
+        {
+          "correct_category": 0,
+          "item": "متر"
+        },
+        {
+          "correct_category": 1,
+          "item": "جرام"
+        },
+        {
+          "correct_category": 1,
+          "item": "كيلوجرام"
+        }
+      ],
       "options_ar": [],
-      "id": "6a499b98db2bae8633c99779",
+      "id": "6a499b98db2bae8633c9977b",
       "created_date": "2026-07-04T23:47:36.315000",
       "updated_date": "2026-07-04T23:47:36.315000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -443,67 +141,213 @@
     },
     {
       "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Fractions",
+      "explanation_ar": "في الصف الثاني، نتعلم أن الكسر هو جزء من الكل، 1/2 يعني جزء واحد من جزئين متطابقين.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الكسور",
+      "matching_pairs_en": [
+        {
+          "left": "1/2",
+          "right": "Half"
+        },
+        {
+          "left": "1/4",
+          "right": "Quarter"
+        },
+        {
+          "left": "1/3",
+          "right": "Third"
+        }
+      ],
+      "question_ar": "صل كل كسر بالكلمة التي تعبر عنه بشكل صحيح:",
+      "explanation_en": "In grade 2, we learn that a fraction is a part of a whole; 1/2 means one part of two equal parts.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [
+        {
+          "left": "1/2",
+          "right": "نصف"
+        },
+        {
+          "left": "1/4",
+          "right": "ربع"
+        },
+        {
+          "left": "1/3",
+          "right": "ثلث"
+        }
+      ],
+      "question_en": "Match each fraction with the correct word that describes it:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b98db2bae8633c99772",
+      "created_date": "2026-07-04T23:47:36.315000",
+      "updated_date": "2026-07-04T23:47:36.315000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
       "question_type": "classify",
       "options_en": [],
       "correct_answer": null,
       "ordering_items_en": [],
-      "topic_en": "Units and Measurement",
-      "explanation_ar": "نستخدم السنتيمتر والمتر للطول، بينما نستخدم الجرام والكيلوجرام لوزن الأشياء (الكتلة).",
+      "topic_en": "Words and Synonyms",
+      "explanation_ar": "الـ القمرية تُنطق وتُكتب ويوجد عليها سكون، أما الـ الشمسية تُكتب ولا تُنطق ويأتي بعدها حرف مشدد.",
       "test_type": "diagnostic",
-      "difficulty": "hard",
-      "topic_ar": "الوحدات والقياس",
+      "difficulty": "easy",
+      "topic_ar": "الكلمات والمرادفات",
       "matching_pairs_en": [],
-      "question_ar": "صنف وحدات القياس حسب استخدامها:",
-      "explanation_en": "We use centimeters and meters for length, while we use grams and kilograms for weighing objects (mass).",
+      "question_ar": "صنف الكلمات التالية حسب نوع الـ (ال شمسية أو ال قمرية):",
+      "explanation_en": "Lunar 'Al' is pronounced and written with a sukun, while Solar 'Al' is written but not pronounced and followed by a stressed letter.",
       "classify_categories_ar": [
-        "قياس الطول",
-        "قياس الكتلة"
+        "الـ الشمسية",
+        "الـ القمرية"
       ],
       "classify_items_en": [
         {
           "correct_category": 0,
-          "item": "Centimeter"
+          "item": "Ash-Shams (The Sun)"
+        },
+        {
+          "correct_category": 1,
+          "item": "Al-Qamar (The Moon)"
         },
         {
           "correct_category": 0,
-          "item": "Meter"
+          "item": "At-Tuffah (The Apple)"
         },
         {
           "correct_category": 1,
-          "item": "Gram"
-        },
-        {
-          "correct_category": 1,
-          "item": "Kilogram"
+          "item": "Al-Madrasah (The School)"
         }
       ],
       "grade": 2,
       "matching_pairs_ar": [],
-      "question_en": "Classify the measurement units according to their use:",
+      "question_en": "Classify the following words based on the type of 'Al' (Solar or Lunar):",
       "classify_categories_en": [
-        "Measuring Length",
-        "Measuring Mass"
+        "Solar 'Al'",
+        "Lunar 'Al'"
       ],
       "classify_items_ar": [
         {
           "correct_category": 0,
-          "item": "سنتيمتر"
+          "item": "الشمس"
+        },
+        {
+          "correct_category": 1,
+          "item": "القمر"
         },
         {
           "correct_category": 0,
-          "item": "متر"
+          "item": "التفاح"
         },
         {
           "correct_category": 1,
-          "item": "جرام"
-        },
-        {
-          "correct_category": 1,
-          "item": "كيلوجرام"
+          "item": "المدرسة"
         }
       ],
       "options_ar": [],
-      "id": "6a499b98db2bae8633c9977b",
+      "id": "6a499b98db2bae8633c9977d",
+      "created_date": "2026-07-04T23:47:36.315000",
+      "updated_date": "2026-07-04T23:47:36.315000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Multiplication and Division",
+      "explanation_ar": "الضرب هو عملية جمع متكرر لنفس العدد؛ 2+2+2 تعني أن الرقم 2 تكرر 3 مرات.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "الضرب والقسمة",
+      "matching_pairs_en": [
+        {
+          "left": "2 + 2 + 2",
+          "right": "3 × 2"
+        },
+        {
+          "left": "5 + 5",
+          "right": "2 × 5"
+        },
+        {
+          "left": "4 + 4 + 4 + 4",
+          "right": "4 × 4"
+        }
+      ],
+      "question_ar": "صل الجمع المتكرر بجملة الضرب المناسبة له:",
+      "explanation_en": "Multiplication is repeated addition of the same number; 2+2+2 means the number 2 is repeated 3 times.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [
+        {
+          "left": "2 + 2 + 2",
+          "right": "3 × 2"
+        },
+        {
+          "left": "5 + 5",
+          "right": "2 × 5"
+        },
+        {
+          "left": "4 + 4 + 4 + 4",
+          "right": "4 × 4"
+        }
+      ],
+      "question_en": "Match the repeated addition to its corresponding multiplication sentence:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b98db2bae8633c99775",
+      "created_date": "2026-07-04T23:47:36.315000",
+      "updated_date": "2026-07-04T23:47:36.315000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "شاهدت فاطمة عصفوراً مبللاً من المطر.",
+        "قررت فاطمة بناء عش صغير ليحمي العصفور.",
+        "استخدمت فاطمة الخشب والمطرقة لصنع العش.",
+        "علقت فاطمة العش على جذع الشجرة."
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Fatima saw a bird wet from the rain.",
+        "Fatima decided to build a small nest to protect the bird.",
+        "Fatima used wood and a hammer to make the nest.",
+        "Fatima hung the nest on the tree trunk."
+      ],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "ترتيب الأحداث يساعدنا على فهم القصة، تبدأ القصة بالمشكلة ثم الحل.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "رتب أحداث قصة (فاطمة والعصفور) حسب تسلسلها الصحيح:",
+      "explanation_en": "Ordering events helps us understand the story; it starts with the problem and leads to the solution.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [],
+      "question_en": "Order the events of the story (Fatima and the Bird) in the correct sequence:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b98db2bae8633c99778",
       "created_date": "2026-07-04T23:47:36.315000",
       "updated_date": "2026-07-04T23:47:36.315000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
@@ -578,68 +422,224 @@
       "is_sample": false
     },
     {
+      "ordering_items_ar": [
+        "أستيقظ من النوم مبكراً.",
+        "أنظف أسناني بالفرشاة.",
+        "أتناول وجبة الإفطار.",
+        "أذهب إلى المدرسة بنشاط."
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "I wake up early from sleep.",
+        "I brush my teeth.",
+        "I eat my breakfast.",
+        "I go to school energetically."
+      ],
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "ترتيب الأعمال اليومية جزء من مهارات تنظيم الوقت في مادة الرياضيات والعلوم.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "الوحدات والقياس",
+      "matching_pairs_en": [],
+      "question_ar": "رتب روتينك الصباحي المدرسي بالترتيب الصحيح:",
+      "explanation_en": "Ordering daily tasks is part of time management skills in math and science.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [],
+      "question_en": "Order your school morning routine in the correct sequence:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b98db2bae8633c99779",
+      "created_date": "2026-07-04T23:47:36.315000",
+      "updated_date": "2026-07-04T23:47:36.315000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "topic_en": "Patterns and Sequences",
+      "explanation_ar": "العد القفزي يعني إضافة نفس القيمة في كل مرة، وهنا نضيف 2 في كل خطوة.",
+      "test_type": "diagnostic",
+      "difficulty": "hard",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأعداد التالية لتكون نمطاً صحيحاً (العد القفزي بـ 2):",
+      "explanation_en": "Skip counting means adding the same value each time; here we add 2 at every step.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following numbers to form a correct pattern (skip counting by 2s):",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b98db2bae8633c99776",
+      "created_date": "2026-07-04T23:47:36.315000",
+      "updated_date": "2026-07-04T23:47:36.315000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
       "ordering_items_ar": [],
-      "question_type": "classify",
+      "question_type": "matching",
       "options_en": [],
       "correct_answer": null,
       "ordering_items_en": [],
-      "topic_en": "Words and Synonyms",
-      "explanation_ar": "الـ القمرية تُنطق وتُكتب ويوجد عليها سكون، أما الـ الشمسية تُكتب ولا تُنطق ويأتي بعدها حرف مشدد.",
+      "topic_en": "Geometric Shapes",
+      "explanation_ar": "تتميز الأشكال المستوية بعدد أضلاعها ورؤوسها؛ المربع له 4 والمثلث له 3.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [
+        {
+          "left": "Square",
+          "right": "Has 4 equal sides"
+        },
+        {
+          "left": "Triangle",
+          "right": "Has 3 sides and 3 vertices"
+        },
+        {
+          "left": "Circle",
+          "right": "Has no sides or vertices"
+        }
+      ],
+      "question_ar": "صل الشكل الهندسي بوصفه الصحيح:",
+      "explanation_en": "Plane shapes are identified by their number of sides and vertices; a square has 4 and a triangle has 3.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [
+        {
+          "left": "المربع",
+          "right": "له 4 أضلاع متساوية"
+        },
+        {
+          "left": "المثلث",
+          "right": "له 3 أضلاع و3 رؤوس"
+        },
+        {
+          "left": "الدائرة",
+          "right": "ليس لها أضلاع أو رؤوس"
+        }
+      ],
+      "question_en": "Match the geometric shape to its correct description:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b98db2bae8633c99773",
+      "created_date": "2026-07-04T23:47:36.315000",
+      "updated_date": "2026-07-04T23:47:36.315000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "5 + 2",
+        "10 + 5",
+        "20 + 10",
+        "50 + 20"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "5 + 2",
+        "10 + 5",
+        "20 + 10",
+        "50 + 20"
+      ],
+      "topic_en": "Addition and Subtraction",
+      "explanation_ar": "النواتج هي: 7، 15، 30، 70. الترتيب يبدأ من أصغر ناتج إلى أكبرها.",
       "test_type": "diagnostic",
       "difficulty": "easy",
-      "topic_ar": "الكلمات والمرادفات",
+      "topic_ar": "الجمع والطرح",
       "matching_pairs_en": [],
-      "question_ar": "صنف الكلمات التالية حسب نوع الـ (ال شمسية أو ال قمرية):",
-      "explanation_en": "Lunar 'Al' is pronounced and written with a sukun, while Solar 'Al' is written but not pronounced and followed by a stressed letter.",
-      "classify_categories_ar": [
-        "الـ الشمسية",
-        "الـ القمرية"
-      ],
-      "classify_items_en": [
-        {
-          "correct_category": 0,
-          "item": "Ash-Shams (The Sun)"
-        },
-        {
-          "correct_category": 1,
-          "item": "Al-Qamar (The Moon)"
-        },
-        {
-          "correct_category": 0,
-          "item": "At-Tuffah (The Apple)"
-        },
-        {
-          "correct_category": 1,
-          "item": "Al-Madrasah (The School)"
-        }
-      ],
+      "question_ar": "رتب العمليات الحسابية التالية من الأصغر ناتجاً إلى الأكبر ناتجاً:",
+      "explanation_en": "The results are: 7, 15, 30, 70. The order starts from the smallest result to the largest.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
       "grade": 2,
       "matching_pairs_ar": [],
-      "question_en": "Classify the following words based on the type of 'Al' (Solar or Lunar):",
-      "classify_categories_en": [
-        "Solar 'Al'",
-        "Lunar 'Al'"
-      ],
-      "classify_items_ar": [
+      "question_en": "Order the following operations from smallest result to largest result:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499b98db2bae8633c99777",
+      "created_date": "2026-07-04T23:47:36.315000",
+      "updated_date": "2026-07-04T23:47:36.315000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Currency and Money",
+      "explanation_ar": "العملات الورقية السعودية لها ألوان محددة تساعدنا في التمييز بينها بسرعة.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "العملات والنقود",
+      "matching_pairs_en": [
         {
-          "correct_category": 0,
-          "item": "الشمس"
+          "left": "Fifty Riyals",
+          "right": "Green Color"
         },
         {
-          "correct_category": 1,
-          "item": "القمر"
+          "left": "Ten Riyals",
+          "right": "Brown Color"
         },
         {
-          "correct_category": 0,
-          "item": "التفاح"
-        },
-        {
-          "correct_category": 1,
-          "item": "المدرسة"
+          "left": "Five Riyals",
+          "right": "Violet Color"
         }
       ],
+      "question_ar": "صل كل ورقة نقدية سعودية بلونها المميز:",
+      "explanation_en": "Saudi banknotes have specific colors to help us distinguish them quickly.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 2,
+      "matching_pairs_ar": [
+        {
+          "left": "خمسون ريالاً",
+          "right": "اللون الأخضر"
+        },
+        {
+          "left": "عشرة ريالات",
+          "right": "اللون البني"
+        },
+        {
+          "left": "خمسة ريالات",
+          "right": "اللون البنفسجي"
+        }
+      ],
+      "question_en": "Match each Saudi banknote to its distinct color:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
       "options_ar": [],
-      "id": "6a499b98db2bae8633c9977d",
+      "id": "6a499b98db2bae8633c99774",
       "created_date": "2026-07-04T23:47:36.315000",
       "updated_date": "2026-07-04T23:47:36.315000",
       "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
