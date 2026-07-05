@@ -74,20 +74,6 @@
       "is_sample": false
     },
     {
-      "color": "#3B82F6",
-      "name_ar": "الرياضيات",
-      "grade": "grade_3",
-      "icon": "Calculator",
-      "curriculum": "national",
-      "name_en": "Mathematics",
-      "order": 1,
-      "id": "6a483f3c96e05821ffa066e6",
-      "created_date": "2026-07-03T23:01:16.118000",
-      "updated_date": "2026-07-03T23:01:16.118000",
-      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
-      "is_sample": false
-    },
-    {
       "color": "#F59E0B",
       "name_ar": "العلوم",
       "grade": "grade_3",
@@ -96,6 +82,20 @@
       "name_en": "Science",
       "order": 2,
       "id": "6a483f3c96e05821ffa066e7",
+      "created_date": "2026-07-03T23:01:16.118000",
+      "updated_date": "2026-07-03T23:01:16.118000",
+      "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
+      "is_sample": false
+    },
+    {
+      "color": "#3B82F6",
+      "name_ar": "الرياضيات",
+      "grade": "grade_3",
+      "icon": "Calculator",
+      "curriculum": "national",
+      "name_en": "Mathematics",
+      "order": 1,
+      "id": "6a483f3c96e05821ffa066e6",
       "created_date": "2026-07-03T23:01:16.118000",
       "updated_date": "2026-07-03T23:01:16.118000",
       "created_by_id": "service_54c00eed-6486-4029-9a2e-cf5b715d0b73",
