@@ -1,0 +1,643 @@
+{
+  "test_type": "diagnostic",
+  "grade": 4,
+  "count": 12,
+  "questions": [
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Currency and Money",
+      "explanation_ar": "جمع فئات العملة السعودية يساعد في التعاملات اليومية؛ ٥٠ + ١٠ + ١٠ يساوي ٧٠ ريالاً.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "العملات والنقود",
+      "matching_pairs_en": [
+        {
+          "left": "One 50 note + two 10 notes",
+          "right": "70 Riyals"
+        },
+        {
+          "left": "One 100 note + one 50 note",
+          "right": "150 Riyals"
+        },
+        {
+          "left": "One 10 note + one 5 note + 1 Riyal",
+          "right": "16 Riyals"
+        }
+      ],
+      "question_ar": "صل مجموع الأوراق النقدية السعودية بقيمتها الإجمالية:",
+      "explanation_en": "Adding Saudi currency denominations helps in daily transactions; 50 + 10 + 10 equals 70 Riyals.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [
+        {
+          "left": "ورقة ٥٠ + ورقتان ١٠",
+          "right": "٧٠ ريالاً"
+        },
+        {
+          "left": "ورقة ١٠٠ + ورقة ٥٠",
+          "right": "١٥٠ ريالاً"
+        },
+        {
+          "left": "ورقة ١٠ + ورقة ٥ + ريال",
+          "right": "١٦ ريالاً"
+        }
+      ],
+      "question_en": "Match the group of Saudi bank notes to their total value:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c99785",
+      "created_date": "2026-07-04T23:47:49.329000",
+      "updated_date": "2026-07-04T23:47:49.329000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "٢",
+        "٤",
+        "٨",
+        "١٦",
+        "٣٢"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "2",
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "topic_en": "Patterns and Sequence",
+      "explanation_ar": "النمط الهندسي هنا يعتمد على مضاعفة العدد السابق (ضرب في ٢).",
+      "test_type": "diagnostic",
+      "difficulty": "hard",
+      "topic_ar": "الأنماط والتسلسل",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأعداد التالية لتكمل النمط (القاعدة: ضرب العدد في ٢):",
+      "explanation_en": "The geometric pattern here depends on doubling the previous number (multiplying by 2).",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following numbers to complete the pattern (Rule: Multiply by 2):",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c99786",
+      "created_date": "2026-07-04T23:47:49.329000",
+      "updated_date": "2026-07-04T23:47:49.329000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "١/١٠",
+        "١/٨",
+        "١/٤",
+        "١/٢"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "1/10",
+        "1/8",
+        "1/4",
+        "1/2"
+      ],
+      "topic_en": "Fractions",
+      "explanation_ar": "في كسور الوحدة (البسط ١)، كلما كبر المقام صغرت قيمة الكسر.",
+      "test_type": "diagnostic",
+      "difficulty": "hard",
+      "topic_ar": "الكسور",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الكسور التالية من الأصغر قيمة إلى الأكبر قيمة:",
+      "explanation_en": "In unit fractions (numerator is 1), the larger the denominator, the smaller the value of the fraction.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Arrange the following fractions from the smallest value to the largest value:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c99787",
+      "created_date": "2026-07-04T23:47:49.329000",
+      "updated_date": "2026-07-04T23:47:49.329000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "وضع البذرة في التربة",
+        "سقي البذرة بالماء",
+        "ظهور الجذور والنبوت",
+        "نمو الأوراق والأزهار"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "Placing the seed in soil",
+        "Watering the seed",
+        "Roots and sprout appear",
+        "Leaves and flowers grow"
+      ],
+      "topic_en": "Reading and Comprehension",
+      "explanation_ar": "التسلسل المنطقي للأحداث يبدأ بالزراعة ثم الري ثم النمو التدريجي.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "قراءة وفهم",
+      "matching_pairs_en": [],
+      "question_ar": "رتب أحداث دورة حياة النبات بالترتيب الصحيح:",
+      "explanation_en": "The logical sequence of events begins with planting, then watering, then gradual growth.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Order the events of a plant's life cycle in the correct sequence:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c99788",
+      "created_date": "2026-07-04T23:47:49.329000",
+      "updated_date": "2026-07-04T23:47:49.329000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [
+        "١٠٤٥٠",
+        "١٤٠٥٠",
+        "١٥٤٠٠",
+        "٤٠٥١٠"
+      ],
+      "question_type": "ordering",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [
+        "10450",
+        "14050",
+        "15400",
+        "40510"
+      ],
+      "topic_en": "Large Numbers",
+      "explanation_ar": "نقارن الأعداد بدءاً من المنزلة الكبرى (عشرات الألوف) ثم الألوف وهكذا.",
+      "test_type": "diagnostic",
+      "difficulty": "hard",
+      "topic_ar": "الأعداد الكبيرة",
+      "matching_pairs_en": [],
+      "question_ar": "رتب الأعداد التالية من الأصغر إلى الأكبر:",
+      "explanation_en": "We compare numbers starting from the highest place value (ten thousands), then thousands, and so on.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Order the following numbers from least to greatest:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c99789",
+      "created_date": "2026-07-04T23:47:49.329000",
+      "updated_date": "2026-07-04T23:47:49.329000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Geometric Shapes",
+      "explanation_ar": "الأشكال المستوية لها بعدان فقط (طول وعرض)، بينما المجسمات لها ثلاثة أبعاد.",
+      "test_type": "diagnostic",
+      "difficulty": "hard",
+      "topic_ar": "الأشكال الهندسية",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الأشكال التالية إلى أشكال مستوية أو مجسمات:",
+      "explanation_en": "2D shapes have only two dimensions (length and width), while 3D solids have three dimensions.",
+      "classify_categories_ar": [
+        "أشكال مستوية",
+        "مجسمات"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Rectangle"
+        },
+        {
+          "correct_category": 1,
+          "item": "Cube"
+        },
+        {
+          "correct_category": 0,
+          "item": "Circle"
+        },
+        {
+          "correct_category": 1,
+          "item": "Cylinder"
+        }
+      ],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following shapes into 2D shapes or 3D solids:",
+      "classify_categories_en": [
+        "2D Shapes",
+        "3D Solids"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "مستطيل"
+        },
+        {
+          "correct_category": 1,
+          "item": "مكعب"
+        },
+        {
+          "correct_category": 0,
+          "item": "دائرة"
+        },
+        {
+          "correct_category": 1,
+          "item": "أسطوانة"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c9978a",
+      "created_date": "2026-07-04T23:47:49.329000",
+      "updated_date": "2026-07-04T23:47:49.329000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Units and Measurement",
+      "explanation_ar": "المتر والسنتيمتر لقياس الأطوال، بينما الجرام والكيلوجرام لقياس كتلة الأشياء.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "الوحدات والقياس",
+      "matching_pairs_en": [],
+      "question_ar": "صنف الوحدات التالية حسب ما تقيسه (طول أو كتلة):",
+      "explanation_en": "Meter and centimeter are for measuring lengths, while gram and kilogram are for measuring the mass of objects.",
+      "classify_categories_ar": [
+        "وحدات الطول",
+        "وحدات الكتلة"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "Meter"
+        },
+        {
+          "correct_category": 1,
+          "item": "Kilogram"
+        },
+        {
+          "correct_category": 0,
+          "item": "Centimeter"
+        },
+        {
+          "correct_category": 1,
+          "item": "Gram"
+        }
+      ],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following units based on what they measure (Length or Mass):",
+      "classify_categories_en": [
+        "Length Units",
+        "Mass Units"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "متر"
+        },
+        {
+          "correct_category": 1,
+          "item": "كيلوجرام"
+        },
+        {
+          "correct_category": 0,
+          "item": "سنتيمتر"
+        },
+        {
+          "correct_category": 1,
+          "item": "جرام"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c9978b",
+      "created_date": "2026-07-04T23:47:49.329000",
+      "updated_date": "2026-07-04T23:47:49.329000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Even and Odd numbers",
+      "explanation_ar": "العدد الزوجي آحاده (٠، ٢، ٤، ٦، ٨)، أما العدد الفردي فآحاده (١، ٣، ٥، ٧، ٩).",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "الأعداد الزوجية والفردية",
+      "matching_pairs_en": [],
+      "question_ar": "اسحب كل عدد إلى مجموعته الصحيحة:",
+      "explanation_en": "An even number ends in (0, 2, 4, 6, 8), while an odd number ends in (1, 3, 5, 7, 9).",
+      "classify_categories_ar": [
+        "أعداد زوجية",
+        "أعداد فردية"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "12"
+        },
+        {
+          "correct_category": 1,
+          "item": "17"
+        },
+        {
+          "correct_category": 0,
+          "item": "46"
+        },
+        {
+          "correct_category": 1,
+          "item": "31"
+        }
+      ],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Drag each number to its correct group:",
+      "classify_categories_en": [
+        "Even Numbers",
+        "Odd Numbers"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "١٢"
+        },
+        {
+          "correct_category": 1,
+          "item": "١٧"
+        },
+        {
+          "correct_category": 0,
+          "item": "٤٦"
+        },
+        {
+          "correct_category": 1,
+          "item": "٣١"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c9978c",
+      "created_date": "2026-07-04T23:47:49.329000",
+      "updated_date": "2026-07-04T23:47:49.329000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "classify",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Angles",
+      "explanation_ar": "الزاوية القائمة قياسها ٩٠ درجة بالضبط، الحادة أقل من ٩٠، والمنفرجة أكبر من ٩٠.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الزوايا",
+      "matching_pairs_en": [],
+      "question_ar": "صنف قياسات الزوايا التالية إلى أنواعها:",
+      "explanation_en": "A right angle is exactly 90 degrees, acute is less than 90, and obtuse is greater than 90.",
+      "classify_categories_ar": [
+        "زاوية حادة",
+        "زاوية قائمة",
+        "زاوية منفرجة"
+      ],
+      "classify_items_en": [
+        {
+          "correct_category": 0,
+          "item": "45 degrees"
+        },
+        {
+          "correct_category": 1,
+          "item": "90 degrees"
+        },
+        {
+          "correct_category": 2,
+          "item": "130 degrees"
+        }
+      ],
+      "grade": 4,
+      "matching_pairs_ar": [],
+      "question_en": "Classify the following angle measurements into their types:",
+      "classify_categories_en": [
+        "Acute Angle",
+        "Right Angle",
+        "Obtuse Angle"
+      ],
+      "classify_items_ar": [
+        {
+          "correct_category": 0,
+          "item": "٤٥ درجة"
+        },
+        {
+          "correct_category": 1,
+          "item": "٩٠ درجة"
+        },
+        {
+          "correct_category": 2,
+          "item": "١٣٠ درجة"
+        }
+      ],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c9978d",
+      "created_date": "2026-07-04T23:47:49.329000",
+      "updated_date": "2026-07-04T23:47:49.329000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Addition and Subtraction",
+      "explanation_ar": "عند الجمع نجمع الآحاد مع الآحاد والعشرات مع العشرات، وفي الطرح نستلف إذا كان المطروح منه أصغر من المطروح.",
+      "test_type": "diagnostic",
+      "difficulty": "hard",
+      "topic_ar": "الجمع والطرح",
+      "matching_pairs_en": [
+        {
+          "left": "450 + 150",
+          "right": "600"
+        },
+        {
+          "left": "1000 - 250",
+          "right": "750"
+        },
+        {
+          "left": "320 + 80",
+          "right": "400"
+        }
+      ],
+      "question_ar": "صل كل عملية حسابية بناتجها الصحيح:",
+      "explanation_en": "In addition, we add ones to ones and tens to tens. In subtraction, we regroup if the minuend is smaller than the subtrahend.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [
+        {
+          "left": "٤٥٠ + ١٥٠",
+          "right": "٦٠٠"
+        },
+        {
+          "left": "١٠٠٠ - ٢٥٠",
+          "right": "٧٥٠"
+        },
+        {
+          "left": "٣٢٠ + ٨٠",
+          "right": "٤٠٠"
+        }
+      ],
+      "question_en": "Match each calculation with its correct result:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c99782",
+      "created_date": "2026-07-04T23:47:49.328000",
+      "updated_date": "2026-07-04T23:47:49.328000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Multiplication and Division",
+      "explanation_ar": "جدول الضرب مهارة أساسية في الصف الرابع؛ حاصل ضرب ٦ في ٧ يساوي ٤٢.",
+      "test_type": "diagnostic",
+      "difficulty": "easy",
+      "topic_ar": "الضرب والقسمة",
+      "matching_pairs_en": [
+        {
+          "left": "6 x 7",
+          "right": "42"
+        },
+        {
+          "left": "9 x 4",
+          "right": "36"
+        },
+        {
+          "left": "8 x 5",
+          "right": "40"
+        }
+      ],
+      "question_ar": "صل جملة الضرب بناتج الضرب المناسب لها:",
+      "explanation_en": "Multiplication tables are a fundamental skill in 4th grade; 6 multiplied by 7 equals 42.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [
+        {
+          "left": "٦ × ٧",
+          "right": "٤٢"
+        },
+        {
+          "left": "٩ × ٤",
+          "right": "٣٦"
+        },
+        {
+          "left": "٨ × ٥",
+          "right": "٤٠"
+        }
+      ],
+      "question_en": "Match the multiplication sentence with its correct product:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c99783",
+      "created_date": "2026-07-04T23:47:49.328000",
+      "updated_date": "2026-07-04T23:47:49.328000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "ordering_items_ar": [],
+      "question_type": "matching",
+      "options_en": [],
+      "correct_answer": null,
+      "ordering_items_en": [],
+      "topic_en": "Words and Synonyms",
+      "explanation_ar": "المرادف هو كلمة تعطي نفس معنى الكلمة الأصلية، مثل قاحلة تعني أرض يابسة لا زرع فيها.",
+      "test_type": "diagnostic",
+      "difficulty": "medium",
+      "topic_ar": "الكلمات والمرادفات",
+      "matching_pairs_en": [
+        {
+          "left": "Yasur (Pleases)",
+          "right": "Yufreh (Makes happy)"
+        },
+        {
+          "left": "Naqi (Pure)",
+          "right": "Tahir (Clean/Pure)"
+        },
+        {
+          "left": "Qahila (Arid)",
+          "right": "Yabisa (Dry/Barren)"
+        }
+      ],
+      "question_ar": "صل الكلمة من نص 'لغتي' بمرادفها الصحيح:",
+      "explanation_en": "A synonym is a word that provides the same meaning as the original word, such as 'Arid' meaning dry land without plants.",
+      "classify_categories_ar": [],
+      "classify_items_en": [],
+      "grade": 4,
+      "matching_pairs_ar": [
+        {
+          "left": "يسرّ",
+          "right": "يُفرح"
+        },
+        {
+          "left": "نقي",
+          "right": "طاهر"
+        },
+        {
+          "left": "قاحلة",
+          "right": "يابسة"
+        }
+      ],
+      "question_en": "Match the word from the 'Lughati' text with its correct synonym:",
+      "classify_categories_en": [],
+      "classify_items_ar": [],
+      "options_ar": [],
+      "id": "6a499ba5db2bae8633c99784",
+      "created_date": "2026-07-04T23:47:49.328000",
+      "updated_date": "2026-07-04T23:47:49.328000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    }
+  ]
+}
