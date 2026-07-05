@@ -1,0 +1,211 @@
+{
+  "stage": "primary",
+  "grade": 2,
+  "count": 6,
+  "questions": [
+    {
+      "golden_rule_en": "Not everything that flies is a bird.. look for how they give birth and nurse.",
+      "options_en": [
+        "Falcon",
+        "Bat",
+        "Crow",
+        "Pigeon"
+      ],
+      "common_mistake_en": "Students usually associate flight only with birds, so they choose the falcon for its strength or the pigeon for its familiarity, ignoring that the bat is a mammal.",
+      "correct_answer": "1",
+      "topic_en": "Animal Classification",
+      "subject_ar": "العلوم",
+      "explanation_ar": "الخفاش هو الوحيد في القائمة الذي ينتمي للثدييات (يرضع صغاره)، بينما الصقر والغراب والحمامة طيور تضع البيض. العبقرية هنا تكمن في عدم الانخداع بصفة الطيران.",
+      "golden_rule_ar": "ليس كل ما يطير طيراً.. ابحث عن طريقة الولادة والإرضاع.",
+      "topic_ar": "تصنيف الحيوانات",
+      "subject_en": "Science",
+      "question_ar": "أي الحيوانات التالية يمتلك صفات تجعله يختلف جذرياً عن البقية من حيث طريقة رعاية صغاره، رغم أنه يطير مثلهم؟",
+      "explanation_en": "The bat is the only one on the list that belongs to mammals (nurses its young), while the falcon, crow, and pigeon are birds that lay eggs. The genius here lies in not being deceived by the flight characteristic.",
+      "stage": "primary",
+      "grade": 2,
+      "question_en": "Which of the following animals has traits that make it fundamentally different from the rest in how it cares for its young, even though it flies like them?",
+      "options_ar": [
+        "الصقر",
+        "الخفاش",
+        "الغراب",
+        "الحمامة"
+      ],
+      "common_mistake_ar": "يربط الطلاب عادة بين الطيران والطيور فقط، فيختارون الصقر لقوته أو الحمامة لألفتها، متجاهلين أن الخفاش ثديي.",
+      "id": "6a49a4f139ead10de3924753",
+      "created_date": "2026-07-05T00:27:29.755000",
+      "updated_date": "2026-07-05T00:27:29.755000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "golden_rule_en": "In some patterns, the secret lies in adding neighbors to get the third.",
+      "options_en": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "common_mistake_en": "Students look for a constant increase (+1, +2...), and when they don't find it, they choose 10 or 11 by guessing based on a small expected difference.",
+      "correct_answer": "3",
+      "topic_en": "Number Patterns",
+      "subject_ar": "الرياضيات",
+      "explanation_ar": "هذا نمط (فيبوناتشي) بسيط، حيث كل رقم هو حاصل جمع الرقمين السابقين له. 5 + 8 = 13.",
+      "golden_rule_ar": "في بعض الأنماط، السر يكمن في جمع الجارين للحصول على الثالث.",
+      "topic_ar": "الأنماط العددية",
+      "subject_en": "Mathematics",
+      "question_ar": "أكمل النمط التالي الذي يتبعه ذكاء الأرقام: 1، 1، 2، 3، 5، 8، ... ما هو الرقم القادم؟",
+      "explanation_en": "This is a simple Fibonacci pattern, where each number is the sum of the two preceding numbers. 5 + 8 = 13.",
+      "stage": "primary",
+      "grade": 2,
+      "question_en": "Complete the following pattern followed by number intelligence: 1, 1, 2, 3, 5, 8, ... What is the next number?",
+      "options_ar": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "common_mistake_ar": "يبحث الطلاب عن زيادة ثابتة (+1، +2...)، وعندما لا يجدونها يختارون 10 أو 11 بالتخمين بناءً على فارق بسيط متوقع.",
+      "id": "6a49a4f139ead10de3924758",
+      "created_date": "2026-07-05T00:27:29.755000",
+      "updated_date": "2026-07-05T00:27:29.755000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "golden_rule_en": "Memorize the 'Moon letters' group to easily identify the Sun letters.",
+      "options_en": [
+        "The sky is clear and the weather is beautiful",
+        "The water is cold and the snow is white",
+        "The light is bright and the rose is blooming",
+        "The pen is new and the book is useful"
+      ],
+      "common_mistake_en": "Students confuse Sun and Moon letters, especially 'Tha' and 'Meem', or they ignore the specific 'order' requested in the question.",
+      "correct_answer": "1",
+      "topic_en": "Sun and Moon Letters",
+      "subject_ar": "اللغة العربية",
+      "explanation_ar": "في الخيار الثاني: كلمة (الماء) تبدأ بحرف الميم وهو قمري (الـ قمرية)، وكلمة (الثلج) تبدأ بحرف الثاء وهو شمسي (الـ شمسية). الترتيب هنا: قمرية ثم شمسية. أما بقية الخيارات فترتيبها مختلف (شمسية-قمرية، أو شمسية-شمسية، أو قمرية-قمرية).",
+      "golden_rule_ar": "ابغِ حجك وخف عقيمه (حروف اللام القمرية).",
+      "topic_ar": "اللام الشمسية واللام القمرية",
+      "subject_en": "Arabic Language",
+      "question_ar": "أي من الجمل التالية تحتوي على كلمة بدأت بـ (الـ) القمرية وكلمة أخرى بدأت بـ (الـ) الشمسية على الترتيب؟",
+      "explanation_en": "In option 2: 'Al-Ma' (The water) starts with 'Meem' which is a Moon letter, and 'Al-Thalj' (The snow) starts with 'Tha' which is a Sun letter. The order is Moon then Sun. Other options have different orders.",
+      "stage": "primary",
+      "grade": 2,
+      "question_en": "Which of the following sentences contains a word starting with the 'Moon Al' and another starting with the 'Sun Al' in that specific order?",
+      "options_ar": [
+        "السماءُ صافيةٌ والجوُّ جميلٌ",
+        "الماءُ باردٌ والثلجُ ناصعٌ",
+        "النورُ ساطعٌ والوردُ متفتحٌ",
+        "القلمُ جديدٌ والكتابُ مفيدٌ"
+      ],
+      "common_mistake_ar": "يخلط الطلاب بين الحروف الشمسية والقمرية، خاصة حرف (الثاء) وحرف (الميم)، أو يتجاهلون شرط 'الترتيب' المطلوب في السؤال.",
+      "id": "6a49a4386f623da7f7960a2d",
+      "created_date": "2026-07-05T00:24:24.628000",
+      "updated_date": "2026-07-05T00:24:24.628000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "golden_rule_en": "In number riddles, test the conditions one by one until only one option remains.",
+      "options_en": [
+        "436",
+        "424",
+        "448",
+        "463"
+      ],
+      "common_mistake_en": "A student might choose 448 because 8 is double 4, but the sum of digits is 16, not 13.",
+      "correct_answer": "0",
+      "topic_en": "Place Value",
+      "subject_ar": "الرياضيات",
+      "explanation_ar": "1. العدد بين 400 و500، إذاً رقم المئات هو 4. 2. مجموع الأرقام 13، يعني (4 + العشرات + الآحاد = 13)، إذاً (العشرات + الآحاد = 9). 3. الآحاد ضعف العشرات، لنجرب: إذا كانت العشرات 3، فالآحاد 6. (3+6=9). العدد هو 436. لنتأكد: 4+3+6=13. صحيح.",
+      "golden_rule_ar": "في ألغاز الأعداد، جرب الشروط واحداً تلو الآخر حتى يتبقى خيار واحد.",
+      "topic_ar": "القيمة المنزلية",
+      "subject_en": "Mathematics",
+      "question_ar": "أنا عدد أقع بين 400 و500. رقم آحادي هو ضعف رقم عشراتي، ومجموع أرقامي يساوي 13. فمن أنا؟",
+      "explanation_en": "1. Number is between 400-500, so hundreds digit is 4. 2. Sum of digits is 13, so (4 + tens + ones = 13), meaning (tens + ones = 9). 3. Ones is double tens. If tens is 3, ones is 6. (3+6=9). The number is 436. Check: 4+3+6=13. Correct.",
+      "stage": "primary",
+      "grade": 2,
+      "question_en": "I am a number between 400 and 500. My ones digit is double my tens digit, and the sum of my digits is 13. Who am I?",
+      "options_ar": [
+        "436",
+        "424",
+        "448",
+        "463"
+      ],
+      "common_mistake_ar": "قد يختار الطالب 448 لأن 8 ضعف 4، لكن مجموع أرقامه (4+4+8=16) وليس 13.",
+      "id": "6a49a4386f623da7f7960a2e",
+      "created_date": "2026-07-05T00:24:24.628000",
+      "updated_date": "2026-07-05T00:24:24.628000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "golden_rule_en": "Not everything that swims is a fish; mammals give birth, nurse, and breathe air!",
+      "options_en": [
+        "Shark",
+        "Dolphin",
+        "Seahorse",
+        "Octopus"
+      ],
+      "common_mistake_en": "Students assume any creature swimming in water is a fish, finding it hard to distinguish between habitat classification and biological classification.",
+      "correct_answer": "1",
+      "topic_en": "Animals and Habitats",
+      "subject_ar": "العلوم",
+      "explanation_ar": "الدلفين من الثدييات وليس من الأسماك. هو يعيش في الماء لكنه يملك رئتين ويتنفس الهواء من خلال فتحة في أعلى رأسه، كما أنه يلد ويرضع صغاره، وهي خصائص تميز الثدييات عن الأسماك التي تتنفس بالخياشيم وتبيض غالباً.",
+      "golden_rule_ar": "ليس كل ما يسبح سمكة؛ الثدييات تلد وترضع وتتنفس الهواء!",
+      "topic_ar": "الحيوانات ومواطنها",
+      "subject_en": "Science",
+      "question_ar": "أي من هذه الكائنات يعيش في الماء، ويتنفس الهواء الجوي، ويرضع صغاره، ولكنه ليس سمكة؟",
+      "explanation_en": "The dolphin is a mammal, not a fish. It lives in water but has lungs and breathes air through a blowhole. It also gives birth and nurses its young, which are characteristics of mammals, unlike fish that breathe through gills and mostly lay eggs.",
+      "stage": "primary",
+      "grade": 2,
+      "question_en": "Which of these creatures lives in water, breathes air, nurses its young, but is not a fish?",
+      "options_ar": [
+        "القرش",
+        "الدلفين",
+        "فرس البحر",
+        "الأخطبوط"
+      ],
+      "common_mistake_ar": "يعتقد الطلاب أن أي كائن يسبح في الماء هو سمكة بالضرورة، ويصعب عليهم التفريق بين التصنيف البيئي (أين يعيش) والتصنيف العلمي (الخصائص الحيوية).",
+      "id": "6a49a376555458e049bb26e2",
+      "created_date": "2026-07-05T00:21:10.878000",
+      "updated_date": "2026-07-05T00:21:10.878000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "golden_rule_en": "If you hear the 'L' in a word starting with 'L', it is always a Sun Lam because the spoken 'L' is the second letter.",
+      "options_en": [
+        "Moon Lam, and the letter is Ya",
+        "Sun Lam, and the letter is Lam",
+        "Moon Lam, and the letter is Lam",
+        "Sun Lam, and the letter is Ya"
+      ],
+      "common_mistake_en": "Many students think it is a Moon Lam because they clearly hear the 'L' sound, unaware that the spoken 'L' is the original letter of the word, not the definite article 'Al'.",
+      "correct_answer": "1",
+      "topic_en": "Sun and Moon Letters",
+      "subject_ar": "اللغة العربية",
+      "explanation_ar": "كلمة 'الليل' تبدأ بلام شمسية لأن حرف 'اللام' من الحروف الشمسية. اللام الأولى هي لام التعريف وهي تكتب ولا تنطق، واللام الثانية مشددة (اللَّـيل).",
+      "golden_rule_ar": "إذا سمعت اللام في كلمة تبدأ بـ (ل)، فهي شمسية دائمًا لأن اللام المنطوقة هي الحرف الثاني.",
+      "topic_ar": "اللام الشمسية واللام القمرية",
+      "subject_en": "Arabic Language",
+      "question_ar": "ما نوع اللام في كلمة (الليل)، وما الحرف الذي تسبب في ذلك؟",
+      "explanation_en": "The word 'Al-Layl' starts with a Sun Lam because the letter 'Lam' is one of the Sun letters. The first Lam is the definite article which is written but not pronounced, and the second Lam has a shadda (Al-Layl).",
+      "stage": "primary",
+      "grade": 2,
+      "question_en": "What is the type of 'Lam' in the word 'Al-Layl', and which letter caused that?",
+      "options_ar": [
+        "لام قمرية، والحرف هو الياء",
+        "لام شمسية، والحرف هو اللام",
+        "لام قمرية، والحرف هو اللام",
+        "لام شمسية، والحرف هو الياء"
+      ],
+      "common_mistake_ar": "يعتقد الكثير من الطلاب أنها قمرية لأنهم يسمعون صوت اللام بوضوح، غافلين عن أن اللام المنطوقة هي حرف الكلمة الأصلي وليست لام التعريف.",
+      "id": "6a49a2bfdb2e80e37c35f7ae",
+      "created_date": "2026-07-05T00:18:07.148000",
+      "updated_date": "2026-07-05T00:18:07.148000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    }
+  ]
+}
