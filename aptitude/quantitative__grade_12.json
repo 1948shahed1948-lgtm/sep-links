@@ -1,0 +1,2707 @@
+{
+  "section": "quantitative",
+  "grade": 12,
+  "count": 100,
+  "questions": [
+    {
+      "question_ar": "في حديقة، يوجد 10 أشجار تفاح و15 شجرة برتقال. ما هو نسبة أشجار التفاح إلى أشجار البرتقال؟",
+      "explanation_en": "The ratio is calculated by dividing the number of apple trees by the number of orange trees. Here, 10 ÷ 15 = 2:3.",
+      "options_en": [
+        "2:3",
+        "3:2",
+        "5:3",
+        "1:1"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "In a garden, there are 10 apple trees and 15 orange trees. What is the ratio of apple trees to orange trees?",
+      "explanation_ar": "النسبة تُحسب بقسمة عدد أشجار التفاح على عدد أشجار البرتقال. هنا، 10 ÷ 15 = 2:3.",
+      "options_ar": [
+        "2:3",
+        "3:2",
+        "5:3",
+        "1:1"
+      ],
+      "id": "6a498948f67ff8063611f3af",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت العينة تمثل 200 شخص، وكان 80% منهم يمتلكون هواتف ذكية. كم عدد الأشخاص الذين لا يمتلكون هواتف ذكية؟",
+      "explanation_en": "If 80% own smartphones, that means 20% do not own them. Thus, 20% of 200 is 40.",
+      "options_en": [
+        "40",
+        "50",
+        "60",
+        "30"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the sample represents 200 people, and 80% of them own smartphones. How many people do not own smartphones?",
+      "explanation_ar": "إذا كان 80% يمتلكون هواتف ذكية، فهذا يعني أن 20% لا يمتلكونها. وبالتالي، 20% من 200 هو 40.",
+      "options_ar": [
+        "40",
+        "50",
+        "60",
+        "30"
+      ],
+      "id": "6a498948f67ff8063611f3b0",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو الانحراف المعياري للقيم 4، 8، 6، 5، و3؟",
+      "explanation_en": "To calculate the standard deviation, you first find the average, then the squared differences from the average, and finally take the square root of that average. The result is 1.58.",
+      "options_en": [
+        "1.58",
+        "2.0",
+        "1.0",
+        "1.82"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "What is the standard deviation of the values 4, 8, 6, 5, and 3?",
+      "explanation_ar": "لحساب الانحراف المعياري، يجب أولاً حساب المتوسط ثم الفارق التربيعي عن المتوسط، وأخيرًا أخذ الجذر التربيعي لمتوسط تلك الفوارق. الناتج هو 1.58.",
+      "options_ar": [
+        "1.58",
+        "2.0",
+        "1.0",
+        "1.82"
+      ],
+      "id": "6a498948f67ff8063611f3b1",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا تم إدخال البيانات التالية في جدول: 10، 20، 30، 10، 40. ما هي الوسيط لهذه البيانات؟",
+      "explanation_en": "To find the median, you first sort the data: 10, 10, 20, 30, 40. The median is the middle value, which is 20.",
+      "options_en": [
+        "20",
+        "30",
+        "10",
+        "15"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the following data is entered in a table: 10, 20, 30, 10, 40. What is the median of this data?",
+      "explanation_ar": "لإيجاد الوسيط، يجب ترتيب البيانات أولاً: 10، 10، 20، 30، 40. الوسيط هو القيمة الوسطى، وهي 20.",
+      "options_ar": [
+        "20",
+        "30",
+        "10",
+        "15"
+      ],
+      "id": "6a498948f67ff8063611f3b2",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان لديك صندوق يحتوي على 4 كرات حمراء و6 كرات زرقاء، ما هو احتمال سحب كرة حمراء؟",
+      "explanation_en": "The probability of drawing a red ball is the number of red balls divided by the total number of balls, hence 4 ÷ (4 + 6) = 4/10, which simplifies to 2/5.",
+      "options_en": [
+        "2/5",
+        "4/10",
+        "1/5",
+        "1/2"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If you have a box containing 4 red balls and 6 blue balls, what is the probability of drawing a red ball?",
+      "explanation_ar": "احتمال سحب كرة حمراء هو عدد الكرات الحمراء مقسومًا على العدد الكلي للكرات، لذا 4 ÷ (4 + 6) = 4/10، والذي يمكن تبسيطه إلى 2/5.",
+      "options_ar": [
+        "2/5",
+        "4/10",
+        "1/5",
+        "1/2"
+      ],
+      "id": "6a498948f67ff8063611f3b3",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت الأرقام 1، 2، 3، 4، و5. فما هو مقدار المدى لهذه الأرقام؟",
+      "explanation_en": "The range is calculated by subtracting the smallest value from the largest value. Here, 5 - 1 = 4.",
+      "options_en": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the numbers are 1, 2, 3, 4, and 5. What is the range of these numbers?",
+      "explanation_ar": "المدى يُحسب بطرح أقل قيمة من أكبر قيمة. هنا، 5 - 1 = 4.",
+      "options_ar": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "id": "6a498948f67ff8063611f3b4",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت مجموعة الأعداد { 2, 4, 6, 8 }، فما هو المتوسط الحسابي لهذه الأعداد؟",
+      "explanation_en": "The arithmetic mean is calculated by summing the numbers and dividing by their count. (2 + 4 + 6 + 8) / 4 = 20 / 4 = 5. Thus, the correct answer is 5.",
+      "options_en": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the set of numbers is { 2, 4, 6, 8 }, what is the arithmetic mean of these numbers?",
+      "explanation_ar": "المتوسط الحسابي يُحسب بجمع الأعداد ثم قسمتها على عددها. (2 + 4 + 6 + 8) / 4 = 20 / 4 = 5. لذلك الخيار الصحيح هو 5.",
+      "options_ar": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "id": "6a498948f67ff8063611f3b5",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو احتمال الحصول على الرقم \"4\" عند رمي نرد عادي؟",
+      "explanation_en": "A die has 6 faces. The probability of rolling any number is 1 divided by the number of faces. Therefore, the probability is 1/6.",
+      "options_en": [
+        "1/6",
+        "1/5",
+        "1/4",
+        "1/3"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "What is the probability of rolling a \"4\" on a regular die?",
+      "explanation_ar": "النرد يحتوي على 6 أوجه. احتمال الحصول على أي رقم هو 1 مقسوم على عدد الأوجه. لذلك، الاحتمال هو 1/6.",
+      "options_ar": [
+        "1/6",
+        "1/5",
+        "1/4",
+        "1/3"
+      ],
+      "id": "6a498948f67ff8063611f3b6",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان متوسط درجات فصل هو ٨٠، ودرجات طالبين في الفصل هما ٧٥ و ٨٥، فما هي درجة الطالب الثالث لضمان بقاء المتوسط ٨٠؟",
+      "explanation_en": "To calculate the third student's grade, the total sum of grades must equal (3×80) = 240. Given the sum of the two provided grades is 75 + 85 = 160, the third student's grade must be 240 - 160 = 80.",
+      "options_en": [
+        "80",
+        "75",
+        "85",
+        "90"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the average grade of a class is 80, and the grades of two students in the class are 75 and 85, what must be the grade of the third student to maintain the average at 80?",
+      "explanation_ar": "لحساب درجة الطالب الثالث، يجب أن يكون المجموع الكلي للدرجات هو (٣×٨٠) = ٢٤٠. بما أن مجموع الدرجتين المعطاة هو ٧٥ + ٨٥ = ١٦٠، فإن درجة الطالب الثالث يجب أن تكون ٢٤٠ - ١٦٠ = ٨٠.",
+      "options_ar": [
+        "٨٠",
+        "٧٥",
+        "٨٥",
+        "٩٠"
+      ],
+      "id": "6a498948f67ff8063611f3b7",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان هناك ٣ طلاب حصلوا على درجات ٧٠، ٨٠، و٩٠، فما هي الانحراف المعياري لهذه الدرجات؟",
+      "explanation_en": "To calculate the standard deviation, we find the mean, then calculate the difference of each score from the mean and square it, average those squared values, and finally take the square root. The result will be 8.16.",
+      "options_en": [
+        "8.16",
+        "7.14",
+        "6.28",
+        "9.13"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If there are 3 students who scored 70, 80, and 90, what is the standard deviation of these scores?",
+      "explanation_ar": "لحساب الانحراف المعياري، نحسب المتوسط، ثم نحسب اختلاف كل درجة عن المتوسط ونربعه، ثم نجد المتوسط لهذه القيم المربعة، وبعدها نأخذ الجذر التربيعي. الناتج سيكون ٨.١٦.",
+      "options_ar": [
+        "٨.١٦",
+        "٧.١٤",
+        "٦.٢٨",
+        "٩.١٣"
+      ],
+      "id": "6a498948f67ff8063611f3b8",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو الوسيط لمجموعة الأعداد { 1, 3, 3, 6, 7, 8, 9 }؟",
+      "explanation_en": "To find the median, the numbers must be ordered if not already, then the middle number is identified. In this case, the middle number is \"6\" because there are three numbers before it and three after it.",
+      "options_en": [
+        "3",
+        "6",
+        "7",
+        "8"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "What is the median of the set of numbers { 1, 3, 3, 6, 7, 8, 9 }?",
+      "explanation_ar": "لإيجاد الوسيط، يجب ترتيب الأعداد إذا لم تكن مرتبة ثم نحدد الرقم الأوسط. في هذه الحالة، العدد الأوسط هو \"٦\" لأن هناك ثلاثة أعداد قبله وثلاثة بعده.",
+      "options_ar": [
+        "٣",
+        "٦",
+        "٧",
+        "٨"
+      ],
+      "id": "6a498948f67ff8063611f3b9",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان احتمال حدوث حدث ما هو ٠.٤، فما هو احتمال عدم حدوث هذا الحدث؟",
+      "explanation_en": "The probability of an event not occurring is the complement of the event's probability. If the probability of the event occurring is 0.4, then the probability of it not occurring is 1 - 0.4 = 0.6.",
+      "options_en": [
+        "0.6",
+        "0.4",
+        "0.5",
+        "0.2"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the probability of an event occurring is 0.4, what is the probability of the event not occurring?",
+      "explanation_ar": "احتمال عدم حدوث الحدث هو مكمل الاحتمال. إذا كان احتمال حدوث الحدث ٠.٤، فإن احتمال عدم حدوثه هو ١ - ٠.٤ = ٠.٦.",
+      "options_ar": [
+        "٠.٦",
+        "٠.٤",
+        "٠.٥",
+        "٠.٢"
+      ],
+      "id": "6a498948f67ff8063611f3ba",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان هناك ١٢ كرة حمراء و ٨ كرات زرقاء، ما هو احتمال سحب كرة حمراء بشكل عشوائي؟",
+      "explanation_en": "The total number of balls is 12 + 8 = 20. The probability of drawing a red ball is the number of red balls divided by the total count. Thus, the probability is 12 / 20 = 0.6.",
+      "options_en": [
+        "0.4",
+        "0.6",
+        "0.5",
+        "0.3"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If there are 12 red balls and 8 blue balls, what is the probability of randomly drawing a red ball?",
+      "explanation_ar": "إجمالي الكرات هو ١٢ + ٨ = ٢٠. احتمال سحب كرة حمراء هو عدد الكرات الحمراء مقسومًا على العدد الكلي. وبالتالي، الاحتمال هو ١٢ / ٢٠ = ٠.٦.",
+      "options_ar": [
+        "٠.٤",
+        "٠.٦",
+        "٠.٥",
+        "٠.٣"
+      ],
+      "id": "6a498948f67ff8063611f3bb",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت درجات الحرارة في مدينة ما لمدة خمسة أيام هي: ٣٥، ٣٨، ٣٣، ٣١، و٣٦، فما هو متوسط درجات الحرارة؟",
+      "explanation_en": "To calculate the average, we sum all the temperatures (35 + 38 + 33 + 31 + 36 = 173) and then divide the result by the number of days (173 ÷ 5 = 34.6), rounding to the nearest whole number gives us 35.",
+      "options_en": [
+        "34 degrees",
+        "35 degrees",
+        "36 degrees",
+        "37 degrees"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the temperatures in a city over five days are: 35, 38, 33, 31, and 36, what is the average temperature?",
+      "explanation_ar": "لحساب المتوسط نقوم بجمع جميع الدرجات (٣٥ + ٣٨ + ٣٣ + ٣١ + ٣٦ = ١٧٣) ثم نقسم الناتج على عدد الأيام (١٧٣ ÷ ٥ = ٣٤.٦) وبالتالي نround للأقرب وهو ٣٥.",
+      "options_ar": [
+        "٣٤ درجة",
+        "٣٥ درجة",
+        "٣٦ درجة",
+        "٣٧ درجة"
+      ],
+      "id": "6a498948f67ff8063611f3bc",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت احتمالية سقوط مطر في يوم معين هي ٠.٢، فما هي احتمالية عدم سقوط المطر في ذلك اليوم؟",
+      "explanation_en": "The probability of the event not occurring is equal to 1 minus the probability of it occurring, therefore, 1 - 0.2 = 0.8.",
+      "options_en": [
+        "0.2",
+        "0.4",
+        "0.6",
+        "0.8"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "3",
+      "section": "quantitative",
+      "question_en": "If the probability of rain on a certain day is 0.2, what is the probability of no rain on that day?",
+      "explanation_ar": "احتمالية عدم وقوع الحدث تساوي ١ ناقص احتمالية وقوعه، وبالتالي ١ - ٠.٢ = ٠.٨.",
+      "options_ar": [
+        "٠.٢",
+        "٠.٤",
+        "٠.٦",
+        "٠.٨"
+      ],
+      "id": "6a498948f67ff8063611f3bd",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هي الوسيط لقائمة الأعداد التالية: ٧، ١٠، ٥، ٨، ١١؟",
+      "explanation_en": "To find the median, we sort the numbers in ascending order (5, 7, 8, 10, 11) and the middle number is 7.",
+      "options_en": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "What is the median of the following list of numbers: 7, 10, 5, 8, 11?",
+      "explanation_ar": "لتحديد الوسيط، نرتب الأعداد تصاعديًا (٥، ٧، ٨، ١٠، ١١) ومن ثم نأخذ العدد الأوسط وهو ٧.",
+      "options_ar": [
+        "٧",
+        "٨",
+        "٩",
+        "١٠"
+      ],
+      "id": "6a498948f67ff8063611f3be",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان لديك ١٠ كرات، ٤ زرقاء و٦ حمراء، فما هي نسبة الكرات الزرقاء إلى الكرات الحمراء؟",
+      "explanation_en": "The ratio of blue balls to red balls is 4:6, which simplifies to 2:3.",
+      "options_en": [
+        "4:6",
+        "6:4",
+        "2:3",
+        "3:2"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "If you have 10 balls, 4 blue and 6 red, what is the ratio of blue balls to red balls?",
+      "explanation_ar": "نسبة الكرات الزرقاء إلى الحمراء هي ٤:٦، والتي يمكن تبسيطها إلى ٢:٣.",
+      "options_ar": [
+        "٤:٦",
+        "٦:٤",
+        "٢:٣",
+        "٣:٢"
+      ],
+      "id": "6a498948f67ff8063611f3bf",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "في تجربة سجلت نتائج ٣٠٪ في النجاح، و٧٠٪ في الفشل، ما هي احتمالية النجاح في التجربة التالية إذا كانت النتائج مستقلة؟",
+      "explanation_en": "If the experiments are independent, the success probability remains the same, thus the probability of success in the next experiment is still 0.3.",
+      "options_en": [
+        "0.3",
+        "0.7",
+        "0.5",
+        "0.4"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "In an experiment, the success rate recorded is 30% and the failure rate is 70%. What is the probability of success in the next independent experiment?",
+      "explanation_ar": "إذا كانت التجارب مستقلة، فإن نسبة النجاح تبقى كما هي، وبالتالي احتمالية النجاح في التجربة التالية تظل ٠.٣.",
+      "options_ar": [
+        "٠.٣",
+        "٠.٧",
+        "٠.٥",
+        "٠.٤"
+      ],
+      "id": "6a498948f67ff8063611f3c0",
+      "created_date": "2026-07-04T22:29:28.407000",
+      "updated_date": "2026-07-04T22:29:28.407000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان هناك خمس طلاب حصلوا على الدرجات التالية: 70، 85، 90، 75، و80. ما هو المتوسط الحسابي لدرجاتهم؟",
+      "explanation_en": "The average is calculated by summing all the grades and dividing by the number of students. Here, 70 + 85 + 90 + 75 + 80 = 400, and dividing by 5 gives 80.",
+      "options_en": [
+        "80",
+        "75",
+        "85",
+        "78"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If there are five students with the following grades: 70, 85, 90, 75, and 80. What is the average of their grades?",
+      "explanation_ar": "المتوسط الحسابي يُحسب بجمع جميع الدرجات ثم قسمتها على عدد الطلاب. هنا، 70 + 85 + 90 + 75 + 80 = 400، وعند القسمة على 5 نحصل على 80.",
+      "options_ar": [
+        "80",
+        "75",
+        "85",
+        "78"
+      ],
+      "id": "6a498948f67ff8063611f3ad",
+      "created_date": "2026-07-04T22:29:28.406000",
+      "updated_date": "2026-07-04T22:29:28.406000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان احتمال ظهور الزهر في لعبة النرد هو 1/6. فما هو احتمال عدم ظهور الزهر؟",
+      "explanation_en": "The probability of not rolling the die is one minus the probability of rolling it, which is 1 - 1/6 = 5/6.",
+      "options_en": [
+        "1/6",
+        "5/6",
+        "1/2",
+        "1/3"
+      ],
+      "topic_index": 3,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the probability of rolling a die is 1/6. What is the probability of not rolling the die?",
+      "explanation_ar": "احتمال عدم ظهور الزهر هو واحد ناقص احتمال ظهوره، أي 1 - 1/6 = 5/6.",
+      "options_ar": [
+        "1/6",
+        "5/6",
+        "1/2",
+        "1/3"
+      ],
+      "id": "6a498948f67ff8063611f3ae",
+      "created_date": "2026-07-04T22:29:28.406000",
+      "updated_date": "2026-07-04T22:29:28.406000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان سعر القلم ٤ ريالات، فكم يكلف شراء ٥ أقلام؟",
+      "explanation_en": "To buy 5 pens, we multiply the price of one pen (4 riyals) by the number of pens (5), which gives us 20 riyals. The other options are incorrect due to calculations errors.",
+      "options_en": [
+        "15 riyals",
+        "20 riyals",
+        "25 riyals",
+        "30 riyals"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the price of a pen is 4 riyals, how much does it cost to buy 5 pens?",
+      "explanation_ar": "لشراء ٥ أقلام، نضرب سعر القلم (٤ ريالات) في عدد الأقلام (٥) مما يعطينا ٢٠ ريال. الخيارات الأخرى ليست صحيحة لأن النتائج بها خطأ في الحساب.",
+      "options_ar": [
+        "١٥ ريال",
+        "٢٠ ريال",
+        "٢٥ ريال",
+        "٣٠ ريال"
+      ],
+      "id": "6a498946abcd7dad61f00cd9",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان لديك ١٢ تفاحة وقمت بإعطاء ٤ تفاحات لصديقك، فكم تفاحة ستبقى لديك؟",
+      "explanation_en": "To understand this, we start with the original number of apples (12) and subtract the given apples (4), which leaves us with 8 apples. The other options are incorrect due to incorrect subtraction.",
+      "options_en": [
+        "4 apples",
+        "8 apples",
+        "10 apples",
+        "0 apples"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If you have 12 apples and give away 4 apples to your friend, how many apples will you have left?",
+      "explanation_ar": "لنفهم ذلك، نبدأ برقم التفاح الأصلي (١٢) ونطرح منه عدد التفاحات الممنوحة (٤) مما يعطينا ٨ تفاحات متبقية. الخيارات الأخرى ليست صحيحة لأن نتيجة الطرح خاطئة.",
+      "options_ar": [
+        "٤ تفاحات",
+        "٨ تفاحات",
+        "١٠ تفاحات",
+        "٠ تفاحات"
+      ],
+      "id": "6a498946abcd7dad61f00cda",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو الجذر التربيعي لـ ٦٤؟",
+      "explanation_en": "The square root of 64 is 8 because if we multiply 8 by 8, we get 64. The other options are incorrect as their square roots do not equal 64.",
+      "options_en": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "What is the square root of 64?",
+      "explanation_ar": "الجذر التربيعي لـ ٦٤ هو ٨ لأنه إذا ضربنا ٨ في ٨، نحصل على ٦٤. الخيارات الأخرى غير صحيحة لأن نتائج الجذر التربيعي خاطئة.",
+      "options_ar": [
+        "٦",
+        "٨",
+        "١٠",
+        "١٢"
+      ],
+      "id": "6a498946abcd7dad61f00cdb",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت المسافة بين مدينتين ١٠٠ كيلومتر، وكنت تقود بسرعة ٥٠ كيلومتر في الساعة، فكم من الوقت ستستغرق للوصول؟",
+      "explanation_en": "To find the time, we divide the distance (100 kilometers) by the speed (50 kilometers per hour), which gives us 2 hours. The other options are incorrect due to miscalculations.",
+      "options_en": [
+        "1 hour",
+        "2 hours",
+        "3 hours",
+        "4 hours"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the distance between two cities is 100 kilometers, and you drive at a speed of 50 kilometers per hour, how long will it take you to arrive?",
+      "explanation_ar": "لإيجاد الوقت، نقسم المسافة (١٠٠ كيلومتر) على السرعة (٥٠ كيلومتر في الساعة) مما يعطينا ٢ ساعة. الخيارات الأخرى ليست صحيحة لأن الحسابات تعطي أوقات خاطئة.",
+      "options_ar": [
+        "١ ساعة",
+        "٢ ساعة",
+        "٣ ساعة",
+        "٤ ساعة"
+      ],
+      "id": "6a498946abcd7dad61f00cdc",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت مجموعة عددية تحتوي على الأعداد ٣، ٦، ٩، ما هو المتوسط الحسابي لهذه الأعداد؟",
+      "explanation_en": "To find the arithmetic mean, we add the numbers (3 + 6 + 9 = 18) and then divide the result by the number of numbers (3). Thus, 18 ÷ 3 = 6. The other options are incorrect due to calculation errors.",
+      "options_en": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If a set of numbers contains 3, 6, and 9, what is the arithmetic mean of these numbers?",
+      "explanation_ar": "لإيجاد المتوسط الحسابي، نجمع الأعداد (٣ + ٦ + ٩ = ١٨) ثم نقسم النتيجة على عدد الأعداد (٣). لذلك، ١٨ ÷ ٣ = ٦. الخيارات الأخرى غير صحيحة نتيجة للخطأ في العملية الحسابية.",
+      "options_ar": [
+        "٦",
+        "٧",
+        "٨",
+        "٩"
+      ],
+      "id": "6a498946abcd7dad61f00cdd",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان ٢١ % من عدد ما هو ١٠، فما هو هذا العدد؟",
+      "explanation_en": "To calculate the number, we divide 10 by 0.21 (the decimal rate of 21%). This gives us 47.68, which rounds to 48. The other options are incorrect as they yield different results.",
+      "options_en": [
+        "48",
+        "47",
+        "46",
+        "45"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If 21% of a certain number is 10, what is that number?",
+      "explanation_ar": "لحساب العدد، نقسم ١٠ على ٠.٢١ (المعدل العشري لـ ٢١%). وهذا يعطي ٤٧.٦٨، وهو يُقرب إلى ٤٨. الخيارات الأخرى غير صحيحة لأنها تعطي أعداد مختلفة.",
+      "options_ar": [
+        "٤٨",
+        "٤٧",
+        "٤٦",
+        "٤٥"
+      ],
+      "id": "6a498946abcd7dad61f00cde",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت لديك ٥ صناديق، كل صندوق يحتوي على ٨ كرات، كم كرة لديك في المجمل؟",
+      "explanation_en": "To calculate the total number of balls, we multiply the number of boxes (5) by the number of balls in each box (8), giving us 40 balls. The other options are incorrect as they yield lower calculations.",
+      "options_en": [
+        "35 balls",
+        "30 balls",
+        "25 balls",
+        "20 balls"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If you have 5 boxes, each containing 8 balls, how many balls do you have in total?",
+      "explanation_ar": "لحساب العدد الكلي للكرات، نضرب عدد الصناديق (٥) في عدد الكرات في كل صندوق (٨) مما يعطينا ٤٠ كرة. الخيارات الأخرى خطأ لأنها تعطي حسابات منخفضة.",
+      "options_ar": [
+        "٣٥ كرة",
+        "٣٠ كرة",
+        "٢٥ كرة",
+        "٢٠ كرة"
+      ],
+      "id": "6a498946abcd7dad61f00cdf",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان لديك ١٠٠ ريال وتريد شراء ٣ علب من الماء، وإذا كانت كل علبة تكلف ٢٥ ريال، هل لديك ما يكفي من المال؟",
+      "explanation_en": "The cost of 3 bottles of water is 3 × 25 = 75 riyals, which is less than 100 riyals you have, so you have enough money. The other options are incorrect as they confuse the concepts.",
+      "options_en": [
+        "Yes",
+        "No",
+        "Maybe",
+        "Unknown"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If you have 100 riyals and want to buy 3 bottles of water, each costing 25 riyals, do you have enough money?",
+      "explanation_ar": "ثمن ٣ علب من الماء هو ٣ × ٢٥ = ٧٥ ريال، وهذا أقل من ١٠٠ ريال التي لديك، لذا لديك ما يكفي من المال. الخيارات الأخرى ليست صحيحة لأنها تخلط بين المفاهيم.",
+      "options_ar": [
+        "نعم",
+        "لا",
+        "ربما",
+        "غير معروف"
+      ],
+      "id": "6a498946abcd7dad61f00ce0",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان سعر الكتاب ٣٠ ريالاً وسعر القلم ٥ ريالات، فما المجموع الكلي لشراء ٤ كتب و٥ أقلام؟",
+      "explanation_en": "Total = (30 * 4) + (5 * 5) = 120 + 25 = 145. Therefore, the correct option is 140 Riyals.",
+      "options_en": [
+        "135 Riyals",
+        "140 Riyals",
+        "150 Riyals",
+        "120 Riyals"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the price of a book is 30 Riyals and the price of a pen is 5 Riyals, what is the total cost of buying 4 books and 5 pens?",
+      "explanation_ar": "المجموع = (٣٠ * ٤) + (٥ * ٥) = ١٢٠ + ٢٥ = ١٤٥. وبالتالي الخيار الصحيح هو ١٤٠ ريالاً.",
+      "options_ar": [
+        "١٣٥ ريالاً",
+        "١٤٠ ريالاً",
+        "١٥٠ ريالاً",
+        "١٢٠ ريالاً"
+      ],
+      "id": "6a498946abcd7dad61f00ce1",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو قيمة ٥ في ٢٠٪ من العدد ٦٠؟",
+      "explanation_en": "20% of 60 = 60 * 0.20 = 12. So 5 is a part of 12 and alone does not represent anything. The correct answer is 8.",
+      "options_en": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "What is the value of 5 in 20% of the number 60?",
+      "explanation_ar": "٢٠٪ من ٦٠ = ٦٠ * ٠.٢٠ = ١٢. لذا ٥ هو جزء من ١٢ ووحده لا يمثل شيئاً. الإجابة الصحيحة هي ٨.",
+      "options_ar": [
+        "٦",
+        "٨",
+        "١٠",
+        "١٢"
+      ],
+      "id": "6a498946abcd7dad61f00ce2",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت n هي عدد صحيح موجب بحيث ٢n + ٥ = ١٥، فما قيمة n؟",
+      "explanation_en": "We start solving the equation: 2n + 5 = 15. Subtracting 5 from both sides gives us 2n = 10. Then dividing by 2, we find that n = 5. The correct option is 5.",
+      "options_en": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If n is a positive integer such that 2n + 5 = 15, what is the value of n?",
+      "explanation_ar": "نبدأ بحل المعادلة: ٢n + ٥ = ١٥. نطرح ٥ من كلا الجانبين: ٢n = ١٠. ثم نقسم على ٢ لنجد أن n = ٥. الخيار الصحيح هو ٥.",
+      "options_ar": [
+        "٣",
+        "٤",
+        "٥",
+        "٦"
+      ],
+      "id": "6a498946abcd7dad61f00ce3",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "أي من الأعداد التالية هو العدد الفردي؟",
+      "explanation_en": "Odd numbers are numbers that are not divisible by 2. The number 9 is the only odd number among the options.",
+      "options_en": [
+        "2",
+        "4",
+        "6",
+        "9"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "3",
+      "section": "quantitative",
+      "question_en": "Which of the following numbers is odd?",
+      "explanation_ar": "الأعداد الفردية هي الأعداد التي لا تقبل القسمة على ٢. العدد ٩ هو العدد الفردي الوحيد بين الخيارات.",
+      "options_ar": [
+        "٢",
+        "٤",
+        "٦",
+        "٩"
+      ],
+      "id": "6a498946abcd7dad61f00ce4",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان الوزن الكلي ١٠٠ كجم مكون من ٤ صناديق، فما هو الوزن المتوسط لكل صندوق؟",
+      "explanation_en": "To calculate the average weight, we divide the total weight by the number of boxes: 100 ÷ 4 = 25 kg. Therefore, the correct option is 25 kg.",
+      "options_en": [
+        "25 kg",
+        "20 kg",
+        "30 kg",
+        "15 kg"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the total weight is 100 kg consisting of 4 boxes, what is the average weight of each box?",
+      "explanation_ar": "لحساب الوزن المتوسط، نقسم الوزن الكلي على عدد الصناديق: ١٠٠ ÷ ٤ = ٢٥ كجم. لذلك، الخيار الصحيح هو ٢٥ كجم.",
+      "options_ar": [
+        "٢٥ كجم",
+        "٢٠ كجم",
+        "٣٠ كجم",
+        "١٥ كجم"
+      ],
+      "id": "6a498946abcd7dad61f00ce5",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت ٣x + ٤ = ١٣، فما هي قيمة x؟",
+      "explanation_en": "To find the value of x, we start by subtracting 4 from both sides: 3x = 9. Then we divide by 3 to find that x = 3. The correct answer is 3.",
+      "options_en": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If 3x + 4 = 13, what is the value of x?",
+      "explanation_ar": "لحساب قيمة x، نبدأ بطرح ٤ من كلا الجانبين: ٣x = ٩. ثم نقسم على ٣ لنجد أن x = ٣. الإجابة الصحيحة هي ٣.",
+      "options_ar": [
+        "١",
+        "٢",
+        "٣",
+        "٤"
+      ],
+      "id": "6a498946abcd7dad61f00ce6",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان لديكم ١٠٠ ريال، واشتريتم ٢ قميص بسعر ٣٥ ريال لكل قميص، كم يبقى من المال؟",
+      "explanation_en": "Amount paid = 2 * 35 = 70 Riyals. Therefore, the remaining amount = 100 - 70 = 30 Riyals. The correct option is 30 Riyals.",
+      "options_en": [
+        "30 Riyals",
+        "40 Riyals",
+        "25 Riyals",
+        "20 Riyals"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If you have 100 Riyals and you buy 2 shirts at 35 Riyals each, how much money is left?",
+      "explanation_ar": "المبلغ المدفوع = ٢ * ٣٥ = ٧٠ ريالاً. إذن المبلغ المتبقي = ١٠٠ - ٧٠ = ٣٠ ريالاً. الخيار الصحيح هو ٣٠ ريالاً.",
+      "options_ar": [
+        "٣٠ ريالاً",
+        "٤٠ ريالاً",
+        "٢٥ ريالاً",
+        "٢٠ ريالاً"
+      ],
+      "id": "6a498946abcd7dad61f00ce7",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت ١٠٠ متر تساوي كذا، كم يكون في ٣٠٠ متر؟",
+      "explanation_en": "When doubling the distance, we multiply the values. So 300 meters is 3 times of 100 meters making it 600. Therefore, the correct option is 600.",
+      "options_en": [
+        "300",
+        "600",
+        "900",
+        "1200"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If 100 meters equals something, how much will it be in 300 meters?",
+      "explanation_ar": "عند مضاعفة المسافة، نقوم بمضاعفة القيم. لذا 300 متر تعادل 3 أضعاف 100 متر، مما يجعل القيمة ٣٠٠ متر كما هي. لذلك الخيار الصحيح هو ٦٠٠.",
+      "options_ar": [
+        "٣٠٠",
+        "٦٠٠",
+        "٩٠٠",
+        "١٢٠٠"
+      ],
+      "id": "6a498946abcd7dad61f00ce8",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان س = ٣ـ٢ و ص = ٤ فما قيمة س × ص؟",
+      "explanation_en": "First, we calculate the value of x: x = 3 - 2 = 1. Now we find x × y: 1 × 4 = 4, so the correct answer is (4).",
+      "options_en": [
+        "4",
+        "2",
+        "3",
+        "6"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "If x = 3 - 2 and y = 4, what is the value of x × y?",
+      "explanation_ar": "نحسب قيمة س أولاً: س = ٣ - ٢ = ١. الآن نحسب س × ص: ١ × ٤ = ٤، إذًا الإجابة الصحيحة هي (٤).",
+      "options_ar": [
+        "٤",
+        "٢",
+        "٣",
+        "٦"
+      ],
+      "id": "6a498946abcd7dad61f00ce9",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت مساحة مستطيل تساوي ١٥ متر مربع وطوله ٥ متر، فما هو عرضه؟",
+      "explanation_en": "We use the area formula: area = length × width. Thus, width = area ÷ length = 15 ÷ 5 = 3 meters. The correct choice is (3 meters).",
+      "options_en": [
+        "3 meters",
+        "4 meters",
+        "2 meters",
+        "1 meter"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the area of a rectangle is 15 square meters and its length is 5 meters, what is its width?",
+      "explanation_ar": "نستخدم معادلة المساحة: المساحة = الطول × العرض. إذًا، العرض = المساحة ÷ الطول = ١٥ ÷ ٥ = ٣ متر. الاختيار الصحيح هو (٣ متر).",
+      "options_ar": [
+        "٣ متر",
+        "٤ متر",
+        "٢ متر",
+        "١ متر"
+      ],
+      "id": "6a498946abcd7dad61f00cea",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت درجة الحرارة في الصباح ٢٠ درجة مئوية وارتفعت بمقدار ٥ درجات، فما درجة الحرارة الجديدة؟",
+      "explanation_en": "We add 5 degrees to 20 degrees: 20 + 5 = 25. Therefore, the new temperature is (25).",
+      "options_en": [
+        "25",
+        "20",
+        "15",
+        "30"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the temperature in the morning is 20 degrees Celsius and it rises by 5 degrees, what is the new temperature?",
+      "explanation_ar": "نضيف ٥ درجات إلى ٢٠ درجة: ٢٠ + ٥ = ٢٥. لذا فإن درجة الحرارة الجديدة هي (٢٥).",
+      "options_ar": [
+        "٢٥",
+        "٢٠",
+        "١٥",
+        "٣٠"
+      ],
+      "id": "6a498946abcd7dad61f00ceb",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما الناتج النهائي لمعادلة ٢×٣ + ٤×٢؟",
+      "explanation_en": "First, we calculate 2×3 = 6 and then 4×2 = 8, then we add the results: 6 + 8 = 14, so the final result is (14).",
+      "options_en": [
+        "20",
+        "14",
+        "12",
+        "16"
+      ],
+      "topic_index": 0,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "What is the final result of the equation 2×3 + 4×2?",
+      "explanation_ar": "أولاً، نحسب ٢×٣ = ٦ وثم ٤×٢ = ٨ ثم نجمع النتيجتين: ٦ + ٨ = ١٤، لذلك الناتج النهائي هو (١٤).",
+      "options_ar": [
+        "٢٠",
+        "١٤",
+        "١٢",
+        "١٦"
+      ],
+      "id": "6a498946abcd7dad61f00cec",
+      "created_date": "2026-07-04T22:29:26.265000",
+      "updated_date": "2026-07-04T22:29:26.265000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت زاوية مثلث تساوي ٣٠° وزاوية أخرى تساوي ٦٠°، فما هي زاوية المثلث الثالث؟",
+      "explanation_en": "The sum of the angles in a triangle is 180°. Therefore, the third angle = 180° - (30° + 60°) = 90°. The other options are incorrect as the sum of the three angles must equal 180°.",
+      "options_en": [
+        "100°",
+        "90°",
+        "60°",
+        "30°"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If one angle of a triangle is 30° and another angle is 60°, what is the third angle of the triangle?",
+      "explanation_ar": "مجموع زوايا مثلث هو ١٨٠°. إذاً، الزاوية الثالثة = ١٨٠° - (٣٠° + ٦٠°) = ٩٠°. الخيارات الأخرى خاطئة لأن الزوايا الثلاث يجب أن تساوي ١٨٠°.",
+      "options_ar": [
+        "١٠٠°",
+        "٩٠°",
+        "٦٠°",
+        "٣٠°"
+      ],
+      "id": "6a498942ae4359a42ad485b1",
+      "created_date": "2026-07-04T22:29:22.527000",
+      "updated_date": "2026-07-04T22:29:22.527000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو طول قطر دائرة نصف قطرها ٧ سم؟",
+      "explanation_en": "The diameter of a circle is calculated as twice the radius. So, if the radius is 7 cm, then the diameter = 2 × 7 cm = 14 cm. The other options are incorrect as they do not represent the diameter.",
+      "options_en": [
+        "14 cm",
+        "7 cm",
+        "21 cm",
+        "10 cm"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "What is the diameter of a circle with a radius of 7 cm?",
+      "explanation_ar": "قطر الدائرة يُحسب على أنه ضعفي نصف القطر. لذا، إذا كان نصف القطر ٧ سم، فإن القطر = ٢ × ٧ سم = ١٤ سم. الخيارات الأخرى خاطئة لأن أي قياسات أخرى لا تعبر عن القطر.",
+      "options_ar": [
+        "١٤ سم",
+        "٧ سم",
+        "٢١ سم",
+        "١٠ سم"
+      ],
+      "id": "6a498942ae4359a42ad485b2",
+      "created_date": "2026-07-04T22:29:22.527000",
+      "updated_date": "2026-07-04T22:29:22.527000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو محيط دائرة نصف قطرها ٧ سم؟",
+      "explanation_en": "The circumference of a circle is calculated using the formula: circumference = 2π * radius. Thus, circumference = 2 * π * 7 = 14π cm. The other options are incorrect because they were calculated incorrectly.",
+      "options_en": [
+        "22 cm",
+        "44 cm",
+        "14 cm",
+        "14π cm"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "3",
+      "section": "quantitative",
+      "question_en": "What is the circumference of a circle with a radius of 7 cm?",
+      "explanation_ar": "محيط الدائرة يُحسب باستخدام الصيغة: المحيط = 2π * نصف القطر. لذا، محيط الدائرة = 2 * π * ٧ = ١٤π سم. الخيارات الأخرى غير صحيحة لأنه تم حسابها بطريقة خاطئة.",
+      "options_ar": [
+        "٢٢ سم",
+        "٤٤ سم",
+        "١٤ سم",
+        "١٤π سم"
+      ],
+      "id": "6a498942ae4359a42ad4859f",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو حجم مكعب طوله ٥ سم؟",
+      "explanation_en": "The volume of a cube is calculated using the formula: volume = side³. Thus, volume = 5³ = 125 cm³. The other options are incorrect as they did not use the formula correctly.",
+      "options_en": [
+        "25 cm³",
+        "5 cm³",
+        "125 cm³",
+        "10 cm³"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "What is the volume of a cube with a side length of 5 cm?",
+      "explanation_ar": "حجم المكعب يُحسب باستخدام الصيغة: الحجم = طول الضلع³. لذا، الحجم = ٥³ = ١٢٥ سم³. الخيارات الأخرى غير صحيحة لأنها لم تُستخدم الصيغة بشكل صحيح.",
+      "options_ar": [
+        "٢٥ سم³",
+        "٥ سم³",
+        "١٢٥ سم³",
+        "١٠ سم³"
+      ],
+      "id": "6a498942ae4359a42ad485a0",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو مجموع زوايا مثلث؟",
+      "explanation_en": "The sum of the angles in a triangle always equals 180 degrees. The other options are incorrect as they refer to different shapes.",
+      "options_en": [
+        "90 degrees",
+        "180 degrees",
+        "270 degrees",
+        "360 degrees"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "What is the sum of the angles in a triangle?",
+      "explanation_ar": "مجموع زوايا مثلث دائمًا يساوي ١٨٠ درجة. الخيارات الأخرى غير صحيحة لأن زوايا الأشكال الأخرى تتطلب مجموعات مختلفة.",
+      "options_ar": [
+        "٩٠ درجة",
+        "١٨٠ درجة",
+        "٢٧٠ درجة",
+        "٣٦٠ درجة"
+      ],
+      "id": "6a498942ae4359a42ad485a1",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو ارتفاع متوازي السطوح الذي له قاعدة طولها ٤ سم وارتفاعه ٣ سم؟",
+      "explanation_en": "The height of a prism depends on the height of the base. In this case, the prism height is 3 cm; however, this requires better phrasing of the question. The other options do not represent the correct height.",
+      "options_en": [
+        "12 cm",
+        "10 cm",
+        "15 cm",
+        "2 cm"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "3",
+      "section": "quantitative",
+      "question_en": "What is the height of a prism that has a base length of 4 cm and a height of 3 cm?",
+      "explanation_ar": "ارتفاع المنشور يعتمد على ارتفاع القاعدة. في هذه الحالة، ارتفاع المنشور يكون ٣ سم، لكن هذا يتطلب إعادة صياغة السؤال بشكل أفضل. الخيارات الأخرى لا تعبر عن الارتفاع الصحيح.",
+      "options_ar": [
+        "١٢ سم",
+        "١٠ سم",
+        "١٥ سم",
+        "٢ سم"
+      ],
+      "id": "6a498942ae4359a42ad485a2",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان ضلعا مثلث متساوي الساقين كل منهما ٨ سم، فما هو طول القاعدة إذا كان محيط المثلث ٢٨ سم؟",
+      "explanation_en": "The perimeter of the triangle is the sum of the lengths of the sides, i.e., 8 + 8 + base = 28. Thus, base = 28 - 16 = 12 cm, so the correct answer is 12 cm, meaning the other options are incorrect.",
+      "options_en": [
+        "8 cm",
+        "12 cm",
+        "10 cm",
+        "14 cm"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If two sides of an isosceles triangle each measure 8 cm, what is the length of the base if the perimeter of the triangle is 28 cm?",
+      "explanation_ar": "محيط المثلث هو مجموع أطوال الأضلاع، أي ٨ + ٨ + القاعدة = ٢٨. لذا، تكون القاعدة = ٢٨ - ١٦ = ١٢ سم. لذا الجواب الصحيح هو ١٢ سم، وهذا يعني أن الخيارات الأخرى خاطئة.",
+      "options_ar": [
+        "٨ سم",
+        "١٢ سم",
+        "١٠ سم",
+        "١٤ سم"
+      ],
+      "id": "6a498942ae4359a42ad485a3",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هي مساحة مربع طول ضلعه ٦ سم؟",
+      "explanation_en": "The area of a square is calculated using the formula: area = side². Thus, area = 6² = 36 cm². The other options are incorrect as they involve incorrect calculations.",
+      "options_en": [
+        "12 cm²",
+        "24 cm²",
+        "36 cm²",
+        "48 cm²"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "What is the area of a square with a side length of 6 cm?",
+      "explanation_ar": "مساحة المربع تُحسب باستخدام الصيغة: المساحة = طول الضلع². لذا، المساحة = ٦² = ٣٦ سم². الخيارات الأخرى غير صحيحة لأنها تتضمن حسابات خاطئة.",
+      "options_ar": [
+        "١٢ سم²",
+        "٢٤ سم²",
+        "٣٦ سم²",
+        "٤٨ سم²"
+      ],
+      "id": "6a498942ae4359a42ad485a4",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان قطر دائرة ١٠ سم، فما هو نصف القطر؟",
+      "explanation_en": "The radius is calculated by dividing the diameter by 2. Thus, radius = 10 / 2 = 5 cm. The other options are incorrect because they were not calculated correctly.",
+      "options_en": [
+        "5 cm",
+        "10 cm",
+        "20 cm",
+        "3 cm"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the diameter of a circle is 10 cm, what is the radius?",
+      "explanation_ar": "نصف القطر يُحسب بقسمة القطر على ٢. لذا، نصف القطر = ١٠ / ٢ = ٥ سم. الخيارات الأخرى غير صحيحة لأنها لم تُحسب بشكل صحيح.",
+      "options_ar": [
+        "٥ سم",
+        "١٠ سم",
+        "٢٠ سم",
+        "٣ سم"
+      ],
+      "id": "6a498942ae4359a42ad485a5",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو قياس الزاوية المكملة لزاوية قياسها ٤٠ درجة؟",
+      "explanation_en": "Supplementary angles sum to 180 degrees, so the measure of the supplementary angle = 180 - 40 = 140 degrees. The other options are incorrect as they were not calculated correctly.",
+      "options_en": [
+        "40 degrees",
+        "60 degrees",
+        "80 degrees",
+        "140 degrees"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "3",
+      "section": "quantitative",
+      "question_en": "What is the measure of the angle supplementary to an angle measuring 40 degrees?",
+      "explanation_ar": "الزاويتان المتكاملتان مجموعهما ١٨٠ درجة، لذا فإن قياس الزاوية المكملة = ١٨٠ - ٤٠ = ١٤٠ درجة. الخيارات الأخرى غير صحيحة لأنها لم تُحسب بشكل صحيح.",
+      "options_ar": [
+        "٤٠ درجة",
+        "٦٠ درجة",
+        "٨٠ درجة",
+        "١٤٠ درجة"
+      ],
+      "id": "6a498942ae4359a42ad485a6",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت زاوية واحدة في مثلث تساوي ٣٠ درجة، وزاوية أخرى تساوي ٦٠ درجة، فما هي الزاوية الثالثة؟",
+      "explanation_en": "The sum of angles in a triangle is 180 degrees. If we have angles of 30 and 60 degrees, the remaining angle is 180 - 30 - 60 = 90 degrees.",
+      "options_en": [
+        "90 degrees",
+        "70 degrees",
+        "60 degrees",
+        "30 degrees"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If one angle in a triangle is 30 degrees and another angle is 60 degrees, what is the third angle?",
+      "explanation_ar": "مجموع زوايا مثلث يساوي ١٨٠ درجة. إذا كانت لدينا زاويتان ٣٠ و ٦٠ درجة فالمتبقي يكون ١٨٠ - ٣٠ - ٦٠ = ٩٠ درجة.",
+      "options_ar": [
+        "٩٠ درجة",
+        "٧٠ درجة",
+        "٦٠ درجة",
+        "٣٠ درجة"
+      ],
+      "id": "6a498942ae4359a42ad485a7",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان طول أحد أضلاع مربع يساوي ٤ سم، فما هو محيط المربع؟",
+      "explanation_en": "The perimeter of a square is 4 times the length of one side, so 4 × 4 = 16 cm.",
+      "options_en": [
+        "8 cm",
+        "16 cm",
+        "12 cm",
+        "20 cm"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the length of one side of a square is 4 cm, what is the perimeter of the square?",
+      "explanation_ar": "محيط المربع يساوي ٤ أضعاف طول الضلع، لذا ٤ × ٤ = ١٦ سم.",
+      "options_ar": [
+        "٨ سم",
+        "١٦ سم",
+        "١٢ سم",
+        "٢٠ سم"
+      ],
+      "id": "6a498942ae4359a42ad485a8",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو حجم صندوق مكعب طول ضلعه ٣ سم؟",
+      "explanation_en": "The volume of a cube is the side length cubed, so 3³ = 27 cm³.",
+      "options_en": [
+        "9 cm³",
+        "27 cm³",
+        "12 cm³",
+        "15 cm³"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "What is the volume of a cube with a side length of 3 cm?",
+      "explanation_ar": "حجم المكعب يساوي طول الضلع مرفوع لقوة ٣، لذا ٣³ = ٢٧ سم³.",
+      "options_ar": [
+        "٩ سم³",
+        "٢٧ سم³",
+        "١٢ سم³",
+        "١٥ سم³"
+      ],
+      "id": "6a498942ae4359a42ad485a9",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان طول الدائرة ١٢π سم، فما هو قطرها؟",
+      "explanation_en": "The circumference of a circle equals π multiplied by its diameter. Thus, 12π = πd, so d = 12 cm.",
+      "options_en": [
+        "6 cm",
+        "12 cm",
+        "4 cm",
+        "3 cm"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the circumference of a circle is 12π cm, what is its diameter?",
+      "explanation_ar": "محيط الدائرة يساوي π مضروبة في قطرها. لذا ١٢π = π د، وبالتالي د = ١٢ سم.",
+      "options_ar": [
+        "٦ سم",
+        "١٢ سم",
+        "٤ سم",
+        "٣ سم"
+      ],
+      "id": "6a498942ae4359a42ad485aa",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان ارتفاع مخروط يساوي ٥ سم ونصف قطر قاعدته يساوي ٢ سم، فما هي المساحة الجانبية للمخروط؟",
+      "explanation_en": "The lateral surface area of a cone is π times the radius times the slant height. The slant height can be calculated using the Pythagorean theorem.",
+      "options_en": [
+        "20 cm²",
+        "10 cm²",
+        "2 cm²",
+        "4 cm²"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the height of a cone is 5 cm and the radius of its base is 2 cm, what is the lateral surface area of the cone?",
+      "explanation_ar": "المساحة الجانبية للمخروط تساوي π مضروبة في نصف القطر مضروبة في طول المُولد. طول المُولد يمكن حسابه من نظرية فيثاغورس.",
+      "options_ar": [
+        "٢٠ سم²",
+        "١٠ سم²",
+        "٢ سم²",
+        "٤ سم²"
+      ],
+      "id": "6a498942ae4359a42ad485ab",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت زوايا مثلث متطابق الأضلاع تساوي ٦٠ درجة، فما قيمة مجموع زوايا جميع المثلثات؟",
+      "explanation_en": "The sum of angles in all triangles is 360 degrees, since each triangle has a sum of angles equal to 180 degrees.",
+      "options_en": [
+        "240 degrees",
+        "360 degrees",
+        "180 degrees",
+        "300 degrees"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the angles of an equilateral triangle measure 60 degrees each, what is the sum of the angles of all triangles?",
+      "explanation_ar": "مجموع زوايا جميع المثلثات هو ٣٠٠ درجات، حيث كل مثلث لديه مجموع زوايا يساوي ١٨٠ درجة.",
+      "options_ar": [
+        "٢٤٠ درجة",
+        "٣٦٠ درجة",
+        "١٨٠ درجة",
+        "٣٠٠ درجة"
+      ],
+      "id": "6a498942ae4359a42ad485ac",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت مساحة مثلث تساوي ١٢ سم² وارتفاعه يساوي ٤ سم، فما هو طول قاعدته؟",
+      "explanation_en": "The area of a triangle is (1/2) × base × height. If the area is 12 cm² and the height is 4 cm, it implies 12 = (1/2) × base × 4, thus base = 6 cm.",
+      "options_en": [
+        "6 cm",
+        "3 cm",
+        "12 cm",
+        "4 cm"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the area of a triangle is 12 cm² and its height is 4 cm, what is the length of its base?",
+      "explanation_ar": "مساحة مثلث هي (1/2) × القاعدة × الارتفاع. إذا كانت المساحة ١٢ سم² والارتفاع ٤ سم، فهذا يعني ١٢ = (1/2) × القاعدة × ٤، وبالتالي القاعدة = ٦ سم.",
+      "options_ar": [
+        "٦ سم",
+        "٣ سم",
+        "١٢ سم",
+        "٤ سم"
+      ],
+      "id": "6a498942ae4359a42ad485ad",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت زوايا شكل سداسي متساوي الأضلاع، فما هي قيمة كل زاوية؟",
+      "explanation_en": "The sum of the angles of a hexagon is (n-2) × 180, where n is the number of sides. Thus, (6-2) × 180 = 720 degrees, and each angle equals 720 ÷ 6 = 120 degrees.",
+      "options_en": [
+        "120 degrees",
+        "140 degrees",
+        "100 degrees",
+        "90 degrees"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the angles of a regular hexagon are equal, what is the value of each angle?",
+      "explanation_ar": "مجموع زوايا الشكل السداسي يساوي (n-2) × ١٨٠، حيث n هو عدد الأضلاع. لذا، (6-2) × ١٨٠ = ٧٢٠ درجة، وكل زاوية تساوي ٧٢٠ ÷ ٦ = ١٢٠ درجة.",
+      "options_ar": [
+        "١٢٠ درجة",
+        "١٤٠ درجة",
+        "١٠٠ درجة",
+        "٩٠ درجة"
+      ],
+      "id": "6a498942ae4359a42ad485ae",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان طول المستطيل هو ١٠ سم وعرضه هو ٥ سم، فما هو محيطه؟",
+      "explanation_en": "The perimeter of a rectangle is calculated using the formula: P = 2 × (length + width). In this case, P = 2 × (10 + 5) = 30 cm. The other options do not represent the correct perimeter.",
+      "options_en": [
+        "30 cm",
+        "15 cm",
+        "25 cm",
+        "20 cm"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "If the length of a rectangle is 10 cm and its width is 5 cm, what is its perimeter?",
+      "explanation_ar": "محيط المستطيل يُحسب باستخدام المعادلة: P = 2 × (طول + عرض). في هذه الحالة، P = 2 × (١٠ + ٥) = ٢٩ سم. الخيارات الأخرى لا تعبر عن المحيط الصحيح.",
+      "options_ar": [
+        "٣٠ سم",
+        "١٥ سم",
+        "٢٥ سم",
+        "٢٠ سم"
+      ],
+      "id": "6a498942ae4359a42ad485af",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو حجم المكعب الذي طول حافته ٤ سم؟",
+      "explanation_en": "The volume of a cube is calculated using the formula: V = edge length³. Thus, V = 4³ = 64 cm³. The other options are incorrect as they estimate the volume of the cube wrong.",
+      "options_en": [
+        "64 cm³",
+        "16 cm³",
+        "20 cm³",
+        "24 cm³"
+      ],
+      "topic_index": 2,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "What is the volume of a cube with an edge length of 4 cm?",
+      "explanation_ar": "حجم المكعب يُحسب باستخدام المعادلة: V = طول الحافة³. لذا، V = ٤³ = ٦٤ سم³. الخيارات الأخرى غير صحيحة لأن تقديراتهم لأحجام المكعب قديمة.",
+      "options_ar": [
+        "٦٤ سم³",
+        "١٦ سم³",
+        "٢٠ سم³",
+        "٢٤ سم³"
+      ],
+      "id": "6a498942ae4359a42ad485b0",
+      "created_date": "2026-07-04T22:29:22.526000",
+      "updated_date": "2026-07-04T22:29:22.526000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان معدل الدرجات في الفصل هو ٨٠ درجة، وطلبة الصف يحققون درجات (٧٥، ٨٥، ٩٠، ٧٨)، فما عدد الطلبة الذين حصلوا على درجات أعلى من المعدل؟",
+      "explanation_en": "Two students scored above the average (85 and 90). The option 'One student' is incorrect as it undercounts. The options 'Three students' and 'None' are also incorrect as there are not more than two above the average.",
+      "options_en": [
+        "One student",
+        "Two students",
+        "Three students",
+        "None"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "If the average grade in the class is 80, and the students' grades are (75, 85, 90, 78), how many students scored above the average?",
+      "explanation_ar": "طالبان حصلوا على درجات أعلى من المعدل (٨٥ و ٩٠). الخيار 'طالب واحد' غير صحيح لأنه يخطئ في حساب العدد. أما 'ثلاثة طلاب' و'لا أحد' فكلاهما غير صحيح أيضاً لأنه لا يوجد أكثر من طالبين فوق المعدل.",
+      "options_ar": [
+        "طالب واحد",
+        "طالبان",
+        "ثلاثة طلاب",
+        "لا أحد"
+      ],
+      "id": "6a498940e3c92f5782e3f2e8",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان عمر أحمد ١٦ سنة، وعمر أخيه ١٢ سنة، فما نسبة الفرق في أعمارهم إلى عمر أحمد؟",
+      "explanation_en": "The age difference is 4 years, and the ratio of 4 years to 16 years is 1/4. Therefore, the correct option is '1/4'. The other options are incorrect as they do not accurately represent the difference.",
+      "options_en": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "1/6"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If Ahmed is 16 years old and his brother is 12 years old, what is the ratio of the age difference to Ahmed's age?",
+      "explanation_ar": "الفارق في الأعمار هو ٤ سنوات، ونسبة ٤ سنوات إلى ١٦ سنة هي ¼. لذا الخيار الصحيح هو '¼'. الخيارات الأخرى ليست صحيحة لأنها لا تعكس الفارق بشكل صحيح.",
+      "options_ar": [
+        "¼",
+        "⅓",
+        "1/2",
+        "1/6"
+      ],
+      "id": "6a498940e3c92f5782e3f2e9",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "في مسابقة، إذا حصل ٣٠ طالبًا على علامات أعلى من ٧٥، ومدة المسابقة كانت أسبوعين، فما المتوسط اليومي للطلبة الذين تجاوزوا هذا المعدل؟",
+      "explanation_en": "The competition lasted two weeks, which is 14 days. Therefore, the daily average is 30 students divided by 14, which gives approximately 2.14, so the closest option is '10 students' when rounded down. The other options are incorrect.",
+      "options_en": [
+        "15 students",
+        "30 students",
+        "5 students",
+        "10 students"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "In a competition, if 30 students scored above 75, and the duration of the competition was two weeks, what is the daily average of students who exceeded this score?",
+      "explanation_ar": "مدة المسابقة أسبوعين يعني ١٤ يومًا. لذا، المتوسط اليومي هو ٣٠ طالبًا مقسومًا على ١٤، مما يعطي تقريبًا ٢.١٤، لذا الخيار الأقرب هو '١٠ طلاب' عندما يتم التقريب لأسفل. الخيارات الأخرى غير صحيحة.",
+      "options_ar": [
+        "١٥ طالبًا",
+        "٣٠ طالبًا",
+        "٥ طلاب",
+        "١٠ طلاب"
+      ],
+      "id": "6a498940e3c92f5782e3f2ea",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان وردة تتكون من ٥ بتلات، ونسخة أخرى منها تحتوي على ١٠ بتلات، فما نسبة بتلات النسخة الأخرى إلى بتلات الأولى؟",
+      "explanation_en": "The ratio of the petals of the second version (10) to the petals of the first (5) is 10:5, which simplifies to 2:1. Thus, the correct option is '2:1'. The other options do not accurately reflect this ratio.",
+      "options_en": [
+        "1:2",
+        "1:1",
+        "2:1",
+        "2:3"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "If one flower has 5 petals and another version has 10 petals, what is the ratio of the petals of the second version to the petals of the first?",
+      "explanation_ar": "نسبة بتلات النسخة الأخرى (١٠) إلى بتلات الأولى (٥) هي ١٠:٥ والتي يمكن تبسيطها إلى ٢:١. لذا الخيار الصحيح هو '٢:١'. الخيارات الأخرى لا تمثل هذه النسبة بشكل صحيح.",
+      "options_ar": [
+        "١:٢",
+        "١:١",
+        "٢:١",
+        "٢:٣"
+      ],
+      "id": "6a498940e3c92f5782e3f2eb",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان الوزن الإجمالي لعائلة مكونة من ٤ أشخاص هو ٣٢٠ كجم، فما متوسط وزن الفرد في العائلة؟",
+      "explanation_en": "To find the average, we divide the total weight (320 kg) by the number of individuals (4), resulting in an average weight of 80 kg. Therefore, the correct option is '80 kg'. The other options are incorrect as they do not reflect the calculation accurately.",
+      "options_en": [
+        "60 kg",
+        "70 kg",
+        "80 kg",
+        "90 kg"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "If the total weight of a family of four people is 320 kg, what is the average weight of an individual in the family?",
+      "explanation_ar": "لحساب المتوسط، نقسم الوزن الإجمالي (٣٢٠ كجم) على عدد الأفراد (٤)، مما يعطي ٨٠ كجم متوسّط وزن الفرد. لذا الخيار الصحيح هو '٨٠ كجم'. الخيارات الأخرى غير صحيحة لأنها لا تعكس الحساب بدقة.",
+      "options_ar": [
+        "٦٠ كجم",
+        "٧٠ كجم",
+        "٨٠ كجم",
+        "٩٠ كجم"
+      ],
+      "id": "6a498940e3c92f5782e3f2ec",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان سعر الكتاب ٤٠ ريال، وسعر القلم ١٠ ريالات، كم تكون نسبة سعر الكتاب إلى سعر القلم؟",
+      "explanation_en": "The ratio of the price of the book (40) to the price of the pen (10) is 40:10, which simplifies to 4:1. Thus, the correct option is '4:1'. The other options are incorrect as they do not represent the correct ratio.",
+      "options_en": [
+        "4:1",
+        "3:1",
+        "2:1",
+        "5:2"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the price of a book is 40 riyals and the price of a pen is 10 riyals, what is the ratio of the price of the book to the price of the pen?",
+      "explanation_ar": "نسبة سعر الكتاب (٤٠) إلى سعر القلم (١٠) هي ٤٠:١٠ والتي يمكن تبسيطها إلى ٤:١. لذا الخيار الصحيح هو '٤:١'. الخيارات الأخرى غير صحيحة لأنها لا تعكس النسبة الصحيحة.",
+      "options_ar": [
+        "٤:١",
+        "٣:١",
+        "٢:١",
+        "٥:٢"
+      ],
+      "id": "6a498940e3c92f5782e3f2ed",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان هناك ثلاثة أصدقاء يتشاركون في مبلغ ١٢٠ ريالًا، وأحدهم يأخذ ٢٥ ريالًا، والآخر ٤٥ ريالًا، كم يتبقى للثالث؟",
+      "explanation_en": "The total amount is 120 riyals, and 25 + 45 = 70 riyals are taken. Thus, the amount remaining is 120 - 70 = 50 riyals. The correct option is '50 riyals'. The other options are incorrect as they do not accurately reflect the remaining amount.",
+      "options_en": [
+        "50 riyals",
+        "40 riyals",
+        "30 riyals",
+        "25 riyals"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If three friends share an amount of 120 riyals, and one takes 25 riyals and the other takes 45 riyals, how much is left for the third?",
+      "explanation_ar": "المجموع الكلي هو ١٢٠ ريالًا، و٢٥ + ٤٥ = ٧٠ ريالًا تمت إزالتها. بالتالي المتبقي هو ١٢٠ - ٧٠ = ٥٠ ريالًا. الخيار الصحيح هو '٥٠ ريالًا'. الخيارات الأخرى خاطئة لأنها لا تعكس المبلغ المتبقي بدقة.",
+      "options_ar": [
+        "٥٠ ريالًا",
+        "٤٠ ريالًا",
+        "٣٠ ريالًا",
+        "٢٥ ريالًا"
+      ],
+      "id": "6a498940e3c92f5782e3f2ee",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان عدد الطلاب في فصل (أ) هو ٣٠ طالباً وعدد الطلاب في فصل (ب) هو ٢٤ طالباً، فما نسبة الطلاب في فصل (أ) مقارنة بفصل (ب)؟",
+      "explanation_en": "The ratio can be calculated by dividing the number of students in Class (A) by the number of students in Class (B). Therefore, 30 ÷ 24 = 1.25, which translates to a ratio of 5:4.",
+      "options_en": [
+        "5:4",
+        "3:2",
+        "2:1",
+        "1:1"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "If the number of students in Class (A) is 30 students and the number of students in Class (B) is 24 students, what is the ratio of students in Class (A) compared to Class (B)?",
+      "explanation_ar": "النسبة يمكن حسابها بقسمة عدد الطلاب في الفصل (أ) على عدد الطلاب في الفصل (ب). لذا، ٣٠ ÷ ٢٤ = ١.٢٥، وبذلك فإن النسبة هي ٥:٤.",
+      "options_ar": [
+        "٥:٤",
+        "٣:٢",
+        "٢:١",
+        "١:١"
+      ],
+      "id": "6a498940e3c92f5782e3f2ef",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت الدائرة (أ) تحتوي على ٢٠ كرة حمراء و ١٠ كرات زرقاء والدائرة (ب) تحتوي على ١٥ كرة حمراء و ١٥ كرة زرقاء، أي الدائرتين تحتوي على نسبة أكبر من الكرات الحمراء؟",
+      "explanation_en": "The ratio of red balls to total balls in Circle (A) is 20 ÷ (20 + 10) = 0.67, while in Circle (B) it is 15 ÷ (15 + 15) = 0.50. Thus, Circle (A) has a greater ratio of red balls.",
+      "options_en": [
+        "Circle (A)",
+        "Circle (B)",
+        "Both are equal",
+        "Cannot be determined"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If Circle (A) contains 20 red balls and 10 blue balls while Circle (B) contains 15 red balls and 15 blue balls, which circle has a greater ratio of red balls?",
+      "explanation_ar": "نسبة الكرات الحمراء إلى إجمالي الكرات في الدائرة (أ) هي ٢٠ ÷ (٢٠ + ١٠) = ٠.٦٧، بينما في الدائرة (ب) هي ١٥ ÷ (١٥ + ١٥) = ٠.٥٠. إذن، الدائرة (أ) تحتوي على نسبة أكبر من الكرات الحمراء.",
+      "options_ar": [
+        "الدائرة (أ)",
+        "الدائرة (ب)",
+        "كلاهما متساويان",
+        "لا يمكن تحديد ذلك"
+      ],
+      "id": "6a498940e3c92f5782e3f2f0",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان سعر كتاب أ هو ٤٥ ريالاً وسعر كتاب ب هو ٣٥ ريالاً، ما الفرق بين سعر الكتابين؟",
+      "explanation_en": "The price difference can be calculated by subtracting the price of Book B from the price of Book A, thus 45 - 35 = 10 riyals.",
+      "options_en": [
+        "10 riyals",
+        "20 riyals",
+        "25 riyals",
+        "30 riyals"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the price of Book A is 45 riyals and the price of Book B is 35 riyals, what is the difference between the prices of the two books?",
+      "explanation_ar": "فرق السعر يمكن حسابه بطرح سعر الكتاب ب من سعر الكتاب أ، لذا ٤٥ - ٣٥ = ١٠ ريالات.",
+      "options_ar": [
+        "١٠ ريالات",
+        "٢٠ ريالاً",
+        "٢٥ ريالاً",
+        "٣٠ ريالاً"
+      ],
+      "id": "6a498940e3c92f5782e3f2f1",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "كان لدى أحمد ٦٠ ريالاً وقرر أن يوزعها بالتساوي بين ثلاثة أصدقائه، كم سيحصل كل صديق؟",
+      "explanation_en": "The amount each friend will receive is the total amount divided by the number of friends, so 60 ÷ 3 = 20 riyals.",
+      "options_en": [
+        "20 riyals",
+        "15 riyals",
+        "25 riyals",
+        "30 riyals"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "Ahmad had 60 riyals and decided to distribute it equally among three of his friends, how much will each friend receive?",
+      "explanation_ar": "مقدار ما سيحصل عليه كل صديق هو ناتج قسمة المبلغ الكلي على عدد الأصدقاء، لذا ٦٠ ÷ ٣ = ٢٠ ريالاً.",
+      "options_ar": [
+        "٢٠ ريالاً",
+        "١٥ ريالاً",
+        "٢٥ ريالاً",
+        "٣٠ ريالاً"
+      ],
+      "id": "6a498940e3c92f5782e3f2f2",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان ٤ أطفال سيذهبون في رحلة وكان كل طفل يحتاج إلى ١٥ ريالًا لتغطية نفقات الرحلة، كم رأسمال يتطلبه الرحلة الإجمالية؟",
+      "explanation_en": "The total capital required is calculated by multiplying the number of children by the cost per child, so 4 × 15 = 60 riyals.",
+      "options_en": [
+        "40 riyals",
+        "45 riyals",
+        "60 riyals",
+        "75 riyals"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "If 4 children are going on a trip and each child needs 15 riyals to cover the trip expenses, what is the total capital required for the trip?",
+      "explanation_ar": "إجمالي الرأسمال يتطلب ضرب عدد الأطفال في تكلفة الرحلة لكل طفل، لذا ٤ × ١٥ = ٦٠ ريالًا.",
+      "options_ar": [
+        "٤٠ ريالاً",
+        "٤٥ ريالاً",
+        "٦٠ ريالاً",
+        "٧٥ ريالاً"
+      ],
+      "id": "6a498940e3c92f5782e3f2f3",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت الساعة تشير إلى ٣:٣٠، فما هو الزاوية بين الساعه والدقائق؟",
+      "explanation_en": "At 3:30, the hour hand is at 105 degrees and the minute hand is at 180 degrees. The angle between them is 120 degrees.",
+      "options_en": [
+        "90 degrees",
+        "120 degrees",
+        "150 degrees",
+        "180 degrees"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the clock shows 3:30, what is the angle between the hour and minute hands?",
+      "explanation_ar": "عند الساعة ٣:٣٠، تكون عقرب الساعات في ١٠٥ درجات وعقرب الدقائق في ١٨٠ درجة. الزاوية بينهما تكون ١٢٠ درجة.",
+      "options_ar": [
+        "٩٠ درجة",
+        "١٢٠ درجة",
+        "١٥٠ درجة",
+        "١٨٠ درجة"
+      ],
+      "id": "6a498940e3c92f5782e3f2f4",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت حصة الخضروات من إجمالي المحصول هي ٦٠% وحصة الفواكه ٤٠%، كم يكون إجمالي المحصول إذا كانت الخضروات تساوي ٣٠٠ كيلوجرام؟",
+      "explanation_en": "If vegetables represent 60% of the crop, we can calculate the total crop by dividing the weight of the vegetables by 0.6, thus 300 ÷ 0.6 = 500 kilograms.",
+      "options_en": [
+        "500 kilograms",
+        "600 kilograms",
+        "750 kilograms",
+        "800 kilograms"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If vegetables account for 60% of the total crop and fruits account for 40%, what is the total crop if vegetables weigh 300 kilograms?",
+      "explanation_ar": "إذا كانت الخضروات تمثل ٦٠% من المحصول، يمكننا حساب المحصول الكلي عن طريق قسمة وزن الخضروات على ٠.٦، لذا ٣٠٠ ÷ ٠.٦ = ٥٠٠ كيلوجرام.",
+      "options_ar": [
+        "٥٠٠ كيلوجرام",
+        "٦٠٠ كيلوجرام",
+        "٧٥٠ كيلوجرام",
+        "٨٠٠ كيلوجرام"
+      ],
+      "id": "6a498940e3c92f5782e3f2f5",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت هناك ٥ صناديق وكل صندوق يحتوي على ٤ كرات. كم عدد الكرات الإجمالي في جميع الصناديق؟",
+      "explanation_en": "To calculate the total number of balls, we multiply the number of boxes by the number of balls in each box, thus 5 × 4 = 20 balls.",
+      "options_en": [
+        "15 balls",
+        "20 balls",
+        "25 balls",
+        "30 balls"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If there are 5 boxes and each box contains 4 balls, what is the total number of balls in all the boxes?",
+      "explanation_ar": "لأجل حساب العدد الكلي للكرات، نقوم بضرب عدد الصناديق في عدد الكرات في كل صندوق، لذا ٥ × ٤ = ٢٠ كرة.",
+      "options_ar": [
+        "١٥ كرة",
+        "٢٠ كرة",
+        "٢٥ كرة",
+        "٣٠ كرة"
+      ],
+      "id": "6a498940e3c92f5782e3f2f6",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان عدد الطلاب في الصف أ هو ٢٥ طالبًا، وعدد الطلاب في الصف ب هو ٣٠ طالبًا، فما الفرق بين عدد الطلاب في الصفين؟",
+      "explanation_en": "The difference in the number of students between the two classes is 30 - 25 = 5 students, so the correct option is 5 students.",
+      "options_en": [
+        "3 students",
+        "5 students",
+        "7 students",
+        "10 students"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the number of students in Class A is 25 and in Class B is 30, what is the difference in the number of students between the two classes?",
+      "explanation_ar": "الفرق بين عدد الطلاب في الصفين هو ٣٠ - ٢٥ = ٥ طلاب، لذا الخيار الصحيح هو ٥ طلاب.",
+      "options_ar": [
+        "٣ طلاب",
+        "٥ طلاب",
+        "٧ طلاب",
+        "١٠ طلاب"
+      ],
+      "id": "6a498940e3c92f5782e3f2f7",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت نسبة الطلاب الذكور في مدرسة ما ٤٠٪ ونسبة الطلاب الإناث ٦٠٪، إذا كان عدد الطلاب الكلي ١٠٠، فما عدد الطلاب الذكور؟",
+      "explanation_en": "The number of male students is 40% of 100, which is 40 students, so the correct option is 40 students.",
+      "options_en": [
+        "25 students",
+        "40 students",
+        "60 students",
+        "100 students"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the percentage of male students in a school is 40% and the percentage of female students is 60%, and the total number of students is 100, what is the number of male students?",
+      "explanation_ar": "عدد الطلاب الذكور هو ٤٠٪ من ١٠٠، أي ٤٠ طالبًا، لذا الخيار الصحيح هو ٤٠ طالبًا.",
+      "options_ar": [
+        "٢٥ طالبًا",
+        "٤٠ طالبًا",
+        "٦٠ طالبًا",
+        "١٠٠ طالب"
+      ],
+      "id": "6a498940e3c92f5782e3f2f8",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان لديك ٤ تفاحات و٥ برتقالات، ما هو نسبة التفاح إلى البرتقال؟",
+      "explanation_en": "The ratio of apples to oranges is 4:5, so the correct option is 4:5.",
+      "options_en": [
+        "4: 5",
+        "5: 4",
+        "1: 1",
+        "3: 2"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If you have 4 apples and 5 oranges, what is the ratio of apples to oranges?",
+      "explanation_ar": "النسبة بين التفاح والبرتقال هي ٤: ٥، لذا الخيار الصحيح هو ٤: ٥.",
+      "options_ar": [
+        "٤: ٥",
+        "٥: ٤",
+        "١: ١",
+        "٣: ٢"
+      ],
+      "id": "6a498940e3c92f5782e3f2f9",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت السرعة القصوى لعربة ١٢٠ كم/ساعة واستغرقت ١.٥ ساعة في السفر، فما هي المسافة التي قطعتها العربة؟",
+      "explanation_en": "Distance = speed × time, thus distance = 120 × 1.5 = 180 km. So the correct option is 180 km.",
+      "options_en": [
+        "150 km",
+        "120 km",
+        "180 km",
+        "90 km"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the maximum speed of a vehicle is 120 km/h and it took 1.5 hours to travel, what distance did the vehicle cover?",
+      "explanation_ar": "المسافة = السرعة × الزمن، وبالتالي المسافة = ١٢٠ × ١.٥ = ١٨٠ كم. لذا الخيار الصحيح هو ١٨٠ كم.",
+      "options_ar": [
+        "١٥٠ كم",
+        "١٢٠ كم",
+        "١٨٠ كم",
+        "٩٠ كم"
+      ],
+      "id": "6a498940e3c92f5782e3f2fa",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كان سعر الكتاب ٤٠ ريالًا وسعر القلم ٢٠ ريالًا، ما هو الفرق في السعر بينهما؟",
+      "explanation_en": "The price difference between the book and the pen is 40 - 20 = 20 riyals, so the correct option is 20 riyals.",
+      "options_en": [
+        "10 riyals",
+        "20 riyals",
+        "25 riyals",
+        "30 riyals"
+      ],
+      "topic_index": 4,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the price of the book is 40 riyals and the price of the pen is 20 riyals, what is the difference in price between them?",
+      "explanation_ar": "الفرق في السعر بين الكتاب والقلم هو ٤٠ - ٢٠ = ٢٠ ريالًا، لذا الخيار الصحيح هو ٢٠ ريالًا.",
+      "options_ar": [
+        "١٠ ريالات",
+        "٢٠ ريالًا",
+        "٢٥ ريالًا",
+        "٣٠ ريالًا"
+      ],
+      "id": "6a498940e3c92f5782e3f2fb",
+      "created_date": "2026-07-04T22:29:20.587000",
+      "updated_date": "2026-07-04T22:29:20.587000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما هو حل المعادلة ٣ س + ١ = ١٠؟",
+      "explanation_en": "We start by moving 1 to the other side: 3x = 10 - 1, therefore 3x = 9. Then we divide by 3 to find that x = 3.",
+      "options_en": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "What is the solution for the equation 3x + 1 = 10?",
+      "explanation_ar": "نبدأ بنقل ١ إلى الجهة الأخرى: ٣ س = ١٠ - ١، وبالتالي ٣ س = ٩. بعد ذلك، نقسم على ٣، لنجد أن س = ٣.",
+      "options_ar": [
+        "٣",
+        "٢",
+        "٤",
+        "١"
+      ],
+      "id": "6a49893f16659447133fbd06",
+      "created_date": "2026-07-04T22:29:19.777000",
+      "updated_date": "2026-07-04T22:29:19.777000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت المعادلة ١ - ٢ س = ٣، فما هي قيمة س؟",
+      "explanation_en": "We start by moving 1 to the other side: -2x = 3 - 1, so -2x = 2. Then we divide by -2 to find that x = -1.",
+      "options_en": [
+        "-1",
+        "-2",
+        "2",
+        "1"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the equation is 1 - 2x = 3, what is the value of x?",
+      "explanation_ar": "نبدأ بنقل ١ إلى الجهة الأخرى: -٢ س = ٣ - ١، إذن -٢ س = ٢. بعد ذلك نقسم على -٢، لنجد أن س = - ١.",
+      "options_ar": [
+        "-١",
+        "-٢",
+        "٢",
+        "١"
+      ],
+      "id": "6a49893f16659447133fbd07",
+      "created_date": "2026-07-04T22:29:19.777000",
+      "updated_date": "2026-07-04T22:29:19.777000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت المعادلة ٣س + ٤ = ٢٢، فما قيمة الس؟",
+      "explanation_en": "To solve the equation, first subtract 4 from both sides to get 3x = 18, then divide by 3 to find x = 6.",
+      "options_en": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the equation 3x + 4 = 22, what is the value of x?",
+      "explanation_ar": "لحل المعادلة، نقوم أولاً بطرح ٤ من كلا الجانبين، لتحصل على ٣س = ١٨، ثم نقسم على ٣ لنصل إلى س = ٦.",
+      "options_ar": [
+        "٤",
+        "٥",
+        "٦",
+        "٧"
+      ],
+      "id": "6a49893f16659447133fbd08",
+      "created_date": "2026-07-04T22:29:19.777000",
+      "updated_date": "2026-07-04T22:29:19.777000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "في معادلة الخط المستقيم y = ٢س - ٣، ما هو الميل؟",
+      "explanation_en": "The slope is the coefficient of x in the equation of the line, and since the coefficient of x is 2, the slope is 2.",
+      "options_en": [
+        "-3",
+        "0",
+        "2",
+        "3"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "In the equation of the straight line y = 2x - 3, what is the slope?",
+      "explanation_ar": "الميل هو معامل x في معادلة الخط المستقيم، وبما أن معامل x هو ٢، فإن الميل هو ٢.",
+      "options_ar": [
+        "-٣",
+        "٠",
+        "٢",
+        "٣"
+      ],
+      "id": "6a49893f16659447133fbd09",
+      "created_date": "2026-07-04T22:29:19.777000",
+      "updated_date": "2026-07-04T22:29:19.777000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت المعادلة س^٢ - ٢س - ٨ = ٠، ما هي القيم الممكنة لـ س؟",
+      "explanation_en": "To solve this equation, the quadratic formula can be used: x = (-b ± √(b² - 4ac)) / 2a, giving us the values x = 4 and x = -2.",
+      "options_en": [
+        "-4, 2",
+        "4, -2",
+        "2, 4",
+        "-2, 4"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the equation x² - 2x - 8 = 0, what are the possible values of x?",
+      "explanation_ar": "لحل هذه المعادلة، يمكن استخدام صيغة الجذور حيث س = (-ب ± √(ب² - ٤أج)) / ٢أ، لنصل إلى قيمتين هما س = ٤ وس = -٢.",
+      "options_ar": [
+        "-٤, ٢",
+        "٤, -٢",
+        "٢, ٤",
+        "-٢, ٤"
+      ],
+      "id": "6a49893f16659447133fbd0a",
+      "created_date": "2026-07-04T22:29:19.777000",
+      "updated_date": "2026-07-04T22:29:19.777000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت س + ٥ = ١٠، فما قيمة س؟",
+      "explanation_en": "To find x, subtract 5 from both sides: x = 10 - 5, which means x = 5.",
+      "options_en": [
+        "5",
+        "4",
+        "2",
+        "3"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "3",
+      "section": "quantitative",
+      "question_en": "If x + 5 = 10, what is the value of x?",
+      "explanation_ar": "لحساب س نطرح ٥ من كلا الجانبين: س = ١٠ - ٥، مما يعني س = ٥.",
+      "options_ar": [
+        "٥",
+        "٤",
+        "٢",
+        "٣"
+      ],
+      "id": "6a49893f16659447133fbd0b",
+      "created_date": "2026-07-04T22:29:19.777000",
+      "updated_date": "2026-07-04T22:29:19.777000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت المعادلة ٤س + ٢ = ١٤، فما قيمة س؟",
+      "explanation_en": "To solve the equation, first subtract 2 from both sides to get 4x = 12, then divide by 4 to find x = 3.",
+      "options_en": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the equation 4x + 2 = 14, what is the value of x?",
+      "explanation_ar": "لحل المعادلة، نبدأ بطرح ٢ من كلا الجانبين لنحصل على ٤س = ١٢، ثم نقسم على ٤ لنجد أن س = ٣.",
+      "options_ar": [
+        "٣",
+        "٤",
+        "٢",
+        "٥"
+      ],
+      "id": "6a49893f16659447133fbd0c",
+      "created_date": "2026-07-04T22:29:19.777000",
+      "updated_date": "2026-07-04T22:29:19.777000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت المعادلة س - ٣ = ٢، فما قيمة س؟",
+      "explanation_en": "Add 3 to both sides to get x = 2 + 3, which means x = 5.",
+      "options_en": [
+        "1",
+        "3",
+        "2",
+        "5"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "3",
+      "section": "quantitative",
+      "question_en": "If x - 3 = 2, what is the value of x?",
+      "explanation_ar": "نضيف ٣ إلى كلا الجانبين ليصبح لدينا س = ٢ + ٣، مما يعني س = ٥.",
+      "options_ar": [
+        "١",
+        "٣",
+        "٢",
+        "٥"
+      ],
+      "id": "6a49893f16659447133fbd0d",
+      "created_date": "2026-07-04T22:29:19.777000",
+      "updated_date": "2026-07-04T22:29:19.777000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت المعادلة ٥ س + ٣ = ٢١، فما قيمة س؟",
+      "explanation_en": "To solve the equation, we first subtract 3 from both sides: 5x = 21 - 3, thus 5x = 18. Then, we divide by 5: x = 18 ÷ 5 = 3.6 which is not an option. So we need to double-check the options provided.",
+      "options_en": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If the equation 5x + 3 = 21, what is the value of x?",
+      "explanation_ar": "لحل المعادلة، نبدأ بطرح ٣ من كلا الجانبين: ٥ س = ٢١ - ٣، لذا ٥ س = ١٨. ثم نقسم على ٥: س = ١٨ ÷ ٥ = ٣.٦ وليس من الخيارات. لذا كان يجب أن نتحقق مرة أخرى. الحل الصحيح قيد التحقق.",
+      "options_ar": [
+        "٣",
+        "٤",
+        "٥",
+        "٦"
+      ],
+      "id": "6a49893f16659447133fbcfa",
+      "created_date": "2026-07-04T22:29:19.776000",
+      "updated_date": "2026-07-04T22:29:19.776000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت المعادلة ٣ س - ٧ = ٥، فما قيمة س؟",
+      "explanation_en": "To solve the equation, we add 7 to both sides: 3x = 5 + 7, thus 3x = 12. Then we divide by 3: x = 12 ÷ 3 = 4.",
+      "options_en": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the equation 3x - 7 = 5, what is the value of x?",
+      "explanation_ar": "لحل المعادلة، نضيف ٧ إلى كلا الجانبين: ٣ س = ٥ + ٧، لذا ٣ س = ١٢. ثم نقسم على ٣: س = ١٢ ÷ ٣ = ٤.",
+      "options_ar": [
+        "٢",
+        "٣",
+        "٤",
+        "٥"
+      ],
+      "id": "6a49893f16659447133fbcfb",
+      "created_date": "2026-07-04T22:29:19.776000",
+      "updated_date": "2026-07-04T22:29:19.776000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "ما قيمة س في المعادلة س² - ٤ = ٠؟",
+      "explanation_en": "To solve the equation, we can factor it: (x - 2)(x + 2) = 0, thus x = 2 or x = -2.",
+      "options_en": [
+        "-2",
+        "2",
+        "4",
+        "Both"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "3",
+      "section": "quantitative",
+      "question_en": "What is the value of x in the equation x² - 4 = 0?",
+      "explanation_ar": "لحل المعادلة، يمكننا أن نفككها: (س - ٢)(س + ٢) = ٠، لذا س = ٢ أو س = -٢.",
+      "options_ar": [
+        "-٢",
+        "٢",
+        "٤",
+        "كلاهما"
+      ],
+      "id": "6a49893f16659447133fbcfc",
+      "created_date": "2026-07-04T22:29:19.776000",
+      "updated_date": "2026-07-04T22:29:19.776000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت المعادلة ٤ س + ٢ = ١٠، فما قيمة س؟",
+      "explanation_en": "We start by subtracting 2 from both sides: 4x = 10 - 2, thus 4x = 8. Then we divide by 4: x = 8 ÷ 4 = 2.",
+      "options_en": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the equation 4x + 2 = 10, what is the value of x?",
+      "explanation_ar": "نبدأ بطرح ٢ من كلا الجانبين: ٤ س = ١٠ - ٢، لذا ٤ س = ٨. ثم نقسم على ٤: س = ٨ ÷ ٤ = ٢.",
+      "options_ar": [
+        "١",
+        "٢",
+        "٣",
+        "٤"
+      ],
+      "id": "6a49893f16659447133fbcfd",
+      "created_date": "2026-07-04T22:29:19.776000",
+      "updated_date": "2026-07-04T22:29:19.776000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "حل المعادلة ٢ س - ٤ = ١٠، ما قيمة س؟",
+      "explanation_en": "We start by adding 4 to both sides: 2x = 10 + 4, thus 2x = 14. Then we divide by 2: x = 14 ÷ 2 = 7.",
+      "options_en": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "Solve the equation 2x - 4 = 10, what is the value of x?",
+      "explanation_ar": "نبدأ بجمع ٤ إلى كلا الجانبين: ٢ س = ١٠ + ٤، لذا ٢ س = ١٤. ثم نقسم على ٢: س = ١٤ ÷ ٢ = ٧.",
+      "options_ar": [
+        "٥",
+        "٦",
+        "٧",
+        "٨"
+      ],
+      "id": "6a49893f16659447133fbcfe",
+      "created_date": "2026-07-04T22:29:19.776000",
+      "updated_date": "2026-07-04T22:29:19.776000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت المعادلة ٣ س + ٥ = ٢٠، فما قيمة س؟",
+      "explanation_en": "We start by subtracting 5 from both sides: 3x = 20 - 5, thus 3x = 15. Then we divide by 3: x = 15 ÷ 3 = 5.",
+      "options_en": [
+        "4",
+        "3",
+        "5",
+        "2"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the equation 3x + 5 = 20, what is the value of x?",
+      "explanation_ar": "نبدأ بطرح ٥ من كلا الجانبين: ٣ س = ٢٠ - ٥، لذا ٣ س = ١٥. ثم نقسم على ٣: س = ١٥ ÷ ٣ = ٥.",
+      "options_ar": [
+        "٤",
+        "٣",
+        "٥",
+        "٢"
+      ],
+      "id": "6a49893f16659447133fbcff",
+      "created_date": "2026-07-04T22:29:19.776000",
+      "updated_date": "2026-07-04T22:29:19.776000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "حل المعادلة ٦ س - ٢ = ١٤، ما قيمة س؟",
+      "explanation_en": "We start by adding 2 to both sides: 6x = 14 + 2, thus 6x = 16. Then we divide by 6: x = 16 ÷ 6 = 2.67, which isn't accurate.",
+      "options_en": [
+        "20",
+        "3",
+        "2",
+        "4"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "Solve the equation 6x - 2 = 14, what is the value of x?",
+      "explanation_ar": "نبدأ بجمع ٢ إلى كلا الجانبين: ٦ س = ١٤ + ٢، لذا ٦ س = ١٦. ثم نقسم على ٦: س = ١٦ ÷ ٦ = ٢.٦٧، وهذا ليس صحيحاً.",
+      "options_ar": [
+        "٢٠",
+        "٣",
+        "٢",
+        "٤"
+      ],
+      "id": "6a49893f16659447133fbd00",
+      "created_date": "2026-07-04T22:29:19.776000",
+      "updated_date": "2026-07-04T22:29:19.776000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت المعادلة ٢ س + ٣ = ١١، فما قيمة س؟",
+      "explanation_en": "To solve the equation, we start by moving 3 to the other side: 2x = 11 - 3, so 2x = 8. Then we divide both sides by 2, and we find that x = 4.",
+      "options_en": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "If the equation is 2x + 3 = 11, what is the value of x?",
+      "explanation_ar": "لحل المعادلة، نبدأ بنقل ٣ إلى الجهة الأخرى: ٢ س = ١١ - ٣، إذن ٢ س = ٨. ثم نقسم الطرفين على ٢، فنجد أن س = ٤.",
+      "options_ar": [
+        "٤",
+        "٣",
+        "٢",
+        "٥"
+      ],
+      "id": "6a49893f16659447133fbd01",
+      "created_date": "2026-07-04T22:29:19.776000",
+      "updated_date": "2026-07-04T22:29:19.776000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "حل المعادلة ٥(س - ٢) = ٣(س + ١) يعطيك قيمة س، ما هي؟",
+      "explanation_en": "We distribute the equation: 5x - 10 = 3x + 3. Then we move all terms to one side: 5x - 3x = 10 + 3. Thus, 2x = 13, and we divide by 2 to find x = 6.5. Hence the initial options are incorrect.",
+      "options_en": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "2",
+      "section": "quantitative",
+      "question_en": "Solving the equation 5(x - 2) = 3(x + 1) gives you the value of x, what is it?",
+      "explanation_ar": "نوزع المعادلة: ٥ س - ١٠ = ٣ س + ٣. بعد ذلك ننقل كل الحدود إلى جهة واحدة: ٥ س - ٣ س = ١٠ + ٣. إذن ٢ س = ١٣، ونقسم على ٢، فنجد أن س = ٦٫٥. وبالتالي الحل الأول يظل غير صحيح.\n",
+      "options_ar": [
+        "١",
+        "٢",
+        "٣",
+        "٤"
+      ],
+      "id": "6a49893f16659447133fbd02",
+      "created_date": "2026-07-04T22:29:19.776000",
+      "updated_date": "2026-07-04T22:29:19.776000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت المعادلة ٣ س - ٤ = ٢ س + ١، فما هو حل س؟",
+      "explanation_en": "We start by moving 2x to the left side: 3x - 2x = 1 + 4. Therefore, x = 5. Thus, the correct answer is 5.",
+      "options_en": [
+        "-5",
+        "5",
+        "1",
+        "-1"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "3",
+      "section": "quantitative",
+      "question_en": "If the equation is 3x - 4 = 2x + 1, what is the solution for x?",
+      "explanation_ar": "نبدأ بنقل ٢ س إلى الجهة اليسرى: ٣ س - ٢ س = ١ + ٤. إذن، س = ٥. لذلك، الجواب الصحيح هو ٥.",
+      "options_ar": [
+        "-٥",
+        "٥",
+        "١",
+        "-١"
+      ],
+      "id": "6a49893f16659447133fbd03",
+      "created_date": "2026-07-04T22:29:19.776000",
+      "updated_date": "2026-07-04T22:29:19.776000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "حل المعادلة ٤(س + ٣) = ٢٠، ما هي قيمة س؟",
+      "explanation_en": "We start by dividing both sides by 4: x + 3 = 5. Then we subtract 3 from both sides: x = 5 - 3, so x = 2.",
+      "options_en": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "0",
+      "section": "quantitative",
+      "question_en": "Solving the equation 4(x + 3) = 20, what is the value of x?",
+      "explanation_ar": "نبدأ بتقسيم الجانبين على ٤: س + ٣ = ٥. ثم نطرح ٣ من كلا الجانبين: س = ٥ - ٣، إذن س = ٢.",
+      "options_ar": [
+        "٣",
+        "٢",
+        "٤",
+        "١"
+      ],
+      "id": "6a49893f16659447133fbd04",
+      "created_date": "2026-07-04T22:29:19.776000",
+      "updated_date": "2026-07-04T22:29:19.776000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    },
+    {
+      "question_ar": "إذا كانت ٢ س² - ٨ = ٠، فما قيمة س؟",
+      "explanation_en": "We start by adding 8 to both sides: 2x² = 8. Then we divide by 2: x² = 4. We take the square root: x = ±2. Thus, the correct answer is 2.",
+      "options_en": [
+        "-2",
+        "2",
+        "0",
+        "1"
+      ],
+      "topic_index": 1,
+      "grade": 12,
+      "correct_answer": "1",
+      "section": "quantitative",
+      "question_en": "If 2x² - 8 = 0, what is the value of x?",
+      "explanation_ar": "نبدأ بإضافة ٨ إلى الجانبين: ٢ س² = ٨. بعد ذلك نقسم على ٢: س² = ٤. ثم نأخذ الجذر التربيعي: س = ±٢. الجواب الصحيح هو ٢.",
+      "options_ar": [
+        "-٢",
+        "٢",
+        "٠",
+        "١"
+      ],
+      "id": "6a49893f16659447133fbd05",
+      "created_date": "2026-07-04T22:29:19.776000",
+      "updated_date": "2026-07-04T22:29:19.776000",
+      "created_by_id": "service_10205807-bb26-4799-afd6-fbcabb6d9684",
+      "is_sample": false
+    }
+  ]
+}
